@@ -7,7 +7,7 @@ title: TA CÓ THỂ NHÌN THẤU VẠN VẬT - Mục lục
     <h1 class="story-detail-title">TA CÓ THỂ NHÌN THẤU VẠN VẬT</h1>
     <div class="story-detail-meta">
         <div class="meta-item">
-            <span class="meta-value">313</span>
+            <span class="meta-value">348</span>
             <span class="meta-label">Chương</span>
         </div>
         <div class="meta-item">
@@ -338,11 +338,46 @@ title: TA CÓ THỂ NHÌN THẤU VẠN VẬT - Mục lục
     <a href="chuong_311.html" class="chapter-item" title="Chương 311: Đối chiến (2)">Chương 311: Đối chiến (2)</a>
     <a href="chuong_312.html" class="chapter-item" title="Chương 312: Thần hồn huyễn thuật">Chương 312: Thần hồn huyễn thuật</a>
     <a href="chuong_313.html" class="chapter-item" title="Chương 313: Thần hồn huyễn thuật (2)">Chương 313: Thần hồn huyễn thuật (2)</a>
+    <a href="chuong_314.html" class="chapter-item" title="Chương 314: Dị bảo">Chương 314: Dị bảo</a>
+    <a href="chuong_315.html" class="chapter-item" title="Chương 315: Đồng hành">Chương 315: Đồng hành</a>
+    <a href="chuong_316.html" class="chapter-item" title="Chương 316: Mỹ vị">Chương 316: Mỹ vị</a>
+    <a href="chuong_317.html" class="chapter-item" title="Chương 317: Mỹ vị (2)">Chương 317: Mỹ vị (2)</a>
+    <a href="chuong_318.html" class="chapter-item" title="Chương 318: Sơn tặc, đồ sát">Chương 318: Sơn tặc, đồ sát</a>
+    <a href="chuong_319.html" class="chapter-item" title="Chương 319: Sơn tặc, đồ sát (2)">Chương 319: Sơn tặc, đồ sát (2)</a>
+    <a href="chuong_320.html" class="chapter-item" title="Chương 320: Đại Nguy">Chương 320: Đại Nguy</a>
+    <a href="chuong_321.html" class="chapter-item" title="Chương 321: Đại nguy (2)">Chương 321: Đại nguy (2)</a>
+    <a href="chuong_322.html" class="chapter-item" title="Chương 322: Lưu Vân Tông">Chương 322: Lưu Vân Tông</a>
+    <a href="chuong_323.html" class="chapter-item" title="Chương 323: Miệng lưỡi sắc bén">Chương 323: Miệng lưỡi sắc bén</a>
+    <a href="chuong_324.html" class="chapter-item" title="Chương 324: Biến cố kinh thiên">Chương 324: Biến cố kinh thiên</a>
+    <a href="chuong_325.html" class="chapter-item" title="Chương 325: Biến cố kinh thiên (2)">Chương 325: Biến cố kinh thiên (2)</a>
+    <a href="chuong_326.html" class="chapter-item" title="Chương 326: Địa ngục nhân gian (1),Huyết Nhục Luyện Hồn Trận">Chương 326: Địa ngục nhân gian (1),Huyết Nhục Luyện Hồn Trận</a>
+    <a href="chuong_327.html" class="chapter-item" title="Chương 327: Địa ngục nhân gian (2)">Chương 327: Địa ngục nhân gian (2)</a>
+    <a href="chuong_328.html" class="chapter-item" title="Chương 328: Phá trận">Chương 328: Phá trận</a>
+    <a href="chuong_329.html" class="chapter-item" title="Chương 329: Phá trận (2)">Chương 329: Phá trận (2)</a>
+    <a href="chuong_330.html" class="chapter-item" title="Chương 330: Sát ý của Trần lão y">Chương 330: Sát ý của Trần lão y</a>
+    <a href="chuong_331.html" class="chapter-item" title="Chương 331: Sát Ý của trần Lão Y (2)">Chương 331: Sát Ý của trần Lão Y (2)</a>
+    <a href="chuong_332.html" class="chapter-item" title="Chương 332">Chương 332</a>
+    <a href="chuong_333.html" class="chapter-item" title="Chương 333">Chương 333</a>
+    <a href="chuong_334.html" class="chapter-item" title="Chương 334: Nghiền nát (1)">Chương 334: Nghiền nát (1)</a>
+    <a href="chuong_335.html" class="chapter-item" title="Chương 335: Nghiền nát (2)">Chương 335: Nghiền nát (2)</a>
+    <a href="chuong_336.html" class="chapter-item" title="Chương 336: Tâm người khó lường, Thánh Lệnh trở nên vô dụng">Chương 336: Tâm người khó lường, Thánh Lệnh trở nên vô dụng</a>
+    <a href="chuong_337.html" class="chapter-item" title="Chương 337: Tâm người khó lường, Thánh Lệnh trở nên vô dụng (2)">Chương 337: Tâm người khó lường, Thánh Lệnh trở nên vô dụng (2)</a>
+    <a href="chuong_338.html" class="chapter-item" title="Chương 338: Trừ ác">Chương 338: Trừ ác</a>
+    <a href="chuong_339.html" class="chapter-item" title="Chương 339: Kén máu">Chương 339: Kén máu</a>
+    <a href="chuong_340.html" class="chapter-item" title="Chương 340: Huyết Ma Thể">Chương 340: Huyết Ma Thể</a>
+    <a href="chuong_341.html" class="chapter-item" title="Chương 341: Huyết ma thể (2)">Chương 341: Huyết ma thể (2)</a>
+    <a href="chuong_342.html" class="chapter-item" title="Chương 342: Diệt môn, tìm bảo">Chương 342: Diệt môn, tìm bảo</a>
+    <a href="chuong_343.html" class="chapter-item" title="Chương 343: Diệt Môn, Tìm Bảo_2">Chương 343: Diệt Môn, Tìm Bảo_2</a>
+    <a href="chuong_344.html" class="chapter-item" title="Chương 344: Nhiều Bảo Vật Quá">Chương 344: Nhiều Bảo Vật Quá</a>
+    <a href="chuong_345.html" class="chapter-item" title="Chương 345: Thu hoạch lớn, lại lên đường">Chương 345: Thu hoạch lớn, lại lên đường</a>
+    <a href="chuong_346.html" class="chapter-item" title="Chương 346: Thu hoạch lớn, lại lên đường (2)">Chương 346: Thu hoạch lớn, lại lên đường (2)</a>
+    <a href="chuong_347.html" class="chapter-item" title="Chương 347: Đại Cơ Duyên">Chương 347: Đại Cơ Duyên</a>
+    <a href="chuong_348.html" class="chapter-item" title="Chương 348: Đại Cơ Duyên (2)">Chương 348: Đại Cơ Duyên (2)</a>
 </div>
 
 ---
 
 <div style="text-align: center; color: var(--meta-color); margin-top: 2rem;">
-    Truyện được cập nhật tự động. <br>
+    Chúc bạn đọc truyện vui vẻ! <br>
     Bản quyền thuộc về tác giả.
 </div>

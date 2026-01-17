@@ -750,6 +750,6 @@ title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A - M
 ---
 
 <div style="text-align: center; color: var(--meta-color); margin-top: 2rem;">
-    Truyện được cập nhật tự động. <br>
+    Chúc bạn đọc truyện vui vẻ! <br>
     Bản quyền thuộc về tác giả.
 </div>
