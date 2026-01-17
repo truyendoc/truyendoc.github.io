@@ -330,3 +330,214 @@ p {
     background-color: transparent;
     border-color: transparent;
 }
+
+/* --- PREMIUM UPGRADE --- */
+
+/* Action Bar & Search */
+.action-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.search-container {
+    position: relative;
+    flex-grow: 1;
+    max-width: 400px;
+}
+
+.search-input {
+    width: 100%;
+    padding: 12px 20px;
+    padding-left: 40px;
+    border-radius: 30px;
+    border: 1px solid var(--border-color);
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 10px rgba(52, 152, 219, 0.2);
+}
+
+.search-icon {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0.5;
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, var(--card-bg), var(--bg-color));
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background: linear-gradient(90deg, var(--accent-color), #2ecc71);
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+}
+
+.hero-label {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    color: var(--accent-color);
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.hero-title {
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    margin: 0.5rem 0 1rem;
+    background: linear-gradient(45deg, var(--text-color), var(--meta-color));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero-meta {
+    display: flex;
+    gap: 15px;
+    color: var(--meta-color);
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+}
+
+.btn-primary {
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: var(--accent-color);
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+    color: white;
+}
+
+/* Premium Card Styles */
+.story-card {
+    border-left: 4px solid transparent;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.story-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-left-color: var(--accent-color);
+}
+
+/* Story Detail Header (TOC Page) */
+.story-detail-header {
+    background-color: var(--card-bg);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border: 1px solid var(--border-color);
+    text-align: center;
+}
+
+.story-detail-title {
+    font-size: 2.2rem;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 1rem;
+    color: var(--heading-color);
+}
+
+.story-detail-meta {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+    color: var(--meta-color);
+}
+
+.meta-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.meta-value {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--accent-color);
+}
+
+.meta-label {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+/* Chapter Grid (TOC Page) */
+.chapter-controls {
+    margin-bottom: 1.5rem;
+}
+
+.chapter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+    margin-top: 1rem;
+}
+
+.chapter-item {
+    display: block;
+    padding: 10px 5px;
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    text-align: center;
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 0.9rem;
+    transition: all 0.2s;
+}
+
+.chapter-item:hover {
+    border-color: var(--accent-color);
+    background-color: var(--accent-color);
+    color: white;
+    transform: translateY(-2px);
+}
+
+.chapter-item:active {
+    transform: translateY(0);
+}
+
+.hidden {
+    display: none !important;
+}
