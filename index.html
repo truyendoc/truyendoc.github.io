@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Truyện Đọc - Danh Sách Truyện</title>
+    <style>
+        :root {
+            --bg-color: #1a1a1a;
+            --card-bg: #2d2d2d;
+            --text-color: #e0e0e0;
+            --accent-color: #3f51b5;
+            --hover-color: #536dfe;
+            --meta-color: #9e9e9e;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        .container {
+            max_width: 800px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #333;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: #fff;
+        }
+        
+        p.subtitle {
+            color: var(--meta-color);
+            font-size: 1.1rem;
+        }
+        
+        .story-list {
+            display: grid;
+            gap: 20px;
+        }
+        
+        .story-card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            padding: 20px;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            border: 1px solid #333;
+        }
+        
+        .story-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            border-color: var(--accent-color);
+        }
+        
+        .story-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin: 0 0 10px 0;
+            color: var(--accent-color);
+        }
+        
+        .story-card:hover .story-title {
+            color: var(--hover-color);
+        }
+        
+        .story-meta {
+            font-size: 0.9rem;
+            color: var(--meta-color);
+            display: flex;
+            justify_content: space-between;
+        }
+        
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            color: var(--meta-color);
+            font-size: 0.9rem;
+            border-top: 1px solid #333;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Truyện Đọc</h1>
+            <p class="subtitle">Kho truyện convert cập nhật tự động</p>
+        </header>
+        
+        <div class="story-list">
+            
+            <a href="vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/README.md" class="story-card">
+                <h2 class="story-title">VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A</h2>
+                <div class="story-meta">
+                    <span>Cập nhật: 2026-01-13 22:22</span>
+                </div>
+            </a>
+            
+            <a href="bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/README.md" class="story-card">
+                <h2 class="story-title">BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG</h2>
+                <div class="story-meta">
+                    <span>Cập nhật: 2026-01-13 21:18</span>
+                </div>
+            </a>
+            
+        </div>
+        
+        <footer>
+            <p>Generated at 2026-01-17 09:46:45</p>
+        </footer>
+    </div>
+</body>
+</html>
