@@ -1,0 +1,47 @@
+---
+layout: default
+title: Chương 804: Cận Kề Tử Vong
+chapter_number: 804
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: Lúc nào cũng có thể phá tan hai mét chín bình cảnh, đạt đến ba mét Thánh Vương Thánh Hồn khả năng. Hơn nữa, những cái Áo Nghĩa khó hiểu trước đây, Diệp Tử Ph...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 804: Cận Kề Tử Vong
+
+---
+
+Lúc nào cũng có thể phá tan hai mét chín bình cảnh, đạt đến ba mét Thánh Vương Thánh Hồn khả năng. Hơn nữa, những cái Áo Nghĩa khó hiểu trước đây, Diệp Tử Phàm bây giờ cũng khá là thông suốt.
+Chỉ là đạt được những cái thành quả kia, chín đạo Thiên Đạo Linh Vân của chín tên kia cũng đã bị hắn xài hết sạch sẽ, chỉ còn lại một đạo duy nhất Thiên Đạo Linh Vân cũng là lớn nhất một đạo của hắn kia. Sử dụng Thiên Đạo Linh Vân này như thế nào, đứng trước mặt của hắn đây có hai con đường, thứ nhất đem đạo này Linh Vân luyện hóa vào Hư Giới để cho nó có thể mở rộng đến tận cùng Hóa Thần Hư Giới có thể đạt được đến, cùng Bá Thể thêm cường đại kiên cố, thứ hai là đem nó dùng vào tăng trưởng Nguyên Thần, làm cho Nguyên Thần của hắn đạt đến ba mét, như vậy Nguyên Thần của hắn là sẽ có thể nhập Thánh Cảnh.
+Con đường thứ nhất có vẽ là dễ dàng một, đóa này Thiên Đạo Linh Vân của hắn tuyệt đối là có thể đưa Hư Giới Không Gian của hắn đi đến tuyệt đỉnh, còn con đường thứ hai kia khá gian nan, Nguyên Thần nhập Thánh, mặc dù là bây giờ Nguyên Thần của hắn đã quá ngưng thực rồi, thế nhưng mà có thể đột phá Thánh Vương Thánh Hồn hay không, hắn cũng không có nắm chắc lắm.
+"Tu Luyện Giả vốn là nghịch thiên mà đi, bất kỳ chuyện gì cũng muốn thuận buồm mát mái, như vậy khi gặp thử thách khó khăn, như thế nào có thể vượt qua cho được. Không có một cổ liều mạng chi khí, không thể nào làm nên đại sự gì được! " Nhắm mắt lại suy nghĩ một hồi lâu, Diệp Tử Phàm bỗng nhiên mở mắt ra, tràn đầy kiên định chi ý.
+Diệp Tử Phàm là đã quyết định, dùng cái đạo Thiên Đạo Linh Vân của mình vào cái con đường thứ hai, đó là Nguyên Thần nhập Thánh, hắn là đã suy nghĩ khá lâu mới đưa ra cái quyết định như thế, thứ nhất phải kể đến chính là con đường thứ nhất rất là lãng phí, hắn Bá Thể hiện nay đã đạt AXooY đến Ngũ Trọng tuyệt đỉnh không thể nào tiến thêm được nữa, Hư Giới Không Gian tuy là quan trọng, nhưng có thể dùng Cực Phẩm Linh Mạch những Thiên Tài Địa Bảo khác để mà tăng lên, dùng Thiên Đạo Linh Vân vào việc tăng lên Hư Giới có chút lãng phí chính là như thế. Phải biết rằng Thiên Đạo Linh Vân này không phải bình thường như tài nguyên khác, có được đến nó là không hề dễ dàng, cần phải dùng vào mục tiêu quan trọng nhất. Nguyên Thần Nhập Thánh, đây là cái hắn còn thiếu nhất, cũng là muốn đạt đến nhất hiện nay.
+Thời gian qua hắn thôn phệ đi không biết bao nhiêu là Ma Tộc cùng Thiên Tài Địa Bảo, những cái đó tuy không thể làm cho Nguyên Thần của hắn đột phá ba mét, thế nhưng mà lại làm cho Nguyên Thần của hắn vô cùng ngưng thực, đặt biệt là sau khi nuốt chín đạo Thiên Đạo Linh Vân kia, nó ẩn ẩn có đột phá xu thế.
+Trước đây vì là hạn chế bởi tu vi, cho nên hắn dù là làm thế nào Nguyên Thần của hắn cũng không thể nhập Thánh được, Đại Hắc tên kia đã nói, lên đến Thánh Cấp, Nguyên Thần là không thể vượt lên bản thân của mình tu vi quá một đại cảnh giới, hắn bây giờ không phải là Thông Thần cảnh, mà là Hóa Thần cảnh, đã là đạt đến yêu cầu về cái tu vi cảnh giới này rồi.
+Tổng hợp những cái yếu tố kia, hắn là có bốn năm thành nắm chắc đưa Nguyên Thần của mình Nhập Thánh, cộng thêm Thiên Đạo Linh Vân khổng lồ này của hắn nữa, có thể tăng thêm ba thành nữa, như vậy xác xuất mà hắn đột phá được Thánh Vương Thánh Hồn lên đến tám thành.
+Tu Luyện Giả khác đừng nói là tám thành, chỉ cần có ba bốn thành hy vọng đột phá đại cảnh giới, bọn họ cũng là liều mạng muốn đạt được đến, trong khi hắn có đến tám thành nắm chắc, lại không dám đi liều mạng một lần, như thế thì còn tu luyện cái gì, thôi thì nên nghĩ đường hồi phàm nhân giới làm một tên nhà giàu phú ông sống qua ngày đi là hơn.
+"Hỗn Độn Bá Thần Quyết! Cho ta luyện!”
+“ Ầm ầm!!! Ầm ầm!!! "
+Diệp Tử Phàm cũng không phải là không quyết đoán hạng người, khi đã quyết định rồi, như thế hắn không có một tia chần chừ gì nữa, lập tức hành động, Hỗn Độn Bá Thần Quyết vận chuyển, Hỗn Động tái xuất kèm theo một tia Pháp Tắc Chi Lực, đem Thiên Đạo Linh Vân cho cuốn vào bên trong Tử Phủ Không Gian, đi đến Nguyên Thần của mình, trong nháy mắt có thể thấy được, cả vạn km Linh Vân đang là lấy tốc độ chóng mặt giảm đi, từng tia Thanh Sắc Linh Quang là nhanh chóng dung nhập vào hai mét chín Nguyên Thần của Diệp Tử Phàm, Nguyên Thần của hắn đã lâu không có tăng trưởng, liền là nhanh chóng tăng lên, rất là có khả năng trong một tích tắc đạt đến ba mét xu thế.
+"Ầm ầm!!! A...A...A....! Tại sao lại như thế? "
+Diệp Tử Phàm đang là ngồi xếp bằng, bỗng nhiên trong lúc này một tiếng nổ lớn từ bên trong Tử Phủ Không Gian vang lên, tiếp theo đó, hắn ôm đầu kêu là thảm thiết, thân thể là thất khiếu xuất huyết, trong nháy mắt liền là ướt đẫm một phương thiên địa. Thôn Phệ Hỗn Động cũng là vì cái hành động kia của hắn mà tan vỡ, dĩ nhiên Thiên Đạo Linh Vân trên kia cũng là theo đó bị gián đoạn rồi.
+"Xong rồi! Xong rồi! Như thế nào có thể như vậy?" Diệp Tử Phàm gương mặt chứa đầy tuyệt vọng lên tiếng nói.
+Hắn là nhớ rõ, Nguyên Thần của mình sau khi Thôn Phệ Thiên Đạo Linh Vân không lâu liền đạt đến ba mét, nghĩa là đã đạt đến được Thánh Vương Thánh Hồn cấp độ, chỉ là khi hắn còn đang nghĩ mình đã đại công cáo thành, thì bị biến lại xảy ra, Nguyên Thần của hắn lên đúng ba mét liền lập tức nổ tung, kèm theo đó là Tử Phủ Không Gian cũng theo đó phá diệt.
+Diệp Tử Phàm hiện tại không thể nào không tuyệt vọng, như tất cả đều biết, Tử Phủ Không Gian cùng Nguyên Thần là bộ phận quan trọng nhất của Tu Luyện Giả, như nó bị hủy diệt mà nói, như vậy cho dù là Chân Thần hiện thế cũng là không có giúp đỡ được cho ngươi, ngươi là nắm chắc một con đường chết trong tay, hắn hiện tại cũng là như vậy, không có bất kỳ biện pháp nào có thể xoay chuyển được tình thế.
+"An Nam! Thật sự xin lỗi, ta là không thể nào giữ đúng lời hứa của mình! "Trong cái giây phút tuyệt vọng này, không hiểu như thế nào, người mà hắn nhớ đến đầu tiên lại là Lâm An Nam, người con gái mà hắn đã gặp qua tại Thiên Hoang Đại Lục kia, dung nhan của nàng, nụ cười của nàng, ánh mắt của nàng, như thế nào hắn cũng không thể nào quên nỗi.
+"Không đúng! Ta vẫn còn chưa chết! " Diệp Tử Phàm mở hai mắt ra, có chứa đầy thần quan tinh khí nói.
+Diệp Tử Phàm là đã nhớ ra, như hắn Nguyên Thần cùng Tử Phủ Không Gian mẫn diệt mà nói, hắn sẽ là không thể nào suy nghĩ được cái gì nữa mà lập tức chết đi, đằng này tuy là đau đớn cùng cực, nhưng mà ý thức của hắn lại vô cùng thanh minh, hơn nửa còn có thể vận chuyển được Nguyên Lực bên trong cơ thể, điều này chứng tỏ hắn vẫn là còn chưa đến mức sơn cùng thủy tận nông nỗi.
+
+Một ông trùm khi trở về quá khứ làm vua, trong cảnh dầu sôi lửa bỏng, đất nước nguy nan, sẽ phải làm sao? Mời đọc #Nhất Thống Thiên Hạ Nhất Thống Thiên Hạ
+
+---
+
+**Thông tin chương:**
+- Số chương: 804
+- Thời gian cập nhật: 2026-01-17 11:03:39
+
+<div class="chapter-nav">
+    <a href="chuong_803.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_805.html" class="nav-btn">Chương sau →</a>
+</div>

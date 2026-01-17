@@ -1,0 +1,50 @@
+---
+layout: default
+title: Chương 724: Hắc Trảo Thánh Vương
+chapter_number: 724
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: \"Như ngươi đã nói xong rồi, như vậy thì chịu chết đi!\"
+\"Ầm ầm!!! Ầm ầm!!! Ầm ầm!!! \"
+Diệp Tử Phàm cũng không có giải thích gì nhiều với lại cái tên Ba Đốn Tắ...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 724: Hắc Trảo Thánh Vương
+
+---
+
+"Như ngươi đã nói xong rồi, như vậy thì chịu chết đi!"
+"Ầm ầm!!! Ầm ầm!!! Ầm ầm!!! "
+Diệp Tử Phàm cũng không có giải thích gì nhiều với lại cái tên Ba Đốn Tắc này, một trảo xuất ra, đem vài trăm vạn km ma thể của Ba Đốn Tắc bắt lại, với hắn mà nói, thân thể lực lượng phòng ngự của hắn hiện tại đã đạt đến năm tòa Thế Giới Chi Lực, như muốn phá được phòng ngự của hắn, chí ít cũng phải có sáu tòa Thế Giới Chi Lực trở lên, đó là chưa tính đến hai tòa Thế Giới Chi Lực khí Đạo tu vi xuất ra làm hộ tráo, như hắn sử dụng toàn bộ thực lực, không có tám tòa Thế Giới Chi Lực lực lượng là đừng nghĩ có thể phá được phòng ngự của hắn.
+Thực ra tên Ba Đốn Tắc này cũng không phải là không có cơ hội rời đi, sau khi một kích đầu tiên không thành, như hắn nhanh chân chạy trốn, vẫn còn có một tia hy vọng thoát thân. Hắn tuy có lực lượng phòng ngự kinh khủng, nhưng khí Đạo tu vi của hắn chỉ có hai tòa Thế Giới Chi Lực mà thôi, Ba Đốn Tắc muốn rời đi, chỉ cần hy sinh một chút thủ đoạn vẫn là có thể, chỉ là tên này quá mức cố chấp, một hai phải cùng hắn hơn thua đủ mới được, cho nên mới rơi vào hoàn cảnh như ngày hôm nay mà thôi.
+"Ngươi vì sao lại không có giúp đỡ hắn?" Đem cái tên Ba Đốn Tắc đưa vào bên trong Luyện Thần Đỉnh không gian, Diệp Tử Phàm sau khi đưa Tuyết Mạn Lâm từ Động Thiên Không Gian của mình ra, nhìn cách đó không xa Thư Nhã Nguyệt Vân đang xem kịch vui đằng kia cất tiếng hỏi.
+Nhìn Thư Nhã Nguyệt Vân này, hắn bây giờ đã hiểu ra vì sao Ba Đốn Tắc cho dù biết đánh không lại hắn, thế nhưng mà vẫn một hai không muốn quay đầu bỏ chạy, đây là hắn sợ mình chạy trốn sẽ làm mất đi hình tượng trước mắt của mỹ nhân đây mà.
+Với lại theo như hắn nghĩ, Ba Đốn Tắc tên kia không chạy trốn một nguyên nhân quan trọng nữa đó là vì y nghĩ là cho dù mình có bại trận đi chăng nữa cái cô Thư Nhã Nguyệt Vân này cũng sẽ ra tay cứu giúp hắn, Thánh Vương hậu duệ cùng với lại Thánh Cung Thiên Kiêu, song trọng thân phận kia nói trong tay nàng ta không có một vài bảo vật phòng thân, nói ra ai cũng sẽ không có tin tưởng. Ba Đốn Tắc vì biết cái nguyên nhân này, khi bị hắn bắt vào Luyện Thần Đỉnh đã nhìn Thư Nhã Nguyệt Vân với một cái ánh mắt cầu cứu, chỉ đáng tiếc là Ba Đốn Tắc niềm tin đã đặt nhầm chỗ, Thư Nhã Nguyệt Vân người con gái này không hề có ý định ra tay giúp đỡ ý tứ, làm cho tên này yên lặng không một tiếng động rơi vào trong tay của hắn.
+"Giúp đỡ cho hắn, tại sao ta lại phải giúp đỡ cho hắn chứ?" Thư Nhã Nguyệt Vân đi đến gần cách Diệp Tử Phàm cùng Tuyết Mạn Lâm một trăm trượng sau đó thì dừng lại hỏi.
+"Ha ha ha...Thư Nhã Thánh Nữ, ngươi là nói không sai, ngươi không có lý do gì để mà giúp đỡ cho hắn cả!" Diệp Tử Phàm nghe Thư Nhã Nguyệt Vân hỏi lại như vậy, cũng là cất tiếng cười lớn nói.
+Vô tình vô nghĩa, hắn chính là gắn cho cái cô Thư Nhã Thánh Nữ này, theo hắn suy đoán Ba Đốn Tắc tên này là ái mộ Thư Nhã Nguyệt Vân này rất là sâu đậm, vì nàng ta mà ngay cả Ba Đốn gia tộc lâm vào diệt vong mà hắn cũng có thể bỏ mặc không quan tâm, chỉ là đáp lại Thư Nhã Nguyệt Vân chỉ xem Ba Đốn Tắc như là một người hầu, một tên nô tài, có cũng được mà không có cũng không sao, người vô tình như thế, tại Tu Luyện Giới này là tiến xa nhất, nhưng mà hắn cũng là không thích nhất chính là hạng người này.
+"Vị Thánh Nhân này! Không biết ngài cao danh quý tính, ta là Thư Nhã Nguyệt Vân, Thánh Nữ của Ám Huyết Thánh Cung! " Thư Nhã Nguyệt Vân đối với lại Diệp Tử Phàm nở một nụ cười thật tươi, hỏi thăm tên tuổi sau đó là tự giới thiệu tên tuổi của mình, chỉ là trong lời nói có một tia xa cách.
+Tên Ma Tộc Ngụy Thánh thanh niên này bên trong tiếng cười có chứa sự miệt thị đối với nàng trong đó, như thế nào nàng lại không có nhận ra được kia chứ, chỉ là nàng cũng không có ý thâm giao gì với lại tên này, cho nên không quan tâm mà thôi.
+Cái này là đương nhiên rồi, nàng là Thiên Chi Kiêu Nữ, là Thánh Nữ của Ám Huyết Thánh Cung, tương lai của nàng là phải chứng đạo thành Thánh, thành tựu vĩnh hằng Thánh Vương Chi Cảnh, trong khi tên Ngụy Thánh trước mắt này, tuy Thể Đạo có một chút thành tựu, nhưng dù sao cũng chỉ là tiểu đạo, với lại hắn đã luyện hóa Pháp Tắc Thánh Liên thành Ngụy Thánh, đời này kiếp này mãi mãi chỉ có thể dừng lại tại Ngụy Thánh cảnh giới này, như gặp phải Thánh Vương cường giả một đầu ngón tay cũng đủ nghiền chết tên này vô số lần, đối với những người không có tương lai mà nói, nàng là không có ý thâm giao.
+"Thư Nhã Thánh Nữ, thật là xin lỗi, ta xưa nay không có báo tên tuổi cho người không có quen biết, yêu cầu này của cô, thứ ta không thể trả lời! " Diệp Tử Phàm cũng lạnh lùng nói, một con nha đầu miệng còn hôi sữa, tu vi lại chưa có đến đâu, lại lên giọng khinh thường người khác, người như vậy hắn là căm ghét nhất, như không phải sau lưng cô ta là một tôn Thánh Vương cường giả, hắn đã đưa con nha đầu này lên đường từ lâu rồi.
+Trước đây hắn có cái ý nghĩ nhận con nha đầu này về làm nha hoàn, giờ đây nghĩ lại, hắn có chút hối hận vì cái ý nghĩ kia của mình.
+"Ngươi!! " Thư Nhã Nguyệt Vân chỉ tay vào Diệp Tử Phàm, nàng ta giận tím mặt nói.
+Cái tên Ma Tộc Ngụy Thánh trước mắt này thật sự là quá đáng giận, cho dù có không thích nàng đi chăng nữa thì ngay cả phong độ tối thiểu của một vị Ma Tộc hắn vẫn phải có chứ, nàng đã hạ thân phận của mình xuống để hỏi tên họ của hắn đó là phúc đức ba đời nhà hắn tích tụ lại, như thế mà tên này còn làm cao, chỉ là một tên Ngụy Thánh mà thôi, có cái gì mà đáng lên mặt kia chứ.
+"Vị này Ma Tộc Thánh Nhân! Ngài là muốn vào bên trong Thánh Vương Bí Cảnh kia tìm kiếm Hắc Trảo Thánh Vương truyền thừa hay là sao? Nhưng mà theo ta được biết, Hắc Trảo Thánh Vương chỉ còn để lại một bộ Luyện Thể Công Pháp, ngài đây đã có một môn cường đại Luyện Thể Công Pháp như thế kia, cần gì phải vào bên trong đó mạo hiểm! "
+Giận quy giận, nhưng mà nàng cũng biết mình bây giờ thực lực không có khả năng làm đối thủ của tên Ma Tộc thanh niên này, chỉ tạm thời lấy lui làm tiến, hạ mình một lần, chỉ cần lấy được thứ mình cần bên trong kia, rồi hẳn tính sau, chờ sau khi rời khỏi nơi đây, nàng sẽ cho hắn biết hậu quả khi IVVrET đắc tội với lại Thư Nhã Nguyệt Vân nàng là như thế nào.
+"Khoan đã! Ngươi vừa nói vị Thánh Vương chết tại nơi này có tên là Hắc Trảo Thánh Vương mà không phải là Hắc Long Thánh Vương hay là sao?" Đang định nhất chân tiến vào Thánh Vương Động Phủ này, Diệp Tử Phàm bỗng nhiên là dừng lại bước chân, nhìn về phía Thư Nhã Nguyệt Vân lên tiếng hỏi.
+Thư Nhã Nguyệt Vân nhắc đến Hắc Trảo Thánh Vương cái tên này, hắn đã nhớ lại mình đã từng nghe nói qua, hơn một năm trước cái tên Hỏa Thiên Xa vì là cầu xin hắn tha mạng cho nên từng nhắc đến Bạch Hỏa Thánh Vương Động Phủ, tình cờ có nói đến cái tên này, truyền rằng hai trăm ức năm trước Thánh Vực có hai tôn rất là cường đại Thánh Vương cường giả, một người tên gọi là Bạch Hỏa Thánh Vương, người kia là Hắc Trảo Thánh Vương, chỉ vì hai người kia có thù oán cho nên đã xảy ra một trận đại chiến kéo dài thời gian khá lâu, kết quả là cả hai đều là lưỡng bại câu thương kết cục.
+
+Một ông trùm khi trở về quá khứ làm vua, trong cảnh dầu sôi lửa bỏng, đất nước nguy nan, sẽ phải làm sao? Mời đọc #Nhất Thống Thiên Hạ Nhất Thống Thiên Hạ
+
+---
+
+**Thông tin chương:**
+- Số chương: 724
+- Thời gian cập nhật: 2026-01-17 11:00:19
+
+<div class="chapter-nav">
+    <a href="chuong_723.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_725.html" class="nav-btn">Chương sau →</a>
+</div>

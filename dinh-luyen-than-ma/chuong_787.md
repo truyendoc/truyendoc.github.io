@@ -1,0 +1,51 @@
+---
+layout: default
+title: Chương 787: Cảnh Giác Cao
+chapter_number: 787
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: Dương Đình Quân dập đầu van xin thảm thiết, thế nhưng trong lòng của hắn lại âm thầm oán hận nghĩ. Sự thù hận của hắn với lại Diệp Tuyết Văn kia đã đi sâu và...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 787: Cảnh Giác Cao
+
+---
+
+Dương Đình Quân dập đầu van xin thảm thiết, thế nhưng trong lòng của hắn lại âm thầm oán hận nghĩ. Sự thù hận của hắn với lại Diệp Tuyết Văn kia đã đi sâu vào tận xương tủy, như đã thành tâm ma của hắn, đừng nói con nha đầu giống Diệp Tuyết Văn kia là Thánh Thể Giả, cho dù cô ta có là Thánh Vương cường giả đi chăng nữa, như hắn có cơ hội, vẫn sẽ diệt nàng ta như thường. Dương Đình Quân trong mắt lóe lên một tia cừu hận nghĩ.
+"Đứng lên đi! Chuyện này ta tạm thời bỏ qua cho ngươi, công việc mà đại ca giao cho Dương gia các ngươi làm, đã có cái kết quả gì chưa?" Vì là Dương Đình Quân cúi đầu xuống, Dương Thiên Hải cũng không có để ý ánh mắt oán hận của Dương Đình Quân, hắn là phất tay để cho Dương Đình Quân đứng lên, sau đó hỏi.
+Dương Thiên Hải là biết đến, sau cái chuyện này, quan hệ giữa Dương gia bọn họ với cái vị Diệp Thánh Nữ một hệ bên kia là như nước sông với nước biển, không thể hòa hợp, có đem Dương Đình Quân sát đi chăng nữa, cũng là không được cái tích sự gì, huống hồ Dương gia của hắn luôn có truyền thống 4Jv8m tự bênh vực người mình, hắn vì chuyện này tuy cực hận Dương Đình Quân đám người dưới này, thế nhưng sẽ không ra tay sát đi người của mình, quan trọng hơn, Dương gia bọn họ cũng có Thánh Nữ, còn là Thánh Vương môn hạ, sau này ai hơn ai còn không có biết đâu.
+Cái Dương Thiên Hải hắn quan tâm hiện nay là Bạch Hỏa Thánh Vương Động Phủ, cùng với lại Thánh Thai Quả Thụ, thứ mà hơn một năm trước bọn họ muốn chiếm lấy nhất, như bây giờ tìm được cái Thánh Thai Quả Thụ này, Dương gia bọn họ là không cần phải kiên kỵ một con nha đầu Diệp Tiểu Nha kia nữa, hắn cũng có thể ngẩn cao đầu hồi lại Thánh Vực.
+"Hồi lão Tổ Tông! Đến bây giờ, chúng ta vẫn là còn chưa có tin tức! " Dù là rất không muốn, nhưng mà Dương Đình Quân vẫn là theo đúng sự thật bẩm báo.
+Dương gia bọn họ vì chuyện này đã huy động đến chín mươi phần trăm thực lực đến Cổ Ma Đại Lục, nhân số đã lên đến gần một trăm vị Đạo Thể Chí Tôn cường giả, Linh Thể cùng Phàm Thể Hóa Thần thì lại không dưới một ngàn, nhưng mà đến bây giờ, thú thật là bọn họ còn chưa tìm ra được cái Bạch Hỏa Thánh Vương Động Phủ kia tại nơi nào.
+"Lão Tổ Tông, nhưng mà ngài có thể an tâm, không bao lâu nữa, chúng ta sẽ tìm ra được cái Bạch Hỏa Thánh Vương Động Phủ kia mà thôi!" Nhìn thấy Dương Thiên Hải có ý thật vọng cực độ trên gương mặt, Dương Đình Quân là nhanh chóng nói.
+Dương Đình Quân nói như vậy, không phải là không có cơ sở, mà rất là nắm chắc phần thắng trong tay, niềm tin của hắn là đặt vào Hắc Tùng, cùng Bạch Trúc, hai người nổi tiếng với lại danh xưng Hắc Bạch Thần Bộ kia. Hắc Tùng đã từng khoe khoang với hắn, chỉ cần kết hợp với lại Bạch Trúc, Hạ Giới Tinh Vực này không có cái gì mà hai người bọn họ không thể điều tra ra cả, thời gian qua hắn là nhìn ra được tài năng của Hắc Tùng là tài năng cũng như thực lực của tên kia là như thế nào, như có thêm một tên Bạch Trúc kia nửa, có lẽ tìm ra Bạch Hỏa Thánh Vương Động Phủ là không có khó khăn gì lắm.
+"Haiz... Chuyện này đến đây thôi, ngươi hãy nói với lại những người Dương gia bên kia, lui về Thiên Nhược Đại Lục này đi!" Cho dù là có lời bảo đảm của Dương Đình Quân, chỉ là Dương Thiên Hải là lắc đầu thở dài, để cho Dương Đình Quân thông báo cho những người Dương gia bên Cổ Ma Đại Lục kia trở lại.
+"Lão... Tổ Tông! Ý của ngài là chúng ta không có tìm Thánh Thai Quả Thụ nửa hay là sao?" Dương Đình Quân là có chút không tin tưởng hỏi lại.
+Thánh Thai Quả Thụ, theo như hắn biết bất kỳ một cái tòa Thánh Cung nào cũng muốn có nó a, đây là bảo vật có thể ngay lập tức làm cho Đạo Thể Giả thuế biến thành Thánh Thể Giả, một cái thiên tài địa bảo cực kỳ quan trọng như thế, vì cái nguyên nhân nào mà vị Lão Tổ Tông này lại không có muốn, Dương Đình Quân rất là không hiểu.
+Hơn nữa, hắn còn cần cái loại Thánh Thai Quả này để thành Thánh Thể Giả, cùng lên Thánh Vực tìm con nha đầu Diệp Tiểu Nha kia tín sổ a, bây giờ vị Lão Tổ Tông này nói không muốn, hắn phải làm sao?
+Một câu bỏ cuộc của vị Lão Tổ Tông này, không những chặt đứt tham vọng lên Thánh Vực tìm Diệp Tiểu Nha trả thù của hắn, mà nó trãm luôn con đường hồi Thượng Giới Dương gia của toàn bộ Dương gia bọn họ, hắn có thể tưởng tượng ra đến, khi tin tức này được truyền ra, phụ thân của hắn cùng tất cả Trưởng Lão sẽ suy sụp như thế nào.
+"Không cần phải nói nhiều, cứ làm theo ý của ta đi!" Dương Thiên Hải phất tay, đối với lại Dương Đình Quân nói.
+Dương Thiên Hải sao lại không muốn có cái loại Thánh Thai Quả Thụ kia được, không chỉ hắn, người của Triều Tịch Thánh Cung cũng là muốn sở hữu được nó. Thế nhưng mà bây giờ mọi chuyện đã có biến đổi, tin tức về Thánh Thai Quả Thụ tại Cổ Ma Đại Lục không chỉ là Triều Tịch Thánh Cung biết mà nó lan truyền rộng rãi ra bên ngoài, những cái kia Thánh Cung khác cũng đã cho người xuống Cổ Ma Đại Lục tìm kiếm Bạch Hỏa Thánh Vương Động Phủ, cường đại nhất mấy cái Thất Tinh Thánh Cung của Ma Tộc cũng là chen chân đi vào.
+Bây giờ Cổ Ma Đại Lục đã trở thành một cái hỗn loạn chiến trường, mà ở nơi đó, những cái cường đại Thánh Cung đang đánh cờ, so với lại những cái kia cường đại Ma Tộc Thánh Cung, Triều Tịch Thánh Cung bọn họ chỉ là một cái tiểu thế lực, không lên được mặt bàn, như bị cuốn vào nơi đó, chỉ có một kết cục là tan xương nát thịt khả năng. Không còn cách nào khác, người của Triều Tịch Thánh Cung phái xuống Cổ Ma Đại Lục sau khi tổn thất vô số, cũng đã hồi lại Thánh Cung.
+Triều Tịch Thánh Cung còn là như thế, huống gì là một cái Lục Tinh Thế Lực nho nhỏ như Dương gia Hạ Giới này, như còn không chịu rời đi ngay lúc này, là không còn cơ hội để mà trở về.
+‘Chỉ trách các ngươi không biết nắm lấy thời cơ!’ Vì lợi thế có thể đi thông Cổ Ma Đại Lục gần nhất, Dương gia Thượng Giới sau khi biết tin tức của Bạch Hỏa Thánh Vương Động Phủ tại Cổ Ma Đại Lục đã thông báo cho Dương gia bên dưới này, chỉ là đáng tiếc, bên dưới này lại không thể tận dụng được cơ hội, giờ này có nói gì cũng đã quá muộn rồi. Đương nhiên, những chuyện này cấp bậc là quá cao, hắn cũng sẽ không có nói cho Dương Đình Quân biết, tên này biết cũng không có làm được gì.
+"Vâng! Lão Tổ Tông! " Dù là có muôn ngàn không cam lòng, thế nhưng mà Dương Thiên Hải đã nói như thế, hắn cũng không thể làm gì, đây là ý của Thượng Giới gia tộc, bọn hắn chỉ có thể nghe lệnh hành sự.
+Đúng lúc này...
+"Ầm ầm!!! Ầm ầm!!! Ầm ầm!!! "
+“ Ân! Là ai to gan dám đến nơi này dương oai!"
+Dương Thiên Hải còn chưa có nguôi ngoai cái tiếc nuối vì Dương gia dưới này không thể tận dụng được thời cơ, đúng lúc này trong lòng của hắn nguy hiểm cảm giác bỗng nhiên máy động, không cần nghĩ nhiều hắn liền làm ra hành động, một chưởng toàn lực đánh lên thương khung, bản thân của mình cũng là hiện ra Ngụy Thánh Thể, chín trăm vạn km khổng lồ thân thể đối với lại không gian xung quanh quát lớn.
+Hai tòa Thế Giới Chi Lực, tên vừa rồi xuất thủ lực lượng lên đến hai tòa Thế Giới Chi Lực, nghĩ lại mà sợ, vừa rồi không phải tính cảnh giác của hắn cao mà nói, đã bị chôn vùi bên trong cái Thành Chủ Phủ của Dương gia kia rồi, tên vừa rồi xuất thủ là một tôn Ngụy Thánh cường giả, hơn nữa còn là một tôn có Thần Thông Ngụy Thánh cường giả, cái này không thể làm cho hắn không cẩn trọng ứng phó.
+
+Một ông trùm khi trở về quá khứ làm vua, trong cảnh dầu sôi lửa bỏng, đất nước nguy nan, sẽ phải làm sao? Mời đọc #Nhất Thống Thiên Hạ Nhất Thống Thiên Hạ
+
+---
+
+**Thông tin chương:**
+- Số chương: 787
+- Thời gian cập nhật: 2026-01-17 11:03:07
+
+<div class="chapter-nav">
+    <a href="chuong_786.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_788.html" class="nav-btn">Chương sau →</a>
+</div>

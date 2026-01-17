@@ -1,0 +1,53 @@
+---
+layout: default
+title: Chương 708: Hàng Hoặc Tử
+chapter_number: 708
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: Cho nên đa phần là tập trung vào nhất cử nhất động của Tuyết Mạn Sát mà ít chú ý đến đám Đạo Thể Ma Tôn vô dụng kia, chỉ đến khi đám người kia đánh đến tận c...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 708: Hàng Hoặc Tử
+
+---
+
+Cho nên đa phần là tập trung vào nhất cử nhất động của Tuyết Mạn Sát mà ít chú ý đến đám Đạo Thể Ma Tôn vô dụng kia, chỉ đến khi đám người kia đánh đến tận cửa, khi đó hối hận thì cũng đã muộn, tất cả thế lực cường giả số thì đã bị sát, số còn lại liền là phải bị đánh cấm chế phải đi đào khoáng.
+Rất ít người chạy trốn để nói ra cái sự thật này, cộng với việc một cổ thế lực vô cùng to lớn trong bóng tối che trời lấp đất tuyên truyền, tin tức về Chiến Trận kinh khủng kia cũng đã bị che giấu, rất nhiều người đều là nghĩ đến Tuyết Mạn gia tộc có được như ngày hôm nay hoàn toàn là do Tuyết Mạn Sát cùng Tuyết Mạn Lâm hai tên Ngụy Thánh cường giả, mà không hề biết được nguyên nhân chân chính là vì cái Chiến Trận quỷ dị kia.
+Có thể nói, Tuyết Mạn gia tộc nhanh chóng công chiếm được Tây Địa Khu toàn cảnh như thế, công lao rất lớn một phần chính là nhờ vào thế lực đã âm thầm truyền ra những cái tin tức giả.
+Suy đi nghĩ lại, hắn biết được tại Tây Địa Khu này trừ Ba Đốn gia tộc có một tổ chức tình báo cùng tuyên truyền thuộc vào hàng đệ nhất Tây Địa Khu mới có khả năng làm được cái chuyện giấu trời qua biển này, hắn nên nghĩ ra sớm mới phải.
+"Âm Thánh Nhân! Cho dù tin tức này là do Ba Đốn gia tộc truyền ra, cái này thì có liên quan gì..! "Nói được một nửa, Nhã Lôi Hư liền im lặng trở lại.
+Hắn dường như cũng đã tìm ra được chìa khóa của vấn đề. Ba Đốn gia tộc rải ra tin tức, hắn cũng có nghe nói đến, chẳng qua khi đó hắn nghĩ Ba Đốn gia tộc nhiều khi tình báo cũng có sai lầm hoặc là không tận mắt chứng kiến, cho nên mới đưa ra lập luận như thế.
+Giờ đây nghĩ lại, mọi chuyện dường như không phải là như thế. Ba Đốn gia tộc dường như muốn đánh lạc hướng dư luận chú ý, đem tất cả công lao tập trung vào Tuyết Mạn Sát, bỏ qua đi cái Chiến Trận kinh khủng kia, không phải là bọn họ muốn bỏ qua lợi hại của Chiến Trận, mà dường như là muốn che giấu nó lại.
+Vì cái nguyên nhân gì mà bọn họ phải làm như thế, hắn có thể suy nghĩ ra hai khả năng, thứ nhất là vì Ba Đốn gia tộc muốn mượn tay của Tuyết Mạn gia tộc đem Tây Địa Khu nhét vào trong túi, thứ hai có thể là bọn họ muốn đánh chủ ý lên cái Chiến Trận kia, muốn chiếm chúng làm của riêng, cho nên mới phong tỏa tin tức.
+Theo hắn thấy khả năng thứ hai là cao hơn, Ba Đốn gia tộc là đến từ Thượng Giới Thánh Vực, xuống Hạ Giới Tinh Vực Linh Ma Đại Lục này chẳng qua là vì muốn trong đệ tử xuất sinh tại nơi đây có được Thánh Thể Giả, hơn một chút là Pháp Tắc Thánh Liên.
+Đối với lại tài nguyên của Tây Địa Khu hay là cả Linh Ma Đại Lục bọn chúng có lẽ là không cần thiết. Chính vì cái nguyên nhân này, cho nên Ba Đốn Yên mới không cho phép bọn họ rời đi đến Vô Tích Địa Vực cầu cứu.
+Vì như vậy, tin tức về cái Chiến Trận nghịch thiên kia của Tuyết Mạn gia tộc sẽ không còn được che giấu nữa. Những cái cường đại thế lực của Vô Tích Địa Vực sau khi biết được tin tức này như là cá mập ngửi được mùi máu tanh, sẽ là thi nhau chạy đến Tây Địa Khu này cùng Ba Đốn gia tộc phân một chén canh, không chừng còn dẫn dụ ra Thánh Cung Trấn Thủ Giả chân chính của Linh Ma Đại Lục này là Nhân Uyên Linh Thánh Nhân cũng sẽ ra tay tranh đoạt. Đến khi đó, Ba Đốn gia tộc ở giữa tâm bão, e là sẽ bị xé tan thành mảnh nhỏ.
+Ba Đốn gia tộc tuy tại Linh Ma Đại Lục cũng như Thánh Cung cũng có một số thực lực, nhưng mà nếu đem so với lại những cái cổ lão thế lực kia là còn kém xa, đó là chưa tính đến Thánh Cung, như Thánh Cung ra mặt, cho dù Ba Đốn gia tộc có bản jWiy6 lĩnh bằng trời, cũng phải là giao ra Chiến Trận, không chừng còn bị diệt tộc khả năng.
+"Các ngươi đã nghĩ ra được, như vậy ta cũng không cần phải giải thích nhiều, Ba Đốn gia tộc chúng ta chính là vì cái Chiến Trận kia, cho nên các ngươi là hãy nhanh chóng ra quyết định đi!" Nhìn thần sắc như đã hiểu được mọi chuyện của ba người Đế Tây Âm, Ba Đốn Yên biết bọn họ đã là nắm được mấu chốt của vấn đề, cũng không cần hắn phải giải thích cái gì nhiều nữa.
+Hai tháng trước sau khi đã thu thập được mọi tin tức liên quan đến Tuyết Mạn gia tộc, năm người bọn họ cũng là kinh chấn hồi lâu, Tiểu Chu Thiên Tinh Đấu Chiến Trận mà Tuyết Mạn gia tộc có trong tay, theo như ước tính của bọn họ có thể phát huy ra tối đa ba tòa Thế Giới Chi Lực.
+Ba tòa Thế Giới Chi Lực có thể trấn sát bất kỳ một vị Ngụy Thánh trung kỳ tiểu thành có trong tay một môn Thất Giai Thần Thông trở xuống rồi, nên nhớ đám người kia cũng chỉ là tổ hợp của những tên Đạo Thể Ma Tôn cảnh giới mà thôi.
+Theo như hắn tính Đạo Thể Ma Tôn cho dù có nhiều hơn gấp mấy chục lần đi chăng nữa, cũng rất khó sát được Thánh Thể Ma Tôn Chí Cường Giả, đừng nói đến chuyện sát Ngụy Thánh.
+Nhưng mà đám người kia lại có thể dùng Đạo Thể Ma Tôn nghịch thiên sát Ngụy Thánh, quy công lao chính là vì cái Tiểu Chu Thiên Tinh Đấu Chiến Trận kia, như Ba Đốn gia tộc bọn họ có được Chiến Trận này, chỉ cần tập trung được Thánh Thể Ma Tôn cường giả thành lập Chiến Trận, như vậy thế gian này trừ Thánh Vương cường giả ra, Ba Đốn gia tộc bọn họ chính là thiên hạ vô địch rồi.
+Cám dỗ lớn như thế, đương nhiên là bọn họ phải đem cái Chiến Trận kia nhét vào trong túi mới an tâm, chỉ là đang khi đệ nhất cường giả của bọn họ là Ba Đốn Tắc muốn ra tay đem đám người Tuyết Mạn gia tộc trấn áp rồi lấy đi Tiểu Chu Thiên Tinh Đấu Chiến Trận, thì lại có bất ngờ xảy ra, Thư Nhã Nguyệt Vân đúng lúc này tìm đến, dẫn đi Ba Đốn Tắc, làm cho cái kế hoạch chiếm lấy Chiến Trận của bọn họ phải tạm thời ngừng lại.
+Vì là không cho người bên ngoài Tây Địa Khu biết đến cái Chiến Trận kia, hắn đã làm vô số thủ đoạn, tung tin đồn chế tạo ra Tuyết Mạn Sát là Ngụy Thánh cường giả là một ví dụ. Thế nhưng mà tính toán cho lắm cũng có sai sót, vài ngày trước đây Ba Đốn Nan đột nhiên xuất quan, không hiểu đầu đuôi câu chuyện, lại nghe lời của ba người này gièm pha, liền là đi tìm Tuyết Mạn gia tộc tính sổ, kết quả là một đi không trở lại, đây cũng là tổn thất lớn nhất đối với lại Ba Đốn gia tộc bọn họ từ khi đặt chân đến Linh Ma Đại Lục này đến nay.
+"Yên Thánh Nhân! Ngài là Ngụy Thánh trung kỳ tiểu thành cường giả, lại có trong tay Cấm Khí Cấp Thấp kia, như vậy tại sao không có đi tìm Tuyết Mạn gia tộc người để mà lấy Chiến Trận, vì sao lại để cho bọn chúng hoành hành đến bây giờ? " Đế Tây Âm bình tĩnh lên tiếng hỏi.
+Hắn biết ba người bọn họ biết nhiều chuyện của Ba Đốn gia tộc như thế, Ba Đốn Yên là tuyệt đối sẽ không để cho bọn họ rời khỏi nơi này, có nóng vội cũng là không được ích lợi gì, cho nên nêu ra nghi hoặc trong lòng của mình, như có thể kéo dài thêm được một chút thời gian, có khi Cố Không Thánh Phù này hết thời gian sử dụng, bọn hắn có thể rời khỏi nơi đây được cũng nên.
+"Ầm ầm! "
+"Không cần cùng ta dùng chiêu thức này, ba người lập tức nhanh chóng trả lời cho ta, các ngươi là hàng hay là tử?" Ba Đốn Yên khí thế bạo phát, ép về ba người Đế Tây Âm, sát khí lành lạnh nói.
+Ba tên này trong lòng đang đánh cái bàn tính gì, hắn sao có thể không biết được kia chứ, làm sao hắn có thể để cho đám người này được như ý nguyện.
+Thật sự ra mà nói, hắn không có trả lời Đế Tây Âm một phần là vì biết bọn họ cố tình muốn kéo dài thời gian, một phần là vì hắn không muốn trả lời cái vấn đề này, vì sao với tu vi Ngụy Thánh trung kỳ tiểu thành như hắn lại không có đi tìm Tuyết Mạn gia tộc lấy Tiểu Chu Thiên Tinh Đấu Chiến Trận, đơn giản là vì hắn trong lòng không có niềm tin chiến thắng cho lắm.
+Cấm Khí Đoán Thiên Đao có thể phát huy ra được ba tòa Thế Giới Chi Lực, cộng thêm hắn sử dụng Thần Thông có thêm hai tòa Thế Giới Chi Lực nữa.
+
+Truyện tu đạo, hệ thống cảnh giới khác biệt, main phải len qua khe hẹp tìm cách sống sót. NVP không não tàn. Mong được ủng hộ Nhất Kiếp Tiên Phàm
+
+---
+
+**Thông tin chương:**
+- Số chương: 708
+- Thời gian cập nhật: 2026-01-17 10:59:47
+
+<div class="chapter-nav">
+    <a href="chuong_707.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_709.html" class="nav-btn">Chương sau →</a>
+</div>

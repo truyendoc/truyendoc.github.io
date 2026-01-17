@@ -1,0 +1,60 @@
+---
+layout: default
+title: Chương 694: Hắn Đã Đến
+chapter_number: 694
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: \"Bệ Hạ! Đây chính là Ma Tộc Lãnh Địa a, ngài hãy ra tay, nếu như không Ma Tộc chúng ta đều sẽ bị cái tên Nhân Tộc kia đuổi tận giết tuyệt, hắn sắp đánh lên T...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 694: Hắn Đã Đến
+
+---
+
+"Bệ Hạ! Đây chính là Ma Tộc Lãnh Địa a, ngài hãy ra tay, nếu như không Ma Tộc chúng ta đều sẽ bị cái tên Nhân Tộc kia đuổi tận giết tuyệt, hắn sắp đánh lên Thiên Hồn Sơn đến nơi rồi! "
+"Không sai! Bệ Hạ, hiện tại Âm Cốt Sơn Mạch này đâu đâu cũng là có người của tên Nhân Tộc kia, Ma Tộc chúng ta không có một chút hy vọng gì sinh tồn nữa rồi, cầu xin ngài ra tay....! "
+Những cái này Đạo Thể Ma Tôn cường giả, nhìn thấy Ngụy Thánh Nghiệt Minh đã ngưng lại nụ cười, cúi cái đầu còn lớn hơn cả một viên tiểu tinh thần xuống nhìn bọn họ, tất cả đều là lên tiếng cầu cứu.
+Diệp Tử Phàm vị kia có đánh đến Thiên Hồn Sơn này hay là không, trong bọn họ kể cả Tuyết Mạn Lâm bên trong là không có ai biết, nhưng cái này cũng không cấm làm cho bọn họ thêm mắm dặm muối, dù sao, tại khắp nơi Âm Cốt Sơn Mạch này, đâu đâu cũng là nhìn thấy người của Diệp Tử Phàm đang đào khoáng tìm kiếm Thiên Tài Địa Bảo, vị này Bệ Hạ chỉ cần điều tra một cái liền là sẽ biết được mà thôi, bọn họ cũng không có bao nhiêu nói dối.
+Quan trọng bây giờ là phải nói ra bên ngoài càng thê lương cành tốt, Ma Tộc không còn một người nào có thể sinh tồn dưới sự tàn độc của tên Diệp Tử Phàm kia lại càng hay, có như vậy vị này Ngụy Thánh Bệ Hạ mới có thể cảm thấy mình là có lỗi khá lớn vì đã không thể bảo toàn được cho Đông Châu an toàn, sẽ là ra sức đi tìm cái tên Diệp Tử Phàm kia tính sổ, diệt sát đi tên kia cho bọn họ hả lòng hả dạ, như vậy mới là tốt nhất.
+"Tất cả đứng lên đi! Những cái này ta đã biết! " Nghiệt Minh phất tay để cho đám này Đạo Thể Ma Tôn đứng lên, dùng giọng ồm ồm nói.
+Hắn tuy là bế quan vài vạn năm nay, thế nhưng mà không phải đối với chuyện đang xảy ra tại Đông Châu này hắn không có biết cái gì cả, mỗi một vị Ngụy Thánh từ trên Thánh Cung xuống bên qxO6p dưới sẽ là thừa hưởng lại mạng lưới tình báo mà tiền nhiệm để lại, mạng lưới này cũng là không kém cho Tuyết Mạn gia tộc bao nhiêu, cho nên nói, Diệp Tử Phàm hoành hành tại Đông Châu này mấy tháng thời gian gần đây, làm ra những động tĩnh gì hắn là có biết đến.
+Nhất là khi biết được tại bên kia Tốn Ma Vực có Ngụy Thánh khí tức xuất hiện, hắn là đã cho người điều tra khá kỹ, biết được tin cái Ngụy Thánh khí tức kia không phải là của một tên Ma Tộc mà là do một tên Nhân Tộc, nói thật hắn là có ý định ngay lập tức đi tìm cái tên Nhân Tộc kia xóa bỏ, chỉ là vận khí của tên kia khá tốt, đúng cái lúc hắn đột phá Ngụy Thánh trung kỳ tiểu thành đến khẩn yếu quan đầu, cho nên mới để cho tên kia tiêu dao đến bây giờ mà thôi.
+Như không mà nói, hắn đã xuất thủ đưa tên Diệp Tử Phàm kia hồi Minh Giới từ lâu. Thế nhưng bây giờ vẫn còn chưa có muộn lắm, tin tức mà hắn nhận được, Diệp Tử Phàm tên kia vẫn còn đang tiêu dao tại Tuyết Mạn Thành bên kia, không hề có ý định rời đi, giống như ngày nào chưa đem những cái kia vô dụng Lục Giai Linh Tài tại Âm Cốt Sơn Mạch cho khai thác hết, hắn là không chịu rời đi một dạng.
+Đây cũng là cơ hội của hắn, hắn hiện tại đã là đại công cáo thành, cũng là đến lúc đi tìm Diệp Tử Phàm tên kia tính sổ thời điểm. Cũng là khá may mắn cho hắn, thời gian qua người của Thánh Cung bên koa Nam Châu không có đến Đông Châu này tuần tra, như không mà nói, bọn họ phát hiện tình cảnh kham ưu của Đông Châu hiện nay, hắn là không thể nào trốn tránh được trách nhiệm, bị đưa về Thánh Cung chịu tội là điều không thể nào tránh khỏi.
+"Bệ Hạ! Không biết khi nào ngài sẽ đi tìm cái tên Diệp Tử Phàm kia tính sổ! " Tuyết Mạn Lâm nhìn Ngụy Thánh Nghiệt Minh một cái, thấy hắn như còn đang chìm đắm vào cảnh giới vừa mới đột phá mà vui mừng, cho nên bạo gan tiến đến gần hỏi một câu.
+Với hắn mà nói hiện tại, mong muốn lớn nhất là cái vị Ngụy Thánh này đi tìm cái tên Diệp Tử Phàm kia diệt sát, có như vậy hắn mới có thể thu hồi lại được đến cái kiện Ma Tộc Cấm Khí Truy Hồn Kiếm, đi vào Tàng Bảo Điện lấy Thánh Tinh của hắn, những chuyện khác là không có quan trọng lắm, hắn cũng là hy vọng cái tên Diệp Tử Phàm kia không có phát hiện ra Truy Hồn Kiếm kia chính là chìa khóa để mà đi vào Tàng Bảo Điện, nếu như không, chuyện này liền có phiền phức rất lớn.
+Hắn biết đến, như Thánh Tinh rơi vào trong tay của Diệp Tử Phàm mà nói, như vậy cho dù tên kia có bị Ngụy Thánh Nghiệt Minh trấn áp, những cái kia Thánh Tinh liền sẽ rơi vào trong tay của Nghiệt Minh, như vậy hắn có bản lĩnh bằng trời, cũng không thể nào từ trong tay Ngụy Thánh Nghiệt Minh lấy lại Thánh Tinh cho được.
+...
+Khá là đáng thương cho Tuyết Mạn Lâm, có lẽ hắn ở tại Thiên Hồn Sơn này quá lâu, không đi ra bên ngoài tìm hiểu tin tức, nếu như không, hắn liền là sẽ biết được, Tàng Bảo Điện của Tuyết Mạn gia tộc bọn họ đã bị Diệp Tử Phàm một quyền chấn nát từ lâu, bên trong Tàng Bảo Điện đừng nói là Thánh Tinh, ngay cả một viên bình thường nhất Lục Giai Linh Tài cũng là không còn.
+...
+"Không cần thiết phải đi tìm! Hắn đã đến đây rồi! " Nghiệt Minh nhìn lên thương khung một cái phương hướng, sau đó lắc đầu đối với lại Tuyết Mạn Lâm nói.
+"Bệ Hạ... Ý của ngài là?" Lời của Nghiệt Minh nói ra, không chỉ là Tuyết Mạn Lâm, mà mấy trăm tên Đạo Thể Ma Tôn nơi này cũng là giật mình thon thót, tất cả đều tập trung lại gần bên chân của Nghiệt Minh, cẩn thận đề phòng khắp nơi.
+Như lời của Nghiệt Minh Bệ Hạ này nói, như vậy cái tôn Nhân Tộc Ngụy Thánh Diệp Tử Phàm kia là đã đến nơi đây từ lâu rồi, chỉ là còn không có hiện thân, với lại bản lĩnh của bọn họ cũng không có phát ra được mà thôi!
+Sự thật nếu là vậy, không phải nói những lời mà bọn họ nói về Diệp Tử Phàm tên kia vừa rồi đã bị hắn nghe cả rồi hay là sao? Nghĩ như thế, trong lòng bọn họ không khỏi có chút ớn lạnh.
+Tuy là bên ngoài bọn họ tận lực bôi đen, sỉ nhục Diệp Tử Phàm kia, nói y là Nhân Tộc hèn mọn, diệt sát sạch sẽ Ma Tộc bọn họ đại loại, nhưng mà trong lòng bọn họ đều biết khá nhiều là bịa đặt bên trong, vị kia Diệp Tử Phàm tuy có xâm chiếm Ma Tộc bọn họ thật, nhưng mà tên kia chỉ là tham lam cầu tài, chỉ sát những tên không có nghe lời, còn lại đại đa số vẫn là sống được yên ổn, chỉ là bắt buộc mọi người phải đi đào khoáng mà thôi.
+Hơn nửa, những Ma Tộc Cấp Thấp như Ma Soái trở xuống, vị kia Diệp Tử Phàm là không có sát hại bất kỳ một ai, vẫn là để cho những người đó tiêu dao tự tại, so với Ma Tộc bọn họ hở một chút là phá thành diệt tộc, một đứa con nít cũng không có để lại, như vậy vị này Nhân Tộc Ngụy Thánh còn tốt đẹp hơn bọn họ gấp cả trăm lần.
+Một người 'khá tốt' như thế, bọn hắn bây giờ lại đem Diệp Tử Phàm nói thành một tên đại ma vương không việc ác nào mà không làm, rơi vào trong tai của y, như vậy tất cả bọn họ không phải sẽ...
+"Diệp Thánh Nhân! Như ngươi đã đến, sao còn không hiện thân gặp mặt! " Cũng không có trả lời câu hỏi của đám Đạo Thể Ma Tôn kia, Nghiệt Minh vẫn là chăm chú nhìn về phương hướng vừa rồi, sắc mặt khá là ngưng trọng nói.
+"Ầm ầm!!! "
+"Ha ha ha....Không hổ là Ngụy Thánh cường giả! Ta đã ẩn tốt như thế mà ngươi vẫn có thể nhận ra được, thật sự là bội phục! "
+Không gian trên không Thiên Hồn Sơn nổ tung kịch liệt, từ thương khung xuất hiện, Diệp Tử Phàm đối với lại Ngụy Thánh Nghiệt Minh này cười lớn nói.
+Sau khi cười xong, hắn không cấm cẩn thận đánh giá cái tôn Ngụy Thánh cường giả mà mình đầu tiên gặp phải này một chút.
+Ân, bốn trăm vạn km Ngụy Thánh Thể chiều cao, Nguyên Lực bên trong cuồn cuộn không ngừng, nhưng mà vẫn là Nguyên Lực chứ chưa có thuế biến thành Thánh Lực , Hư Giới bên trong đã chuyển hóa thành một cái từng thứ cao hơn cấp độ, đây có lẽ chính là Ngụy Giới rồi.
+Ngụy Giới này rộng lớn cùng vững chắc hơn Hư Giới không biết bao nhiêu lần mà tính, nó như là một tòa Thế Giới chân chính vậy, nhưng mà dù sao nó cũng không phải là chân chính Thế Giới, nó còn thiếu đi một loại vị đạo, đó là Pháp Tắc Chi Lực vị đạo.
+Cho nên cái Ngụy Giới kia cũng chỉ mãi mãi là Ngụy Giới, mà không thể chân chính lột xác thành chân chính Thế Giới. Đây chính là khác biệt lớn nhất giữa Ngụy Thánh cùng Thánh Vương.
+"Ngụy Thánh trung kỳ tiểu thành cảnh giới? " Diệp Tử Phàm quan sát Nghiệt Minh, hắn sao lại không có tỉ mỉ điều tra cẩn thận Diệp Tử Phàm là thực lực như thế nào!
+Chỉ là sau một lúc, hắn ánh mắt co rúm lại, chỉ thốt ra được một câu kia mà thôi. Nguyên nhân chính là cho dù hắn có làm như thế nào, cũng không thể tìm hiểu được tu vi chân chính của Diệp Tử Phàm, xung quanh Diệp Tử Phàm như là bao phủ một lớp sương mù dày đặc, cho dù hắn có làm gì cũng không xuyên phá được cái lớp sương mù kia, hắn nói Diệp Tử Phàm là Ngụy Thánh trung kỳ thực lực, kia chẳng qua là vì Diệp Tử Phàm hiện ra Ngụy Thánh Thể cao đến bốn trăm vạn km, không thua kém gì hắn mà thôi.
+
+Truyện tu đạo, hệ thống cảnh giới khác biệt, main phải len qua khe hẹp tìm cách sống sót. NVP không não tàn. Mong được ủng hộ Nhất Kiếp Tiên Phàm
+
+---
+
+**Thông tin chương:**
+- Số chương: 694
+- Thời gian cập nhật: 2026-01-17 10:59:18
+
+<div class="chapter-nav">
+    <a href="chuong_693.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_695.html" class="nav-btn">Chương sau →</a>
+</div>

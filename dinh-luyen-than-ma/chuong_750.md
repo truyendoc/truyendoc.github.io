@@ -1,0 +1,53 @@
+---
+layout: default
+title: Chương 750: Cản Đường
+chapter_number: 750
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: \"Haiz.. Hai người hỏi ta cũng vô ích, ta cũng đã từng hỏi qua phụ thân, nhưng mà vẫn không được cái gì!\" Ôn Chính Văn là thở dài một tiếng nói.
+Hắn đâu chỉ l...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 750: Cản Đường
+
+---
+
+"Haiz.. Hai người hỏi ta cũng vô ích, ta cũng đã từng hỏi qua phụ thân, nhưng mà vẫn không được cái gì!" Ôn Chính Văn là thở dài một tiếng nói.
+Hắn đâu chỉ là không hỏi thăm được cái gì thôi đâu, mà còn vì cái chuyện này bị phụ thân hắn trách phạt một tháng thời gian không được ra khỏi cửa, đối với cái cô gái này,hắn rất là bất mãn.
+Chỉ là bất mãn quy bất mãn, hắn không có dám xuống bên dưới tìm cô gái này tìm phiền phức. Hắn nhớ rất rõ, sau khi mình bị phạt xong, trong lòng không thoải mái muốn tìm cái cô gái này tính sổ, nhưng mà hắn rất nhanh đã nhận được một lời cảnh báo, lời cảnh báo làm cho hắn lạnh cả sống lưng. Như hắn dám tiến vào Thanh Nhã Động Phủ một bước, hắn ngay lập tức phải chết, người khác cảnh cáo hắn như vậy hắn chỉ là khịt mũi coi thường, nhưng mà người này hắn lại không dám làm trái, vì hắn biết người kia là ai, Thần Viện Hóa Thần Trưởng Lão một trong Minh Thành Tử.
+Minh Thành Tử đã theo phụ thân hắn như hình với bóng, đây cũng là lời mà phụ thân hắn nhắn nhủ lại cho hắn, như vẫn còn khư khư cố chấp, hắn biết mình sẽ chết rất khó xem, cho nên hắn cũng như bao nhiêu người khác, là từ bỏ đi cái ý nghĩ tìm Diệp Thanh Nhi tính sổ. Nhưng mà cũng không có vì như thế mà hắn bỏ qua cho Diệp Thanh Nhi, hắn vẫn luôn chú ý đến Diệp Thanh Nhi cô gái này nhất cử nhất động, hắn là biết đến, phụ thân của hắn chưa bao giờ là đối xử với hắn như vậy cả, cũng như chưa bao giờ đặc biệt quan tâm đến một tên Hạch Tâm Đệ Tử nào đến nỗi phái cả một tôn Hóa Thần Chí Tôn Cường Giả đi theo bảo hộ, bên trong đó chắc chắn phải ẩn dấu một cái kinh thiên bí mật mà hắn còn không biết, vì vậy hắn mới thường xuyên xuất hiện tại Thanh Nhã Động Phủ trên không, còn hai người bên cạnh hắn, khả năng rất lớn cũng chỉ là vì hiếu kỳ mà thôi.
+"Hai người nhìn xem, bên dưới có người lạ bên cạnh Diệp Thanh Nhi kia!" Lời nói của Hoa Phi Tuyết cũng làm cho hai người Ôn Chính Văn giật mình không nhẹ, theo như hai người bọn họ biết, khu vực xung quanh Thanh Nhã YMYm6 Động Phủ được Minh Thành Tử bảo vệ vô cùng chặt chẽ, ngoài vài người nha hoàn phục vụ công việc hàng ngày cho Diệp Thanh Nhi ra, là không còn có bất kỳ một người nào khác, người lạ mà Hoa Phi Tuyết nói đây chắc chắn không thể nào là những nha hoàn kia, mà một người hoàn toàn khác.
+Đưa mắt nhìn xuống, quả nhiên là bên cạnh Diệp Thanh Nhi kia là xuất hiện một cái trung niên đại thúc. Thứ mà hắn kinh ngạc là trung niên đại thúc này như thế nào có thể xuất hiện tại nơi đây được, Minh Thành Tử vị kia Hóa Thần Chí Tôn là đi nơi nào rồi, sao lại để cho một người lạ tiếp cận Diệp Thanh Nhi như thế.
+"Tử Phàm ca ca! Ngày mai là tròn một năm mà huynh hứa về thăm Tiểu Nha rồi a! Huynh tuyệt đối không được thất hứa đâu a!" Diệp Tiểu Nha đứng bên ngoài Thanh Nhã Động Phủ, cũng không có quan tâm đến tất cả mọi chuyện xảy ra xung quanh mình, vẫn như thường lệ, ánh mắt nhìn về xa xăm phương hướng Bát Hoang Thành, tràn đầy chờ mong.
+Khác với lại những cái u ám thần sắc trước đây, lần này trên khóe miệng của nàng là có xuất hiện một nụ cười. Kể từ khi được nhận vào Thần Viện Hạch Tâm Đệ Tử Khu này, hay nói đúng hơn là bị cái vị Viện Trưởng Ôn Chính Minh ép buộc vào nơi đây, không cho phép rời khỏi một bước, ngày nào nàng cũng là ra đứng bên ngoài Động Phủ, đếm từng ngày từng giờ, mong đến cái ngày đúng thời gian một năm mà Tử Phàm ca ca đã hứa về thăm nàng kia, bây giờ cuối cùng cũng đã cho nàng chờ đợi được đến, ngày mai chính là cuối cùng tròn một năm mà Tử Phàm ca ca đã nói, nàng là sắp được gặp lại Tử Phàm ca ca của mình rồi, lẽ dĩ nhiên nàng là phải vui mừng rồi.
+"Chỉ là tu vi của ta có chút kém cỏi, không chừng Tử Phàm ca ca sẽ không có vui!" Diệp Tiểu Nha thở dài một tiếng nói.
+Những tháng ngày qua tâm trạng của nàng lúc nào cũng không có vui, lúc nào cũng là mong chờ Tử Phàm ca ca trở lại, cho nên không có tâm trạng đâu để mà tu luyện, thành ra gần năm tháng qua, tu vi của nàng vẫn chỉ ở tại Chân Huyền cảnh sơ kỳ tiểu thành không có tiến, nàng là có chút thất vọng với bản thân của mình, như Tử Phàm ca ca biết nàng lười biếng, tuyệt đối sẽ không có vui.
+"Tiểu Thư! Ngài suy nghĩ quá nhiều rồi, chủ nhân gặp lại ngài, nhất định sẽ rất vui vẻ! " Hỏa Thiên Xa phía sau Diệp Tiểu Nha, ngắm nhìn nàng một lúc, thấy tâm trạng của nàng là không có được vui, liền là mỉm cười lên tiếng nói.
+"Xa..Xa Lão! Ngài như thế nào lại ở nơi đây, còn vị Minh Thành Tử kia..!" Âm thanh quen thuộc đột ngột vang lên làm cho Diệp Tiểu Nha giật hết cả mình.
+Quay đầu nhìn lại nàng là phát hiện không biết tự bao giờ Hỏa Thiên Xa đã xuất hiện phía sau nàng, còn là mỉm cười với mình nữa. Chỉ là nàng nhớ rõ nơi đây còn có một tôn Hóa Thần cường giả rất là lợi hại Minh Thành Tử, hơn nữa đây là Thần Viện Hạch Tâm Đệ Tử Khu, cao thủ là tầng tầng lớp lớp, Hỏa Thiên Xa xuất hiện không phải quá nguy hiểm một chút.
+"Tiểu Thư, ngài yên tâm đi, cái tên Minh Thành Tử kia đang tại đằng kia!" Hỏa Thiên Xa chỉ tay về bên kia, cách hai người bọn họ khoảng một trăm trượng dưới một cây đại thụ, hơi có chút khinh thường nói một tiếng.
+Mấy tháng qua hắn là không có một giây nào ngừng nghỉ tu luyện, cuối cùng hắn cũng nhờ Âm Dương Đạo Quyết thành công khôi phục lại tu vi Đạo Thể Chí Tôn Chí Cường Giả cảnh giới, hơn nữa còn tu luyện thành công Lục Giai Thần Thông Âm Dương Thủ Chi Thuật cùng với lại luyện hóa Thượng Phẩm Đạo Khí Cao Cấp Âm Dương Tinh Thủ, thực lực của hắn bây giờ là cường gấp đôi trước kia không chỉ, đương nhiên, chỉ khống chế một tên Phàm Thể Hóa Thần cảnh giới đối với hắn mà nói không có bao nhiêu độ khó.
+Như không phải sợ gây ra quá nhiều phiền phức không đáng có, hắn là đã ra tay diệt sát cái tên Minh Thành Tử này cùng ba tên Thông Thần cảnh tiếu bối trên kia, mà không phải dùng Lĩnh vực giam cầm bọn chúng lại.
+"Xa Lão! Ngài đến đây có phải là mang ta rời đi nơi này hay là không? " Diệp Tiểu Nha ánh mắt sáng ngời nói.
+Trước khi chia tay, Hỏa Thiên Xa đã từng nói với nàng, chỉ cần thương thế của y khôi phục cùng thành công khôi phục thực lực như trước đây, sẽ là đến dẫn nàng rời đi, nàng vẫn là không có quên chuyện này, như bây giờ Hỏa Thiên Xa đã xuất hiện tại đây, như vậy đồng nghĩa với việc hắn đã hoàn toàn khôi phục, là đến lúc đưa nàng rời khỏi nơi đây, nói thật sự ra nàng là không muốn ở lại cái Thần Viện này thêm một phút giây nào nữa, ở đây Ôn Chính Minh đối xử với nàng rất tốt, nhưng mà từ tận đáy lòng mà nói, nàng vẫn luôn cảm thấy nguy hiểm vờn quanh, chỉ có rời khỏi nơi đây, nàng mới an tâm một chút.
+"Ầm! Rắc! "
+"Đương nhiên rồi! Tiểu Thư của ta!" Hỏa Thiên Xa nhẹ tay vạch phá không gian, tạo ra một cái đường hầm không gian, sau đó mỉm cười đối với lại Diệp Tiểu Nha nói.
+Thực lực của hắn hiện tại, đã là tại Tôn Giả cảnh giới bên dưới là vô địch thủ rồi, Ngụy Thánh cường giả không ra, hắn có thể nắm chắc không có bất kỳ một Tôn Giả cảnh giới nào có thể chống lại hắn, ngay cả Dương Đình Phong cũng là không có được, như vậy hắn còn cần phải úy kỵ cái gì nữa chứ.
+Đúng lúc này..
+"Ầm ầm!!! "
+"Ôn Chính Minh! Ngươi dám ngăn cản ta, không lẽ ngươi chê mình sống quá lâu hay là sao?" Hỏa Thiên Xa ánh mắt bắn ra hàn mang sát khí, đem Ôn Chính Minh cùng cái con Thanh Long mà hắn cưỡi đến khóa lại, lạnh giọng nói.
+Hỏa Thiên Xa là đang muốn cùng Diệp Tiểu Nha thông qua cái không gian đường hầm mà hắn vừa chấn toái kia để mà rời đi, chỉ là hắn không được như nguyện, cái tên Ôn Chính Minh này xuất hiện đem đường hầm không gian mà hắn mới lập ra hủy mất, đối với lại Ôn Chính Minh tên này, hắn đã phán tử vong bản án.
+
+Một ông trùm khi trở về quá khứ làm vua, trong cảnh dầu sôi lửa bỏng, đất nước nguy nan, sẽ phải làm sao? Mời đọc #Nhất Thống Thiên Hạ Nhất Thống Thiên Hạ
+
+---
+
+**Thông tin chương:**
+- Số chương: 750
+- Thời gian cập nhật: 2026-01-17 11:01:11
+
+<div class="chapter-nav">
+    <a href="chuong_749.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_751.html" class="nav-btn">Chương sau →</a>
+</div>

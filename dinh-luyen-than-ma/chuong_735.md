@@ -1,0 +1,55 @@
+---
+layout: default
+title: Chương 735: Hổ Giấy
+chapter_number: 735
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: Đám người Ngụy Thánh gia tộc lão tổ, sau khi bị Diệp Tử Phàm phát hiện ra sự có mặt của mình, cũng không có ý định ẩn giấu nữa, tất cả bọn họ đều là xuất hiệ...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 735: Hổ Giấy
+
+---
+
+Đám người Ngụy Thánh gia tộc lão tổ, sau khi bị Diệp Tử Phàm phát hiện ra sự có mặt của mình, cũng không có ý định ẩn giấu nữa, tất cả bọn họ đều là xuất hiện, đem Diệp Tử Phàm vây vào giữa, sau đó là cười đùa rất J6mlU là vui vẻ trêu chọc lẫn nhau, tuy là vui vẻ cười đùa, nhưng mà tinh ý có thể quan sát được thấy, ẩn đằng sau trong ánh mắt của mỗi người điều có chứa một tia ngưng trọng rất là sâu đậm.
+Sau khi đem mấy tên Ngụy Thánh trung kỳ đang liều mạng bên trên tinh không kia khống chế lại, mấy người bọn họ liền là ngay lập tức đến nơi đây.
+Diệp Tử Phàm vừa xuất hiện bọn họ là nhận ra ngay, qua những lời đối đáp của hắn cùng Ôn Địch, không khó cho bọn họ nhận ra Diệp Tử Phàm chính là người đứng đằng sau của Tuyết Mạn gia tộc đám người, biết là như vậy, nhưng mà cũng không có ai có ý định ra tay ý tứ.
+Bọn họ là muốn dùng bảy tên Ngụy Thánh kia thử ra thực lực của tên trùm phản diện núp bóng đằng sau khuấy đảo Tây Địa Khu này là như thế nào. Kết quả thử ra làm cho tất cả một phen khiếp sợ. Không hiện Ma Thể một kích duy nhất diệt sát hết bảy tên Ngụy Thánh, thành tích như thế kia trong số bọn họ không phải là không làm được, nhưng ít ra cũng phải hiện ra Ngụy Thánh Thể hoặc là cầm trong tay Cấm Khí a.
+Còn như nhẹ nhàng như không giống tên Ma Tộc thanh niên trước mắt này, bọn họ tự nhận mình làm không được.
+Nhìn thấy cái tình cảnh vừa rồi, tất cả bọn họ trong lòng là đã sinh ra thoái ý, điều là muốn rút lui một cách êm đẹp, tên Ma Tộc thanh niên này thực lực có chút khủng bố, không hiện Ngụy Thánh Thể liền có thể đánh ra được hai tòa Thế Giới Chi Lực, như tên này hiện ra Ngụy Thánh Thể, theo lẽ thường mà nói không phải sẽ có hai mươi tòa Thế Giới Chi Lực hay là sao?
+Loại lực lượng này trong hành Ngụy Thánh là không có một ai có thể phát huy ra được đến, cho dù là Ngụy Thánh hậu kỳ viên mãn nắm trong tay Cấm Khí Cao Cấp tối đỉnh cũng là không được. Người này đã không phải bọn họ có thể có thể chống lại được.
+Chỉ là khi bọn họ muốn rút lui mà nói, lại bị một người dùng thần niệm truyền âm cho giữ lại, còn ép buộc bọn họ phải ra tay đối phó với cái tên Ma Tộc thanh niên trước mắt này, người kia là bọn họ không thể nào chống lại được, cộng thêm tên kia cam đoan người trước mắt này không thể nào phát huy ra được hai tòa Thế Giới Chi Lực cho dù tên kia có hiện ra Ngụy Thánh Thể cũng là như vậy.
+Không còn cách nào khác bọn họ chỉ có thể hiện thân tại nơi đây mà thôi, đồng thời cũng là hy vọng đến, cái vị cường giả kia nói hoàn toàn là sự thật, Ma Tộc thanh niên này chỉ là đang dùng một loại phương pháp nào đó không cần hiện ra Ngụy Thánh Thể vẫn có thể phát huy ra vượt qua bản thân mình lực lượng, nếu như không không, tính mạng của bọn họ rất có thể phải bàn giao tại nơi đây rồi.
+"Mười ba tên Ngụy Thánh hậu kỳ cường giả! Mười ba kiện Cấm Khí Trung Cấp! Đám người này thật sự là tài đại khí thô a!" Liếc mắt nhìn xung quanh một cái, Diệp Tử Phàm ngay lập tức liền là phát hiện ra được tu vi cũng như cấp bậc những cái món Binh Khí mà đám người này cầm trong tay.
+Hắn cũng rất là cảm khái, những người này thật sự là quá xem trọng hắn, chỉ cần một tôn Ngụy Thánh hậu kỳ cảnh giới nắm trong tay một môn Thần Thông thôi, với hắn hiện tại cũng là hết sức bầm giập, đám người này không người nào mà tại Ngụy Thánh hậu kỳ tiểu thành dưới, cá biệt có cái tên Dạ Dung Ngụy Thánh kia, Ma Thể cao đến chín triệu km, đây là Ngụy Thánh hậu kỳ viên mãn cường giả rồi, hơn nữa, đám người này không có ai khinh thường hắn cả, tên nào tên nấy đều là xuất ra Cấm Khí, Nguyên Lực toàn thân luôn trong trạng thái cao nhất, lúc nào cũng là có thể xuất ra một kích dồn hắn vào con đường chết, đúng là quá xem trọng hắn một chút.
+"Ầm ầm!!! Ầm ầm!!! "
+"Chỉ có điều như thế mới tốt! Ta cũng muốn xem thực lực của bản thân mình là tại nơi đâu! " Cảm khái chỉ trong tích tắc, Diệp Tử Phàm lại hừng hực chiến ý, Bá Thể của hắn liền hiện ra, khí thế bao quátchư thiên nhìn đám người Dạ Dung Thiên kia, ép cho bọn chúng phải lùi về sau hành trăm dặm.
+Mười ba tên Ngụy Thánh hậu kỳ có chút khó giải quyết, thế nhưng mà nếu như mà có thể đem tất cả những người này cho trấn áp, hắn không phải là sẽ có được mười ba tên tay đấm thượng hạng giúp đỡ cho mình làm việc hay là sao, đây cũng là một cơ hội hiếm có, hắn là không thể nào bỏ qua cho được.
+"Ngụy Thánh hậu kỳ viên mãn cường giả? " Dạ Dung Thiên đám người ổn định lại Ma Thể, nhìn Diệp Tử Phàm lên tiếng nói. Dù là đã biết tên Ma Tộc thanh niên trước mắt này thực lực không tầm thường, nhưng mà khi tên này hiện ra Ma Thể, tất cả mọi người không khỏi kinh hô, chín triệu km Ma Thể, đây hoàn toàn là một vị Ngụy Thánh hậu kỳ viên mãn cường giả mới có được Ma Thể.
+"Hiệu ứng rất là tốt! " Diệp Tử Phàm gật đầu nói. Thật sự ra mà nói, Bá Thể của hắn là không có cao lớn đến như vậy, tối đa cũng chỉ hơn mười ngàn km chút đỉnh mà thôi, thế nhưng mà với Công Pháp diệu dụng, hắn muốn hiển hóa ra mấy trăm vạn km Bá Thể vẫn là có thể làm được.
+Hắn làm như thế là vì không muốn người ta nghĩ mình thực lực quá mức nghịch thiên, như chỉ hơn vạn km mà có thể đánh ra vài tòa Thế Giới Chi Lực, chuyện này nói da là không ai có thể tin tưởng, nhất định sẽ rước lấy vô số hoài nghi, nói không chừng Thánh Vương cường giả cũng sẽ ra tay bắt hắn tìm hiểu cái bí mật này, đừng nhìn hắn hiện tại chỉ đối phó với lại mấy tên Ngụy Thánh hậu kỳ trước mắt này thôi mà nhầm, xung quanh hắn hiện tại cũng có khá nhiều cặp mắt đang để ý đến trận chiến nơi đây, như hắn biểu hiện bất thường, khi đó hắn sẽ chết không có chỗ chôn, cho nên làm chuyện gì cũng phải cẩn thận một chút, Ma Tộc thân phận cùng với lại Ngụy Thánh hậu kỳ viên mãn Ngụy Thánh Thể, có thể lợi dụng nó để có thể qua mắt được rất là nhiều người.
+"Hủy Diệt Chi Thủ! Sát!" Diệp Tử Phàm vừa hiện ra Ngụy Thánh Thể của mình, không cho đám người kia có cơ hội phản ứng lại liền lập tức liền xuất thủ, già thiên chi thủ mang theo một cổ hủy diệt chi Lực lực lượng bao trùm chư thiên, đem tất cả mười ba tên Ngụy Thánh hậu kỳ cường giả kia cho bao phủ lại, hai tòa Thế Giới Chi Lực phong tỏa mọi đường rút lui của bọn chúng, muốn đem tất cả bọn chúng trấn sát tại nơi đây.
+"Giáng Ma Huyết Kiếm! Phá!"
+"U Ma Quỷ Trượng! Diệt! "
+"Thiên Sát Ma Thương! Trãm!"
+"Đoán Hồn.....!"
+Đám người của Dạ Dung Thiên, không có một người nào dám xem nhẹ Diệp Tử Phàm, nhất cử nhất động của Diệp Tử Phàm liền là nằm trong dự đoán ủa bọn họ, cho nên Diệp Tử Phàm vừa xuất thủ, bọn họ liền là làm ra được ứng đối ngay lập tức, từng món Cấm Khí trong tay bọn họ liền là vẫy vùng, một kích một kích cường đại của Cấm Khí cũng là hiển hiện không hề bỏ sót.
+Trung Cấp Cấm Khí một kích, thấp nhất cũng có bốn tòa Thế Giới Chi Lực, cá biệt như là kiện Hỏa Hồn Đao trong tay của Dạ Dung Thiên, một kích của nó tối đa có thể phát huy ra được sáu tòa Thế Giới Chi Lực.
+Như vậy lực lượng kinh khủng xuất ra, liền làm cho thiên địa biến sắc, không gian trãm phá, Hỗn Độn Nghịch Lưu. Chỉ trong nháy mắt, Ba Đốn Sơn Mạch bị những cổ lực lượng này lan đến, cả một cái to lớn trung tâm Sơn Mạch thoáng chốc như là bị diệt thế một dạng, Hỗn Động xuất hiện, lần này còn khủng bố hơn lần trước mấy người Dạ Dung Sâm giao chiến rất nhiều.
+Đứng trên cao nhìn xuống có thể nhìn thấy khu vực nơi đây phá toái không còn hình dạng, đại địa bị hủy diệt từng cái lỗ sâu hàng chục vạn km nhìn không có thấy đáy tại nơi nào, cả vùng Ba Đốn Sơn Mạch này chỉ phút chốc lại tràn ngập một cổ hủy diệt hơi thở mà không có bất kỳ một Tôn Giả cấp cường giả nào dám đến gần.
+"Ầm ầm!!! Ầm ầm!!! Ầm ầm!!!Rầm rầm!!! "
+"Quả nhiên như lời của Linh Thánh Nhân nói, cái tên Ma Tộc thanh niên trước mắt này chỉ là một con hổ giấy!" Nhìn Diệp Tử Phàm bị đánh bay đến mấy cái ức km.
+
+Một ông trùm khi trở về quá khứ làm vua, trong cảnh dầu sôi lửa bỏng, đất nước nguy nan, sẽ phải làm sao? Mời đọc #Nhất Thống Thiên Hạ Nhất Thống Thiên Hạ
+
+---
+
+**Thông tin chương:**
+- Số chương: 735
+- Thời gian cập nhật: 2026-01-17 11:00:41
+
+<div class="chapter-nav">
+    <a href="chuong_734.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_736.html" class="nav-btn">Chương sau →</a>
+</div>

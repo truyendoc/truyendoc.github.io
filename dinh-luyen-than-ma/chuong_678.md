@@ -1,0 +1,62 @@
+---
+layout: default
+title: Chương 678: Ngụy Thánh Đối Ngụy Thánh
+chapter_number: 678
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: Hiện tại, có thể cứu Tuyết Mạn gia tộc cái con thuyền sắp đắm này ra khỏi dông tố, cũng chỉ có một mình Tuyết Mạn Lâm, Thánh Thể Chí Tôn Chí Cường Giả duy nh...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 678: Ngụy Thánh Đối Ngụy Thánh
+
+---
+
+Hiện tại, có thể cứu Tuyết Mạn gia tộc cái con thuyền sắp đắm này ra khỏi dông tố, cũng chỉ có một mình Tuyết Mạn Lâm, Thánh Thể Chí Tôn Chí Cường Giả duy nhất còn lại trong gia tộc, nếu như Tuyết Mạn Lâm trong thời gian ngắn còn chưa có xuất quan, một khi đại địch tiến đánh tới, không những là Tuyết Mạn gia tộc không còn, mà ngay cả tinh thần cột trụ của bọn họ bây giờ là Tuyết Mạn Lâm cũng phải chôn cùng.
+Chính là vì vậy, cho dù phải dùng bất kỳ một cái biện pháp gì, hắn là phải làm cho Tuyết Mạn Lâm xuất quan, nếu như không, tất cả đều là quá muộn màng.
+"Rầm rầm!!! "
+"Tuyết Mạn Giới? Ngươi không đi bảo hộ Hồn Đăng Điện của ngươi! Đến nơi này tìm ta để mà làm gì!" Không cần Tuyết Mạn Giới phải liền mạng thêm một lần nào nữa, Cấm Địa Đại Môn đúng vào cái lúc này liền khai môn, từ bên trong đi ra Tuyết Mạn Lâm, gương mặt không khỏi âm trầm nhìn cái tên 1S3IH Tuyết Mạn Giới kia quát, cùng với lại vết sẹo thật sâu trên gương mặt, trông hắn bây giờ rất là đáng sợ.
+"Thái Thượng Trưởng Lão... Thái Thượng Trưởng Lão.... Đại sự không ổn...thật sự là đại sự không ổn a!" Tuyết Mạn Giới trông thấy Tuyết Mạn Lâm đi ra, vui mừng quá đỗi, ngay cả nói năng cũng là hết sức lộn xộn.
+"Rầm! "
+"Có chuyện gì thì mau nói đi! Nếu như không phải là chuyện quan trọng gì, ngươi là biết kết quả của mình sẽ là như thế nào rồi đấy! " Dùng chân đá cái tên Tuyết Mạn Giới này ra xa, Tuyết Mạn Lâm còn chưa hết giận nói.
+Hắn sao có thể không giận cho được, hắn là đang nghiên cứu Pháp Tắc Thánh Liên đến lúc khẩn yếu quan đầu, khi mà hắn sắp lần mò ra được Thánh Vương cảnh giới Áo Nghĩa, lại bị cái tên Tuyết Mạn Giới này năm lần bảy lượt quấy rối, chỉ chút nữa thôi thì hắn đã tẩu hỏa nhập ma rồi, đối với lại Tuyết Mạn Giới tên này, hắn có cái sắc mặt tốt mới là lạ.
+Với lại, Tuyết Mạn Sát gần một tháng trước đã rời đi Cấm Địa, có chuyện gì những tên này có thể đi tìm Tuyết Mạn Sát, nhờ hắn giải quyết, đến nơi này tìm hắn đang bế quan lại là có ý gì. Như cái tên Tuyết Mạn Giới này giải thích không thông, hắn là không có ngại mà đưa cái tên này lên đường.
+"Ân! Khoan đã! Tuyết Mạn Sát! Hồn Đăng Điện? Không lẽ..." Như nghĩ đến cái gì, Tuyết Mạn Lâm khẽ dùng thần thức quét qua toàn bộ Thành Chủ Phủ một vòng, khi hắn quét đến Hồn Đăng Điện, gương mặt của hắn là tím ngắt cả lại.
+"Xoẹt! "
+"Tuyết Mạn Giới? Nói cho ta biết! Tuyết Mạn Sát cùng Phụ Thân của ta đám người là chết như thế nào?" Nhanh chân chạy đến bên cạnh Tuyết Mạn Giới, Tuyết Mạn Lâm là cầm lấy cái cần cổ của tên này rung lắc liên tục, cực kỳ giận dữ nói.
+Trong khoảng thời gian hắn bế quan là đã xảy ra chuyện gì? Như thế nào bên trong gia tộc những thành viên trọng yếu đều chết sạch sẽ cả. Những người khác thì cũng thôi, nhưng mà Tuyết Mạn Sát cùng Tuyết Mạn Thần chính là Thánh Thể Ma Tôn cường giả a. Cá biệt Tuyết Mạn Sát chính là Thánh Thể Ma Tôn Chí Cường Giả cảnh giới lại có cầm trong tay Trấn Tộc Cấm Khí, người như vậy, thế gian này ngoài trừ Ngụy Thánh cường giả ra, ai là có thể trấn áp được tên kia cơ chứ.
+Không lẽ là đám người kia thật sự đã gặp phải Ngụy Thánh cường giả chân chính. Còn đắc tội với lại người này? Cái này không có khả năng lắm nha, không nói Ngụy Thánh cường giả sẽ không hành tẩu tại Hạ Giới Tinh Vực, mà cho dù có đi chăng nữa, với sự tinh minh của Tuyết Mạn Sát, sao có thể đắc tội với lại những tôn cường Giả như thế được? Tuyết Mạn Lâm trong lòng hết sức là nghi hoặc nghĩ.
+"Khặc...khặc....Thái Thượng.. Trưởng Lão... Ngài hãy buông tay cái đã!"
+"Rầm! "
+"Nói đi! Là chuyện như thế nào?" Tuyết Mạn Lâm buông tay, để cho Tuyết Mạn Giới rơi tự do xuống dưới đất, lạnh lẽo nói. Hắn cũng biết là vừa rồi mình có siết cổ của Tuyết Mạn Giới này có chút chặt.
+"Khụ...Vâng! Thái Thượng Trưởng Lão, chuyện là như thế này....? " Được Tuyết Mạn Lâm buông ra, Tuyết Mạn Giới sau một lúc hít thở sâu một hơi, liền là nhanh chóng kể lại đầu đuôi câu chuyện mà hắn biết được.
+Từ hơn nữa năm trước Diệp Tử Phàm xuất hiện, cho đến khi Tộc Trưởng của bọn họ Tuyết Mạn Sát tìm đến Diệp Tử Phàm tính sổ cùng với lại Tuyết Mạn Lam đám người mang theo gia tộc Cấm Khí Truy Hồn Kiếm đi đến trợ trận rồi không thấy trở lại, một cho tiếc hắn cũng không có bỏ qua.
+"Thái Thượng Trưởng Lão! Chuyện đầu đuôi chính là như thế! Ta vì lo lắng cho Diệp Tử Phàm tên kia sẽ đến đây tấn công Tuyết Mạn Thành, cho nên đã tự hành quyết định cho tất cả gia tộc người lập tức di chuyển đến Nam Châu lánh nạn, chuyện này chưa được ngài cho phép đã quyết định, xin ngài trách phạt! " Tuyết Mạn Giới sau khi là kể lại toàn bộ đầu đuôi câu chuyện, cuối cùng hắn là đứng ra thỉnh tội với lại Tuyết Mạn Giới.
+"Chuyện này không thể trách ngươi!" Tuyết Mạn Lâm phất tay áo lên nói. Vừa rồi hắn dùng thần thức đảo qua, nơi đây Tuyết Mạn Thành ngoài hắn cùng Tuyết Mạn Giới là Tuyết Mạn gia tộc tộc nhân ra, không còn ai khác, hắn trước kia còn kinh ngạc một chút, nhưng mà bây giờ đã hiểu được nguyên nhân.
+Chuyện này hoàn toàn không thể trách Tuyết Mạn Giới, như hắn ở vào hoàn cảnh của Tuyết Mạn Giới, đối đầu với lại cường địch không có khả năng chiến thắng, hắn cũng sẽ là sắp xếp đường lui cho tộc nhân của mình.
+"Gia tộc tài nguyên ngươi đã xử lý như thế nào?" Tuyết Mạn Lâm lên tiếng hỏi.
+"Hồi Thái Thượng Trưởng Lão! Trừ Tàng Bảo Điện phải có Cấm Khí Truy Hồn Kiếm mới có thể khai mở ra, những cái tài nguyên nơi khác ta là đã cho chuyển hết qua bên Nam Châu rồi!" Tuyết Mạn Giới cung kính trả lời. Chỉ là trong lòng của hắn khá là khó chịu, bây giờ là cái lúc nào rồi? Thế nhưng cái vị Thái Thượng Trưởng Lão này chỉ quan tâm đến tài nguyên mà thôi, lại không có nghĩ cách nhanh chóng đối đầu với lại cường địch! Không lẽ thực lực càng cao, lại càng là tỏ ra ích kỷ chỉ vì mình như vậy hay là sao? Tuyết Mạn Giới trong lòng oán thầm nghĩ.
+"Tàng Bảo Điện? Tàng Bảo Điện? Truy Hồn Kiếm sao?" Tuyết Mạn Lâm nhìn về phương hướng quan trọng nhất của Tuyết Mạn gia tộc, không khỏi lâm vào trầm tư.
+Hắn quan tâm đến tài nguyên trong tộc như thế, ngoài việc suy nghĩ cho tương lai sau này của Tuyết Mạn gia tộc, cũng còn nghĩ đến bản thân của hắn nữa, bên trong tài nguyên kia, có một vật mà hắn vô cùng thèm khát, kia chính là mười viên Thánh Tinh mà hắn cùng Tuyết Mạn Lâm cơ duyên lấy được tại Thánh Vương Bí Cảnh Nam Châu. Hai người bọn họ định liệu nếu như ai có thể cảm nhận được Thánh Vương bình cảnh cùng đột phá Thánh Vương trước, liền là sẽ đem số Thánh Tinh kia cho người đó sử dụng. Như hắn đoán không sai mà nói, mười viên Thánh Tinh kia có thể là được đặt tại Tàng Bảo Điện Tuyết Mạn gia tộc.
+"Thái Thượng Trưởng Lão? Bước tiếp theo nên làm như thế nào? Xin ngài hãy ra chỉ thị!" Mặc dù trong lòng rất là khó chịu với lại cái tính tham lam của Tuyết Mạn Lâm, nhưng mà Tuyết Mạn Giới vẫn là cung kính lên tiếng hỏi hắn.
+Không có cách nào, ai bảo Tuyết Mạn Lâm chính là người có thực lực cao cường nhất của Tuyết Mạn gia tộc bọn họ hiện tại, không có hắn trấn thủ, như Nam Châu bên kia xảy ra chuyện gì, không ai có thể cứu được Tuyết Mạn gia tộc bọn họ, bọn họ chính là cần những người như Tuyết Mạn Lâm vậy đến trấn thủ.
+"Bỏ qua Tuyết Mạn Thành nơi đây! Chúng ta lập tức đi đến Âm Cốt Sơn Mạch! " Tuyết Mạn Lâm suy nghĩ trong chốc lát, liền là ngay lập tức quyết định nói.
+Như chìa khóa khai mở Tàng Bảo Điện là Cấm Khí Truy Hồn Kiếm còn tại Tuyết Mạn gia tộc, hắn là sẽ nhanh chóng thu hồi lại tài nguyên bên trong chạy đến Nam Châu, sau đó liền là hủy đi Truyền Tống Trận, cho dù tên kia Diệp Tử Phàm có bản lĩnh thông thiên cũng không dám đến Nam Châu dương oai.
+Nhưng mà bây giờ mọi chuyện lại vượt ra ngoài hắn mong muốn, Tuyết Mạn Sát cùng đại đa số cao thủ của Tuyết Mạn gia tộc điều chết tại trong tay của Diệp Tử Phàm, như vậy Cấm Khí Truy Hồn Kiếm bây giờ cũng là nằm trong tay của tên kia, hắn muốn lấy lại, nhưng mà hắn cũng biết, với cái thực lực của mình hiện tại, là không có khả năng đánh bại Diệp Tử Phàm tên kia.
+Diệp Tử Phàm có thể đưa Tuyết Mạn Sát cầm trong tay Cấm Khí cùng tất cả cao thủ của Tuyết Mạn gia tộc trấn sát, không cho bất kỳ một người nào có thể chạy trốn, như vậy thực lực của tên kia là đã được miêu tả hết sức là sinh động.
+Ngụy Thánh cường giả! Tên Diệp Tử Phàm kia chắc chắn là Ngụy Thánh cường giả, còn về người này nằm tại sơ kỳ hay trung kỳ hắn còn là không có biết được, hắn chỉ biết một điều, cho dù tên kia là Ngụy Thánh sơ kỳ hay trung kỳ, hắn đều không phải là đối thủ. Cũng chỉ có lấy Ngụy Thánh đối đầu với lại Ngụy Thánh, hắn mới có được cơ hội.
+"Vâng! Thái Thượng Trưởng Lão! " Tuyết Mạn Giới lên tiếng đáp.
+Âm Cốt Sơn Mạch! Không cần Tuyết Mạn Lâm phải giải thích quá kỹ lưỡng, hắn cũng biết được Tuyết Mạn Lâm trong lòng đang đánh cái bàn tính gì, chỉ có hi vọng, cái vị Ngụy Thánh Nghiệt Minh kia, có thể trấn áp được Diệp Tử Phàm Nhân Tộc Ngụy Thánh.
+
+Một ông trùm khi trở về quá khứ làm vua, trong cảnh dầu sôi lửa bỏng, đất nước nguy nan, sẽ phải làm sao? Mời đọc #Nhất Thống Thiên Hạ Nhất Thống Thiên Hạ
+
+---
+
+**Thông tin chương:**
+- Số chương: 678
+- Thời gian cập nhật: 2026-01-17 10:58:44
+
+<div class="chapter-nav">
+    <a href="chuong_677.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_679.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,0 +1,53 @@
+---
+layout: default
+title: Chương 704: Tây Địa Khu Loạn
+chapter_number: 704
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: Làm việc cho một vị Chủ Nhân xấu tính thật sự là rất khổ, làm việc cho một vị độc ác chủ nhân, lúc nào cũng muốn đem hắn diệt sát, lại càng khổ hơn. Không bi...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 704: Tây Địa Khu Loạn
+
+---
+
+Làm việc cho một vị Chủ Nhân xấu tính thật sự là rất khổ, làm việc cho một vị độc ác chủ nhân, lúc nào cũng muốn đem hắn diệt sát, lại càng khổ hơn. Không biết đến khi nào hắn mới có thể thoát khỏi khổ ải này đây! p0VLv Đại Hắc trong lòng không khỏi oán thầm nghĩ.
+"Rầm! A...Chủ nhân tha mạng a!" Đại Hắc là hét thảm lên một tiếng, trông thật là thảm thiết bị thương.
+"Hừ! Nói cũng như không? " Diệp Tử Phàm đem cái đạo Pháp Tắc Thánh Liên kia quăng vào bên trong Luyện Thần Đỉnh, trúng vào người của tên Đại Hắc kia, làm cho y bị đau đớn không nhẹ, sau đó liền hừ lạnh một tiếng nói.
+Mục tiêu của hắn là phải đi đến Tu Luyện Giới chi đỉnh phong, là Thần Giới phía trên tuyệt thế cường giả, làm sao có thể vì ham một cái Ngụy Thánh nho nhỏ liền có thể bó buộc hắn cả đời, cái tên Đại Hắc này bảo hắn luyện hóa Pháp Tắc Thánh Liên thành Ngụy Thánh, không phải là muốn triệt tiêu tương lai của hắn hay là sao, cái tên lòng dạ nham hiểm như thế, xứng đáng bị phạt.
+"Lập tức đưa ta đến Thánh Vương Bí Cảnh kia?" Không có để ý đến cái tên Đại Hắc đang bị Pháp Tắc Thánh Liên đánh cho chết đi sống lại bên trong Luyện Thần Đỉnh không gian, Diệp Tử Phàm quay lại nhìn Tuyết Mạn Lâm lên tiếng nói.
+"Vâng! Chủ nhân! Chỉ là...! " Tuyết Mạn Lâm nghe Diệp Tử Phàm nói như thế, trước là vâng lời, sau liền là tỏ ra rất là khó xử nói.
+"Có chuyện gì lập tức nói nhanh lên!" Diệp Tử Phàm hít thở sâu vào một hơi, như muốn làm cho bản thân mình bình tĩnh lại một chút, sau đó khá là âm trầm nhìn cái tên Tuyết Mạn Lâm này lên tiếng hỏi.
+Chỉ là chỉ là, hắn ghét nhất chính là cái cách nói chuyện nửa vời này, thế mà chỉ trong vòng chưa đến một khắc hắn lại phải nghe những lời này đến tận hai lần, tên kia Đại Hắc chọc giận hắn, niệm tình tên kia đi theo hấn bao năm qua, hắn chỉ trừng phạt nhẹ một chút, còn cái tên Tuyết Mạn Lâm này, như hắn không thể cho mình một cách nói làm vừa lòng mà nói, hắn liền là đem Nguyên Thần của tên này ra Sưu Hồn, như vậy liền là không cần phải chịu cảnh nhức đầu như thế này.
+"Rầm! "
+"Chủ nhân tha mạng! Chủ nhân tha mạng! Ta là không có ý làm cho ngài giận, chỉ là Thánh Vương Bí Cảnh nơi đó, ngoài trừ Thánh Tinh cùng một số bảo vật mà ta cùng Tuyết Mạn Sát lấy ra ngoài, bên trong là không có bất kỳ một món bảo vật quý giá gì cả, ngài là phải tin tưởng lòng trung thành của ta a, ta là không có ý chọc giận ngài!" Tuyết Mạn Lâm thấy Diệp Tử Phàm vô duyên vô cớ đối với hắn dụng ra sát ý, hắn là hồn vía lên mây, dù là không hiểu mình đã làm gì khiến Diệp Tử Phàm không hài lòng, nhưng mà hắn vẫn là dùng nhanh nhất tốc độ có thể nói ra những gì mà mình biết được đến.
+Thánh Vương Bí Cảnh mà hắn cùng Tuyết Mạn Sát đi vào được, gọi là Hắc Long Bí Cảnh, những thứ như là Pháp Tắc Thánh Liên, Thánh Tinh, công kích Thần Hồn công pháp, Cấm Khí phòng ngự bảo giáp đại loại, những cái kia hai người bọn họ đều đã thu dọn khá là sạch sẽ, bên trong cái Bí Cảnh kia bây giờ là không còn có cái gì đáng giá, hắn không muốn Diệp Tử Phàm cất công đi một chuyến không công để rồi sau đó lại trách phạt hắn cho nên hắn mới do dự như vừa rồi mà thôi.
+"Như vậy Thánh Vương Chi Cốt cũng không còn hay sao?" Diệp Tử Phàm khá là khó chịu hỏi tiếp. Thánh Vương Chi Cốt, hắn chỉ Thôn Phệ một cái vào trăm mét xương cốt, thế nhưng lại có thể làm cho Bá Thể của hắn tăng thêm một tòa Thế Giới Chi Lực phòng ngự nửa, như có toàn bộ hoàn chỉnh một bộ Thánh Vương Chi Cốt, hắn tin là có thể thay thế được rất là nhiều Lục Giai Linh Tài hay là Thiên Tài Địa Bảo.
+Nói không chừng hắn có thể lợi dụng Thánh Vương Chi Cốt cùng với lại Lục Giai Linh Tài mà mình có tại trong tay, đột phá Hỗn Độn Bá Thần Quyết Đệ Lục Trọng ngay cũng là có khả năng.
+Những thứ như Thánh Tinh, Pháp Tắc Thánh Liên hay Cấm Khí hắn hiện tại có thể không cần để ý đến, nhưng mà nếu món đồ Thánh Vương Chi Cốt mà hắn cần cũng không còn, như vậy hắn trăm phương ngàn kế đuổi theo tên Tuyết Mạn Lâm cứu hắn từ Tinh Không Hỗn Động ra có ích lợi gì.
+"Thánh Vương Chi Cốt? Thánh Vương Chi Cốt? Chủ nhân, cái này vẫn còn, nó vẫn còn tại tòa Thánh Vương Bí Cảnh kia!" Nghe Diệp Tử Phàm nhắc đến cái từ này, Tuyết Mạn Lâm như bừng tỉnh cả ra, hắn nhanh chóng trả lời nói.
+Bây giờ hắn đã nhớ ra đến, cái Thánh Vương Chi Cốt mà Diệp Tử Phàm nhắc đến, không phải là cái viên xương cốt mà hắn cùng Tuyết Mạn Sát nhặt được tại tòa Thánh Vương Bí Cảnh bên trong kia sao? Hai người bọn họ không chỉ là phát hiện ra một mẫu xương cốt kia, mà còn là phát hiện ra một bộ dài đến hàng ức dặm Thánh Vương Thi Thể, ban đầu hai người bọn họ cũng là muốn đem bộ xương cốt kia cho thu thập vào Hư Giới, nhưng mà bất kể bọn họ dùng đến cái biện pháp gì, cũng không thể nào lay động được bộ xương khô kia mảy may, cho nên chỉ có thể đem một chiếc lợi trảo mấy ngàn vạn dặm rời ra bên ngoài đem về. Bây giờ Diệp Tử Phàm nhắc nhở, hắn mói nhớ lại đến.
+"Như vậy ngươi còn ở đây làm gì, còn không mau dẫn đường! " Diệp Tử Phàm đối với lại Tuyết Mạn Lâm quát lên nói.
+Thế nhưng mà lần này bên trong lời nói của hắn lại có chứa nhiều thân thiện hơn không ít, nhìn về phía Tuyết Mạn Lâm cũng là khá hợp nhãn, không có cách khác, ai bảo Thánh Vương Chi Cốt đối với lại hắn bây giờ quan trọng đến như vậy.
+...
+Ba tháng sau! Nam Châu! Tây Địa Khu! Ba Đốn Vực!
+Linh Ma Đại Lục Nam Châu, vì là diện tích quá mức quảng đại bao là, cho nên nơi này bị phân ra làm năm cái Khu Vực khác biệt là Đông Địa Khu, Tây Địa Khu, Nam Địa Khu, Bắc Địa Khu cùng cường đại nhất trung tâm Trung Địa Khu trước đây vốn thuộc về Vô Tích Địa Vực.
+Khác với lại Tam Châu, Nam Châu ngoài Vô Tích Địa Vực tên hiệu muôn đời bất biến ra, bốn cái Địa Khu còn lại, mỗi cái Địa Vực đều sẽ lấy tên của một gia tộc cường đại nhất đặt làm tên hiệu. Ba Đốn Địa Vực chính là một trong số đó, cái Địa Vực này nó được đặt tên là Ba Đốn Vực, là vì nó được gia tộc cường đại nhất tại đây. Ba Đốn gia tộc lãnh đạo.
+Ba Đốn Vực, một cái Địa Vực nằm ngay tại giáp ranh giữa Tây Địa Khu và Trung Địa Khu, là cửa ngõ bắt buộc của tất cả những ai muốn đi đến Trung Địa Khu Vô Tích Địa Vực mà không có dùng Truyền Tống Trận.
+Cho nên không nói Ba Đốn Vực giàu có tài nguyên, chỉ nói đến cái địa lý vô cùng đặc biệt như thế, nó là được rất là nhiều thế lực để mắt đến, thế nhưng mà hàng ức năm qua, mặc dù có rất là nhiều thế lực đến đây gây chiến, nhằm mục đích muốn thay đổi Ba Đốn gia tộc làm chủ Ba Đốn Vực, đáng tiếc là không có bất kỳ một ai có thể đạt được nguyện vọng của mình, thay vào đó những thế lực kia thường là nhận lấy những cái kết quả vô cùng bi thảm, đại đa số nhiều khi là toàn quân bị diệt, không có một ai sống sót, truyền rằng Ba Đốn gia tộc bên trong có Ngụy Thánh cường giả thủ hộ, không chỉ là một vị, mà phải có nhiều hơn hai vị.
+Nguyên nhân a, kia là vì một trăm vạn năm trước, Ba Đốn gia tộc bị một cái cổ vô cùng cường đại thế lực vây công, thế lực kia đứng đầu là một vị Ngụy Thánh sơ kỳ viên mãn cường giả, thế nhưng mà nó rất nhanh bị Ba Đốn gia tộc cho trấn áp, vị kia Ngụy Thánh sơ kỳ viên mãn cường giả ngay cả cơ hội chạy trốn cũng không có, liền là vẫn lạc tại bên trong, trước khi chết, vị kia Ngụy Thánh chỉ truyền ra ngoài được một câu, đó là Ngụy Thánh trung kỳ viên mãn cường giả cùng sáu vị.
+Tất cả mọi người phân tích tin tức mà vị Ngụy Thánh kia truyền ra liền là suy đoán Ba Đốn gia tộc có sáu vị Ngụy Thánh cường giả, trong đó có một người có khả năng là Ngụy Thánh trung kỳ viên mãn cường giả đến.
+
+Truyện tu đạo, hệ thống cảnh giới khác biệt, main phải len qua khe hẹp tìm cách sống sót. NVP không não tàn. Mong được ủng hộ Nhất Kiếp Tiên Phàm
+
+---
+
+**Thông tin chương:**
+- Số chương: 704
+- Thời gian cập nhật: 2026-01-17 10:59:38
+
+<div class="chapter-nav">
+    <a href="chuong_703.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_705.html" class="nav-btn">Chương sau →</a>
+</div>

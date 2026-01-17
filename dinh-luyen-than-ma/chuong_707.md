@@ -1,0 +1,52 @@
+---
+layout: default
+title: Chương 707: Trở Mặt
+chapter_number: 707
+story_title: ĐỈNH LUYỆN THẦN MA
+story_slug: dinh-luyen-than-ma
+description: \"Các vị! Ta muốn hỏi các ngươi một câu, các ngươi là muốn đi giải cứu đám người Ma Tộc kia, hay là muốn rời khỏi Tây Địa Khu? \" Ba Đốn Yên cũng không còn giả...
+---
+
+# ĐỈNH LUYỆN THẦN MA
+
+## Chương 707: Trở Mặt
+
+---
+
+"Các vị! Ta muốn hỏi các ngươi một câu, các ngươi là muốn đi giải cứu đám người Ma Tộc kia, hay là muốn rời khỏi Tây Địa Khu? " Ba Đốn Yên cũng không còn giả vờ khách khí như vừa mới rồi nữa, mà là hơi âm trầm gương mặt lại, hỏi ba người Đế Tây Âm.
+Không chỉ riêng Ba Đốn Yên thần sắc biến đổi, mà ngay cả ba người còn lại của Ba Đốn gia tộc cũng không hề kém cạnh, Ba Đốn Yên vừa dứt lời, bọn họ là khí tức trên người như biển rộng trào dâng, hiện thân tại ba phía, bít kín mọi con đường mà Đế Tây Âm ba người có thể rời khỏi nơi đây.
+"Yên Thánh Nhân.... Chuyện này....chuyện này....! "
+"Hừ! Thế nào? Không trả lời được hay sao?" Ba Đốn Yên nhìn đám người kia hồi lâu chỉ ấp a ấp úng không chịu lên tiếng giải thích, liền là hừ lạnh một tiếng nói.
+Đám người này nói đi giải cứu Ma Tộc trong cảnh dầu sôi lửa bỏng, những chuyện này lừa gạt trẻ con đâu, chỉ cần có thể trấn áp hoàn toàn đám người Tuyết Mạn gia tộc, những Ma Tộc đang đào khoáng tại những mỏ quặng kia tự nhiên sẽ được tự do mà thôi, chuyện đơn giản như thế, đám người này không có nghĩ ra được, có quỷ mới tin vào lời của bọn chúng.
+"Yên Thánh Nhân! Ba vị Thánh Nhân, không sai, là chúng tôi không tin vào Ba Đốn gia tộc các vị có thể chống lại được Chiến Trận của Tuyết Mạn gia tộc kia, cho nên có ý định rời đi, vừa rồi là chúng tôi nói không được rõ ràng, mong các vị tha lỗi!" Nhã Lôi Hư nhìn cái tình cảnh có vẻ không được ổn cho lắm, đưa mắt liếc nhìn hai tên đồng bạn cùng chung chiến thuyền của mình một cái, sau đó là thành thật nói ra ý định thật sự trong lòng của ba người bọn họ.
+Không sai, bọn họ ba người vừa rồi dùng thần niệm giao lưu một chút, tất cả đều có chung một nhận định là Ba Đốn Yên tuy cầm Cấm Khí Đoạn Thiên Đao trong tay, thế nhưng cũng khó có cửa thắng Tuyết Mạn gia tộc cái Chiến Trận kinh khủng kia.
+Như người cầm trong tay Đoán Thiên Đao là Ba Đốn Tắc, bọn họ còn có thể tin tưởng vài phần, Ba Đốn Yên là không có hy vọng. Suy đi nghĩ lại, bọn họ là quyết định rời khỏi nơi đây, đi đến Vô Tích Địa Vực tìm kiếm cường viện khác, quay trở lại diệt đi đám người của Tuyết Mạn gia tộc sau.
+Chỉ là Đế Tây Âm dường như đưa ra cái kế sách không được chu toàn cho lắm, vừa sử dụng đã bị Ba Đốn Yên xuyên phá, cho nên không còn cách nào khác, bọn hắn cũng chỉ đành chấp nhận sự thật.
+"Yên Thánh Nhân! Ta đây cũng nói thẳng vậy, chúng tôi là không có tin tưởng vào việc ngài có thể đánh lui Tuyết Mạn gia tộc Chiến Trận, cho nên chúng tôi chỉ còn cách đi đến Vô Tích Địa Vực tìm kiếm ngoại viện khác, ở đây chúng tôi xin cáo từ vậy! " Đế Tây Âm cũng là rất thẳng thắn nói.
+Hắn vừa rồi đưa ra một cái kế hoạch kia để yên lặng rời đi, chẳng qua là vì không muốn nói thẳng ra Ba Đốn Yên nhà ngươi không có khả năng chiến thắng Tuyết Mạn gia tộc mà thôi.
+Hắn là rất tế nhị bảo đảm mặt mũi cho Ba Đốn Yên, thế nhưng cái tên Ba Đốn Yên lại không muốn mặt mũi, hắn cũng không cần khách khí với tên này nữa. Cùng là Ngụy Thánh cường giả như nhau, như không có thực lực tuyệt đối mà nói, không có khả năng có thể trấn áp được đối phương, Ba Đốn Yên có trong tay Cấm Khí, nhưng chỉ là Cấm Khí Cấp Thấp, có thể nhẹ nhàng đánh bại bọn họ, nhưng mà muốn ngăn cản bọn họ rời đi là không thể nào.
+"Cố..Cố Không Thánh Phù! Yên Thánh Nhân! Ba Đốn gia tộc các vị là muốn làm cái gì?" Tư Thản Thánh Nhân ba người trong lòng hơi có chút run rẩy, quay lại hỏi Ba Đốn Yên đang ngồi trên kia.
+Như đã vạch mặt nhau, Bọn hắn ba người cũng không cần phải ở lại Ba Đốn gia tộc này thêm nhiều nữa. Chỉ là khi bọn họ muốn phá không rời đi, lại bị một cổ vô hình Lực lượng cho đẩy trở về lại, dụng thần thức quan sát, chỉ thấy xung quanh bọn họ không biết từ khi nào đã xuất hiện một màn Phù Văn Pháp Tắc luân chuyển, đây là chuyên bảo hộ cùng giam cầm Ngụy Thánh cường giả thủ đoạn một trong, Cố Không Thánh Phù, bọn họ sao có thể nhận không ra.
+Ba Đốn gia tộc này sử dụng chiêu thức này, là không muốn để cho bọn họ rời đi nơi này đây mà. Thế nhưng bọn họ có điều không hiểu, bọn họ chỉ là không muốn ở lại chết chung với lại Ba Đốn gia tộc mà thôi, cũng không có làm điều gì đắc tội với lại Ba Đốn gia tộc, những người này vì sao lại nhất định phải đối phó với bọn họ kia chứ.
+"Ầm! Ầm! "
+"Đế Tây Âm! Nhã Lôi Hư! Tư Thản! Các ngươi đã thẳng thắn như vậy, ta cũng không cần thiết phải vòng vo nữa, hiện tại trước mắt ba người các ngươi chỉ có hai con đường, giao ra Tinh Huyết thần phục với lại Ba Đốn gia tộc chúng ta, làm Ba Đốn gia tộc chúng ta một viên Trưởng Lão, con đường thứ hai chính là phải chết dưới Đoán Thiên Đao này!" Ba Đốn Yên khẽ động Đoán Thiên Đao, gằn giọng đưa ra tối hậu thư với ba người Đế Tây Âm.
+"Yên Thánh Nhân! Có thể cho chúng tôi biết lý do như thế nào mà ngài phải làm như vậy hay không, ta nhớ không lầm ba người chúng ta không có đắc tội với lại Ba Đốn gia tộc thì phải!" Trầm mặc trong chốc lát, Đế Tây Âm liền lên tiếng chất vấn Ba Đốn Yên, bên trong lời nói là không còn được khí khái như trước.
+Điều này cũng là dễ hiểu, trước đây bọn họ đều nghĩ cùng là Ngụy Thánh với nhau bọn chúng đánh không lại Ba Đốn Yên vẫn có thể bình an rời đi là không khó, nhưng mà bây giờ mọi chuyện đã hoàn toàn khác, Cố Không Thánh Phù xuất hiện, giam cầm tất cả không gian, ba người bọn họ như là cá trong chậu, muốn chạy trốn là không có hy vọng, trong khi Ba Đốn Yên không chỉ là Ngụy Thánh trung kỳ tiểu thành thực lực đều cao hơn Ngụy Thánh sơ kỳ bọn họ, còn cầm trong tay một kiện Cấm Khí Đoán Thiên Đao, muốn giết bọn họ là không cần tốn nhiều sức, tình cảnh hiện tại, không xuống giọng là không được rồi.
+"Các ngươi không có đắt tội Ba Đốn gia tộc chúng ta, chỉ là trách các ngươi đã biết quá nhiều chuyện không nên biết!" Ba Đốn Yên chỉ trả lời ngắn gọn một câu, sau đó không lên tiếng nói một lời, yên lặng chờ bọn họ đưa ra câu trả lời.
+"Biết quá nhiều chuyện...! "Đế Tây Âm ba người hơi ngẩn ngơ, ba mặt nhìn nhau, từ trong ánh mắt đối phương có thể đọc được ra kinh ngạc cùng không hiểu.
+Cái này cũng không thể trách ba người bọn họ, Ba Đốn Yên nói bọn họ biết quá nhiều chuyện, nhưng mà lại không nói cụ thể là chuyện gì, làm sao bọn họ có thể biết được.
+"Ân! Yên Thánh Nhân! Mấy tháng vừa qua ta nghe nói đến một chuyện, có người loan truyền tin tức nói là Tuyết Mạn gia tộc Tuyết Mạn Sát cùng Tuyết Mạn Lâm đột phá Ngụy Thánh cảnh giới, cho nên mới phát động chiến tranh xâm chiếm Tây Địa Khu! Cái tin tức này có phải là do Ba Đốn gia tộc các vị lan truyền ra hay không? " 1yH3b Đế Tây Âm linh quang khẽ động, như là nhớ đến chuyện gì, liền là lên tiếng chất vấn Ba Đốn Yên.
+Hắn đã nhớ lại, hai tháng trước đây khi mà Tuyết Mạn gia tộc lợi dụng cái Chiến Trận kia thôn tính rất nhiều Địa Vực, trong khoảng thời gian này lại rộ lên một cái tin đồn là Tuyết Mạn gia tộc có thể nhanh chóng bành trướng thế lực của mình như thế, liền là vì trong tộc hai đại cường giả của bọn họ là Tuyết Mạn Sát cùng Tuyết Mạn Lâm đột phá Ngụy Thánh cảnh giới, thực lực tăng trưởng khủng bố cho nên mới có thể nhanh chóng nuốt vào nhiều địa bàn như vậy, hoàn toàn không phải là do công của cái Chiến Trận kia, Tuyết Mạn Sát chỉ lấy cái Chiến Trận kia ra làm bình phong mà thôi.
+Tin tức này xuất hiện, làm cho tất cả những thế lực tại Tây Địa Khu đều tin là thật, vì mọi người đều nghĩ, trên đời này làm gì có cái Chiến Trận nào nghịch thiên đến nỗi chỉ dùng Đạo Thể Ma Tôn có thể trấn áp được Ngụy Thánh cường giả kia chứ.
+
+Truyện tu đạo, hệ thống cảnh giới khác biệt, main phải len qua khe hẹp tìm cách sống sót. NVP không não tàn. Mong được ủng hộ Nhất Kiếp Tiên Phàm
+
+---
+
+**Thông tin chương:**
+- Số chương: 707
+- Thời gian cập nhật: 2026-01-17 10:59:45
+
+<div class="chapter-nav">
+    <a href="chuong_706.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_708.html" class="nav-btn">Chương sau →</a>
+</div>
