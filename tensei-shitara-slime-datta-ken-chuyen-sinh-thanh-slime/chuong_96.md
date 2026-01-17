@@ -477,8 +477,7 @@ Dù công tác dọn dẹp sau trận chiến có lẽ khó khăn, nhưng vấn 
 
 **Thông tin chương:**
 - Số chương: 96
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-96](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-96)
-- Thời gian scrape: 2026-01-17 09:42:16
+- Thời gian cập nhật: 2026-01-17 09:42:16
 
 <div class="chapter-nav">
     <a href="chuong_95.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_97.html" class="nav-btn">Chương sau →</a>

@@ -228,8 +228,7 @@ Làm ra quyết định sau, Thẩm Dục trong lòng cũng thông suốt, ôm L
 
 **Thông tin chương:**
 - Số chương: 90
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-90](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-90)
-- Thời gian scrape: 2026-01-13 00:27:41
+- Thời gian cập nhật: 2026-01-13 00:27:41
 
 <div class="chapter-nav">
     <a href="chuong_89.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_91.html" class="nav-btn">Chương sau →</a>

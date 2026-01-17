@@ -152,8 +152,7 @@ Nếu như 100 điểm mãn phân, Vương San San nhiều lắm là cũng chín
 
 **Thông tin chương:**
 - Số chương: 332
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-332](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-332)
-- Thời gian scrape: 2026-01-13 21:59:33
+- Thời gian cập nhật: 2026-01-13 21:59:33
 
 <div class="chapter-nav">
     <a href="chuong_331.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_333.html" class="nav-btn">Chương sau →</a>

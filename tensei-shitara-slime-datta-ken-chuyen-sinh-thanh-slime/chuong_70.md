@@ -837,8 +837,7 @@ Ngày hôm đó, 1 quỷ vương mới đã ra đời.
 
 **Thông tin chương:**
 - Số chương: 70
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-70](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-70)
-- Thời gian scrape: 2026-01-17 09:41:05
+- Thời gian cập nhật: 2026-01-17 09:41:05
 
 <div class="chapter-nav">
     <a href="chuong_69.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_71.html" class="nav-btn">Chương sau →</a>

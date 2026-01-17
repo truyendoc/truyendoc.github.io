@@ -264,8 +264,7 @@ Còn có một cái thần binh cùng ba kiện bảo binh.
 
 **Thông tin chương:**
 - Số chương: 130
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-130](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-130)
-- Thời gian scrape: 2026-01-13 00:29:39
+- Thời gian cập nhật: 2026-01-13 00:29:39
 
 <div class="chapter-nav">
     <a href="chuong_129.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_131.html" class="nav-btn">Chương sau →</a>

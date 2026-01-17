@@ -154,8 +154,7 @@ Thậm chí, cứ như vậy ném xuống sông tươi sống c·hết đ·uối
 
 **Thông tin chương:**
 - Số chương: 464
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-464](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-464)
-- Thời gian scrape: 2026-01-13 22:07:22
+- Thời gian cập nhật: 2026-01-13 22:07:22
 
 <div class="chapter-nav">
     <a href="chuong_463.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_465.html" class="nav-btn">Chương sau →</a>

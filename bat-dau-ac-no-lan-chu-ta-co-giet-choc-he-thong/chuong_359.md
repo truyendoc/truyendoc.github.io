@@ -96,8 +96,7 @@ Nhưng Ngao Thanh Sương lại quyết định cùng hắn cùng đi.
 
 **Thông tin chương:**
 - Số chương: 359
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-359](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-359)
-- Thời gian scrape: 2026-01-13 00:24:52
+- Thời gian cập nhật: 2026-01-13 00:24:52
 
 <div class="chapter-nav">
     <a href="chuong_358.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_360.html" class="nav-btn">Chương sau →</a>

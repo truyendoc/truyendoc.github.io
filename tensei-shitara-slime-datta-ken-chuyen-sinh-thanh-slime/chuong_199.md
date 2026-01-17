@@ -535,8 +535,7 @@ Tôi vội vàng tới đó, cố kiềm chế Milim trước khi quá muộn.
 
 **Thông tin chương:**
 - Số chương: 199
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-199](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-199)
-- Thời gian scrape: 2026-01-17 09:47:08
+- Thời gian cập nhật: 2026-01-17 09:47:08
 
 <div class="chapter-nav">
     <a href="chuong_198.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_200.html" class="nav-btn">Chương sau →</a>

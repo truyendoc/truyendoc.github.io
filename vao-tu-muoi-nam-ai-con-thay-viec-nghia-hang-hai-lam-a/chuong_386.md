@@ -200,8 +200,7 @@ Lầm bầm lầu bầu nói xong lời nói này, Tào Côn tại côn thành p
 
 **Thông tin chương:**
 - Số chương: 386
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-386](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-386)
-- Thời gian scrape: 2026-01-13 22:02:50
+- Thời gian cập nhật: 2026-01-13 22:02:50
 
 <div class="chapter-nav">
     <a href="chuong_385.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_387.html" class="nav-btn">Chương sau →</a>

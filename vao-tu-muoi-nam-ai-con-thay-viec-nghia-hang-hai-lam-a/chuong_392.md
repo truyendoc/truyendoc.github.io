@@ -172,8 +172,7 @@ Tại thời gian đi vào chín giờ tối thời điểm, Lý Văn Văn đám
 
 **Thông tin chương:**
 - Số chương: 392
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-392](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-392)
-- Thời gian scrape: 2026-01-13 22:03:09
+- Thời gian cập nhật: 2026-01-13 22:03:09
 
 <div class="chapter-nav">
     <a href="chuong_391.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_393.html" class="nav-btn">Chương sau →</a>

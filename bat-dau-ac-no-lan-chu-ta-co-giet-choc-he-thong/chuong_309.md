@@ -132,8 +132,7 @@ Nghĩ tới đây, Thẩm Dục quyết định đem bọn hắn ném đến Lin
 
 **Thông tin chương:**
 - Số chương: 309
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-309](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-309)
-- Thời gian scrape: 2026-01-13 00:22:54
+- Thời gian cập nhật: 2026-01-13 00:22:54
 
 <div class="chapter-nav">
     <a href="chuong_308.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_310.html" class="nav-btn">Chương sau →</a>

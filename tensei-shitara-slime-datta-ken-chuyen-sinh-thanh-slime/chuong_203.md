@@ -679,8 +679,7 @@ Chỉ trong ngày đầu tiên của trận Đại Chiến, các phe phái trên
 
 **Thông tin chương:**
 - Số chương: 203
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-203](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-203)
-- Thời gian scrape: 2026-01-17 09:47:20
+- Thời gian cập nhật: 2026-01-17 09:47:20
 
 <div class="chapter-nav">
     <a href="chuong_202.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_204.html" class="nav-btn">Chương sau →</a>

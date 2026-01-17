@@ -284,8 +284,7 @@ Phù lục tiếp tục thời gian là một khắc đồng hồ.
 
 **Thông tin chương:**
 - Số chương: 94
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-94](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-94)
-- Thời gian scrape: 2026-01-13 00:27:53
+- Thời gian cập nhật: 2026-01-13 00:27:53
 
 <div class="chapter-nav">
     <a href="chuong_93.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_95.html" class="nav-btn">Chương sau →</a>

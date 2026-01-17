@@ -529,8 +529,7 @@ Sau này vai trò của "Ciel" sẽ càng lớn hơn nữa, đóng vai trò làm
 
 **Thông tin chương:**
 - Số chương: 194
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-194](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-194)
-- Thời gian scrape: 2026-01-17 09:46:54
+- Thời gian cập nhật: 2026-01-17 09:46:54
 
 <div class="chapter-nav">
     <a href="chuong_193.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_195.html" class="nav-btn">Chương sau →</a>

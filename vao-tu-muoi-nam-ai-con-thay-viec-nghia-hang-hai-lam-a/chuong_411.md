@@ -174,8 +174,7 @@ Bị Tào Côn hỏi như vậy, Mã Trường Ninh có chút câu nệ cười 
 
 **Thông tin chương:**
 - Số chương: 411
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-411](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-411)
-- Thời gian scrape: 2026-01-13 22:04:11
+- Thời gian cập nhật: 2026-01-13 22:04:11
 
 <div class="chapter-nav">
     <a href="chuong_410.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_412.html" class="nav-btn">Chương sau →</a>

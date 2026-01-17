@@ -164,8 +164,7 @@ Hắn vội vàng nói: "Ngọa tào, lão Tào, một đêm kiếm lời gần 
 
 **Thông tin chương:**
 - Số chương: 77
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-77](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-77)
-- Thời gian scrape: 2026-01-13 21:44:09
+- Thời gian cập nhật: 2026-01-13 21:44:09
 
 <div class="chapter-nav">
     <a href="chuong_76.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_78.html" class="nav-btn">Chương sau →</a>

@@ -162,8 +162,7 @@ Tào Côn nhẹ gật đầu: "Giao cho ta đi, đến Hải Thành ta tìm ngư
 
 **Thông tin chương:**
 - Số chương: 182
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-182](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-182)
-- Thời gian scrape: 2026-01-13 21:50:15
+- Thời gian cập nhật: 2026-01-13 21:50:15
 
 <div class="chapter-nav">
     <a href="chuong_181.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_183.html" class="nav-btn">Chương sau →</a>

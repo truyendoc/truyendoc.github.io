@@ -184,8 +184,7 @@ Lưu Bản Xương nói: "Các ngươi có phải hay không ngốc nha, chỉ c
 
 **Thông tin chương:**
 - Số chương: 714
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-714](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-714)
-- Thời gian scrape: 2026-01-13 22:21:45
+- Thời gian cập nhật: 2026-01-13 22:21:45
 
 <div class="chapter-nav">
     <a href="chuong_713.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_715.html" class="nav-btn">Chương sau →</a>

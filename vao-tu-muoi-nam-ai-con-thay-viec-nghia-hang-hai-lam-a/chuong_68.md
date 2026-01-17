@@ -158,8 +158,7 @@ Thậm chí, thẳng đến Tào Côn đi đều năm sáu phần giờ, nàng m
 
 **Thông tin chương:**
 - Số chương: 68
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-68](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-68)
-- Thời gian scrape: 2026-01-13 21:43:11
+- Thời gian cập nhật: 2026-01-13 21:43:11
 
 <div class="chapter-nav">
     <a href="chuong_67.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_69.html" class="nav-btn">Chương sau →</a>

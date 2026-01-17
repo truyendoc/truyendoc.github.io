@@ -214,8 +214,7 @@ Nghe xong Tào Côn lại muốn cùng tự mình tính sổ sách, Bạch Tĩnh
 
 **Thông tin chương:**
 - Số chương: 140
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-140](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-140)
-- Thời gian scrape: 2026-01-13 21:47:44
+- Thời gian cập nhật: 2026-01-13 21:47:44
 
 <div class="chapter-nav">
     <a href="chuong_139.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_141.html" class="nav-btn">Chương sau →</a>

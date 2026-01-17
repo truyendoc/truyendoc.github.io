@@ -403,8 +403,7 @@ Trận đấu kéo dài mấy ngày liền cuối cùng cũng đi đến hồi k
 
 **Thông tin chương:**
 - Số chương: 115
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-115](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-115)
-- Thời gian scrape: 2026-01-17 09:43:13
+- Thời gian cập nhật: 2026-01-17 09:43:13
 
 <div class="chapter-nav">
     <a href="chuong_114.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_116.html" class="nav-btn">Chương sau →</a>

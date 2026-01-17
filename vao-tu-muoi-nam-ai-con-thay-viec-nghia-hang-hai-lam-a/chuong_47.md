@@ -164,8 +164,7 @@ Bởi vì, tại bọn hắn cho ra điều tra kết quả bên trong, Vương 
 
 **Thông tin chương:**
 - Số chương: 47
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-47](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-47)
-- Thời gian scrape: 2026-01-13 21:41:59
+- Thời gian cập nhật: 2026-01-13 21:41:59
 
 <div class="chapter-nav">
     <a href="chuong_46.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_48.html" class="nav-btn">Chương sau →</a>

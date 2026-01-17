@@ -152,8 +152,7 @@ Bằng không, hắn không phải hảo hảo trong tù chiêu đãi chiêu đ�
 
 **Thông tin chương:**
 - Số chương: 452
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-452](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-452)
-- Thời gian scrape: 2026-01-13 22:06:30
+- Thời gian cập nhật: 2026-01-13 22:06:30
 
 <div class="chapter-nav">
     <a href="chuong_451.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_453.html" class="nav-btn">Chương sau →</a>

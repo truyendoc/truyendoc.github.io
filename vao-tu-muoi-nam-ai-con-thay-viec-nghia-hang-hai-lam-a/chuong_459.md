@@ -170,8 +170,7 @@ Vương San San xin lỗi nói; "Học trưởng, thật xin lỗi, mấy ngày 
 
 **Thông tin chương:**
 - Số chương: 459
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-459](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-459)
-- Thời gian scrape: 2026-01-13 22:07:07
+- Thời gian cập nhật: 2026-01-13 22:07:07
 
 <div class="chapter-nav">
     <a href="chuong_458.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_460.html" class="nav-btn">Chương sau →</a>

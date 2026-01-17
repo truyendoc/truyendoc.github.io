@@ -178,8 +178,7 @@ Cái này sóng máu kiếm nha!
 
 **Thông tin chương:**
 - Số chương: 716
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-716](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-716)
-- Thời gian scrape: 2026-01-13 22:21:50
+- Thời gian cập nhật: 2026-01-13 22:21:50
 
 <div class="chapter-nav">
     <a href="chuong_715.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_717.html" class="nav-btn">Chương sau →</a>

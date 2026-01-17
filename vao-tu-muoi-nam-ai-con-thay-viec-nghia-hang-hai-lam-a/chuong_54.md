@@ -162,8 +162,7 @@ Bạch Tĩnh phốc thử cười một tiếng, bận bịu kéo căng im miệ
 
 **Thông tin chương:**
 - Số chương: 54
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-54](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-54)
-- Thời gian scrape: 2026-01-13 21:42:20
+- Thời gian cập nhật: 2026-01-13 21:42:20
 
 <div class="chapter-nav">
     <a href="chuong_53.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_55.html" class="nav-btn">Chương sau →</a>

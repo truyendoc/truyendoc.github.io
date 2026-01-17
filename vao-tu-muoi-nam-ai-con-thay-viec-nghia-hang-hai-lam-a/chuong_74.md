@@ -174,8 +174,7 @@ Thậm chí, có thể hay không cứu giúp trở về đều là chuyện gì
 
 **Thông tin chương:**
 - Số chương: 74
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-74](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-74)
-- Thời gian scrape: 2026-01-13 21:43:40
+- Thời gian cập nhật: 2026-01-13 21:43:40
 
 <div class="chapter-nav">
     <a href="chuong_73.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_75.html" class="nav-btn">Chương sau →</a>

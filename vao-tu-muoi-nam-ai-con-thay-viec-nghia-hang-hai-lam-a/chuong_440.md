@@ -178,8 +178,7 @@ Thậm chí, đều đến các thúc thúc cần dùng cái xẻng mới có th
 
 **Thông tin chương:**
 - Số chương: 440
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-440](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-440)
-- Thời gian scrape: 2026-01-13 22:05:51
+- Thời gian cập nhật: 2026-01-13 22:05:51
 
 <div class="chapter-nav">
     <a href="chuong_439.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_441.html" class="nav-btn">Chương sau →</a>

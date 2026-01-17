@@ -240,8 +240,7 @@ Cố ý an bài người đi chịu c·hết.
 
 **Thông tin chương:**
 - Số chương: 171
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-171](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-171)
-- Thời gian scrape: 2026-01-13 00:31:29
+- Thời gian cập nhật: 2026-01-13 00:31:29
 
 <div class="chapter-nav">
     <a href="chuong_170.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_172.html" class="nav-btn">Chương sau →</a>

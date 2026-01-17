@@ -152,8 +152,7 @@ Theo Tào Côn câu nói này ra miệng, một chút nguyên bản đều dự 
 
 **Thông tin chương:**
 - Số chương: 549
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-549](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-549)
-- Thời gian scrape: 2026-01-13 22:12:15
+- Thời gian cập nhật: 2026-01-13 22:12:15
 
 <div class="chapter-nav">
     <a href="chuong_548.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_550.html" class="nav-btn">Chương sau →</a>

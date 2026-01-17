@@ -170,8 +170,7 @@ Nghe vậy, Hạng Nam Nguyệt bĩu môi cười một tiếng, nói: "Cái nà
 
 **Thông tin chương:**
 - Số chương: 597
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-597](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-597)
-- Thời gian scrape: 2026-01-13 22:14:55
+- Thời gian cập nhật: 2026-01-13 22:14:55
 
 <div class="chapter-nav">
     <a href="chuong_596.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_598.html" class="nav-btn">Chương sau →</a>

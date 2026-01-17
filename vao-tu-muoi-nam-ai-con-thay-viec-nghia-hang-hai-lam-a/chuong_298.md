@@ -156,8 +156,7 @@ Nhìn xem Tào Côn đưa về phía mình quyển kia thật dày quyển nhậ
 
 **Thông tin chương:**
 - Số chương: 298
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-298](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-298)
-- Thời gian scrape: 2026-01-13 21:57:34
+- Thời gian cập nhật: 2026-01-13 21:57:34
 
 <div class="chapter-nav">
     <a href="chuong_297.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_299.html" class="nav-btn">Chương sau →</a>

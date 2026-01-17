@@ -473,8 +473,7 @@ Và vì vậy mà màn đêm đang dần trôi qua trong khi tôi đang suy ngh�
 
 **Thông tin chương:**
 - Số chương: 116
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-116](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-116)
-- Thời gian scrape: 2026-01-17 09:43:15
+- Thời gian cập nhật: 2026-01-17 09:43:15
 
 <div class="chapter-nav">
     <a href="chuong_115.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_117.html" class="nav-btn">Chương sau →</a>

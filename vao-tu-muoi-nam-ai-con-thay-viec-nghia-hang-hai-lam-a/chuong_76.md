@@ -166,8 +166,7 @@ Nói, Tào Côn hướng miệng bên trong miệng lớn lay một ngụm, tr�
 
 **Thông tin chương:**
 - Số chương: 76
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-76](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-76)
-- Thời gian scrape: 2026-01-13 21:43:47
+- Thời gian cập nhật: 2026-01-13 21:43:47
 
 <div class="chapter-nav">
     <a href="chuong_75.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_77.html" class="nav-btn">Chương sau →</a>

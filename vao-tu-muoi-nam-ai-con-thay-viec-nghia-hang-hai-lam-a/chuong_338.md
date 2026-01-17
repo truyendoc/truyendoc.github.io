@@ -154,8 +154,7 @@ Thật sự là quá chó, kéo đều kéo không ở hắn!
 
 **Thông tin chương:**
 - Số chương: 338
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-338](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-338)
-- Thời gian scrape: 2026-01-13 21:59:55
+- Thời gian cập nhật: 2026-01-13 21:59:55
 
 <div class="chapter-nav">
     <a href="chuong_337.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_339.html" class="nav-btn">Chương sau →</a>

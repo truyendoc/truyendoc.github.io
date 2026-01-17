@@ -341,8 +341,7 @@ Kết quả là, giống như tôi mong đợi, một thị trấn đã được
 
 **Thông tin chương:**
 - Số chương: 119
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-119](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-119)
-- Thời gian scrape: 2026-01-17 09:43:23
+- Thời gian cập nhật: 2026-01-17 09:43:23
 
 <div class="chapter-nav">
     <a href="chuong_118.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_120.html" class="nav-btn">Chương sau →</a>

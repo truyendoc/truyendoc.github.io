@@ -156,8 +156,7 @@ Tào Côn kinh ngạc một chút, hắn còn là lần đầu tiên nhìn thấ
 
 **Thông tin chương:**
 - Số chương: 395
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-395](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-395)
-- Thời gian scrape: 2026-01-13 22:03:18
+- Thời gian cập nhật: 2026-01-13 22:03:18
 
 <div class="chapter-nav">
     <a href="chuong_394.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_396.html" class="nav-btn">Chương sau →</a>

@@ -228,8 +228,7 @@ Chung Nguyên Sơn, Lý Thanh Sơn cùng Vương Uyên đến đây bái phỏng
 
 **Thông tin chương:**
 - Số chương: 103
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-103](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-103)
-- Thời gian scrape: 2026-01-13 00:28:19
+- Thời gian cập nhật: 2026-01-13 00:28:19
 
 <div class="chapter-nav">
     <a href="chuong_102.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_104.html" class="nav-btn">Chương sau →</a>

@@ -192,8 +192,7 @@ Coi là Bàng Hồng Na bên kia lại có cái gì nghiên cứu khoa học bê
 
 **Thông tin chương:**
 - Số chương: 466
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-466](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-466)
-- Thời gian scrape: 2026-01-13 22:07:28
+- Thời gian cập nhật: 2026-01-13 22:07:28
 
 <div class="chapter-nav">
     <a href="chuong_465.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_467.html" class="nav-btn">Chương sau →</a>

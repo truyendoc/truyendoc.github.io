@@ -246,8 +246,7 @@ Lý Linh Nhi cũng là một mặt sùng bái nói.
 
 **Thông tin chương:**
 - Số chương: 105
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-105](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-105)
-- Thời gian scrape: 2026-01-13 00:28:25
+- Thời gian cập nhật: 2026-01-13 00:28:25
 
 <div class="chapter-nav">
     <a href="chuong_104.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_106.html" class="nav-btn">Chương sau →</a>

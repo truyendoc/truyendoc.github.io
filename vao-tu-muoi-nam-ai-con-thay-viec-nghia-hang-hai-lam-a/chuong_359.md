@@ -164,8 +164,7 @@ Dương Nhật Bố có chút kinh ngạc một chút, nói: "Trương tỷ, cá
 
 **Thông tin chương:**
 - Số chương: 359
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-359](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-359)
-- Thời gian scrape: 2026-01-13 22:01:14
+- Thời gian cập nhật: 2026-01-13 22:01:14
 
 <div class="chapter-nav">
     <a href="chuong_358.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_360.html" class="nav-btn">Chương sau →</a>

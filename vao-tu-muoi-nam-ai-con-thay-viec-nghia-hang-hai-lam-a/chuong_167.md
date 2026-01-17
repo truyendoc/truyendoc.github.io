@@ -164,8 +164,7 @@ Làm Hàn Bằng cười nói ra hắn cái này giấc mơ kỳ quái về sau,
 
 **Thông tin chương:**
 - Số chương: 167
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-167](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-167)
-- Thời gian scrape: 2026-01-13 21:49:24
+- Thời gian cập nhật: 2026-01-13 21:49:24
 
 <div class="chapter-nav">
     <a href="chuong_166.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_168.html" class="nav-btn">Chương sau →</a>

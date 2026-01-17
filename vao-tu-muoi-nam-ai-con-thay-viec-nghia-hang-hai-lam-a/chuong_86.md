@@ -164,8 +164,7 @@ Cho nên, Tào Côn ôm nàng bờ eo thon, dễ dàng liền đem nó kéo vào
 
 **Thông tin chương:**
 - Số chương: 86
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-86](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-86)
-- Thời gian scrape: 2026-01-13 21:44:40
+- Thời gian cập nhật: 2026-01-13 21:44:40
 
 <div class="chapter-nav">
     <a href="chuong_85.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_87.html" class="nav-btn">Chương sau →</a>

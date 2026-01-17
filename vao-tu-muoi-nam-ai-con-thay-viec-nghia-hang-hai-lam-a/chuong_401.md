@@ -184,8 +184,7 @@ Nghĩ đến cái này, Vương Nhất Phu nắm đấm lại cứng rắn!
 
 **Thông tin chương:**
 - Số chương: 401
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-401](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-401)
-- Thời gian scrape: 2026-01-13 22:03:38
+- Thời gian cập nhật: 2026-01-13 22:03:38
 
 <div class="chapter-nav">
     <a href="chuong_400.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_402.html" class="nav-btn">Chương sau →</a>

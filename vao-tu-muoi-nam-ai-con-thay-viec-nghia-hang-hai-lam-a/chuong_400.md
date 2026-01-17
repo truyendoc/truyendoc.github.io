@@ -204,8 +204,7 @@ Hơn nửa tháng không gặp, cũng không biết thân yêu Vương thúc th�
 
 **Thông tin chương:**
 - Số chương: 400
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-400](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-400)
-- Thời gian scrape: 2026-01-13 22:03:35
+- Thời gian cập nhật: 2026-01-13 22:03:35
 
 <div class="chapter-nav">
     <a href="chuong_399.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_401.html" class="nav-btn">Chương sau →</a>

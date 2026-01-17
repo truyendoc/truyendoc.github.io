@@ -158,8 +158,7 @@ Tào Côn cười cười, cũng không có cùng Đào Băng Băng đối với
 
 **Thông tin chương:**
 - Số chương: 602
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-602](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-602)
-- Thời gian scrape: 2026-01-13 22:15:17
+- Thời gian cập nhật: 2026-01-13 22:15:17
 
 <div class="chapter-nav">
     <a href="chuong_601.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_603.html" class="nav-btn">Chương sau →</a>

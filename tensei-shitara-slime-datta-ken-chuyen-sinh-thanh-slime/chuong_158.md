@@ -415,8 +415,7 @@ Và rồi, những cư dân của chốn địa ngục này sẽ kiên nhẫn đ
 
 **Thông tin chương:**
 - Số chương: 158
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-158](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-158)
-- Thời gian scrape: 2026-01-17 09:45:12
+- Thời gian cập nhật: 2026-01-17 09:45:12
 
 <div class="chapter-nav">
     <a href="chuong_157.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_159.html" class="nav-btn">Chương sau →</a>

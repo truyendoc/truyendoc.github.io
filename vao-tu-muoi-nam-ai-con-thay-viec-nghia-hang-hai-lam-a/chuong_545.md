@@ -160,8 +160,7 @@ Tào Côn hôm nay từ Đế Vương quán bar bên kia xong việc trở về,
 
 **Thông tin chương:**
 - Số chương: 545
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-545](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-545)
-- Thời gian scrape: 2026-01-13 22:12:03
+- Thời gian cập nhật: 2026-01-13 22:12:03
 
 <div class="chapter-nav">
     <a href="chuong_544.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_546.html" class="nav-btn">Chương sau →</a>

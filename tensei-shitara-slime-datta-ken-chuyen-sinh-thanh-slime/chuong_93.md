@@ -245,8 +245,7 @@ Dù gì với cuộc Thánh chiến ở mức độ này, nào đâu có cái k�
 
 **Thông tin chương:**
 - Số chương: 93
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-93](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-93)
-- Thời gian scrape: 2026-01-17 09:42:08
+- Thời gian cập nhật: 2026-01-17 09:42:08
 
 <div class="chapter-nav">
     <a href="chuong_92.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_94.html" class="nav-btn">Chương sau →</a>

@@ -373,8 +373,7 @@ Một đại quân của Đế chế với quy mô chưa từng có tiền lệ 
 
 **Thông tin chương:**
 - Số chương: 152
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-152](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-152)
-- Thời gian scrape: 2026-01-17 09:44:56
+- Thời gian cập nhật: 2026-01-17 09:44:56
 
 <div class="chapter-nav">
     <a href="chuong_151.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_153.html" class="nav-btn">Chương sau →</a>

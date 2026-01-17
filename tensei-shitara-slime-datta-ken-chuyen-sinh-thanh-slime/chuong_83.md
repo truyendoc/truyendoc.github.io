@@ -599,8 +599,7 @@ Như đã hứa. Một cái chết nhanh chóng.
 
 **Thông tin chương:**
 - Số chương: 83
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-83](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-83)
-- Thời gian scrape: 2026-01-17 09:41:41
+- Thời gian cập nhật: 2026-01-17 09:41:41
 
 <div class="chapter-nav">
     <a href="chuong_82.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_84.html" class="nav-btn">Chương sau →</a>

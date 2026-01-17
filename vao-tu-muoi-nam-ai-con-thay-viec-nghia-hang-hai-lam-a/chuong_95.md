@@ -206,8 +206,7 @@ Cái này Lý Kiến Quốc thật sự là không bằng heo chó, thật là �
 
 **Thông tin chương:**
 - Số chương: 95
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-95](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-95)
-- Thời gian scrape: 2026-01-13 21:45:12
+- Thời gian cập nhật: 2026-01-13 21:45:12
 
 <div class="chapter-nav">
     <a href="chuong_94.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_96.html" class="nav-btn">Chương sau →</a>

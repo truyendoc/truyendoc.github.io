@@ -447,8 +447,7 @@ Mọi chuyện sẽ diễn ra theo cách nào đó một khi tôi đánh bại V
 
 **Thông tin chương:**
 - Số chương: 238
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-238](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-238)
-- Thời gian scrape: 2026-01-17 09:49:02
+- Thời gian cập nhật: 2026-01-17 09:49:02
 
 <div class="chapter-nav">
     <a href="chuong_237.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_239.html" class="nav-btn">Chương sau →</a>

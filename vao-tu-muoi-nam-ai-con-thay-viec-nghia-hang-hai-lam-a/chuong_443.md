@@ -180,8 +180,7 @@ Một người mặc đạo bào đạo sĩ, chính khoanh chân ngồi tại t�
 
 **Thông tin chương:**
 - Số chương: 443
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-443](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-443)
-- Thời gian scrape: 2026-01-13 22:06:00
+- Thời gian cập nhật: 2026-01-13 22:06:00
 
 <div class="chapter-nav">
     <a href="chuong_442.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_444.html" class="nav-btn">Chương sau →</a>

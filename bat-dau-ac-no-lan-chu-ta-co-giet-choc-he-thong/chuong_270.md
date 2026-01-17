@@ -118,8 +118,7 @@ Thứ chín trăm hộ chỗ Bách hộ trên đường gặp phải một cái 
 
 **Thông tin chương:**
 - Số chương: 270
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-270](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-270)
-- Thời gian scrape: 2026-01-13 00:35:26
+- Thời gian cập nhật: 2026-01-13 00:35:26
 
 <div class="chapter-nav">
     <a href="chuong_269.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_271.html" class="nav-btn">Chương sau →</a>

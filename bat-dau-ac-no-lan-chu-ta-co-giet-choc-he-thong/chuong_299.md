@@ -108,8 +108,7 @@ Chỉ cần Yêu Tộc không cùng bọn hắn cứng đối cứng, bọn hắ
 
 **Thông tin chương:**
 - Số chương: 299
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-299](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-299)
-- Thời gian scrape: 2026-01-13 00:22:30
+- Thời gian cập nhật: 2026-01-13 00:22:30
 
 <div class="chapter-nav">
     <a href="chuong_298.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_300.html" class="nav-btn">Chương sau →</a>

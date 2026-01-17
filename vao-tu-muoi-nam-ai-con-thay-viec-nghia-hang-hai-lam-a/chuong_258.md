@@ -174,8 +174,7 @@ Dương Tam Đao sửng sốt một chút.
 
 **Thông tin chương:**
 - Số chương: 258
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-258](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-258)
-- Thời gian scrape: 2026-01-13 21:55:07
+- Thời gian cập nhật: 2026-01-13 21:55:07
 
 <div class="chapter-nav">
     <a href="chuong_257.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_259.html" class="nav-btn">Chương sau →</a>

@@ -186,8 +186,7 @@ Thậm chí, còn cùng Lam Khả Tâm Lý Văn Văn hai người cùng một ch
 
 **Thông tin chương:**
 - Số chương: 569
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-569](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-569)
-- Thời gian scrape: 2026-01-13 22:13:23
+- Thời gian cập nhật: 2026-01-13 22:13:23
 
 <div class="chapter-nav">
     <a href="chuong_568.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_570.html" class="nav-btn">Chương sau →</a>

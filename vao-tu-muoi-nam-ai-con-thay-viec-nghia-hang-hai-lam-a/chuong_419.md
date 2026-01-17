@@ -166,8 +166,7 @@ Nói, Cao Đình Đình bận bịu tăng nhanh trên tay trang điểm tốc đ
 
 **Thông tin chương:**
 - Số chương: 419
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-419](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-419)
-- Thời gian scrape: 2026-01-13 22:04:37
+- Thời gian cập nhật: 2026-01-13 22:04:37
 
 <div class="chapter-nav">
     <a href="chuong_418.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_420.html" class="nav-btn">Chương sau →</a>

@@ -166,8 +166,7 @@ Nghe xong Tào Côn lần này giảng thuật, Hạng Nam Nguyệt đều cư�
 
 **Thông tin chương:**
 - Số chương: 686
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-686](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-686)
-- Thời gian scrape: 2026-01-13 22:20:11
+- Thời gian cập nhật: 2026-01-13 22:20:11
 
 <div class="chapter-nav">
     <a href="chuong_685.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_687.html" class="nav-btn">Chương sau →</a>

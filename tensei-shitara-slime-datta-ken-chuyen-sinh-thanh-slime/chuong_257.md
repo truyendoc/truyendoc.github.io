@@ -387,8 +387,7 @@ Nói bằng một giọng nhỏ nhẹ để hai người kia không nghe thấy 
 
 **Thông tin chương:**
 - Số chương: 257
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-257](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-257)
-- Thời gian scrape: 2026-01-17 09:49:57
+- Thời gian cập nhật: 2026-01-17 09:49:57
 
 <div class="chapter-nav">
     <a href="chuong_256.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_258.html" class="nav-btn">Chương sau →</a>

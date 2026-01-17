@@ -160,8 +160,7 @@ Hắn lại đánh một cái Dương Ngọc Đình bờ mông, nói:
 
 **Thông tin chương:**
 - Số chương: 665
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-665](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-665)
-- Thời gian scrape: 2026-01-13 22:18:53
+- Thời gian cập nhật: 2026-01-13 22:18:53
 
 <div class="chapter-nav">
     <a href="chuong_664.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_666.html" class="nav-btn">Chương sau →</a>

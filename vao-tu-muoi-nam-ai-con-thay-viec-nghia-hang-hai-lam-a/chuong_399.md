@@ -172,8 +172,7 @@ Liễu Truyền Sĩ một mặt động dung, hắn đầu tiên là hít sâu h
 
 **Thông tin chương:**
 - Số chương: 399
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-399](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-399)
-- Thời gian scrape: 2026-01-13 22:03:32
+- Thời gian cập nhật: 2026-01-13 22:03:32
 
 <div class="chapter-nav">
     <a href="chuong_398.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_400.html" class="nav-btn">Chương sau →</a>

@@ -154,8 +154,7 @@ Lưu Kim Thành nhanh chóng ghi lại Hạ huyện cùng phúc tinh châu báu 
 
 **Thông tin chương:**
 - Số chương: 526
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-526](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-526)
-- Thời gian scrape: 2026-01-13 22:10:55
+- Thời gian cập nhật: 2026-01-13 22:10:55
 
 <div class="chapter-nav">
     <a href="chuong_525.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_527.html" class="nav-btn">Chương sau →</a>

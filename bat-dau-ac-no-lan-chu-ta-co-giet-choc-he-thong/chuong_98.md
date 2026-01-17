@@ -206,8 +206,7 @@ Nghĩ nghĩ, Thẩm Dục lại bổ sung: “Nếu như nghĩa quân đánh và
 
 **Thông tin chương:**
 - Số chương: 98
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-98](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-98)
-- Thời gian scrape: 2026-01-13 00:28:05
+- Thời gian cập nhật: 2026-01-13 00:28:05
 
 <div class="chapter-nav">
     <a href="chuong_97.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_99.html" class="nav-btn">Chương sau →</a>

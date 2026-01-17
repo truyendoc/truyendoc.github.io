@@ -194,8 +194,7 @@ Tào Côn cười nói: "Tỉnh mộng sao, tỉnh liền nhanh đi sang tên, t
 
 **Thông tin chương:**
 - Số chương: 171
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-171](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-171)
-- Thời gian scrape: 2026-01-13 21:49:38
+- Thời gian cập nhật: 2026-01-13 21:49:38
 
 <div class="chapter-nav">
     <a href="chuong_170.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_172.html" class="nav-btn">Chương sau →</a>

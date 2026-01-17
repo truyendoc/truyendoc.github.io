@@ -152,8 +152,7 @@ Tào Côn khẳng định nhẹ gật đầu: "Hôm nay đi cục cảnh sát th
 
 **Thông tin chương:**
 - Số chương: 28
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-28](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-28)
-- Thời gian scrape: 2026-01-13 21:40:54
+- Thời gian cập nhật: 2026-01-13 21:40:54
 
 <div class="chapter-nav">
     <a href="chuong_27.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_29.html" class="nav-btn">Chương sau →</a>

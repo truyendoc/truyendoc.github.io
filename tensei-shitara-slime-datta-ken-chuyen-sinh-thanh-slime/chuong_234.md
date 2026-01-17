@@ -415,8 +415,7 @@ Và thế là cô thầm cầu nguyện, ước rằng Dino sẽ lại là bạn
 
 **Thông tin chương:**
 - Số chương: 234
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-234](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-234)
-- Thời gian scrape: 2026-01-17 09:48:51
+- Thời gian cập nhật: 2026-01-17 09:48:51
 
 <div class="chapter-nav">
     <a href="chuong_233.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_235.html" class="nav-btn">Chương sau →</a>

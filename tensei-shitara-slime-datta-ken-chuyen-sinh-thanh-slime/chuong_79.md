@@ -735,8 +735,7 @@ Với anh, quỷ vương chỉ là những kẻ tầm thường ...
 
 **Thông tin chương:**
 - Số chương: 79
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-79](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-79)
-- Thời gian scrape: 2026-01-17 09:41:30
+- Thời gian cập nhật: 2026-01-17 09:41:30
 
 <div class="chapter-nav">
     <a href="chuong_78.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_80.html" class="nav-btn">Chương sau →</a>

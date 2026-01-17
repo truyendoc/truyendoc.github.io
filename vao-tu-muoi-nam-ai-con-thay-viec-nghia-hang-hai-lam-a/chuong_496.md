@@ -184,8 +184,7 @@ Bị Đoàn Minh hỏi như vậy, Vương San San cười khổ, nói: "Đừng
 
 **Thông tin chương:**
 - Số chương: 496
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-496](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-496)
-- Thời gian scrape: 2026-01-13 22:09:11
+- Thời gian cập nhật: 2026-01-13 22:09:11
 
 <div class="chapter-nav">
     <a href="chuong_495.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_497.html" class="nav-btn">Chương sau →</a>

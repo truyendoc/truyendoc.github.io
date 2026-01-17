@@ -264,8 +264,7 @@ Một cái toàn thân bao phủ tại trong áo bào đen người thần bí x
 
 **Thông tin chương:**
 - Số chương: 93
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-93](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-93)
-- Thời gian scrape: 2026-01-13 00:27:50
+- Thời gian cập nhật: 2026-01-13 00:27:50
 
 <div class="chapter-nav">
     <a href="chuong_92.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_94.html" class="nav-btn">Chương sau →</a>

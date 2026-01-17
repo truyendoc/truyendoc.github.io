@@ -174,8 +174,7 @@ Cho nên, ngành giải trí đối người mới tới nói, tuyệt không h�
 
 **Thông tin chương:**
 - Số chương: 594
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-594](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-594)
-- Thời gian scrape: 2026-01-13 22:14:44
+- Thời gian cập nhật: 2026-01-13 22:14:44
 
 <div class="chapter-nav">
     <a href="chuong_593.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_595.html" class="nav-btn">Chương sau →</a>

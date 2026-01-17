@@ -523,8 +523,7 @@ Và thế, lơ luôn Fuse, liên minh ba bên Thánh Quốc Ruberius, Thánh Gi�
 
 **Thông tin chương:**
 - Số chương: 129
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-129](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-129)
-- Thời gian scrape: 2026-01-17 09:43:50
+- Thời gian cập nhật: 2026-01-17 09:43:50
 
 <div class="chapter-nav">
     <a href="chuong_128.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_130.html" class="nav-btn">Chương sau →</a>

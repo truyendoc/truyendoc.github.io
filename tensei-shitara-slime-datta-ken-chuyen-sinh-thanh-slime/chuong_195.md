@@ -965,8 +965,7 @@ Sau khi chuyển giao lại công việc, chúng tôi quay về Tempest.
 
 **Thông tin chương:**
 - Số chương: 195
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-195](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-195)
-- Thời gian scrape: 2026-01-17 09:46:57
+- Thời gian cập nhật: 2026-01-17 09:46:57
 
 <div class="chapter-nav">
     <a href="chuong_194.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_196.html" class="nav-btn">Chương sau →</a>

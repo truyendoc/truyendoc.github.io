@@ -232,8 +232,7 @@ Thế là, quát lạnh nói: “Đến a, cho ta chưởng những vật nhỏ 
 
 **Thông tin chương:**
 - Số chương: 62
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-62](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-62)
-- Thời gian scrape: 2026-01-13 21:16:27
+- Thời gian cập nhật: 2026-01-13 21:16:27
 
 <div class="chapter-nav">
     <a href="chuong_61.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_63.html" class="nav-btn">Chương sau →</a>

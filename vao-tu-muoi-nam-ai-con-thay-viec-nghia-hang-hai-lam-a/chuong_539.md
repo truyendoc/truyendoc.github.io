@@ -166,8 +166,7 @@ Mà Trương Khiết nghe xong, cũng là che miệng cười khanh khách.
 
 **Thông tin chương:**
 - Số chương: 539
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-539](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-539)
-- Thời gian scrape: 2026-01-13 22:11:40
+- Thời gian cập nhật: 2026-01-13 22:11:40
 
 <div class="chapter-nav">
     <a href="chuong_538.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_540.html" class="nav-btn">Chương sau →</a>

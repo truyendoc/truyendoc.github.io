@@ -641,8 +641,7 @@ Hẵn vừa nhếch môi nở một cười chế diễu, vừa mở miệng bu�
 
 **Thông tin chương:**
 - Số chương: 217
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-217](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-217)
-- Thời gian scrape: 2026-01-17 09:47:59
+- Thời gian cập nhật: 2026-01-17 09:47:59
 
 <div class="chapter-nav">
     <a href="chuong_216.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_218.html" class="nav-btn">Chương sau →</a>

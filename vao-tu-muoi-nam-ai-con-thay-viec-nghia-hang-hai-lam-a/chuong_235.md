@@ -156,8 +156,7 @@ Nghe vậy, Bạch Tĩnh cười đánh Tào Côn một chút, sau đó liền �
 
 **Thông tin chương:**
 - Số chương: 235
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-235](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-235)
-- Thời gian scrape: 2026-01-13 21:53:48
+- Thời gian cập nhật: 2026-01-13 21:53:48
 
 <div class="chapter-nav">
     <a href="chuong_234.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_236.html" class="nav-btn">Chương sau →</a>

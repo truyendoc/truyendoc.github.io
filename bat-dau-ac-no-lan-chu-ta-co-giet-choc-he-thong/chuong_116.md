@@ -236,8 +236,7 @@ Sẽ đối với phản quân tạo thành đả kích rất lớn.
 
 **Thông tin chương:**
 - Số chương: 116
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-116](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-116)
-- Thời gian scrape: 2026-01-13 00:28:57
+- Thời gian cập nhật: 2026-01-13 00:28:57
 
 <div class="chapter-nav">
     <a href="chuong_115.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_117.html" class="nav-btn">Chương sau →</a>

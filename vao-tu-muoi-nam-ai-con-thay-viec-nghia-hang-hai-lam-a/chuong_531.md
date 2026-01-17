@@ -164,8 +164,7 @@ Thà rằng như vậy, còn không bằng toàn bộ bán đi, để người k
 
 **Thông tin chương:**
 - Số chương: 531
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-531](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-531)
-- Thời gian scrape: 2026-01-13 22:11:11
+- Thời gian cập nhật: 2026-01-13 22:11:11
 
 <div class="chapter-nav">
     <a href="chuong_530.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_532.html" class="nav-btn">Chương sau →</a>

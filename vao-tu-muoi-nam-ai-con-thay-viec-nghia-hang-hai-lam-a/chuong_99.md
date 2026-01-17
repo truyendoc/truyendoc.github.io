@@ -176,8 +176,7 @@ Nói, tam nữ vội vã liền đi biệt thự phòng bếp.
 
 **Thông tin chương:**
 - Số chương: 99
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-99](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-99)
-- Thời gian scrape: 2026-01-13 21:45:24
+- Thời gian cập nhật: 2026-01-13 21:45:24
 
 <div class="chapter-nav">
     <a href="chuong_98.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_100.html" class="nav-btn">Chương sau →</a>

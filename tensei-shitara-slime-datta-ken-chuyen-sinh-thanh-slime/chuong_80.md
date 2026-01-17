@@ -449,8 +449,7 @@ Chuẩn bị tinh thần, tôi tiến vào cổng
 
 **Thông tin chương:**
 - Số chương: 80
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-80](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-80)
-- Thời gian scrape: 2026-01-17 09:41:33
+- Thời gian cập nhật: 2026-01-17 09:41:33
 
 <div class="chapter-nav">
     <a href="chuong_79.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_81.html" class="nav-btn">Chương sau →</a>

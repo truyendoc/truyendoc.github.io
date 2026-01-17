@@ -164,8 +164,7 @@ Tào Côn mặt xạm lại: "Ngươi chớ nói lung tung, Bạch di nếu là 
 
 **Thông tin chương:**
 - Số chương: 55
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-55](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-55)
-- Thời gian scrape: 2026-01-13 21:42:23
+- Thời gian cập nhật: 2026-01-13 21:42:23
 
 <div class="chapter-nav">
     <a href="chuong_54.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_56.html" class="nav-btn">Chương sau →</a>

@@ -162,8 +162,7 @@ Cái này không khéo nha, vừa vặn có thể lợi dụng một chút tin t
 
 **Thông tin chương:**
 - Số chương: 711
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-711](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-711)
-- Thời gian scrape: 2026-01-13 22:21:33
+- Thời gian cập nhật: 2026-01-13 22:21:33
 
 <div class="chapter-nav">
     <a href="chuong_710.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_712.html" class="nav-btn">Chương sau →</a>

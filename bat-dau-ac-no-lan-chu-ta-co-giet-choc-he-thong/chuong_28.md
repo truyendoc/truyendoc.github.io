@@ -300,8 +300,7 @@ Có được cửu thải sắc bảo quang bảo vật đẳng cấp cao nhất
 
 **Thông tin chương:**
 - Số chương: 28
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-28](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-28)
-- Thời gian scrape: 2026-01-13 21:10:23
+- Thời gian cập nhật: 2026-01-13 21:10:23
 
 <div class="chapter-nav">
     <a href="chuong_27.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_29.html" class="nav-btn">Chương sau →</a>

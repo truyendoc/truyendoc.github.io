@@ -120,8 +120,7 @@ Dạng này liền có thể giảm bớt thiên địa nguyên khí tiêu hao!�
 
 **Thông tin chương:**
 - Số chương: 325
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-325](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-325)
-- Thời gian scrape: 2026-01-13 00:23:32
+- Thời gian cập nhật: 2026-01-13 00:23:32
 
 <div class="chapter-nav">
     <a href="chuong_324.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_326.html" class="nav-btn">Chương sau →</a>

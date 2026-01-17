@@ -593,8 +593,7 @@ Hắn nghĩ kĩ về thời cơ để khơi cho Hoàng Đế ý định điều 
 
 **Thông tin chương:**
 - Số chương: 149
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-149](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-149)
-- Thời gian scrape: 2026-01-17 09:44:47
+- Thời gian cập nhật: 2026-01-17 09:44:47
 
 <div class="chapter-nav">
     <a href="chuong_148.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_150.html" class="nav-btn">Chương sau →</a>

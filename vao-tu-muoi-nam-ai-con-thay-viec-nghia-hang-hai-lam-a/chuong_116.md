@@ -172,8 +172,7 @@ Lưu Hồng lời thề son sắt nói: "Ngươi chỉ cần giúp ta chuyện n
 
 **Thông tin chương:**
 - Số chương: 116
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-116](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-116)
-- Thời gian scrape: 2026-01-13 21:46:18
+- Thời gian cập nhật: 2026-01-13 21:46:18
 
 <div class="chapter-nav">
     <a href="chuong_115.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_117.html" class="nav-btn">Chương sau →</a>

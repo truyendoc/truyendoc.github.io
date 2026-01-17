@@ -168,8 +168,7 @@ Gặp Tào Côn ôm eo của mình, đem mình lôi dậy, Trương Khiết vộ
 
 **Thông tin chương:**
 - Số chương: 435
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-435](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-435)
-- Thời gian scrape: 2026-01-13 22:05:33
+- Thời gian cập nhật: 2026-01-13 22:05:33
 
 <div class="chapter-nav">
     <a href="chuong_434.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_436.html" class="nav-btn">Chương sau →</a>

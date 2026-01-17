@@ -172,8 +172,7 @@ Hắn vạn nhất nếu là lên đầu, đến điểm vợ ngươi thật nhu
 
 **Thông tin chương:**
 - Số chương: 164
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-164](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-164)
-- Thời gian scrape: 2026-01-13 21:49:15
+- Thời gian cập nhật: 2026-01-13 21:49:15
 
 <div class="chapter-nav">
     <a href="chuong_163.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_165.html" class="nav-btn">Chương sau →</a>

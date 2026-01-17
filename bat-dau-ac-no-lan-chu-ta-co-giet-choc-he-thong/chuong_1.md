@@ -266,8 +266,7 @@ Trùng điệp đem đĩa đặt lên bàn, sau đó ngữ khí không nhịn đ
 
 **Thông tin chương:**
 - Số chương: 1
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-1](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-1)
-- Thời gian scrape: 2026-01-13 21:09:07
+- Thời gian cập nhật: 2026-01-13 21:09:07
 
 <div class="chapter-nav">
     <a href="#" class="nav-btn disabled">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_2.html" class="nav-btn">Chương sau →</a>

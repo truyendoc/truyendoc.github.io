@@ -154,8 +154,7 @@ Bất quá, từng cái dáng người khôi ngô, bàng đại eo thô, dọa n
 
 **Thông tin chương:**
 - Số chương: 489
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-489](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-489)
-- Thời gian scrape: 2026-01-13 22:08:48
+- Thời gian cập nhật: 2026-01-13 22:08:48
 
 <div class="chapter-nav">
     <a href="chuong_488.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_490.html" class="nav-btn">Chương sau →</a>

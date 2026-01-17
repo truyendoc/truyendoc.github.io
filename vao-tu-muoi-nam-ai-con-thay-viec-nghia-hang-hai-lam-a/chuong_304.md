@@ -174,8 +174,7 @@ Nhìn xem Tào Côn cứ như vậy đưa tới công nghiệp quốc phòng x�
 
 **Thông tin chương:**
 - Số chương: 304
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-304](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-304)
-- Thời gian scrape: 2026-01-13 21:57:57
+- Thời gian cập nhật: 2026-01-13 21:57:57
 
 <div class="chapter-nav">
     <a href="chuong_303.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_305.html" class="nav-btn">Chương sau →</a>

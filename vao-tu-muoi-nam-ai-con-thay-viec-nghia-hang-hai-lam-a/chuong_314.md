@@ -164,8 +164,7 @@ Nghe xong, Dương Tam Đao sát có việc làm ha ha hai tiếng, nói:
 
 **Thông tin chương:**
 - Số chương: 314
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-314](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-314)
-- Thời gian scrape: 2026-01-13 21:58:31
+- Thời gian cập nhật: 2026-01-13 21:58:31
 
 <div class="chapter-nav">
     <a href="chuong_313.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_315.html" class="nav-btn">Chương sau →</a>

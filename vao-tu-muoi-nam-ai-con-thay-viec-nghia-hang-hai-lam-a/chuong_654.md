@@ -168,8 +168,7 @@ Vương San San nghĩ nghĩ, nói: "Hai chúng ta là vào tháng trước lễ 
 
 **Thông tin chương:**
 - Số chương: 654
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-654](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-654)
-- Thời gian scrape: 2026-01-13 22:18:15
+- Thời gian cập nhật: 2026-01-13 22:18:15
 
 <div class="chapter-nav">
     <a href="chuong_653.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_655.html" class="nav-btn">Chương sau →</a>

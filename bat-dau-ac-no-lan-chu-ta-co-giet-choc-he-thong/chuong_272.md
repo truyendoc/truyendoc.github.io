@@ -104,8 +104,7 @@ Chu Dịch cười nói: “Chúng ta Huân Quý chủ chưởng quân quyền, 
 
 **Thông tin chương:**
 - Số chương: 272
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-272](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-272)
-- Thời gian scrape: 2026-01-13 00:35:31
+- Thời gian cập nhật: 2026-01-13 00:35:31
 
 <div class="chapter-nav">
     <a href="chuong_271.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_273.html" class="nav-btn">Chương sau →</a>

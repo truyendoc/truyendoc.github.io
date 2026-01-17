@@ -180,8 +180,7 @@ Vậy mà tất cả đều là giả!
 
 **Thông tin chương:**
 - Số chương: 509
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-509](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-509)
-- Thời gian scrape: 2026-01-13 22:09:56
+- Thời gian cập nhật: 2026-01-13 22:09:56
 
 <div class="chapter-nav">
     <a href="chuong_508.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_510.html" class="nav-btn">Chương sau →</a>

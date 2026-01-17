@@ -469,8 +469,7 @@ Tuy không thể cảm nhận bất cứ vị gì, nhưng đó cũng là một b
 
 **Thông tin chương:**
 - Số chương: 15
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-15](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-15)
-- Thời gian scrape: 2026-01-17 09:38:32
+- Thời gian cập nhật: 2026-01-17 09:38:32
 
 <div class="chapter-nav">
     <a href="chuong_14.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_16.html" class="nav-btn">Chương sau →</a>

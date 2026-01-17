@@ -162,8 +162,7 @@ Tiêu đề nội dung là, có liên quan hắc cùng đội tính chất khuô
 
 **Thông tin chương:**
 - Số chương: 527
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-527](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-527)
-- Thời gian scrape: 2026-01-13 22:10:58
+- Thời gian cập nhật: 2026-01-13 22:10:58
 
 <div class="chapter-nav">
     <a href="chuong_526.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_528.html" class="nav-btn">Chương sau →</a>

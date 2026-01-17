@@ -184,8 +184,7 @@ Tào Côn cười phun ra một ngụm màu trắng nhạt sương mù, nói: "T
 
 **Thông tin chương:**
 - Số chương: 175
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-175](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-175)
-- Thời gian scrape: 2026-01-13 21:49:51
+- Thời gian cập nhật: 2026-01-13 21:49:51
 
 <div class="chapter-nav">
     <a href="chuong_174.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_176.html" class="nav-btn">Chương sau →</a>

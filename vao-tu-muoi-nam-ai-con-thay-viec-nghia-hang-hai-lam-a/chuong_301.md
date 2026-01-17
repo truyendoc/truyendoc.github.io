@@ -176,8 +176,7 @@ Mà Tào Côn đám người, cũng vào hôm nay, chính thức vào ở đến
 
 **Thông tin chương:**
 - Số chương: 301
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-301](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-301)
-- Thời gian scrape: 2026-01-13 21:57:43
+- Thời gian cập nhật: 2026-01-13 21:57:43
 
 <div class="chapter-nav">
     <a href="chuong_300.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_302.html" class="nav-btn">Chương sau →</a>

@@ -132,8 +132,7 @@ Tại cái này năng lượng vật chứa thành hình sau, bên trong liền 
 
 **Thông tin chương:**
 - Số chương: 366
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-366](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-366)
-- Thời gian scrape: 2026-01-13 00:25:09
+- Thời gian cập nhật: 2026-01-13 00:25:09
 
 <div class="chapter-nav">
     <a href="chuong_365.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_367.html" class="nav-btn">Chương sau →</a>

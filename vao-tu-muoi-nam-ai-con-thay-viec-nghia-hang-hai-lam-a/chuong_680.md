@@ -168,8 +168,7 @@ Nếu như hoa 200 ức cũng mua không được, như vậy, bọn chúng nh�
 
 **Thông tin chương:**
 - Số chương: 680
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-680](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-680)
-- Thời gian scrape: 2026-01-13 22:19:51
+- Thời gian cập nhật: 2026-01-13 22:19:51
 
 <div class="chapter-nav">
     <a href="chuong_679.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_681.html" class="nav-btn">Chương sau →</a>

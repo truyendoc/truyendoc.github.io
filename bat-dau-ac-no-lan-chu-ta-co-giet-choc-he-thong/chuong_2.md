@@ -226,8 +226,7 @@ Hắn cùng Lý Tứ đều là Ngưng Khí nhất trọng, nhưng tương đố
 
 **Thông tin chương:**
 - Số chương: 2
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-2](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-2)
-- Thời gian scrape: 2026-01-13 21:09:11
+- Thời gian cập nhật: 2026-01-13 21:09:11
 
 <div class="chapter-nav">
     <a href="chuong_1.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_3.html" class="nav-btn">Chương sau →</a>

@@ -172,8 +172,7 @@ Tốt bao nhiêu huynh đệ a, khắp nơi vì chính mình suy nghĩ!
 
 **Thông tin chương:**
 - Số chương: 565
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-565](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-565)
-- Thời gian scrape: 2026-01-13 22:13:08
+- Thời gian cập nhật: 2026-01-13 22:13:08
 
 <div class="chapter-nav">
     <a href="chuong_564.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_566.html" class="nav-btn">Chương sau →</a>

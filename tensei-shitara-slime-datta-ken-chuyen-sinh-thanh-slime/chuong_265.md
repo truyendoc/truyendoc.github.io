@@ -389,8 +389,7 @@ Diablo đi đến kết luận đó. Lúc này, họ chỉ việc lặng lẽ đ
 
 **Thông tin chương:**
 - Số chương: 265
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-265](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-265)
-- Thời gian scrape: 2026-01-17 09:50:21
+- Thời gian cập nhật: 2026-01-17 09:50:21
 
 <div class="chapter-nav">
     <a href="chuong_264.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_266.html" class="nav-btn">Chương sau →</a>

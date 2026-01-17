@@ -166,8 +166,7 @@ Một bên, Ngốc Cẩu gặp Tào Côn cứ như vậy lên xe, cũng liền b
 
 **Thông tin chương:**
 - Số chương: 642
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-642](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-642)
-- Thời gian scrape: 2026-01-13 22:17:31
+- Thời gian cập nhật: 2026-01-13 22:17:31
 
 <div class="chapter-nav">
     <a href="chuong_641.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_643.html" class="nav-btn">Chương sau →</a>

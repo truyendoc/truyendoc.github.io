@@ -441,8 +441,7 @@ Và cô vui vẻ nói.
 
 **Thông tin chương:**
 - Số chương: 247
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-247](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-247)
-- Thời gian scrape: 2026-01-17 09:49:28
+- Thời gian cập nhật: 2026-01-17 09:49:28
 
 <div class="chapter-nav">
     <a href="chuong_246.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_248.html" class="nav-btn">Chương sau →</a>

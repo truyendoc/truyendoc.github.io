@@ -170,8 +170,7 @@ Sau đó liền giúp Tào Côn mở cửa xe ra.
 
 **Thông tin chương:**
 - Số chương: 612
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-612](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-612)
-- Thời gian scrape: 2026-01-13 22:15:49
+- Thời gian cập nhật: 2026-01-13 22:15:49
 
 <div class="chapter-nav">
     <a href="chuong_611.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_613.html" class="nav-btn">Chương sau →</a>

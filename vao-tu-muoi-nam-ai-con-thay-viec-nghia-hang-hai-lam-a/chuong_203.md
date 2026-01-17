@@ -190,8 +190,7 @@ Tôn Phỉ Phỉ sát có việc nghĩ nghĩ, đột nhiên cười một tiến
 
 **Thông tin chương:**
 - Số chương: 203
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-203](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-203)
-- Thời gian scrape: 2026-01-13 21:51:24
+- Thời gian cập nhật: 2026-01-13 21:51:24
 
 <div class="chapter-nav">
     <a href="chuong_202.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_204.html" class="nav-btn">Chương sau →</a>

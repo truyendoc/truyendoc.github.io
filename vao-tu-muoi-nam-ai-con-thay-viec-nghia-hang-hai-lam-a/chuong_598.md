@@ -154,8 +154,7 @@ Tào Côn cười hư đè ép một chút hai tay, để đám người an tĩn
 
 **Thông tin chương:**
 - Số chương: 598
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-598](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-598)
-- Thời gian scrape: 2026-01-13 22:14:58
+- Thời gian cập nhật: 2026-01-13 22:14:58
 
 <div class="chapter-nav">
     <a href="chuong_597.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_599.html" class="nav-btn">Chương sau →</a>

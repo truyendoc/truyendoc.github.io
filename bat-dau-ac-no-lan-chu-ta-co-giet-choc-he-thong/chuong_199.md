@@ -220,8 +220,7 @@ Thông qua thần thức, nhìn xem trong thành trì mấy vạn Kim Lang tộc
 
 **Thông tin chương:**
 - Số chương: 199
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-199](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-199)
-- Thời gian scrape: 2026-01-13 00:32:36
+- Thời gian cập nhật: 2026-01-13 00:32:36
 
 <div class="chapter-nav">
     <a href="chuong_198.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_200.html" class="nav-btn">Chương sau →</a>

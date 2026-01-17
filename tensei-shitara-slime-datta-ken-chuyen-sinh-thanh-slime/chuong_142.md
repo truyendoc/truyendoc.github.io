@@ -511,8 +511,7 @@ Tôi rời khỏi căn cứ nghiên cứu của Ramiris trong khi nghĩ về nh�
 
 **Thông tin chương:**
 - Số chương: 142
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-142](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-142)
-- Thời gian scrape: 2026-01-17 09:44:28
+- Thời gian cập nhật: 2026-01-17 09:44:28
 
 <div class="chapter-nav">
     <a href="chuong_141.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_143.html" class="nav-btn">Chương sau →</a>

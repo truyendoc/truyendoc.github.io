@@ -214,8 +214,7 @@ Cho nên, hắn cũng không tin mình cái này hư thận, sẽ có người n
 
 **Thông tin chương:**
 - Số chương: 356
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-356](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-356)
-- Thời gian scrape: 2026-01-13 22:01:03
+- Thời gian cập nhật: 2026-01-13 22:01:03
 
 <div class="chapter-nav">
     <a href="chuong_355.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_357.html" class="nav-btn">Chương sau →</a>

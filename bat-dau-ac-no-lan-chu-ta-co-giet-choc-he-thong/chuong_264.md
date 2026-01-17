@@ -106,8 +106,7 @@ Nghe được Thẩm Dục nói ra ba loại suy đoán, không khỏi một h�
 
 **Thông tin chương:**
 - Số chương: 264
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-264](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-264)
-- Thời gian scrape: 2026-01-13 00:35:11
+- Thời gian cập nhật: 2026-01-13 00:35:11
 
 <div class="chapter-nav">
     <a href="chuong_263.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_265.html" class="nav-btn">Chương sau →</a>

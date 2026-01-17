@@ -222,8 +222,7 @@ Hắn đương nhiên sẽ không như vậy bỏ qua.
 
 **Thông tin chương:**
 - Số chương: 146
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-146](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-146)
-- Thời gian scrape: 2026-01-13 00:30:26
+- Thời gian cập nhật: 2026-01-13 00:30:26
 
 <div class="chapter-nav">
     <a href="chuong_145.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_147.html" class="nav-btn">Chương sau →</a>

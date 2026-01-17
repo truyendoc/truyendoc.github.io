@@ -178,8 +178,7 @@ Ngay sau đó, Tào Côn liền thấy phần phật mấy cái bác sĩ, vội 
 
 **Thông tin chương:**
 - Số chương: 577
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-577](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-577)
-- Thời gian scrape: 2026-01-13 22:13:48
+- Thời gian cập nhật: 2026-01-13 22:13:48
 
 <div class="chapter-nav">
     <a href="chuong_576.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_578.html" class="nav-btn">Chương sau →</a>

@@ -198,8 +198,7 @@ Không phải liền là đi Lữ Đại Bằng cái kia làm diễn viên nha.
 
 **Thông tin chương:**
 - Số chương: 160
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-160](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-160)
-- Thời gian scrape: 2026-01-13 21:49:04
+- Thời gian cập nhật: 2026-01-13 21:49:04
 
 <div class="chapter-nav">
     <a href="chuong_159.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_161.html" class="nav-btn">Chương sau →</a>

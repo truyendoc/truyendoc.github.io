@@ -202,8 +202,7 @@ Lưu Kim Thành quỳ gối ngoài cửa, tay nâng hoa tươi, ngữ khí thâm
 
 **Thông tin chương:**
 - Số chương: 571
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-571](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-571)
-- Thời gian scrape: 2026-01-13 22:13:29
+- Thời gian cập nhật: 2026-01-13 22:13:29
 
 <div class="chapter-nav">
     <a href="chuong_570.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_572.html" class="nav-btn">Chương sau →</a>

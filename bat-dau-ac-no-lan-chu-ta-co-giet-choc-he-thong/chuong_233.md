@@ -104,8 +104,7 @@ Không để cho mình đột phá tới Nguyên Thần cảnh bát trọng.
 
 **Thông tin chương:**
 - Số chương: 233
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-233](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-233)
-- Thời gian scrape: 2026-01-13 00:33:56
+- Thời gian cập nhật: 2026-01-13 00:33:56
 
 <div class="chapter-nav">
     <a href="chuong_232.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_234.html" class="nav-btn">Chương sau →</a>

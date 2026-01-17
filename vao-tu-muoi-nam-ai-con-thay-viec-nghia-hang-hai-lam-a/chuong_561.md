@@ -172,8 +172,7 @@ Nói đến đây, Trương Cương duỗi cái lưng mệt mỏi, tiếp tục 
 
 **Thông tin chương:**
 - Số chương: 561
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-561](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-561)
-- Thời gian scrape: 2026-01-13 22:12:53
+- Thời gian cập nhật: 2026-01-13 22:12:53
 
 <div class="chapter-nav">
     <a href="chuong_560.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_562.html" class="nav-btn">Chương sau →</a>

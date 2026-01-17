@@ -174,8 +174,7 @@ Tào Côn hít sâu một hơi, hắn lần nữa hút một hơi thuốc, nói:
 
 **Thông tin chương:**
 - Số chương: 719
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-719](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-719)
-- Thời gian scrape: 2026-01-13 22:21:58
+- Thời gian cập nhật: 2026-01-13 22:21:58
 
 <div class="chapter-nav">
     <a href="chuong_718.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_720.html" class="nav-btn">Chương sau →</a>

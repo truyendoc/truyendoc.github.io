@@ -164,8 +164,7 @@ Lý Tố Linh ngạc nhiên nhìn xem Tào Côn, nói: "Cần, cần nhiều ti�
 
 **Thông tin chương:**
 - Số chương: 585
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-585](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-585)
-- Thời gian scrape: 2026-01-13 22:14:15
+- Thời gian cập nhật: 2026-01-13 22:14:15
 
 <div class="chapter-nav">
     <a href="chuong_584.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_586.html" class="nav-btn">Chương sau →</a>

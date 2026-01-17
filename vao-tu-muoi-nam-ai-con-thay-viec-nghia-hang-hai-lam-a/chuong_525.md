@@ -154,8 +154,7 @@ Tình cảm tiến độ phương diện này, Vương San San cái này trà xa
 
 **Thông tin chương:**
 - Số chương: 525
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-525](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-525)
-- Thời gian scrape: 2026-01-13 22:10:51
+- Thời gian cập nhật: 2026-01-13 22:10:51
 
 <div class="chapter-nav">
     <a href="chuong_524.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_526.html" class="nav-btn">Chương sau →</a>

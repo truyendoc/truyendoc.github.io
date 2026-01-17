@@ -188,8 +188,7 @@ Vương San San trợn nhìn Tào Côn một chút, nói: "Ngươi quản ta là
 
 **Thông tin chương:**
 - Số chương: 418
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-418](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-418)
-- Thời gian scrape: 2026-01-13 22:04:34
+- Thời gian cập nhật: 2026-01-13 22:04:34
 
 <div class="chapter-nav">
     <a href="chuong_417.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_419.html" class="nav-btn">Chương sau →</a>

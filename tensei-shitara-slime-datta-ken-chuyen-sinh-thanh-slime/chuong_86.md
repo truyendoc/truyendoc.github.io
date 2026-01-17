@@ -501,8 +501,7 @@ Nhưng với Hinata, cô sẽ giải quyết dc nó nếu suy nghĩ kĩ hơn. C�
 
 **Thông tin chương:**
 - Số chương: 86
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-86](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-86)
-- Thời gian scrape: 2026-01-17 09:41:50
+- Thời gian cập nhật: 2026-01-17 09:41:50
 
 <div class="chapter-nav">
     <a href="chuong_85.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_87.html" class="nav-btn">Chương sau →</a>

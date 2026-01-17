@@ -188,8 +188,7 @@ Tất cả mọi người là người văn minh, động thủ nhiều không v
 
 **Thông tin chương:**
 - Số chương: 124
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-124](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-124)
-- Thời gian scrape: 2026-01-13 21:46:43
+- Thời gian cập nhật: 2026-01-13 21:46:43
 
 <div class="chapter-nav">
     <a href="chuong_123.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_125.html" class="nav-btn">Chương sau →</a>

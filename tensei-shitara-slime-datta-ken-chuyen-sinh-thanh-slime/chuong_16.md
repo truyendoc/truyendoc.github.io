@@ -385,8 +385,7 @@ Và một lời hứa được lập ra là một lời hứa phải được gi
 
 **Thông tin chương:**
 - Số chương: 16
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-16](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-16)
-- Thời gian scrape: 2026-01-17 09:38:35
+- Thời gian cập nhật: 2026-01-17 09:38:35
 
 <div class="chapter-nav">
     <a href="chuong_15.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_17.html" class="nav-btn">Chương sau →</a>

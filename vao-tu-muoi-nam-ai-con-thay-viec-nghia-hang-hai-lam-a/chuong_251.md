@@ -168,8 +168,7 @@ Cứ như vậy nói đi, đêm qua, hắn một tay nâng Mã Tiểu Vi, để 
 
 **Thông tin chương:**
 - Số chương: 251
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-251](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-251)
-- Thời gian scrape: 2026-01-13 21:54:42
+- Thời gian cập nhật: 2026-01-13 21:54:42
 
 <div class="chapter-nav">
     <a href="chuong_250.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_252.html" class="nav-btn">Chương sau →</a>

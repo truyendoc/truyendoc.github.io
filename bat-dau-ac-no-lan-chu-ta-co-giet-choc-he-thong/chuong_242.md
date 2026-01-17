@@ -116,8 +116,7 @@ Trương Dĩnh hỏi, đã biết được Hoàng đế âm mưu, biện pháp t
 
 **Thông tin chương:**
 - Số chương: 242
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-242](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-242)
-- Thời gian scrape: 2026-01-13 00:34:18
+- Thời gian cập nhật: 2026-01-13 00:34:18
 
 <div class="chapter-nav">
     <a href="chuong_241.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_243.html" class="nav-btn">Chương sau →</a>

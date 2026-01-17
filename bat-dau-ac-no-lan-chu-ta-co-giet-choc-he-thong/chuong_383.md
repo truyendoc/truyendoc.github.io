@@ -130,8 +130,7 @@ Mà chí tôn kiếm cốt chính là mạnh nhất căn cốt một trong, nế
 
 **Thông tin chương:**
 - Số chương: 383
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-383](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-383)
-- Thời gian scrape: 2026-01-13 00:25:48
+- Thời gian cập nhật: 2026-01-13 00:25:48
 
 <div class="chapter-nav">
     <a href="chuong_382.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="#" class="nav-btn disabled">Chương sau →</a>

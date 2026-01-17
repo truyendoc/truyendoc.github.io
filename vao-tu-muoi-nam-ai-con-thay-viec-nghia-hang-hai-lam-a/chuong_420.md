@@ -170,8 +170,7 @@ Trong vòng một đêm nhiều bốn cái khuê mật, Cao Đình Đình tâm t
 
 **Thông tin chương:**
 - Số chương: 420
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-420](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-420)
-- Thời gian scrape: 2026-01-13 22:04:41
+- Thời gian cập nhật: 2026-01-13 22:04:41
 
 <div class="chapter-nav">
     <a href="chuong_419.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_421.html" class="nav-btn">Chương sau →</a>

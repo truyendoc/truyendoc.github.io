@@ -248,8 +248,7 @@ Hàn Thượng Phong mắt nhìn ngay tại tiến lên đội xe, ngữ khí l�
 
 **Thông tin chương:**
 - Số chương: 108
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-108](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-108)
-- Thời gian scrape: 2026-01-13 00:28:33
+- Thời gian cập nhật: 2026-01-13 00:28:33
 
 <div class="chapter-nav">
     <a href="chuong_107.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_109.html" class="nav-btn">Chương sau →</a>

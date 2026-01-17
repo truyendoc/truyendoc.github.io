@@ -250,8 +250,7 @@ Thẩm Dục không ngần ngại chút nào nói.
 
 **Thông tin chương:**
 - Số chương: 142
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-142](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-142)
-- Thời gian scrape: 2026-01-13 00:30:15
+- Thời gian cập nhật: 2026-01-13 00:30:15
 
 <div class="chapter-nav">
     <a href="chuong_141.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_143.html" class="nav-btn">Chương sau →</a>

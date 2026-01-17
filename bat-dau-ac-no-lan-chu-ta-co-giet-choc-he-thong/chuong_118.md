@@ -242,8 +242,7 @@ Ngu Tuyết Oánh rời đi, hơn phân nửa là đi cùng mật thám tiếp x
 
 **Thông tin chương:**
 - Số chương: 118
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-118](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-118)
-- Thời gian scrape: 2026-01-13 00:29:03
+- Thời gian cập nhật: 2026-01-13 00:29:03
 
 <div class="chapter-nav">
     <a href="chuong_117.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_119.html" class="nav-btn">Chương sau →</a>

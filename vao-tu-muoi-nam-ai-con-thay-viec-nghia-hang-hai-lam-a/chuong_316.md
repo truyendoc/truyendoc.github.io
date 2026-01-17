@@ -176,8 +176,7 @@ Sau đó, Cẩu Thiên Hạo hủ tro cốt, lại thấy ánh mặt trời!
 
 **Thông tin chương:**
 - Số chương: 316
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-316](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-316)
-- Thời gian scrape: 2026-01-13 21:58:39
+- Thời gian cập nhật: 2026-01-13 21:58:39
 
 <div class="chapter-nav">
     <a href="chuong_315.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_317.html" class="nav-btn">Chương sau →</a>

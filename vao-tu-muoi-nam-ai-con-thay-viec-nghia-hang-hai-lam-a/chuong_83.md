@@ -184,8 +184,7 @@ Nếu là còn có loại kia ngây ngô khí chất, hắn liền tại trong n
 
 **Thông tin chương:**
 - Số chương: 83
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-83](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-83)
-- Thời gian scrape: 2026-01-13 21:44:30
+- Thời gian cập nhật: 2026-01-13 21:44:30
 
 <div class="chapter-nav">
     <a href="chuong_82.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_84.html" class="nav-btn">Chương sau →</a>

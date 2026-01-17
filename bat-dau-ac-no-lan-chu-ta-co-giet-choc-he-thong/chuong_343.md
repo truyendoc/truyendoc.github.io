@@ -106,8 +106,7 @@ Vị này Thất công chúa thực lực mặc dù không bằng Tần Vũ, nh�
 
 **Thông tin chương:**
 - Số chương: 343
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-343](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-343)
-- Thời gian scrape: 2026-01-13 00:24:14
+- Thời gian cập nhật: 2026-01-13 00:24:14
 
 <div class="chapter-nav">
     <a href="chuong_342.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_344.html" class="nav-btn">Chương sau →</a>

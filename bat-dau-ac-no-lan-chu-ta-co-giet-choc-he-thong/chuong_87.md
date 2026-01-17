@@ -242,8 +242,7 @@ Nhưng thanh niên áo đen lại đối với sau lưng gọi hàng mắt đi�
 
 **Thông tin chương:**
 - Số chương: 87
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-87](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-87)
-- Thời gian scrape: 2026-01-13 00:27:32
+- Thời gian cập nhật: 2026-01-13 00:27:32
 
 <div class="chapter-nav">
     <a href="chuong_86.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_88.html" class="nav-btn">Chương sau →</a>

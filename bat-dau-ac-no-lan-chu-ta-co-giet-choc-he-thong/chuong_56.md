@@ -254,8 +254,7 @@ Còn thừa lại 6410 điểm, có thể tiến hành sáu lần rút thưởng
 
 **Thông tin chương:**
 - Số chương: 56
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-56](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-56)
-- Thời gian scrape: 2026-01-13 21:16:05
+- Thời gian cập nhật: 2026-01-13 21:16:05
 
 <div class="chapter-nav">
     <a href="chuong_55.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_57.html" class="nav-btn">Chương sau →</a>

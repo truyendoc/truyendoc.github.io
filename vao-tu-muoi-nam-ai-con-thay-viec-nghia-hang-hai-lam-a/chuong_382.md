@@ -174,8 +174,7 @@ Một tháng 10 vạn, cái này cần bù đắp được mình đánh nhiều 
 
 **Thông tin chương:**
 - Số chương: 382
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-382](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-382)
-- Thời gian scrape: 2026-01-13 22:02:33
+- Thời gian cập nhật: 2026-01-13 22:02:33
 
 <div class="chapter-nav">
     <a href="chuong_381.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_383.html" class="nav-btn">Chương sau →</a>

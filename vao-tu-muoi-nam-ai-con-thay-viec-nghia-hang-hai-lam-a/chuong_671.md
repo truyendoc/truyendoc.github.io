@@ -168,8 +168,7 @@ Hạng Nam Nguyệt nhẹ gật đầu, nói: "Không bài trừ loại khả n�
 
 **Thông tin chương:**
 - Số chương: 671
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-671](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-671)
-- Thời gian scrape: 2026-01-13 22:19:17
+- Thời gian cập nhật: 2026-01-13 22:19:17
 
 <div class="chapter-nav">
     <a href="chuong_670.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_672.html" class="nav-btn">Chương sau →</a>

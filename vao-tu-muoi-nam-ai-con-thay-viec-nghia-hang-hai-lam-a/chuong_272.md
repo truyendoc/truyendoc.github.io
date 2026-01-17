@@ -176,8 +176,7 @@ Cẩu Nhất Vĩ cười nói: "Một cái dùng Tề Bạch Thạch đại sư 
 
 **Thông tin chương:**
 - Số chương: 272
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-272](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-272)
-- Thời gian scrape: 2026-01-13 21:55:58
+- Thời gian cập nhật: 2026-01-13 21:55:58
 
 <div class="chapter-nav">
     <a href="chuong_271.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_273.html" class="nav-btn">Chương sau →</a>

@@ -156,8 +156,7 @@ Nàng hăng hái gật đầu, nói: "Cái kia, Tào lão bản muốn làm sao 
 
 **Thông tin chương:**
 - Số chương: 484
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-484](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-484)
-- Thời gian scrape: 2026-01-13 22:08:32
+- Thời gian cập nhật: 2026-01-13 22:08:32
 
 <div class="chapter-nav">
     <a href="chuong_483.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_485.html" class="nav-btn">Chương sau →</a>

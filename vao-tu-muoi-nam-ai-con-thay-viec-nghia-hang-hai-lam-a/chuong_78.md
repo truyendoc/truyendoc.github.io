@@ -172,8 +172,7 @@ Cho nên, hắn cuối cùng giống như Tào Côn, giao ra điện thoại, th
 
 **Thông tin chương:**
 - Số chương: 78
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-78](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-78)
-- Thời gian scrape: 2026-01-13 21:44:12
+- Thời gian cập nhật: 2026-01-13 21:44:12
 
 <div class="chapter-nav">
     <a href="chuong_77.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_79.html" class="nav-btn">Chương sau →</a>

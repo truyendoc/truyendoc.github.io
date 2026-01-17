@@ -112,8 +112,7 @@ Nghe được Thẩm Dục trả lời, Lâm Phi Vũ không khỏi sững sờ, 
 
 **Thông tin chương:**
 - Số chương: 277
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-277](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-277)
-- Thời gian scrape: 2026-01-13 00:35:43
+- Thời gian cập nhật: 2026-01-13 00:35:43
 
 <div class="chapter-nav">
     <a href="chuong_276.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_278.html" class="nav-btn">Chương sau →</a>

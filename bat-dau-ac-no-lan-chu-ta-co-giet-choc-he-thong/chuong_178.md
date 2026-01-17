@@ -226,8 +226,7 @@ Bất quá, yếu về yếu, nhưng g·iết c·hết đối phương sau, lạ
 
 **Thông tin chương:**
 - Số chương: 178
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-178](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-178)
-- Thời gian scrape: 2026-01-13 00:31:46
+- Thời gian cập nhật: 2026-01-13 00:31:46
 
 <div class="chapter-nav">
     <a href="chuong_177.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_179.html" class="nav-btn">Chương sau →</a>

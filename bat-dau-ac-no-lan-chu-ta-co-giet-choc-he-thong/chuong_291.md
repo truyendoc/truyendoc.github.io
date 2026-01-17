@@ -98,8 +98,7 @@ Thẩm Dục đứng dậy hỏi, bởi vì theo hắn biết, vị này Thiên 
 
 **Thông tin chương:**
 - Số chương: 291
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-291](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-291)
-- Thời gian scrape: 2026-01-13 00:22:11
+- Thời gian cập nhật: 2026-01-13 00:22:11
 
 <div class="chapter-nav">
     <a href="chuong_290.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_292.html" class="nav-btn">Chương sau →</a>

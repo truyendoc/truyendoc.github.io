@@ -128,8 +128,7 @@ Phạm lão cùng Trần lão đều là một bộ xem trò vui bộ dáng, ho�
 
 **Thông tin chương:**
 - Số chương: 248
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-248](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-248)
-- Thời gian scrape: 2026-01-13 00:34:32
+- Thời gian cập nhật: 2026-01-13 00:34:32
 
 <div class="chapter-nav">
     <a href="chuong_247.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_249.html" class="nav-btn">Chương sau →</a>

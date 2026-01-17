@@ -375,8 +375,7 @@ Mở màn cho một ngày thứ tư của hỗn loạn và tai ương.
 
 **Thông tin chương:**
 - Số chương: 268
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-268](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-268)
-- Thời gian scrape: 2026-01-17 09:50:30
+- Thời gian cập nhật: 2026-01-17 09:50:30
 
 <div class="chapter-nav">
     <a href="chuong_267.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_269.html" class="nav-btn">Chương sau →</a>

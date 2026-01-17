@@ -264,8 +264,7 @@ Nguyên bản hắn còn muốn thuận tay thu hoạch một bút điểm g·i�
 
 **Thông tin chương:**
 - Số chương: 29
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-29](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-29)
-- Thời gian scrape: 2026-01-13 21:10:25
+- Thời gian cập nhật: 2026-01-13 21:10:25
 
 <div class="chapter-nav">
     <a href="chuong_28.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_30.html" class="nav-btn">Chương sau →</a>

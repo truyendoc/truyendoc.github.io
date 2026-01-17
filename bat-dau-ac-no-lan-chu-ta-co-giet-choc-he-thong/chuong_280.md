@@ -102,8 +102,7 @@ Nhị hoàng tử vui vẻ nói: “Ngươi mau chóng đem hắn mang đến, b
 
 **Thông tin chương:**
 - Số chương: 280
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-280](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-280)
-- Thời gian scrape: 2026-01-13 00:21:44
+- Thời gian cập nhật: 2026-01-13 00:21:44
 
 <div class="chapter-nav">
     <a href="chuong_279.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_281.html" class="nav-btn">Chương sau →</a>

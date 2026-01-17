@@ -273,8 +273,7 @@ Bỗng nhiên, một hơi thở xuất hiện sau gáy. Một giọng nữ ngọ
 
 **Thông tin chương:**
 - Số chương: 94
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-94](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-94)
-- Thời gian scrape: 2026-01-17 09:42:11
+- Thời gian cập nhật: 2026-01-17 09:42:11
 
 <div class="chapter-nav">
     <a href="chuong_93.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_95.html" class="nav-btn">Chương sau →</a>

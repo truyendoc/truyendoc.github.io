@@ -154,8 +154,7 @@ Nghe vậy, Tiêu Văn Tĩnh nhìn về phía Tào Côn ánh mắt, đều nhanh
 
 **Thông tin chương:**
 - Số chương: 409
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-409](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-409)
-- Thời gian scrape: 2026-01-13 22:04:05
+- Thời gian cập nhật: 2026-01-13 22:04:05
 
 <div class="chapter-nav">
     <a href="chuong_408.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_410.html" class="nav-btn">Chương sau →</a>

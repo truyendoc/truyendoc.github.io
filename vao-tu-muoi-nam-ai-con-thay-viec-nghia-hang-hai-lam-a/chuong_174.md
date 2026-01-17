@@ -190,8 +190,7 @@ Thậm chí, mỗi một cây ngón chân, mỗi một cái kẽ ngón chân, l�
 
 **Thông tin chương:**
 - Số chương: 174
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-174](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-174)
-- Thời gian scrape: 2026-01-13 21:49:47
+- Thời gian cập nhật: 2026-01-13 21:49:47
 
 <div class="chapter-nav">
     <a href="chuong_173.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_175.html" class="nav-btn">Chương sau →</a>

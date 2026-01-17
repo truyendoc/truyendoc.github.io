@@ -180,8 +180,7 @@ Lưu Ngọc Linh không biết Tào Côn vì sao lại tăng thêm như thế m�
 
 **Thông tin chương:**
 - Số chương: 12
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-12](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-12)
-- Thời gian scrape: 2026-01-13 21:40:03
+- Thời gian cập nhật: 2026-01-13 21:40:03
 
 <div class="chapter-nav">
     <a href="chuong_11.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_13.html" class="nav-btn">Chương sau →</a>

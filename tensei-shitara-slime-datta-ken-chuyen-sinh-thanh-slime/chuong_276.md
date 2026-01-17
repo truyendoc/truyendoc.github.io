@@ -431,8 +431,7 @@ Sau đó, hai người giao phần còn lại cho hội Souka và hướng tới
 
 **Thông tin chương:**
 - Số chương: 276
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-276](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-276)
-- Thời gian scrape: 2026-01-17 09:50:52
+- Thời gian cập nhật: 2026-01-17 09:50:52
 
 <div class="chapter-nav">
     <a href="chuong_275.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_277.html" class="nav-btn">Chương sau →</a>

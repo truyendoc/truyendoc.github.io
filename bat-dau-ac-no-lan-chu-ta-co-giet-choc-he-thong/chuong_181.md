@@ -254,8 +254,7 @@ Chỉ là hắn không có trách cứ Ngu Tuyết Oánh, mà là nhìn về ph�
 
 **Thông tin chương:**
 - Số chương: 181
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-181](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-181)
-- Thời gian scrape: 2026-01-13 00:31:53
+- Thời gian cập nhật: 2026-01-13 00:31:53
 
 <div class="chapter-nav">
     <a href="chuong_180.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_182.html" class="nav-btn">Chương sau →</a>

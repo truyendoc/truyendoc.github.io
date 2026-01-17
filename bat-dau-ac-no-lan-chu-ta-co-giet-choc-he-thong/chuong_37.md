@@ -266,8 +266,7 @@ Dương Xuyên cẩn thận từng li từng tí hỏi: “Đường chủ, ngà
 
 **Thông tin chương:**
 - Số chương: 37
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-37](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-37)
-- Thời gian scrape: 2026-01-13 21:12:00
+- Thời gian cập nhật: 2026-01-13 21:12:00
 
 <div class="chapter-nav">
     <a href="chuong_36.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_38.html" class="nav-btn">Chương sau →</a>

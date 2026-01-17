@@ -258,8 +258,7 @@ Mở ra một trung cấp nghề nghiệp.
 
 **Thông tin chương:**
 - Số chương: 121
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-121](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-121)
-- Thời gian scrape: 2026-01-13 00:29:13
+- Thời gian cập nhật: 2026-01-13 00:29:13
 
 <div class="chapter-nav">
     <a href="chuong_120.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_122.html" class="nav-btn">Chương sau →</a>

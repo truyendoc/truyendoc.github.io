@@ -158,8 +158,7 @@ Kim Chính Xuân lần nữa trầm mặc hai giây, nói: "Ngươi hoài nghi, 
 
 **Thông tin chương:**
 - Số chương: 677
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-677](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-677)
-- Thời gian scrape: 2026-01-13 22:19:37
+- Thời gian cập nhật: 2026-01-13 22:19:37
 
 <div class="chapter-nav">
     <a href="chuong_676.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_678.html" class="nav-btn">Chương sau →</a>

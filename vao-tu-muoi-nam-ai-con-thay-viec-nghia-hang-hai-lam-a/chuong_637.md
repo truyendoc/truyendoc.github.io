@@ -164,8 +164,7 @@ Nhìn xem Bàng Hồng Na nói lời nói này lúc thần bí bộ dáng, Tào 
 
 **Thông tin chương:**
 - Số chương: 637
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-637](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-637)
-- Thời gian scrape: 2026-01-13 22:17:15
+- Thời gian cập nhật: 2026-01-13 22:17:15
 
 <div class="chapter-nav">
     <a href="chuong_636.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_638.html" class="nav-btn">Chương sau →</a>

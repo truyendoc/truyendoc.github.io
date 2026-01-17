@@ -579,8 +579,7 @@ Một điều như vậy đã được nói bởi một cô gái bé nhỏ. Mộ
 
 **Thông tin chương:**
 - Số chương: 77
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-77](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-77)
-- Thời gian scrape: 2026-01-17 09:41:24
+- Thời gian cập nhật: 2026-01-17 09:41:24
 
 <div class="chapter-nav">
     <a href="chuong_76.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_78.html" class="nav-btn">Chương sau →</a>

@@ -176,8 +176,7 @@ Trọng yếu là, từ hôm nay trở đi, tất cả mọi người sẽ biế
 
 **Thông tin chương:**
 - Số chương: 214
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-214](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-214)
-- Thời gian scrape: 2026-01-13 21:52:33
+- Thời gian cập nhật: 2026-01-13 21:52:33
 
 <div class="chapter-nav">
     <a href="chuong_213.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_215.html" class="nav-btn">Chương sau →</a>

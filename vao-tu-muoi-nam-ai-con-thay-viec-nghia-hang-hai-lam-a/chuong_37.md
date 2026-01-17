@@ -194,8 +194,7 @@ Tào Côn cười ha ha một tiếng, lúc này đem trong tay xiên ném tới
 
 **Thông tin chương:**
 - Số chương: 37
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-37](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-37)
-- Thời gian scrape: 2026-01-13 21:41:24
+- Thời gian cập nhật: 2026-01-13 21:41:24
 
 <div class="chapter-nav">
     <a href="chuong_36.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_38.html" class="nav-btn">Chương sau →</a>

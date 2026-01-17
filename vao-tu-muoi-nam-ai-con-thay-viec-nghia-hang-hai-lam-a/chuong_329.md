@@ -194,8 +194,7 @@ Nàng kinh ngạc nhìn Tào Côn, thẳng đến có bốn năm giây, mới ha
 
 **Thông tin chương:**
 - Số chương: 329
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-329](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-329)
-- Thời gian scrape: 2026-01-13 21:59:24
+- Thời gian cập nhật: 2026-01-13 21:59:24
 
 <div class="chapter-nav">
     <a href="chuong_328.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_330.html" class="nav-btn">Chương sau →</a>

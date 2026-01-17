@@ -212,8 +212,7 @@ Cuối cùng hàn huyên vài câu, theo điện thoại cúp máy, Đào Băng 
 
 **Thông tin chương:**
 - Số chương: 622
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-622](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-622)
-- Thời gian scrape: 2026-01-13 22:16:22
+- Thời gian cập nhật: 2026-01-13 22:16:22
 
 <div class="chapter-nav">
     <a href="chuong_621.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_623.html" class="nav-btn">Chương sau →</a>

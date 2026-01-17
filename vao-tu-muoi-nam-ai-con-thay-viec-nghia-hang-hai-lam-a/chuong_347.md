@@ -154,8 +154,7 @@ Vương San San: ? ? ?
 
 **Thông tin chương:**
 - Số chương: 347
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-347](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-347)
-- Thời gian scrape: 2026-01-13 22:00:28
+- Thời gian cập nhật: 2026-01-13 22:00:28
 
 <div class="chapter-nav">
     <a href="chuong_346.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_348.html" class="nav-btn">Chương sau →</a>

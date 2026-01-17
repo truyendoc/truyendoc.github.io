@@ -288,8 +288,7 @@ Năm gần mười bốn tuổi Ngưng Khí lục trọng, sợ lại là một 
 
 **Thông tin chương:**
 - Số chương: 6
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-6](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-6)
-- Thời gian scrape: 2026-01-13 21:09:23
+- Thời gian cập nhật: 2026-01-13 21:09:23
 
 <div class="chapter-nav">
     <a href="chuong_5.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_7.html" class="nav-btn">Chương sau →</a>

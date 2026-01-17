@@ -172,8 +172,7 @@ Bởi vì, một khi truyền đi, nàng muốn gả nhập thượng lưu xã h
 
 **Thông tin chương:**
 - Số chương: 137
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-137](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-137)
-- Thời gian scrape: 2026-01-13 21:47:35
+- Thời gian cập nhật: 2026-01-13 21:47:35
 
 <div class="chapter-nav">
     <a href="chuong_136.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_138.html" class="nav-btn">Chương sau →</a>

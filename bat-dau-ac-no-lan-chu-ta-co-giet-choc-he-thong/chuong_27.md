@@ -278,8 +278,7 @@ Dù sao địa phương khác không có cách nào thu hoạch điểm g·iết
 
 **Thông tin chương:**
 - Số chương: 27
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-27](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-27)
-- Thời gian scrape: 2026-01-13 21:10:21
+- Thời gian cập nhật: 2026-01-13 21:10:21
 
 <div class="chapter-nav">
     <a href="chuong_26.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_28.html" class="nav-btn">Chương sau →</a>

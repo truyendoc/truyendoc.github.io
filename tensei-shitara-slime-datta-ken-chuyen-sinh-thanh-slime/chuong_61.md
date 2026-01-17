@@ -499,8 +499,7 @@ Chỗ này, Clown-san đánh máy nhầm thành Cloning, thay vì Molecular Mani
 
 **Thông tin chương:**
 - Số chương: 61
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-61](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-61)
-- Thời gian scrape: 2026-01-17 09:40:40
+- Thời gian cập nhật: 2026-01-17 09:40:40
 
 <div class="chapter-nav">
     <a href="chuong_60.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_62.html" class="nav-btn">Chương sau →</a>

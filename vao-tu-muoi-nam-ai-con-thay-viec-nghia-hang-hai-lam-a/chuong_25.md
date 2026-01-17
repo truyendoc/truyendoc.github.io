@@ -180,8 +180,7 @@ Mà về phần mặt khác hai tên côn đồ, đã sớm không có ấn tư�
 
 **Thông tin chương:**
 - Số chương: 25
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-25](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-25)
-- Thời gian scrape: 2026-01-13 21:40:45
+- Thời gian cập nhật: 2026-01-13 21:40:45
 
 <div class="chapter-nav">
     <a href="chuong_24.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_26.html" class="nav-btn">Chương sau →</a>

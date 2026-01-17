@@ -361,8 +361,7 @@ Diablo và Souei nhìn nhau rồi gật đầu, trước khi bước vào cánh 
 
 **Thông tin chương:**
 - Số chương: 264
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-264](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-264)
-- Thời gian scrape: 2026-01-17 09:50:18
+- Thời gian cập nhật: 2026-01-17 09:50:18
 
 <div class="chapter-nav">
     <a href="chuong_263.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_265.html" class="nav-btn">Chương sau →</a>

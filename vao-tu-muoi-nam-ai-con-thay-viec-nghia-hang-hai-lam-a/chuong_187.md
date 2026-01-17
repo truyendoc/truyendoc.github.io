@@ -150,8 +150,7 @@ Thậm chí, liền ngay cả nguyên bản có như vậy hai cái muốn ra ta
 
 **Thông tin chương:**
 - Số chương: 187
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-187](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-187)
-- Thời gian scrape: 2026-01-13 21:50:31
+- Thời gian cập nhật: 2026-01-13 21:50:31
 
 <div class="chapter-nav">
     <a href="chuong_186.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_188.html" class="nav-btn">Chương sau →</a>

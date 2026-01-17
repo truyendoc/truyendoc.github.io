@@ -214,8 +214,7 @@ Hiểu rõ đến thân phận của đối phương sau, Thẩm Dục liền mi
 
 **Thông tin chương:**
 - Số chương: 133
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-133](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-133)
-- Thời gian scrape: 2026-01-13 00:29:48
+- Thời gian cập nhật: 2026-01-13 00:29:48
 
 <div class="chapter-nav">
     <a href="chuong_132.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_134.html" class="nav-btn">Chương sau →</a>

@@ -453,8 +453,7 @@ Chẳng còn gì ngoài trận chiến đã nổ ra.
 
 **Thông tin chương:**
 - Số chương: 134
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-134](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-134)
-- Thời gian scrape: 2026-01-17 09:44:05
+- Thời gian cập nhật: 2026-01-17 09:44:05
 
 <div class="chapter-nav">
     <a href="chuong_133.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_135.html" class="nav-btn">Chương sau →</a>

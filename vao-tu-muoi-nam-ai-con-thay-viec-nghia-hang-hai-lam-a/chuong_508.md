@@ -178,8 +178,7 @@ Nương theo lấy ý nghĩ này xuất hiện, giờ khắc này, Trương Bác
 
 **Thông tin chương:**
 - Số chương: 508
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-508](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-508)
-- Thời gian scrape: 2026-01-13 22:09:53
+- Thời gian cập nhật: 2026-01-13 22:09:53
 
 <div class="chapter-nav">
     <a href="chuong_507.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_509.html" class="nav-btn">Chương sau →</a>

@@ -423,8 +423,7 @@ Mục tiêu đã hoàn thành, chúng tôi đã về đến làng!
 
 **Thông tin chương:**
 - Số chương: 20
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-20](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-20)
-- Thời gian scrape: 2026-01-17 09:38:48
+- Thời gian cập nhật: 2026-01-17 09:38:48
 
 <div class="chapter-nav">
     <a href="chuong_19.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_21.html" class="nav-btn">Chương sau →</a>

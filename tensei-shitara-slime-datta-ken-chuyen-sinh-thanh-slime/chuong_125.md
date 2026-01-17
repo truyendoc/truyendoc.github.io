@@ -503,8 +503,7 @@ Như vậy, Anh Hùng Chloe O"Bell thực sự được khai sinh.
 
 **Thông tin chương:**
 - Số chương: 125
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-125](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-125)
-- Thời gian scrape: 2026-01-17 09:43:39
+- Thời gian cập nhật: 2026-01-17 09:43:39
 
 <div class="chapter-nav">
     <a href="chuong_124.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_126.html" class="nav-btn">Chương sau →</a>

@@ -158,8 +158,7 @@ Dương Tam Đao cười ha ha một tiếng, nói: "Đúng đúng đúng, chún
 
 **Thông tin chương:**
 - Số chương: 343
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-343](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-343)
-- Thời gian scrape: 2026-01-13 22:00:15
+- Thời gian cập nhật: 2026-01-13 22:00:15
 
 <div class="chapter-nav">
     <a href="chuong_342.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_344.html" class="nav-btn">Chương sau →</a>

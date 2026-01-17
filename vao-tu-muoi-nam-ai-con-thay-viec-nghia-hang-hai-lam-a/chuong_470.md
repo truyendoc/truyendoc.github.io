@@ -152,8 +152,7 @@ Nghe vậy, Vương San San cảm động nói: "Tào Côn, cám ơn ngươi, ta
 
 **Thông tin chương:**
 - Số chương: 470
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-470](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-470)
-- Thời gian scrape: 2026-01-13 22:07:43
+- Thời gian cập nhật: 2026-01-13 22:07:43
 
 <div class="chapter-nav">
     <a href="chuong_469.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_471.html" class="nav-btn">Chương sau →</a>

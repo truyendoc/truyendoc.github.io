@@ -146,8 +146,7 @@ Lâm Thi Hàm hì hì cười một tiếng, nói: "Quay lại ta liền để l
 
 **Thông tin chương:**
 - Số chương: 318
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-318](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-318)
-- Thời gian scrape: 2026-01-13 21:58:47
+- Thời gian cập nhật: 2026-01-13 21:58:47
 
 <div class="chapter-nav">
     <a href="chuong_317.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_319.html" class="nav-btn">Chương sau →</a>

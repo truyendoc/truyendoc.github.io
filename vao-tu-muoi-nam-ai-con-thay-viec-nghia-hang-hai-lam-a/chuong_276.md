@@ -164,8 +164,7 @@ Quán bar lầu ba, Tào Côn chuyên môn gian phòng bên trong, Lưu Hồng m
 
 **Thông tin chương:**
 - Số chương: 276
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-276](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-276)
-- Thời gian scrape: 2026-01-13 21:56:14
+- Thời gian cập nhật: 2026-01-13 21:56:14
 
 <div class="chapter-nav">
     <a href="chuong_275.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_277.html" class="nav-btn">Chương sau →</a>

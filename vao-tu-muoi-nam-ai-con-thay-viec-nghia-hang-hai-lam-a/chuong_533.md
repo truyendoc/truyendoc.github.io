@@ -156,8 +156,7 @@ Không có vấn đề a, việc này ta là chuyên nghiệp!
 
 **Thông tin chương:**
 - Số chương: 533
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-533](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-533)
-- Thời gian scrape: 2026-01-13 22:11:20
+- Thời gian cập nhật: 2026-01-13 22:11:20
 
 <div class="chapter-nav">
     <a href="chuong_532.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_534.html" class="nav-btn">Chương sau →</a>

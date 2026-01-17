@@ -168,8 +168,7 @@ Hai đầu lớn họa cánh tay đặc biệt dễ thấy, xem xét lúc còn t
 
 **Thông tin chương:**
 - Số chương: 192
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-192](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-192)
-- Thời gian scrape: 2026-01-13 21:50:48
+- Thời gian cập nhật: 2026-01-13 21:50:48
 
 <div class="chapter-nav">
     <a href="chuong_191.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_193.html" class="nav-btn">Chương sau →</a>

@@ -218,8 +218,7 @@ Hẳn là sẽ không dẫn tới trấn yêu vệ chú ý.
 
 **Thông tin chương:**
 - Số chương: 31
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-31](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-31)
-- Thời gian scrape: 2026-01-13 21:10:40
+- Thời gian cập nhật: 2026-01-13 21:10:40
 
 <div class="chapter-nav">
     <a href="chuong_30.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_32.html" class="nav-btn">Chương sau →</a>

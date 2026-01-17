@@ -180,8 +180,7 @@ Tina một bên giúp Tào Côn gội đầu, một bên tiếp tục nói: "Li�
 
 **Thông tin chương:**
 - Số chương: 639
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-639](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-639)
-- Thời gian scrape: 2026-01-13 22:17:22
+- Thời gian cập nhật: 2026-01-13 22:17:22
 
 <div class="chapter-nav">
     <a href="chuong_638.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_640.html" class="nav-btn">Chương sau →</a>

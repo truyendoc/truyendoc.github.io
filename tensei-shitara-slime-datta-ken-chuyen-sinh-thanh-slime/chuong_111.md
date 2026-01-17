@@ -77,8 +77,7 @@ Là những trận đấu tiếp theo vào ngày hôm sau. Và tại thời đi�
 
 **Thông tin chương:**
 - Số chương: 111
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-111](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-111)
-- Thời gian scrape: 2026-01-17 09:43:00
+- Thời gian cập nhật: 2026-01-17 09:43:00
 
 <div class="chapter-nav">
     <a href="chuong_110.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_112.html" class="nav-btn">Chương sau →</a>

@@ -236,8 +236,7 @@ Cho nên a, Đoán Thể cảnh yêu thú, hắn căn bản cũng không để v
 
 **Thông tin chương:**
 - Số chương: 173
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-173](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-173)
-- Thời gian scrape: 2026-01-13 00:31:34
+- Thời gian cập nhật: 2026-01-13 00:31:34
 
 <div class="chapter-nav">
     <a href="chuong_172.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_174.html" class="nav-btn">Chương sau →</a>

@@ -184,8 +184,7 @@ Thậm chí, hai mươi mấy lần cũng là có khả năng!
 
 **Thông tin chương:**
 - Số chương: 52
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-52](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-52)
-- Thời gian scrape: 2026-01-13 21:42:14
+- Thời gian cập nhật: 2026-01-13 21:42:14
 
 <div class="chapter-nav">
     <a href="chuong_51.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_53.html" class="nav-btn">Chương sau →</a>

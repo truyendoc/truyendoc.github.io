@@ -409,8 +409,7 @@ Các Unique skill 『Soán Đoạt Giả』 và 『Số Học Giả』.
 
 **Thông tin chương:**
 - Số chương: 22
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-22](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-22)
-- Thời gian scrape: 2026-01-17 09:38:54
+- Thời gian cập nhật: 2026-01-17 09:38:54
 
 <div class="chapter-nav">
     <a href="chuong_21.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_23.html" class="nav-btn">Chương sau →</a>

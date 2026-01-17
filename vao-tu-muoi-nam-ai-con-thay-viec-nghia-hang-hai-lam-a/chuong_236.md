@@ -190,8 +190,7 @@ Bởi vì, chuyện này, có thể diệt trừ Dương Tam Đao thủ hạ l�
 
 **Thông tin chương:**
 - Số chương: 236
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-236](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-236)
-- Thời gian scrape: 2026-01-13 21:53:53
+- Thời gian cập nhật: 2026-01-13 21:53:53
 
 <div class="chapter-nav">
     <a href="chuong_235.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_237.html" class="nav-btn">Chương sau →</a>

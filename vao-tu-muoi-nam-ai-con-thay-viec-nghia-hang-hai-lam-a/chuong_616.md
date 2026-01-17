@@ -170,8 +170,7 @@ Nàng không động thủ còn tốt, nếu là dám động thủ, liền nh�
 
 **Thông tin chương:**
 - Số chương: 616
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-616](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-616)
-- Thời gian scrape: 2026-01-13 22:16:02
+- Thời gian cập nhật: 2026-01-13 22:16:02
 
 <div class="chapter-nav">
     <a href="chuong_615.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_617.html" class="nav-btn">Chương sau →</a>

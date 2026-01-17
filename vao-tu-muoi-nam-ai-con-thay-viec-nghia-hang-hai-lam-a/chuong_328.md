@@ -178,8 +178,7 @@ Bất quá, có thể khẳng định là, nàng khẳng định sống đây n�
 
 **Thông tin chương:**
 - Số chương: 328
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-328](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-328)
-- Thời gian scrape: 2026-01-13 21:59:21
+- Thời gian cập nhật: 2026-01-13 21:59:21
 
 <div class="chapter-nav">
     <a href="chuong_327.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_329.html" class="nav-btn">Chương sau →</a>

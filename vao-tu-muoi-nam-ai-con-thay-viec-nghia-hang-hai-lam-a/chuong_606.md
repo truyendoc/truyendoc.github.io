@@ -162,8 +162,7 @@ Nói, Đào Băng Băng trực tiếp từ một bên trong ngăn kéo, móc ra 
 
 **Thông tin chương:**
 - Số chương: 606
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-606](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-606)
-- Thời gian scrape: 2026-01-13 22:15:29
+- Thời gian cập nhật: 2026-01-13 22:15:29
 
 <div class="chapter-nav">
     <a href="chuong_605.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_607.html" class="nav-btn">Chương sau →</a>

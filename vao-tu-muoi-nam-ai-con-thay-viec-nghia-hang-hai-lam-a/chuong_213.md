@@ -182,8 +182,7 @@ Biển B. 77777 chính là Dương Tam Đao chuyên môn biển số xe!
 
 **Thông tin chương:**
 - Số chương: 213
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-213](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-213)
-- Thời gian scrape: 2026-01-13 21:52:30
+- Thời gian cập nhật: 2026-01-13 21:52:30
 
 <div class="chapter-nav">
     <a href="chuong_212.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_214.html" class="nav-btn">Chương sau →</a>

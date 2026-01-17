@@ -246,8 +246,7 @@ Sau đó nhìn Thẩm Dục nói: “Thẩm Gia nhị ca, ta muốn cùng ngươ
 
 **Thông tin chương:**
 - Số chương: 13
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-13](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-13)
-- Thời gian scrape: 2026-01-13 21:09:44
+- Thời gian cập nhật: 2026-01-13 21:09:44
 
 <div class="chapter-nav">
     <a href="chuong_12.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_14.html" class="nav-btn">Chương sau →</a>

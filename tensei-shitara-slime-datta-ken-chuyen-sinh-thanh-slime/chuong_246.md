@@ -313,8 +313,7 @@ Long Công Chúa Milim Nava giờ đây đã giải phóng sức mạnh thực s
 
 **Thông tin chương:**
 - Số chương: 246
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-246](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-246)
-- Thời gian scrape: 2026-01-17 09:49:24
+- Thời gian cập nhật: 2026-01-17 09:49:24
 
 <div class="chapter-nav">
     <a href="chuong_245.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_247.html" class="nav-btn">Chương sau →</a>

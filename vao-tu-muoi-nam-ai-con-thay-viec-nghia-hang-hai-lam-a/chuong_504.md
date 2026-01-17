@@ -156,8 +156,7 @@ Trương Khiết tiếp tục nói: "Tào Côn nghe xong, lúc ấy nhìn ta ch�
 
 **Thông tin chương:**
 - Số chương: 504
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-504](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-504)
-- Thời gian scrape: 2026-01-13 22:09:39
+- Thời gian cập nhật: 2026-01-13 22:09:39
 
 <div class="chapter-nav">
     <a href="chuong_503.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_505.html" class="nav-btn">Chương sau →</a>

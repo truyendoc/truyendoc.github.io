@@ -379,8 +379,7 @@ Và do đó, trận đấu thứ ba trong ngày, dù cho nó kết thúc với m
 
 **Thông tin chương:**
 - Số chương: 112
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-112](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-112)
-- Thời gian scrape: 2026-01-17 09:43:02
+- Thời gian cập nhật: 2026-01-17 09:43:02
 
 <div class="chapter-nav">
     <a href="chuong_111.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_113.html" class="nav-btn">Chương sau →</a>

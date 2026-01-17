@@ -268,8 +268,7 @@ Trương Dĩnh không khỏi há to miệng, trong lúc nhất thời cũng khô
 
 **Thông tin chương:**
 - Số chương: 191
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-191](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-191)
-- Thời gian scrape: 2026-01-13 00:32:17
+- Thời gian cập nhật: 2026-01-13 00:32:17
 
 <div class="chapter-nav">
     <a href="chuong_190.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_192.html" class="nav-btn">Chương sau →</a>

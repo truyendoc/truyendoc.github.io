@@ -467,8 +467,7 @@ Lời nói lúc này chỉ là sự thừa thãi, cuộc chiến giữa hai chú
 
 **Thông tin chương:**
 - Số chương: 90
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-90](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-90)
-- Thời gian scrape: 2026-01-17 09:42:00
+- Thời gian cập nhật: 2026-01-17 09:42:00
 
 <div class="chapter-nav">
     <a href="chuong_89.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_91.html" class="nav-btn">Chương sau →</a>

@@ -461,8 +461,7 @@ Khi Leon nghĩ về tương lai, hoàn toàn thiếu mất bóng dáng của th�
 
 **Thông tin chương:**
 - Số chương: 135
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-135](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-135)
-- Thời gian scrape: 2026-01-17 09:44:08
+- Thời gian cập nhật: 2026-01-17 09:44:08
 
 <div class="chapter-nav">
     <a href="chuong_134.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_136.html" class="nav-btn">Chương sau →</a>

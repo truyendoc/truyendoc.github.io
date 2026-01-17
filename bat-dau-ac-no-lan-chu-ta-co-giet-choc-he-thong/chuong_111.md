@@ -200,8 +200,7 @@ Lĩnh xong đồ vật sau, Hà Cường mang Thẩm Dục đi gặp Ngu Tuyết
 
 **Thông tin chương:**
 - Số chương: 111
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-111](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-111)
-- Thời gian scrape: 2026-01-13 00:28:42
+- Thời gian cập nhật: 2026-01-13 00:28:42
 
 <div class="chapter-nav">
     <a href="chuong_110.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_112.html" class="nav-btn">Chương sau →</a>

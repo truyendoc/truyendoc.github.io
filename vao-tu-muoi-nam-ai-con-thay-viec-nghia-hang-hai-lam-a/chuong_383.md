@@ -186,8 +186,7 @@ Thế này sao lại là bánh từ trên trời rớt xuống a, đây quả th
 
 **Thông tin chương:**
 - Số chương: 383
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-383](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-383)
-- Thời gian scrape: 2026-01-13 22:02:37
+- Thời gian cập nhật: 2026-01-13 22:02:37
 
 <div class="chapter-nav">
     <a href="chuong_382.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_384.html" class="nav-btn">Chương sau →</a>

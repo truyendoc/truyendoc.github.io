@@ -182,8 +182,7 @@ Nghe vậy, Tiêu Văn Tĩnh nhìn chằm chằm Tào Côn há to miệng, cuố
 
 **Thông tin chương:**
 - Số chương: 217
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-217](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-217)
-- Thời gian scrape: 2026-01-13 21:52:43
+- Thời gian cập nhật: 2026-01-13 21:52:43
 
 <div class="chapter-nav">
     <a href="chuong_216.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_218.html" class="nav-btn">Chương sau →</a>

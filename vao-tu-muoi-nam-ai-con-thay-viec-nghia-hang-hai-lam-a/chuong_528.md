@@ -164,8 +164,7 @@ Nói xong, Cao Đình Đình đứng dậy liền đi phòng bếp.
 
 **Thông tin chương:**
 - Số chương: 528
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-528](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-528)
-- Thời gian scrape: 2026-01-13 22:11:02
+- Thời gian cập nhật: 2026-01-13 22:11:02
 
 <div class="chapter-nav">
     <a href="chuong_527.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_529.html" class="nav-btn">Chương sau →</a>

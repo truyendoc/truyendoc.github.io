@@ -188,8 +188,7 @@ Mình đây là thật gặp được cao nhân rồi?
 
 **Thông tin chương:**
 - Số chương: 507
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-507](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-507)
-- Thời gian scrape: 2026-01-13 22:09:50
+- Thời gian cập nhật: 2026-01-13 22:09:50
 
 <div class="chapter-nav">
     <a href="chuong_506.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_508.html" class="nav-btn">Chương sau →</a>

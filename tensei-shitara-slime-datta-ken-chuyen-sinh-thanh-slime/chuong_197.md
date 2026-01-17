@@ -355,8 +355,7 @@ Velda hồ hởi, giao cho vô số lệnh cho Dagruel.
 
 **Thông tin chương:**
 - Số chương: 197
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-197](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-197)
-- Thời gian scrape: 2026-01-17 09:47:03
+- Thời gian cập nhật: 2026-01-17 09:47:03
 
 <div class="chapter-nav">
     <a href="chuong_196.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_198.html" class="nav-btn">Chương sau →</a>

@@ -168,8 +168,7 @@ Chỉ bất quá, Tôn Trạch Thành không nhìn thấy, bị hắn đẩy đi
 
 **Thông tin chương:**
 - Số chương: 157
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-157](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-157)
-- Thời gian scrape: 2026-01-13 21:48:54
+- Thời gian cập nhật: 2026-01-13 21:48:54
 
 <div class="chapter-nav">
     <a href="chuong_156.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_158.html" class="nav-btn">Chương sau →</a>

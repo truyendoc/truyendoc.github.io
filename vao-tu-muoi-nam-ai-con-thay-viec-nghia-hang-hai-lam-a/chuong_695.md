@@ -162,8 +162,7 @@ Nghe vậy, Triệu Xảo Thiến giả bộ như một bộ quan tâm bộ dán
 
 **Thông tin chương:**
 - Số chương: 695
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-695](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-695)
-- Thời gian scrape: 2026-01-13 22:20:40
+- Thời gian cập nhật: 2026-01-13 22:20:40
 
 <div class="chapter-nav">
     <a href="chuong_694.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_696.html" class="nav-btn">Chương sau →</a>

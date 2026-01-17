@@ -170,8 +170,7 @@ Thấy là Tôn Vĩ gọi điện thoại tới, Tào Côn khóe miệng không 
 
 **Thông tin chương:**
 - Số chương: 141
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-141](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-141)
-- Thời gian scrape: 2026-01-13 21:47:47
+- Thời gian cập nhật: 2026-01-13 21:47:47
 
 <div class="chapter-nav">
     <a href="chuong_140.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_142.html" class="nav-btn">Chương sau →</a>

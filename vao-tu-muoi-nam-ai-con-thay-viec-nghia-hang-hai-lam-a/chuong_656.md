@@ -176,8 +176,7 @@ Nghe vậy, Bàng Hồng Na càng là không hiểu, dò hỏi:
 
 **Thông tin chương:**
 - Số chương: 656
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-656](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-656)
-- Thời gian scrape: 2026-01-13 22:18:21
+- Thời gian cập nhật: 2026-01-13 22:18:21
 
 <div class="chapter-nav">
     <a href="chuong_655.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_657.html" class="nav-btn">Chương sau →</a>

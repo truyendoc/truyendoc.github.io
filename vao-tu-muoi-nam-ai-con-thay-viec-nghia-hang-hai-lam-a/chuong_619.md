@@ -166,8 +166,7 @@ Bởi vì không phải mua cái gì phần món ăn, Tào Côn vừa dứt tòa
 
 **Thông tin chương:**
 - Số chương: 619
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-619](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-619)
-- Thời gian scrape: 2026-01-13 22:16:12
+- Thời gian cập nhật: 2026-01-13 22:16:12
 
 <div class="chapter-nav">
     <a href="chuong_618.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_620.html" class="nav-btn">Chương sau →</a>

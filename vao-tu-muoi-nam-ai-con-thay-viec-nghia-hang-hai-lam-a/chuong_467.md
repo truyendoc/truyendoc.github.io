@@ -182,8 +182,7 @@ Nói xong, Bàng Hồng Na đi trở về phòng ngủ, trực tiếp liền th�
 
 **Thông tin chương:**
 - Số chương: 467
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-467](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-467)
-- Thời gian scrape: 2026-01-13 22:07:32
+- Thời gian cập nhật: 2026-01-13 22:07:32
 
 <div class="chapter-nav">
     <a href="chuong_466.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_468.html" class="nav-btn">Chương sau →</a>

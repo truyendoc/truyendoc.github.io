@@ -190,8 +190,7 @@ Cho nên, hắn hôm nay hành trình xác thực rất bận.
 
 **Thông tin chương:**
 - Số chương: 623
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-623](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-623)
-- Thời gian scrape: 2026-01-13 22:16:27
+- Thời gian cập nhật: 2026-01-13 22:16:27
 
 <div class="chapter-nav">
     <a href="chuong_622.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_624.html" class="nav-btn">Chương sau →</a>

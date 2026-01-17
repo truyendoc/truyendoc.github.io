@@ -276,8 +276,7 @@ Mà bí pháp phía sau dấu cộng đã biến mất, hiển nhiên còn lại
 
 **Thông tin chương:**
 - Số chương: 17
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-17](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-17)
-- Thời gian scrape: 2026-01-13 21:09:54
+- Thời gian cập nhật: 2026-01-13 21:09:54
 
 <div class="chapter-nav">
     <a href="chuong_16.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_18.html" class="nav-btn">Chương sau →</a>

@@ -176,8 +176,7 @@ Mà nếu như là đại hán gọi hắn bảo bối, càng có tình cảm, h
 
 **Thông tin chương:**
 - Số chương: 69
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-69](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-69)
-- Thời gian scrape: 2026-01-13 21:43:13
+- Thời gian cập nhật: 2026-01-13 21:43:13
 
 <div class="chapter-nav">
     <a href="chuong_68.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_70.html" class="nav-btn">Chương sau →</a>

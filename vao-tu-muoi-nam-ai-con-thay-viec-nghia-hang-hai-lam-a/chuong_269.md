@@ -148,8 +148,7 @@ Cẩu Nhất Vĩ nhẹ gật đầu, hắn nghĩ một lát, nói: "Từ trong t
 
 **Thông tin chương:**
 - Số chương: 269
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-269](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-269)
-- Thời gian scrape: 2026-01-13 21:55:48
+- Thời gian cập nhật: 2026-01-13 21:55:48
 
 <div class="chapter-nav">
     <a href="chuong_268.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_270.html" class="nav-btn">Chương sau →</a>

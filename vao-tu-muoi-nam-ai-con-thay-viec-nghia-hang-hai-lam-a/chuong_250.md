@@ -172,8 +172,7 @@ Tào Côn xấu hổ cười một tiếng, nói: "Sau đó thì sao?"
 
 **Thông tin chương:**
 - Số chương: 250
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-250](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-250)
-- Thời gian scrape: 2026-01-13 21:54:38
+- Thời gian cập nhật: 2026-01-13 21:54:38
 
 <div class="chapter-nav">
     <a href="chuong_249.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_251.html" class="nav-btn">Chương sau →</a>

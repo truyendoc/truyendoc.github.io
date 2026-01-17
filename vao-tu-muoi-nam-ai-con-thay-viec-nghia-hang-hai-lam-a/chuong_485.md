@@ -164,8 +164,7 @@ Nói, Tào Côn đưa tay hướng ngoài cửa sổ một chỉ, nói: "Cục c
 
 **Thông tin chương:**
 - Số chương: 485
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-485](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-485)
-- Thời gian scrape: 2026-01-13 22:08:35
+- Thời gian cập nhật: 2026-01-13 22:08:35
 
 <div class="chapter-nav">
     <a href="chuong_484.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_486.html" class="nav-btn">Chương sau →</a>

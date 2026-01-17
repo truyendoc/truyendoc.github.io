@@ -164,8 +164,7 @@ Cặn bã nữ!
 
 **Thông tin chương:**
 - Số chương: 433
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-433](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-433)
-- Thời gian scrape: 2026-01-13 22:05:26
+- Thời gian cập nhật: 2026-01-13 22:05:26
 
 <div class="chapter-nav">
     <a href="chuong_432.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_434.html" class="nav-btn">Chương sau →</a>

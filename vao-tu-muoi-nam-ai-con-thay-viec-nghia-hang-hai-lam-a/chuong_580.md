@@ -172,8 +172,7 @@ Nhìn xem Tào Côn giờ phút này bộ dáng cười mị mị, Khương Mẫ
 
 **Thông tin chương:**
 - Số chương: 580
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-580](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-580)
-- Thời gian scrape: 2026-01-13 22:13:59
+- Thời gian cập nhật: 2026-01-13 22:13:59
 
 <div class="chapter-nav">
     <a href="chuong_579.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_581.html" class="nav-btn">Chương sau →</a>

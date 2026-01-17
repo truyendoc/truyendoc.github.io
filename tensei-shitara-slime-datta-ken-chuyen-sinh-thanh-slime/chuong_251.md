@@ -359,8 +359,7 @@ Vậy nên, Yuuki cười như thể hắn ta thực sự thích điều này t�
 
 **Thông tin chương:**
 - Số chương: 251
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-251](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-251)
-- Thời gian scrape: 2026-01-17 09:49:39
+- Thời gian cập nhật: 2026-01-17 09:49:39
 
 <div class="chapter-nav">
     <a href="chuong_250.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_252.html" class="nav-btn">Chương sau →</a>

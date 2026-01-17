@@ -565,8 +565,7 @@ Và như vậy, Giải Đấu Tempest đã được quyết định.
 
 **Thông tin chương:**
 - Số chương: 97
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-97](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-97)
-- Thời gian scrape: 2026-01-17 09:42:19
+- Thời gian cập nhật: 2026-01-17 09:42:19
 
 <div class="chapter-nav">
     <a href="chuong_96.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_98.html" class="nav-btn">Chương sau →</a>

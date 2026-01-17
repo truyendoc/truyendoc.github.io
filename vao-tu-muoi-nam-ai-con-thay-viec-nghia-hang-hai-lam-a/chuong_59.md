@@ -170,8 +170,7 @@ Nói, Tào Côn lại vì Lưu Ngọc Linh làm giới thiệu: "Bạch Tĩnh, t
 
 **Thông tin chương:**
 - Số chương: 59
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-59](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-59)
-- Thời gian scrape: 2026-01-13 21:42:42
+- Thời gian cập nhật: 2026-01-13 21:42:42
 
 <div class="chapter-nav">
     <a href="chuong_58.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_60.html" class="nav-btn">Chương sau →</a>

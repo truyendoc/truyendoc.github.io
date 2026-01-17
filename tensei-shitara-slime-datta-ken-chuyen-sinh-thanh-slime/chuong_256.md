@@ -128,8 +128,7 @@ Vậy thôi, hẹn gặp lại mọi người (có thể là ở bộ truyện m
 
 **Thông tin chương:**
 - Số chương: 256
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-256](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-256)
-- Thời gian scrape: 2026-01-17 09:49:55
+- Thời gian cập nhật: 2026-01-17 09:49:55
 
 <div class="chapter-nav">
     <a href="chuong_255.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_257.html" class="nav-btn">Chương sau →</a>

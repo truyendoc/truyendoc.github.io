@@ -391,8 +391,7 @@ Tôi đã suy nghĩ trong đầu tôi để cẩn thận từ bây giờ.
 
 **Thông tin chương:**
 - Số chương: 128
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-128](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-128)
-- Thời gian scrape: 2026-01-17 09:43:48
+- Thời gian cập nhật: 2026-01-17 09:43:48
 
 <div class="chapter-nav">
     <a href="chuong_127.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_129.html" class="nav-btn">Chương sau →</a>

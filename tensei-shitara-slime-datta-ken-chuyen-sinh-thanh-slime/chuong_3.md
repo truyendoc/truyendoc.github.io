@@ -439,8 +439,7 @@ Và một tiếng hét từ tận tâm can tôi bay vυ"t ra.
 
 **Thông tin chương:**
 - Số chương: 3
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-3](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-3)
-- Thời gian scrape: 2026-01-17 09:37:58
+- Thời gian cập nhật: 2026-01-17 09:37:58
 
 <div class="chapter-nav">
     <a href="chuong_2.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_4.html" class="nav-btn">Chương sau →</a>

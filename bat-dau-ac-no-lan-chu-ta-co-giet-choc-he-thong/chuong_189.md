@@ -226,8 +226,7 @@ Lại nói, coi như bọn hắn muốn rời đi, quan phủ cũng chưa chắc
 
 **Thông tin chương:**
 - Số chương: 189
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-189](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-189)
-- Thời gian scrape: 2026-01-13 00:32:12
+- Thời gian cập nhật: 2026-01-13 00:32:12
 
 <div class="chapter-nav">
     <a href="chuong_188.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_190.html" class="nav-btn">Chương sau →</a>

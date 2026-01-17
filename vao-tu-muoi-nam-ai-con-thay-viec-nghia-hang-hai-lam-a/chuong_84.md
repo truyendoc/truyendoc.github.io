@@ -162,8 +162,7 @@ Thấy thế, Từ Kiều Kiều thì là hướng về phía Tào Côn bóng l�
 
 **Thông tin chương:**
 - Số chương: 84
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-84](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-84)
-- Thời gian scrape: 2026-01-13 21:44:34
+- Thời gian cập nhật: 2026-01-13 21:44:34
 
 <div class="chapter-nav">
     <a href="chuong_83.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_85.html" class="nav-btn">Chương sau →</a>

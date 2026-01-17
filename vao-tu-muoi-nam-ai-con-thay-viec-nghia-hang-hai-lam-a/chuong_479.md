@@ -164,8 +164,7 @@ Kết quả, liền có người không phải chờ không nổi, không phải
 
 **Thông tin chương:**
 - Số chương: 479
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-479](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-479)
-- Thời gian scrape: 2026-01-13 22:08:15
+- Thời gian cập nhật: 2026-01-13 22:08:15
 
 <div class="chapter-nav">
     <a href="chuong_478.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_480.html" class="nav-btn">Chương sau →</a>

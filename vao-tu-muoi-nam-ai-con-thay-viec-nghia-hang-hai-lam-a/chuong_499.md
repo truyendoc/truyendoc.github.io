@@ -178,8 +178,7 @@ Bị Đoàn Minh như thế một trận nói, Khải thúc xấu hổ cúi đ�
 
 **Thông tin chương:**
 - Số chương: 499
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-499](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-499)
-- Thời gian scrape: 2026-01-13 22:09:21
+- Thời gian cập nhật: 2026-01-13 22:09:21
 
 <div class="chapter-nav">
     <a href="chuong_498.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_500.html" class="nav-btn">Chương sau →</a>

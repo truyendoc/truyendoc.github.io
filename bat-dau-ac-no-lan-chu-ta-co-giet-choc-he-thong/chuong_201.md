@@ -246,8 +246,7 @@ Bất quá, hắn biểu thị, mấy ngày nữa sẽ còn lại đến.
 
 **Thông tin chương:**
 - Số chương: 201
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-201](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-201)
-- Thời gian scrape: 2026-01-13 00:32:41
+- Thời gian cập nhật: 2026-01-13 00:32:41
 
 <div class="chapter-nav">
     <a href="chuong_200.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_202.html" class="nav-btn">Chương sau →</a>

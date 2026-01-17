@@ -174,8 +174,7 @@ Nói xong, Quách Hữu Tài quay người liền rời đi gian phòng.
 
 **Thông tin chương:**
 - Số chương: 320
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-320](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-320)
-- Thời gian scrape: 2026-01-13 21:58:53
+- Thời gian cập nhật: 2026-01-13 21:58:53
 
 <div class="chapter-nav">
     <a href="chuong_319.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_321.html" class="nav-btn">Chương sau →</a>

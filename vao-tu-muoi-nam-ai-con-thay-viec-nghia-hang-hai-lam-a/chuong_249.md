@@ -198,8 +198,7 @@ Thấy thế, Tào Côn đầu tiên là sững sờ, phốc một chút liền 
 
 **Thông tin chương:**
 - Số chương: 249
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-249](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-249)
-- Thời gian scrape: 2026-01-13 21:54:35
+- Thời gian cập nhật: 2026-01-13 21:54:35
 
 <div class="chapter-nav">
     <a href="chuong_248.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_250.html" class="nav-btn">Chương sau →</a>

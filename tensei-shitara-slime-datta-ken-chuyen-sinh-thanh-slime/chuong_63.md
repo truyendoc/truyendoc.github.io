@@ -325,8 +325,7 @@ Và việc còn lại chính là tự cho bản thân mình chút lòng tin và 
 
 **Thông tin chương:**
 - Số chương: 63
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-63](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-63)
-- Thời gian scrape: 2026-01-17 09:40:46
+- Thời gian cập nhật: 2026-01-17 09:40:46
 
 <div class="chapter-nav">
     <a href="chuong_62.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_64.html" class="nav-btn">Chương sau →</a>

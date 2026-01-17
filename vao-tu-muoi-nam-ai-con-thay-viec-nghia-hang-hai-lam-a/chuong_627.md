@@ -154,8 +154,7 @@ Rất nhanh, Mã Tiểu Vi dẫn đầu thu thập xong đồ vật của mình,
 
 **Thông tin chương:**
 - Số chương: 627
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-627](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-627)
-- Thời gian scrape: 2026-01-13 22:16:41
+- Thời gian cập nhật: 2026-01-13 22:16:41
 
 <div class="chapter-nav">
     <a href="chuong_626.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_628.html" class="nav-btn">Chương sau →</a>

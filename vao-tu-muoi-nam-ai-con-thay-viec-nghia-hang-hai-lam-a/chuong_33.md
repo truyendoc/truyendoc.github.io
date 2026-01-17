@@ -184,8 +184,7 @@ Tào Côn ha ha cười một tiếng, nói: "Không sao, coi như bữa ăn tr�
 
 **Thông tin chương:**
 - Số chương: 33
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-33](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-33)
-- Thời gian scrape: 2026-01-13 21:41:10
+- Thời gian cập nhật: 2026-01-13 21:41:10
 
 <div class="chapter-nav">
     <a href="chuong_32.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_34.html" class="nav-btn">Chương sau →</a>

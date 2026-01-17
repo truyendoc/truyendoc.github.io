@@ -529,8 +529,7 @@ Tình thế càng thêm căng thẳng, và vướng vào guồng quay.
 
 **Thông tin chương:**
 - Số chương: 182
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-182](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-182)
-- Thời gian scrape: 2026-01-17 09:46:20
+- Thời gian cập nhật: 2026-01-17 09:46:20
 
 <div class="chapter-nav">
     <a href="chuong_181.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_183.html" class="nav-btn">Chương sau →</a>

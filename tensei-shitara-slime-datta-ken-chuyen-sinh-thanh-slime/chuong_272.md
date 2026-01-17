@@ -479,8 +479,7 @@ Không quá bất ngờ nếu Irina, nhà nghiên cứu có vẻ là kẻ chủ 
 
 **Thông tin chương:**
 - Số chương: 272
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-272](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-272)
-- Thời gian scrape: 2026-01-17 09:50:41
+- Thời gian cập nhật: 2026-01-17 09:50:41
 
 <div class="chapter-nav">
     <a href="chuong_271.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_273.html" class="nav-btn">Chương sau →</a>

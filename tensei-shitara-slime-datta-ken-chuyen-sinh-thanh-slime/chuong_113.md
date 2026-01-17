@@ -489,8 +489,7 @@ Và thế là, tình bạn giữa tôi và Masayuki đã được thiết lập 
 
 **Thông tin chương:**
 - Số chương: 113
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-113](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-113)
-- Thời gian scrape: 2026-01-17 09:43:05
+- Thời gian cập nhật: 2026-01-17 09:43:05
 
 <div class="chapter-nav">
     <a href="chuong_112.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_114.html" class="nav-btn">Chương sau →</a>

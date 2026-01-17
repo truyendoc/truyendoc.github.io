@@ -164,8 +164,7 @@ Bởi vì, Phương Tử Dương dạng này người muốn biết đáp án, k
 
 **Thông tin chương:**
 - Số chương: 305
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-305](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-305)
-- Thời gian scrape: 2026-01-13 21:58:00
+- Thời gian cập nhật: 2026-01-13 21:58:00
 
 <div class="chapter-nav">
     <a href="chuong_304.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_306.html" class="nav-btn">Chương sau →</a>

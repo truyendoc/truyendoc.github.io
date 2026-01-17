@@ -629,8 +629,7 @@ Nhưng mà việc gì phải đến thì ắt sẽ đến. Với những cảm g
 
 **Thông tin chương:**
 - Số chương: 148
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-148](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-148)
-- Thời gian scrape: 2026-01-17 09:44:45
+- Thời gian cập nhật: 2026-01-17 09:44:45
 
 <div class="chapter-nav">
     <a href="chuong_147.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_149.html" class="nav-btn">Chương sau →</a>

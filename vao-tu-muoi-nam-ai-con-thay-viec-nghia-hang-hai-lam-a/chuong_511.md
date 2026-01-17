@@ -172,8 +172,7 @@ Vì cái gì liền hết lần này tới lần khác muốn hủy đi mình a!
 
 **Thông tin chương:**
 - Số chương: 511
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-511](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-511)
-- Thời gian scrape: 2026-01-13 22:10:02
+- Thời gian cập nhật: 2026-01-13 22:10:02
 
 <div class="chapter-nav">
     <a href="chuong_510.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_512.html" class="nav-btn">Chương sau →</a>

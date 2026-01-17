@@ -188,8 +188,7 @@ Cho nên, nàng xác thực cảm thấy, hai người đã không xứng đôi,
 
 **Thông tin chương:**
 - Số chương: 691
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-691](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-691)
-- Thời gian scrape: 2026-01-13 22:20:28
+- Thời gian cập nhật: 2026-01-13 22:20:28
 
 <div class="chapter-nav">
     <a href="chuong_690.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_692.html" class="nav-btn">Chương sau →</a>

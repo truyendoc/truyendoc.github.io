@@ -158,8 +158,7 @@ Quá hiếm có!
 
 **Thông tin chương:**
 - Số chương: 326
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-326](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-326)
-- Thời gian scrape: 2026-01-13 21:59:14
+- Thời gian cập nhật: 2026-01-13 21:59:14
 
 <div class="chapter-nav">
     <a href="chuong_325.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_327.html" class="nav-btn">Chương sau →</a>

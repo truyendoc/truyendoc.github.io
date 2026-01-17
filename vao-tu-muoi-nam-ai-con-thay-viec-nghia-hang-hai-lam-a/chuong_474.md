@@ -176,8 +176,7 @@ Rạng sáng hai giờ khoảng chừng, là người giấc ngủ sâu nhất t
 
 **Thông tin chương:**
 - Số chương: 474
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-474](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-474)
-- Thời gian scrape: 2026-01-13 22:07:59
+- Thời gian cập nhật: 2026-01-13 22:07:59
 
 <div class="chapter-nav">
     <a href="chuong_473.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_475.html" class="nav-btn">Chương sau →</a>

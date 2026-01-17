@@ -214,8 +214,7 @@ Cho nên, mới không phải nàng khác nhau đối đãi đâu!
 
 **Thông tin chương:**
 - Số chương: 166
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-166](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-166)
-- Thời gian scrape: 2026-01-13 21:49:21
+- Thời gian cập nhật: 2026-01-13 21:49:21
 
 <div class="chapter-nav">
     <a href="chuong_165.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_167.html" class="nav-btn">Chương sau →</a>

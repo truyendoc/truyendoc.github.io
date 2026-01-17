@@ -164,8 +164,7 @@ Bị độc c·hết!
 
 **Thông tin chương:**
 - Số chương: 410
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-410](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-410)
-- Thời gian scrape: 2026-01-13 22:04:08
+- Thời gian cập nhật: 2026-01-13 22:04:08
 
 <div class="chapter-nav">
     <a href="chuong_409.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_411.html" class="nav-btn">Chương sau →</a>

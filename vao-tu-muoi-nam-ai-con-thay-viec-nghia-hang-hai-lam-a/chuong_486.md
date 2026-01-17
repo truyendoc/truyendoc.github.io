@@ -176,8 +176,7 @@ Thậm chí, hai bên mặt đều có chút khác biệt trình độ sưng.
 
 **Thông tin chương:**
 - Số chương: 486
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-486](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-486)
-- Thời gian scrape: 2026-01-13 22:08:39
+- Thời gian cập nhật: 2026-01-13 22:08:39
 
 <div class="chapter-nav">
     <a href="chuong_485.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_487.html" class="nav-btn">Chương sau →</a>

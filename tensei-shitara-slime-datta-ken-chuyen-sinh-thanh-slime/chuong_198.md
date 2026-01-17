@@ -613,8 +613,7 @@ Một lần nữa, thế giới lại được biết cơn cuồng nộ từ m�
 
 **Thông tin chương:**
 - Số chương: 198
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-198](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-198)
-- Thời gian scrape: 2026-01-17 09:47:05
+- Thời gian cập nhật: 2026-01-17 09:47:05
 
 <div class="chapter-nav">
     <a href="chuong_197.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_199.html" class="nav-btn">Chương sau →</a>

@@ -120,8 +120,7 @@ Cũng không ít vào hôm nay mới bắt đầu xuất phát, dù sao bách v�
 
 **Thông tin chương:**
 - Số chương: 381
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-381](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-381)
-- Thời gian scrape: 2026-01-13 00:25:44
+- Thời gian cập nhật: 2026-01-13 00:25:44
 
 <div class="chapter-nav">
     <a href="chuong_380.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_382.html" class="nav-btn">Chương sau →</a>

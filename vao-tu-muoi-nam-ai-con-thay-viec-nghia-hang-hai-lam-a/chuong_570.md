@@ -174,8 +174,7 @@ Thấy mình thật lớn mà vậy mà thất thần, Lý Tố Linh cười nó
 
 **Thông tin chương:**
 - Số chương: 570
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-570](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-570)
-- Thời gian scrape: 2026-01-13 22:13:26
+- Thời gian cập nhật: 2026-01-13 22:13:26
 
 <div class="chapter-nav">
     <a href="chuong_569.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_571.html" class="nav-btn">Chương sau →</a>

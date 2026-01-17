@@ -407,8 +407,7 @@ Cùng với tín hiệu của Ramiris, bốn người đang ở trong Zero giả
 
 **Thông tin chương:**
 - Số chương: 236
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-236](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-236)
-- Thời gian scrape: 2026-01-17 09:48:57
+- Thời gian cập nhật: 2026-01-17 09:48:57
 
 <div class="chapter-nav">
     <a href="chuong_235.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_237.html" class="nav-btn">Chương sau →</a>

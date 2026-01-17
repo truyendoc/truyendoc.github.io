@@ -176,8 +176,7 @@ Cuối cùng, bất quá gặp hắn cô nhi một cái dễ khi dễ, Y Nhiên 
 
 **Thông tin chương:**
 - Số chương: 151
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-151](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-151)
-- Thời gian scrape: 2026-01-13 21:48:27
+- Thời gian cập nhật: 2026-01-13 21:48:27
 
 <div class="chapter-nav">
     <a href="chuong_150.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_152.html" class="nav-btn">Chương sau →</a>

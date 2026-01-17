@@ -353,8 +353,7 @@ Và cuộc đấu trí giữa cáo và chồn bắt đầu.
 
 **Thông tin chương:**
 - Số chương: 139
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-139](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-139)
-- Thời gian scrape: 2026-01-17 09:44:19
+- Thời gian cập nhật: 2026-01-17 09:44:19
 
 <div class="chapter-nav">
     <a href="chuong_138.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_140.html" class="nav-btn">Chương sau →</a>

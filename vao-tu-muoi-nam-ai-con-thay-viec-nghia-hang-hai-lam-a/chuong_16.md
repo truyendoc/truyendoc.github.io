@@ -148,8 +148,7 @@ Tại ký túc xá ở, không nói đến không tiện hắn luyện thùng c�
 
 **Thông tin chương:**
 - Số chương: 16
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-16](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-16)
-- Thời gian scrape: 2026-01-13 21:40:15
+- Thời gian cập nhật: 2026-01-13 21:40:15
 
 <div class="chapter-nav">
     <a href="chuong_15.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_17.html" class="nav-btn">Chương sau →</a>

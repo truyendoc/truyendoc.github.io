@@ -545,8 +545,7 @@ Và như vậy, sau khi Tempest đã đẩy lùi thành công cuộc xâm lăng 
 
 **Thông tin chương:**
 - Số chương: 163
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-163](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-163)
-- Thời gian scrape: 2026-01-17 09:45:27
+- Thời gian cập nhật: 2026-01-17 09:45:27
 
 <div class="chapter-nav">
     <a href="chuong_162.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_164.html" class="nav-btn">Chương sau →</a>

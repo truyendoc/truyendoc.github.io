@@ -180,8 +180,7 @@ Một bên, Vương San San nhìn xem một màn này, bĩu môi, nức nỡ nó
 
 **Thông tin chương:**
 - Số chương: 23
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-23](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-23)
-- Thời gian scrape: 2026-01-13 21:40:39
+- Thời gian cập nhật: 2026-01-13 21:40:39
 
 <div class="chapter-nav">
     <a href="chuong_22.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_24.html" class="nav-btn">Chương sau →</a>

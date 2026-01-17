@@ -471,8 +471,7 @@ Và khi các giáo viên đã chuẩn bị tinh thần, cuộc họp trong tư�
 
 **Thông tin chương:**
 - Số chương: 271
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-271](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-271)
-- Thời gian scrape: 2026-01-17 09:50:39
+- Thời gian cập nhật: 2026-01-17 09:50:39
 
 <div class="chapter-nav">
     <a href="chuong_270.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_272.html" class="nav-btn">Chương sau →</a>

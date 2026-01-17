@@ -579,8 +579,7 @@ Và thế là đội quân thiên thần xâm chiếm thế giới mặt đất 
 
 **Thông tin chương:**
 - Số chương: 248
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-248](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-248)
-- Thời gian scrape: 2026-01-17 09:49:31
+- Thời gian cập nhật: 2026-01-17 09:49:31
 
 <div class="chapter-nav">
     <a href="chuong_247.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_249.html" class="nav-btn">Chương sau →</a>

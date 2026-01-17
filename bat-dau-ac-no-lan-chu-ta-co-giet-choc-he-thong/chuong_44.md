@@ -234,8 +234,7 @@ Ngu Tuyết Oánh liền biết, tòa trận pháp này so với hắn tưởng 
 
 **Thông tin chương:**
 - Số chương: 44
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-44](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-44)
-- Thời gian scrape: 2026-01-13 21:15:23
+- Thời gian cập nhật: 2026-01-13 21:15:23
 
 <div class="chapter-nav">
     <a href="chuong_43.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_45.html" class="nav-btn">Chương sau →</a>

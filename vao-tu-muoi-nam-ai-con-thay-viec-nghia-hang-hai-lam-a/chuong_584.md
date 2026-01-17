@@ -166,8 +166,7 @@ Nghe vậy, Lý Tố Linh cả người trong nháy mắt liền lại có tinh 
 
 **Thông tin chương:**
 - Số chương: 584
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-584](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-584)
-- Thời gian scrape: 2026-01-13 22:14:12
+- Thời gian cập nhật: 2026-01-13 22:14:12
 
 <div class="chapter-nav">
     <a href="chuong_583.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_585.html" class="nav-btn">Chương sau →</a>

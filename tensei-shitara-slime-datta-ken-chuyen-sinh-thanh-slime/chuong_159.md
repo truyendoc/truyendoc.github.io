@@ -407,8 +407,7 @@ Tổng số người sống sót, là 0.
 
 **Thông tin chương:**
 - Số chương: 159
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-159](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-159)
-- Thời gian scrape: 2026-01-17 09:45:15
+- Thời gian cập nhật: 2026-01-17 09:45:15
 
 <div class="chapter-nav">
     <a href="chuong_158.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_160.html" class="nav-btn">Chương sau →</a>

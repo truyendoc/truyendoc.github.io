@@ -182,8 +182,7 @@ Mà Hải ca bên này cũng không làm phiền, trực tiếp cho hắn 20 v�
 
 **Thông tin chương:**
 - Số chương: 146
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-146](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-146)
-- Thời gian scrape: 2026-01-13 21:48:07
+- Thời gian cập nhật: 2026-01-13 21:48:07
 
 <div class="chapter-nav">
     <a href="chuong_145.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_147.html" class="nav-btn">Chương sau →</a>

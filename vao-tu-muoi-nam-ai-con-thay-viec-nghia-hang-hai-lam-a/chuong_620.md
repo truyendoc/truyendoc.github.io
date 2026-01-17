@@ -182,8 +182,7 @@ Nói xong, Tào Côn trực tiếp liền cúp điện thoại!
 
 **Thông tin chương:**
 - Số chương: 620
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-620](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-620)
-- Thời gian scrape: 2026-01-13 22:16:15
+- Thời gian cập nhật: 2026-01-13 22:16:15
 
 <div class="chapter-nav">
     <a href="chuong_619.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_621.html" class="nav-btn">Chương sau →</a>

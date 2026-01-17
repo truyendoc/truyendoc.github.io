@@ -122,8 +122,7 @@ Lần này linh nỏ mất trộm, có nội tặc sự tình, tất cả mọi 
 
 **Thông tin chương:**
 - Số chương: 232
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-232](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-232)
-- Thời gian scrape: 2026-01-13 00:33:54
+- Thời gian cập nhật: 2026-01-13 00:33:54
 
 <div class="chapter-nav">
     <a href="chuong_231.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_233.html" class="nav-btn">Chương sau →</a>

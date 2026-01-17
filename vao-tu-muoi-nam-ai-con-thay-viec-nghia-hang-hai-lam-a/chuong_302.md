@@ -174,8 +174,7 @@ Kết quả, hôm qua một trận thử đồ ăn, lại thêm hôm nay một t
 
 **Thông tin chương:**
 - Số chương: 302
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-302](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-302)
-- Thời gian scrape: 2026-01-13 21:57:46
+- Thời gian cập nhật: 2026-01-13 21:57:46
 
 <div class="chapter-nav">
     <a href="chuong_301.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_303.html" class="nav-btn">Chương sau →</a>

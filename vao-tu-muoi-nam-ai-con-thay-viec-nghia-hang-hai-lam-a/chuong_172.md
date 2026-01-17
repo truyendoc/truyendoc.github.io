@@ -180,8 +180,7 @@ Tào Côn nhẹ gật đầu: "Yên tâm, ngươi một mực đi đào là đư
 
 **Thông tin chương:**
 - Số chương: 172
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-172](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-172)
-- Thời gian scrape: 2026-01-13 21:49:41
+- Thời gian cập nhật: 2026-01-13 21:49:41
 
 <div class="chapter-nav">
     <a href="chuong_171.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_173.html" class="nav-btn">Chương sau →</a>

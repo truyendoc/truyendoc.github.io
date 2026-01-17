@@ -379,8 +379,7 @@ Cận Vệ Hoàng Gia hạng 2: Damrada muốn tự mình kết liễu hắn.
 
 **Thông tin chương:**
 - Số chương: 169
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-169](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-169)
-- Thời gian scrape: 2026-01-17 09:45:44
+- Thời gian cập nhật: 2026-01-17 09:45:44
 
 <div class="chapter-nav">
     <a href="chuong_168.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_170.html" class="nav-btn">Chương sau →</a>

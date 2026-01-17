@@ -164,8 +164,7 @@ Gặp hai người một bên h·út t·huốc một bên tiến về cách đó
 
 **Thông tin chương:**
 - Số chương: 436
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-436](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-436)
-- Thời gian scrape: 2026-01-13 22:05:36
+- Thời gian cập nhật: 2026-01-13 22:05:36
 
 <div class="chapter-nav">
     <a href="chuong_435.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_437.html" class="nav-btn">Chương sau →</a>

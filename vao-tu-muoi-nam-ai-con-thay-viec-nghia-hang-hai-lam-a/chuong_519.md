@@ -180,8 +180,7 @@ Trương Bách Mộ nhìn về phía Tào Côn, nói: "Tào lão bản ngươi c
 
 **Thông tin chương:**
 - Số chương: 519
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-519](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-519)
-- Thời gian scrape: 2026-01-13 22:10:29
+- Thời gian cập nhật: 2026-01-13 22:10:29
 
 <div class="chapter-nav">
     <a href="chuong_518.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_520.html" class="nav-btn">Chương sau →</a>

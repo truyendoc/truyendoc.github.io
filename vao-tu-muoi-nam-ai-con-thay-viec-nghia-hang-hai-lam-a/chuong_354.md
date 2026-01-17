@@ -166,8 +166,7 @@ Cũng có đạo lý!
 
 **Thông tin chương:**
 - Số chương: 354
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-354](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-354)
-- Thời gian scrape: 2026-01-13 22:00:56
+- Thời gian cập nhật: 2026-01-13 22:00:56
 
 <div class="chapter-nav">
     <a href="chuong_353.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_355.html" class="nav-btn">Chương sau →</a>

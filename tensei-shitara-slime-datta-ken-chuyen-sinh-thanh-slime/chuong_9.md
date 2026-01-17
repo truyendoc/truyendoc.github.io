@@ -345,8 +345,7 @@ Và như thế, tôi trở thành Chủ nhân, đồng thời cũng là người
 
 **Thông tin chương:**
 - Số chương: 9
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-9](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-9)
-- Thời gian scrape: 2026-01-17 09:38:15
+- Thời gian cập nhật: 2026-01-17 09:38:15
 
 <div class="chapter-nav">
     <a href="chuong_8.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_10.html" class="nav-btn">Chương sau →</a>

@@ -184,8 +184,7 @@ Nguyên bản vẫn chỉ là nghĩ gõ hai lần cửa bỏ chạy Triệu Tuy�
 
 **Thông tin chương:**
 - Số chương: 198
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-198](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-198)
-- Thời gian scrape: 2026-01-13 21:51:09
+- Thời gian cập nhật: 2026-01-13 21:51:09
 
 <div class="chapter-nav">
     <a href="chuong_197.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_199.html" class="nav-btn">Chương sau →</a>

@@ -533,8 +533,7 @@ Thế rồi, cô biến về dạng trẻ con và tức tốc lên đường qua
 
 **Thông tin chương:**
 - Số chương: 228
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-228](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-228)
-- Thời gian scrape: 2026-01-17 09:48:31
+- Thời gian cập nhật: 2026-01-17 09:48:31
 
 <div class="chapter-nav">
     <a href="chuong_227.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_229.html" class="nav-btn">Chương sau →</a>

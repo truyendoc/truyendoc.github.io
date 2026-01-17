@@ -174,8 +174,7 @@ Tào Côn nhẹ gật đầu, nói: "So với ngươi nghĩ còn nghiêm trọng
 
 **Thông tin chương:**
 - Số chương: 241
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-241](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-241)
-- Thời gian scrape: 2026-01-13 21:54:10
+- Thời gian cập nhật: 2026-01-13 21:54:10
 
 <div class="chapter-nav">
     <a href="chuong_240.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_242.html" class="nav-btn">Chương sau →</a>

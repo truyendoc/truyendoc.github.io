@@ -204,8 +204,7 @@ Giao dịch cũng chính thức đạt thành.
 
 **Thông tin chương:**
 - Số chương: 100
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-100](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-100)
-- Thời gian scrape: 2026-01-13 00:28:10
+- Thời gian cập nhật: 2026-01-13 00:28:10
 
 <div class="chapter-nav">
     <a href="chuong_99.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_101.html" class="nav-btn">Chương sau →</a>

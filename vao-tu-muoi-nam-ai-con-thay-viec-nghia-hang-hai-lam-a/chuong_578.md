@@ -148,8 +148,7 @@ Cũng không biết là nhìn Lý Tố Linh một nữ nhân quá đáng thươn
 
 **Thông tin chương:**
 - Số chương: 578
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-578](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-578)
-- Thời gian scrape: 2026-01-13 22:13:52
+- Thời gian cập nhật: 2026-01-13 22:13:52
 
 <div class="chapter-nav">
     <a href="chuong_577.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_579.html" class="nav-btn">Chương sau →</a>

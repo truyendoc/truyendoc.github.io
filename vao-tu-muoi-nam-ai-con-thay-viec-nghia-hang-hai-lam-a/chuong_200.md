@@ -170,8 +170,7 @@ Nói xong, Tào Côn cưỡng ép ôm Tôn Phỉ Phỉ bờ eo thon, cùng nàng
 
 **Thông tin chương:**
 - Số chương: 200
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-200](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-200)
-- Thời gian scrape: 2026-01-13 21:51:15
+- Thời gian cập nhật: 2026-01-13 21:51:15
 
 <div class="chapter-nav">
     <a href="chuong_199.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_201.html" class="nav-btn">Chương sau →</a>

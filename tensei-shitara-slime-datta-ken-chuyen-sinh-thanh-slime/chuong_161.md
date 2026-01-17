@@ -371,8 +371,7 @@ Với chiến thắng quyết định này, chiến sự đã chuyển sang bư�
 
 **Thông tin chương:**
 - Số chương: 161
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-161](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-161)
-- Thời gian scrape: 2026-01-17 09:45:21
+- Thời gian cập nhật: 2026-01-17 09:45:21
 
 <div class="chapter-nav">
     <a href="chuong_160.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_162.html" class="nav-btn">Chương sau →</a>

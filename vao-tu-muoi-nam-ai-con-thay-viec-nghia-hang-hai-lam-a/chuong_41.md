@@ -164,8 +164,7 @@ Phòng ở không có, tiền tiết kiệm không có, trong nháy mắt biến
 
 **Thông tin chương:**
 - Số chương: 41
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-41](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-41)
-- Thời gian scrape: 2026-01-13 21:41:41
+- Thời gian cập nhật: 2026-01-13 21:41:41
 
 <div class="chapter-nav">
     <a href="chuong_40.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_42.html" class="nav-btn">Chương sau →</a>

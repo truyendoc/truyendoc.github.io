@@ -168,8 +168,7 @@ Nghe được Khải thúc nói như vậy, Đoàn Minh đầu tiên là trầm 
 
 **Thông tin chương:**
 - Số chương: 500
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-500](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-500)
-- Thời gian scrape: 2026-01-13 22:09:24
+- Thời gian cập nhật: 2026-01-13 22:09:24
 
 <div class="chapter-nav">
     <a href="chuong_499.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_501.html" class="nav-btn">Chương sau →</a>

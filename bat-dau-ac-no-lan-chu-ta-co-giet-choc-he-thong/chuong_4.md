@@ -204,8 +204,7 @@ Thẩm Dục liền bắt đầu suy nghĩ, nên như thế nào thu hoạch cà
 
 **Thông tin chương:**
 - Số chương: 4
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-4](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-4)
-- Thời gian scrape: 2026-01-13 21:09:16
+- Thời gian cập nhật: 2026-01-13 21:09:16
 
 <div class="chapter-nav">
     <a href="chuong_3.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_5.html" class="nav-btn">Chương sau →</a>

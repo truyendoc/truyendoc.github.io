@@ -129,8 +129,7 @@ Phía sau của thành công, luôn là những nỗ lực, chính là vậy đ�
 
 **Thông tin chương:**
 - Số chương: 19
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-19](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-19)
-- Thời gian scrape: 2026-01-17 09:38:45
+- Thời gian cập nhật: 2026-01-17 09:38:45
 
 <div class="chapter-nav">
     <a href="chuong_18.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_20.html" class="nav-btn">Chương sau →</a>

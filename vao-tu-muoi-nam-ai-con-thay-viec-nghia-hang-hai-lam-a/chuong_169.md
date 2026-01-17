@@ -190,8 +190,7 @@ Tào Côn tiếp tục nói:
 
 **Thông tin chương:**
 - Số chương: 169
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-169](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-169)
-- Thời gian scrape: 2026-01-13 21:49:30
+- Thời gian cập nhật: 2026-01-13 21:49:30
 
 <div class="chapter-nav">
     <a href="chuong_168.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_170.html" class="nav-btn">Chương sau →</a>

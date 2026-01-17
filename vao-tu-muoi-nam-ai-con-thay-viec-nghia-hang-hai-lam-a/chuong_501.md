@@ -180,8 +180,7 @@ Cho nên, đối với nàng loại này không có một chút xíu thật lòn
 
 **Thông tin chương:**
 - Số chương: 501
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-501](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-501)
-- Thời gian scrape: 2026-01-13 22:09:27
+- Thời gian cập nhật: 2026-01-13 22:09:27
 
 <div class="chapter-nav">
     <a href="chuong_500.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_502.html" class="nav-btn">Chương sau →</a>

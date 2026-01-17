@@ -170,8 +170,7 @@ Nghe được Tào Côn nói như vậy, Bốc Hạnh Phúc càng thêm hồ đ�
 
 **Thông tin chương:**
 - Số chương: 393
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-393](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-393)
-- Thời gian scrape: 2026-01-13 22:03:12
+- Thời gian cập nhật: 2026-01-13 22:03:12
 
 <div class="chapter-nav">
     <a href="chuong_392.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_394.html" class="nav-btn">Chương sau →</a>

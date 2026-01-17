@@ -266,8 +266,7 @@ Giờ phút này, trong một ngôi tửu lâu, nghe được bốn bề thực 
 
 **Thông tin chương:**
 - Số chương: 174
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-174](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-174)
-- Thời gian scrape: 2026-01-13 00:31:36
+- Thời gian cập nhật: 2026-01-13 00:31:36
 
 <div class="chapter-nav">
     <a href="chuong_173.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_175.html" class="nav-btn">Chương sau →</a>

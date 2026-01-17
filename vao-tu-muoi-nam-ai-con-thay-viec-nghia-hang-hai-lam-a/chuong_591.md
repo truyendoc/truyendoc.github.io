@@ -190,8 +190,7 @@ Cho nên, tại bận rộn như vậy tình huống phía dưới, Tào Côn đ
 
 **Thông tin chương:**
 - Số chương: 591
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-591](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-591)
-- Thời gian scrape: 2026-01-13 22:14:35
+- Thời gian cập nhật: 2026-01-13 22:14:35
 
 <div class="chapter-nav">
     <a href="chuong_590.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_592.html" class="nav-btn">Chương sau →</a>

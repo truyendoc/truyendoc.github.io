@@ -112,8 +112,7 @@ Nhưng cũng không có lan đến gần một cái vô tội.
 
 **Thông tin chương:**
 - Số chương: 236
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-236](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-236)
-- Thời gian scrape: 2026-01-13 00:34:03
+- Thời gian cập nhật: 2026-01-13 00:34:03
 
 <div class="chapter-nav">
     <a href="chuong_235.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_237.html" class="nav-btn">Chương sau →</a>

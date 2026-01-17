@@ -282,8 +282,7 @@ Thẩm Dục thầm nghĩ, sau đó liền đem tu vi của mình ẩn tàng đ�
 
 **Thông tin chương:**
 - Số chương: 22
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-22](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-22)
-- Thời gian scrape: 2026-01-13 21:10:07
+- Thời gian cập nhật: 2026-01-13 21:10:07
 
 <div class="chapter-nav">
     <a href="chuong_21.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_23.html" class="nav-btn">Chương sau →</a>

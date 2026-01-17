@@ -471,8 +471,7 @@ Mục tiêu tiếp theo sẽ là Vương đô của Vương quốc Ingracia.
 
 **Thông tin chương:**
 - Số chương: 56
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-56](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-56)
-- Thời gian scrape: 2026-01-17 09:40:27
+- Thời gian cập nhật: 2026-01-17 09:40:27
 
 <div class="chapter-nav">
     <a href="chuong_55.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_57.html" class="nav-btn">Chương sau →</a>

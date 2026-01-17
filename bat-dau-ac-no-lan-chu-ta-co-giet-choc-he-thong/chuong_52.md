@@ -248,8 +248,7 @@ Huống chi, yêu thú còn là tu luyện tài nguyên, hắn mặc dù không 
 
 **Thông tin chương:**
 - Số chương: 52
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-52](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-52)
-- Thời gian scrape: 2026-01-13 21:15:55
+- Thời gian cập nhật: 2026-01-13 21:15:55
 
 <div class="chapter-nav">
     <a href="chuong_51.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_53.html" class="nav-btn">Chương sau →</a>

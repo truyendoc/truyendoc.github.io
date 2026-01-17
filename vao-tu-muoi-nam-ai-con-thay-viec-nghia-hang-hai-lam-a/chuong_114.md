@@ -184,8 +184,7 @@ Huống hồ, ăn người khác nhiều như vậy hải sản, còn uống m�
 
 **Thông tin chương:**
 - Số chương: 114
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-114](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-114)
-- Thời gian scrape: 2026-01-13 21:46:12
+- Thời gian cập nhật: 2026-01-13 21:46:12
 
 <div class="chapter-nav">
     <a href="chuong_113.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_115.html" class="nav-btn">Chương sau →</a>

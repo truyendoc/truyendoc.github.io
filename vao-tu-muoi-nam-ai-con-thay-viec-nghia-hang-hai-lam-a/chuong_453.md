@@ -158,8 +158,7 @@ Nếu như Tào Côn cùng Tiêu Văn Tĩnh hai người, thật nghĩ làm bọ
 
 **Thông tin chương:**
 - Số chương: 453
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-453](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-453)
-- Thời gian scrape: 2026-01-13 22:06:33
+- Thời gian cập nhật: 2026-01-13 22:06:33
 
 <div class="chapter-nav">
     <a href="chuong_452.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_454.html" class="nav-btn">Chương sau →</a>

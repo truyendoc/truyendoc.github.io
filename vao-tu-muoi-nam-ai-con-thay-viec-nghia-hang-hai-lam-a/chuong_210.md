@@ -172,8 +172,7 @@ Dương Tam Đao biểu lộ thoáng dừng một chút, nói: "Ngươi biết t
 
 **Thông tin chương:**
 - Số chương: 210
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-210](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-210)
-- Thời gian scrape: 2026-01-13 21:51:59
+- Thời gian cập nhật: 2026-01-13 21:51:59
 
 <div class="chapter-nav">
     <a href="chuong_209.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_211.html" class="nav-btn">Chương sau →</a>

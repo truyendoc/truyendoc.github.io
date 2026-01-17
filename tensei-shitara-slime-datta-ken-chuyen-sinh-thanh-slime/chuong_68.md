@@ -595,8 +595,7 @@ Thế nhưng ... như thể tôi là một kẻ ngốc, tôi tiếp tục hành 
 
 **Thông tin chương:**
 - Số chương: 68
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-68](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-68)
-- Thời gian scrape: 2026-01-17 09:40:59
+- Thời gian cập nhật: 2026-01-17 09:40:59
 
 <div class="chapter-nav">
     <a href="chuong_67.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_69.html" class="nav-btn">Chương sau →</a>

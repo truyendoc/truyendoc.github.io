@@ -212,8 +212,7 @@ Tào Côn mỉm cười nói: "Trong này ghi chép, đều là ngươi muốn m
 
 **Thông tin chương:**
 - Số chương: 193
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-193](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-193)
-- Thời gian scrape: 2026-01-13 21:50:51
+- Thời gian cập nhật: 2026-01-13 21:50:51
 
 <div class="chapter-nav">
     <a href="chuong_192.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_194.html" class="nav-btn">Chương sau →</a>

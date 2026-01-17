@@ -194,8 +194,7 @@ Cho nên, Vương San San muốn hỏi một chút Tào Côn an bài.
 
 **Thông tin chương:**
 - Số chương: 197
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-197](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-197)
-- Thời gian scrape: 2026-01-13 21:51:06
+- Thời gian cập nhật: 2026-01-13 21:51:06
 
 <div class="chapter-nav">
     <a href="chuong_196.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_198.html" class="nav-btn">Chương sau →</a>

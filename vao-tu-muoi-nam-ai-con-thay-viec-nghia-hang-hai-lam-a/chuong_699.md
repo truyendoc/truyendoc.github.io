@@ -172,8 +172,7 @@ Nói, Ngốc Cẩu xuất ra mấy trương tư liệu, đưa cho Tào Côn.
 
 **Thông tin chương:**
 - Số chương: 699
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-699](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-699)
-- Thời gian scrape: 2026-01-13 22:20:52
+- Thời gian cập nhật: 2026-01-13 22:20:52
 
 <div class="chapter-nav">
     <a href="chuong_698.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_700.html" class="nav-btn">Chương sau →</a>

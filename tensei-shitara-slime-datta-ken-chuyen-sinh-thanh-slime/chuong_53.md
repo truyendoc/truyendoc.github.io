@@ -353,8 +353,7 @@ Cần chú thích rõ, Tempest từ đầu đến giờ đều được gọi l�
 
 **Thông tin chương:**
 - Số chương: 53
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-53](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-53)
-- Thời gian scrape: 2026-01-17 09:40:19
+- Thời gian cập nhật: 2026-01-17 09:40:19
 
 <div class="chapter-nav">
     <a href="chuong_52.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_54.html" class="nav-btn">Chương sau →</a>

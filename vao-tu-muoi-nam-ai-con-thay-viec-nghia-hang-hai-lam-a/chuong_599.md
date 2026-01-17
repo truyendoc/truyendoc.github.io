@@ -174,8 +174,7 @@ Mặc dù nhìn chính là cùng một chỗ ngoài ý muốn, nhưng là Tào C
 
 **Thông tin chương:**
 - Số chương: 599
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-599](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-599)
-- Thời gian scrape: 2026-01-13 22:15:01
+- Thời gian cập nhật: 2026-01-13 22:15:01
 
 <div class="chapter-nav">
     <a href="chuong_598.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_600.html" class="nav-btn">Chương sau →</a>

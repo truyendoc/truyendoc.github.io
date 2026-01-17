@@ -573,8 +573,7 @@ Và rồi, trận quyết chiến với 70 vận đại quân Đế Quốc bắt
 
 **Thông tin chương:**
 - Số chương: 157
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-157](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-157)
-- Thời gian scrape: 2026-01-17 09:45:09
+- Thời gian cập nhật: 2026-01-17 09:45:09
 
 <div class="chapter-nav">
     <a href="chuong_156.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_158.html" class="nav-btn">Chương sau →</a>

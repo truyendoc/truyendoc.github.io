@@ -254,8 +254,7 @@ Làm sơ suy nghĩ, Thẩm Dục liền chế định một cái đơn giản k�
 
 **Thông tin chương:**
 - Số chương: 179
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-179](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-179)
-- Thời gian scrape: 2026-01-13 00:31:48
+- Thời gian cập nhật: 2026-01-13 00:31:48
 
 <div class="chapter-nav">
     <a href="chuong_178.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_180.html" class="nav-btn">Chương sau →</a>

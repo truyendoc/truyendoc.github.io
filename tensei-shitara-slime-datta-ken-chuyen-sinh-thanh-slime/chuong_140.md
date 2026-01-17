@@ -683,8 +683,7 @@ Nhiều truyện đã xảy ra, nhưng mà kết quả thì rất tốt, Không 
 
 **Thông tin chương:**
 - Số chương: 140
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-140](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-140)
-- Thời gian scrape: 2026-01-17 09:44:22
+- Thời gian cập nhật: 2026-01-17 09:44:22
 
 <div class="chapter-nav">
     <a href="chuong_139.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_141.html" class="nav-btn">Chương sau →</a>

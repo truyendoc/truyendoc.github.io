@@ -423,8 +423,7 @@ Thế là, bức màn của sự hỗn loạn đã được kéo lên.
 
 **Thông tin chương:**
 - Số chương: 33
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-33](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-33)
-- Thời gian scrape: 2026-01-17 09:39:23
+- Thời gian cập nhật: 2026-01-17 09:39:23
 
 <div class="chapter-nav">
     <a href="chuong_32.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_34.html" class="nav-btn">Chương sau →</a>

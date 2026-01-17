@@ -341,8 +341,7 @@ Mỗi người đều xác định được con mồi của mình và trận chi
 
 **Thông tin chương:**
 - Số chương: 245
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-245](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-245)
-- Thời gian scrape: 2026-01-17 09:49:21
+- Thời gian cập nhật: 2026-01-17 09:49:21
 
 <div class="chapter-nav">
     <a href="chuong_244.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_246.html" class="nav-btn">Chương sau →</a>

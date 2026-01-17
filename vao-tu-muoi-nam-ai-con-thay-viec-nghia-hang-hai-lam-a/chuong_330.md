@@ -166,8 +166,7 @@ Nói xong, nàng mở ra phòng trọ cửa, cất bước liền đi ra ngoài.
 
 **Thông tin chương:**
 - Số chương: 330
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-330](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-330)
-- Thời gian scrape: 2026-01-13 21:59:27
+- Thời gian cập nhật: 2026-01-13 21:59:27
 
 <div class="chapter-nav">
     <a href="chuong_329.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_331.html" class="nav-btn">Chương sau →</a>

@@ -411,8 +411,7 @@ Kháng Tê Liệt
 
 **Thông tin chương:**
 - Số chương: 1
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-1](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-1)
-- Thời gian scrape: 2026-01-17 09:37:52
+- Thời gian cập nhật: 2026-01-17 09:37:52
 
 <div class="chapter-nav">
     <a href="#" class="nav-btn disabled">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_2.html" class="nav-btn">Chương sau →</a>

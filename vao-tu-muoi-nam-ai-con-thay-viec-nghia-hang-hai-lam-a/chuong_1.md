@@ -180,8 +180,7 @@ Cho nên, hắn cần hảo hảo loại bỏ một phen, nhìn xem có thể ha
 
 **Thông tin chương:**
 - Số chương: 1
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-1](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-1)
-- Thời gian scrape: 2026-01-13 21:39:29
+- Thời gian cập nhật: 2026-01-13 21:39:29
 
 <div class="chapter-nav">
     <a href="#" class="nav-btn disabled">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_2.html" class="nav-btn">Chương sau →</a>

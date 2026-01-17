@@ -132,8 +132,7 @@ Thẩm Vũ Châu ra vẻ trấn tĩnh trầm giọng chất vấn.
 
 **Thông tin chương:**
 - Số chương: 295
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-295](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-295)
-- Thời gian scrape: 2026-01-13 00:22:20
+- Thời gian cập nhật: 2026-01-13 00:22:20
 
 <div class="chapter-nav">
     <a href="chuong_294.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_296.html" class="nav-btn">Chương sau →</a>

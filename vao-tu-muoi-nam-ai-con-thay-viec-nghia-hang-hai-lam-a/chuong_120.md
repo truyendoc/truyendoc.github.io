@@ -194,8 +194,7 @@ Hoàng Đông Mai hít vào một hơi thật sâu, mỉm cười nói: "Tỷ t�
 
 **Thông tin chương:**
 - Số chương: 120
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-120](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-120)
-- Thời gian scrape: 2026-01-13 21:46:31
+- Thời gian cập nhật: 2026-01-13 21:46:31
 
 <div class="chapter-nav">
     <a href="chuong_119.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_121.html" class="nav-btn">Chương sau →</a>

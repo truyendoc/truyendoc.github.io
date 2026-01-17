@@ -152,8 +152,7 @@ Tào Côn nói: "Đầu tiên, nam sinh bên này tấm thẻ, một tháng mộ
 
 **Thông tin chương:**
 - Số chương: 325
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-325](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-325)
-- Thời gian scrape: 2026-01-13 21:59:10
+- Thời gian cập nhật: 2026-01-13 21:59:10
 
 <div class="chapter-nav">
     <a href="chuong_324.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_326.html" class="nav-btn">Chương sau →</a>

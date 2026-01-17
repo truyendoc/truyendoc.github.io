@@ -168,8 +168,7 @@ Thì ra là thế!
 
 **Thông tin chương:**
 - Số chương: 596
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-596](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-596)
-- Thời gian scrape: 2026-01-13 22:14:52
+- Thời gian cập nhật: 2026-01-13 22:14:52
 
 <div class="chapter-nav">
     <a href="chuong_595.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_597.html" class="nav-btn">Chương sau →</a>

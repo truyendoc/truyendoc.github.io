@@ -160,8 +160,7 @@ Nàng đã làm tốt rời đi cái này huyện thành nhỏ chuẩn bị.
 
 **Thông tin chương:**
 - Số chương: 53
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-53](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-53)
-- Thời gian scrape: 2026-01-13 21:42:17
+- Thời gian cập nhật: 2026-01-13 21:42:17
 
 <div class="chapter-nav">
     <a href="chuong_52.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_54.html" class="nav-btn">Chương sau →</a>

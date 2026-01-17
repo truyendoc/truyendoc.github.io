@@ -176,8 +176,7 @@ Nhưng là, chức nghiệp vẫn là khu sử nàng kiên trì tiếp tục.
 
 **Thông tin chương:**
 - Số chương: 65
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-65](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-65)
-- Thời gian scrape: 2026-01-13 21:43:01
+- Thời gian cập nhật: 2026-01-13 21:43:01
 
 <div class="chapter-nav">
     <a href="chuong_64.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_66.html" class="nav-btn">Chương sau →</a>

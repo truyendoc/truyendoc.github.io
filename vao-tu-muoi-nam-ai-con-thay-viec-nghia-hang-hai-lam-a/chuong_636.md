@@ -172,8 +172,7 @@ Tào Côn nghĩ nghĩ, phun ra một ngụm màu trắng nhạt sương mù, nó
 
 **Thông tin chương:**
 - Số chương: 636
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-636](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-636)
-- Thời gian scrape: 2026-01-13 22:17:11
+- Thời gian cập nhật: 2026-01-13 22:17:11
 
 <div class="chapter-nav">
     <a href="chuong_635.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_637.html" class="nav-btn">Chương sau →</a>

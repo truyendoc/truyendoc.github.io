@@ -158,8 +158,7 @@ Mà trò chuyện đối tượng, biểu hiện là Đích Lý Bá á!
 
 **Thông tin chương:**
 - Số chương: 632
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-632](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-632)
-- Thời gian scrape: 2026-01-13 22:16:58
+- Thời gian cập nhật: 2026-01-13 22:16:58
 
 <div class="chapter-nav">
     <a href="chuong_631.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_633.html" class="nav-btn">Chương sau →</a>

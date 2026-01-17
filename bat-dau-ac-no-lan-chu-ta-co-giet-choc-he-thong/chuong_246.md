@@ -122,8 +122,7 @@ Nếu như thất bại, lại phái mạnh hơn đi.
 
 **Thông tin chương:**
 - Số chương: 246
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-246](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-246)
-- Thời gian scrape: 2026-01-13 00:34:27
+- Thời gian cập nhật: 2026-01-13 00:34:27
 
 <div class="chapter-nav">
     <a href="chuong_245.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_247.html" class="nav-btn">Chương sau →</a>

@@ -164,8 +164,7 @@ Cho nên, nàng cũng nghĩ để Tào Côn giúp mình tra thiếu bổ lậu m
 
 **Thông tin chương:**
 - Số chương: 537
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-537](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-537)
-- Thời gian scrape: 2026-01-13 22:11:33
+- Thời gian cập nhật: 2026-01-13 22:11:33
 
 <div class="chapter-nav">
     <a href="chuong_536.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_538.html" class="nav-btn">Chương sau →</a>

@@ -162,8 +162,7 @@ Tào Côn cầm lấy một bên điện thoại nhìn thoáng qua, thấy là m
 
 **Thông tin chương:**
 - Số chương: 308
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-308](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-308)
-- Thời gian scrape: 2026-01-13 21:58:09
+- Thời gian cập nhật: 2026-01-13 21:58:09
 
 <div class="chapter-nav">
     <a href="chuong_307.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_309.html" class="nav-btn">Chương sau →</a>

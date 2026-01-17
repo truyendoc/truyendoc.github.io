@@ -180,8 +180,7 @@ Thế nhưng là trên thực tế, hắn là muốn đem hảo huynh đệ củ
 
 **Thông tin chương:**
 - Số chương: 79
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-79](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-79)
-- Thời gian scrape: 2026-01-13 21:44:15
+- Thời gian cập nhật: 2026-01-13 21:44:15
 
 <div class="chapter-nav">
     <a href="chuong_78.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_80.html" class="nav-btn">Chương sau →</a>

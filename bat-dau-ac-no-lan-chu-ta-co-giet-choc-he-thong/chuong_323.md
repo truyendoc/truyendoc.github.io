@@ -96,8 +96,7 @@ Hơn nữa, đối phương khẳng định sẽ truy tra ta bị truyền tốn
 
 **Thông tin chương:**
 - Số chương: 323
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-323](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-323)
-- Thời gian scrape: 2026-01-13 00:23:28
+- Thời gian cập nhật: 2026-01-13 00:23:28
 
 <div class="chapter-nav">
     <a href="chuong_322.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_324.html" class="nav-btn">Chương sau →</a>

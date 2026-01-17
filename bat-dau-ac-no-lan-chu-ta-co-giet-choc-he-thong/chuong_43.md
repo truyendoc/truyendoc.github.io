@@ -250,8 +250,7 @@ Nhìn thấy một mặt bình tĩnh Thẩm Dục, Phong Uyển Nhi ngữ khí u
 
 **Thông tin chương:**
 - Số chương: 43
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-43](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-43)
-- Thời gian scrape: 2026-01-13 21:14:14
+- Thời gian cập nhật: 2026-01-13 21:14:14
 
 <div class="chapter-nav">
     <a href="chuong_42.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_44.html" class="nav-btn">Chương sau →</a>

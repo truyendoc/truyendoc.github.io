@@ -180,8 +180,7 @@ Mà Tào Côn, cũng nghênh ngang rời đi lầu dạy học.
 
 **Thông tin chương:**
 - Số chương: 379
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-379](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-379)
-- Thời gian scrape: 2026-01-13 22:02:23
+- Thời gian cập nhật: 2026-01-13 22:02:23
 
 <div class="chapter-nav">
     <a href="chuong_378.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_380.html" class="nav-btn">Chương sau →</a>

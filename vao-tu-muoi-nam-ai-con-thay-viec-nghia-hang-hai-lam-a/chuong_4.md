@@ -216,8 +216,7 @@ Hắc. . . . . Thật là một cái hiền lành tốt nàng dâu!
 
 **Thông tin chương:**
 - Số chương: 4
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-4](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-4)
-- Thời gian scrape: 2026-01-13 21:39:38
+- Thời gian cập nhật: 2026-01-13 21:39:38
 
 <div class="chapter-nav">
     <a href="chuong_3.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_5.html" class="nav-btn">Chương sau →</a>

@@ -180,8 +180,7 @@ Nói xong, Tào Côn cất bước liền đi ra phòng học, đi mình phụ t
 
 **Thông tin chương:**
 - Số chương: 150
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-150](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-150)
-- Thời gian scrape: 2026-01-13 21:48:23
+- Thời gian cập nhật: 2026-01-13 21:48:23
 
 <div class="chapter-nav">
     <a href="chuong_149.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_151.html" class="nav-btn">Chương sau →</a>

@@ -120,8 +120,7 @@ Mà hắn g·iết chóc trị còn thừa lại 121 ức ra mặt.
 
 **Thông tin chương:**
 - Số chương: 369
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-369](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-369)
-- Thời gian scrape: 2026-01-13 00:25:16
+- Thời gian cập nhật: 2026-01-13 00:25:16
 
 <div class="chapter-nav">
     <a href="chuong_368.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_370.html" class="nav-btn">Chương sau →</a>

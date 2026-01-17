@@ -182,8 +182,7 @@ Tào Côn nhìn về phía Lưu Hồng, cười nói: "Đi qua hộ tám quốc 
 
 **Thông tin chương:**
 - Số chương: 259
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-259](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-259)
-- Thời gian scrape: 2026-01-13 21:55:10
+- Thời gian cập nhật: 2026-01-13 21:55:10
 
 <div class="chapter-nav">
     <a href="chuong_258.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_260.html" class="nav-btn">Chương sau →</a>

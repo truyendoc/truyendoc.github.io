@@ -150,8 +150,7 @@ Cho nên, cái này trạm thứ hai, khẳng định phải vấn an Lý Song N
 
 **Thông tin chương:**
 - Số chương: 593
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-593](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-593)
-- Thời gian scrape: 2026-01-13 22:14:41
+- Thời gian cập nhật: 2026-01-13 22:14:41
 
 <div class="chapter-nav">
     <a href="chuong_592.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_594.html" class="nav-btn">Chương sau →</a>

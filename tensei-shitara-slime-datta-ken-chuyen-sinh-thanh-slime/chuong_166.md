@@ -341,8 +341,7 @@ Thêm sức mạnh mới này thì vị trí của Zegion trong Mê Cung nó kh�
 
 **Thông tin chương:**
 - Số chương: 166
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-166](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-166)
-- Thời gian scrape: 2026-01-17 09:45:36
+- Thời gian cập nhật: 2026-01-17 09:45:36
 
 <div class="chapter-nav">
     <a href="chuong_165.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_167.html" class="nav-btn">Chương sau →</a>

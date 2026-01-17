@@ -190,8 +190,7 @@ Vì cái gì không đi tìm tìm Tào Côn đâu?
 
 **Thông tin chương:**
 - Số chương: 403
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-403](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-403)
-- Thời gian scrape: 2026-01-13 22:03:44
+- Thời gian cập nhật: 2026-01-13 22:03:44
 
 <div class="chapter-nav">
     <a href="chuong_402.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_404.html" class="nav-btn">Chương sau →</a>

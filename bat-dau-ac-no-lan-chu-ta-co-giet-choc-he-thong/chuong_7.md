@@ -254,8 +254,7 @@ Chung Nguyên Sơn quát khẽ: “Ta đã chọn tốt thông gia đối tượ
 
 **Thông tin chương:**
 - Số chương: 7
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-7](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-7)
-- Thời gian scrape: 2026-01-13 21:09:26
+- Thời gian cập nhật: 2026-01-13 21:09:26
 
 <div class="chapter-nav">
     <a href="chuong_6.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_8.html" class="nav-btn">Chương sau →</a>

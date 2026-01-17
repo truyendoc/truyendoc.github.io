@@ -172,8 +172,7 @@ Sau đó, hắn ngồi tại mộ phần trước, vừa hút khói, uống rư�
 
 **Thông tin chương:**
 - Số chương: 17
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-17](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-17)
-- Thời gian scrape: 2026-01-13 21:40:20
+- Thời gian cập nhật: 2026-01-13 21:40:20
 
 <div class="chapter-nav">
     <a href="chuong_16.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_18.html" class="nav-btn">Chương sau →</a>

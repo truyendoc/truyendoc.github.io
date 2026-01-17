@@ -184,8 +184,7 @@ Hợp lấy, đêm qua cái kia lớn ngu xuẩn, nguyên lai là Vương San Sa
 
 **Thông tin chương:**
 - Số chương: 143
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-143](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-143)
-- Thời gian scrape: 2026-01-13 21:47:56
+- Thời gian cập nhật: 2026-01-13 21:47:56
 
 <div class="chapter-nav">
     <a href="chuong_142.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_144.html" class="nav-btn">Chương sau →</a>

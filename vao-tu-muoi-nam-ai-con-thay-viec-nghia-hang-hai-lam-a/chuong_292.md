@@ -170,8 +170,7 @@ Thấy thế, Trương Uyển Thanh há to miệng, cuối cùng đem cửa ban 
 
 **Thông tin chương:**
 - Số chương: 292
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-292](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-292)
-- Thời gian scrape: 2026-01-13 21:57:15
+- Thời gian cập nhật: 2026-01-13 21:57:15
 
 <div class="chapter-nav">
     <a href="chuong_291.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_293.html" class="nav-btn">Chương sau →</a>

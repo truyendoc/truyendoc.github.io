@@ -128,8 +128,7 @@ Một khi đã mất đi cấm quân Đại tướng vị trí, không biết ba
 
 **Thông tin chương:**
 - Số chương: 265
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-265](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-265)
-- Thời gian scrape: 2026-01-13 00:35:14
+- Thời gian cập nhật: 2026-01-13 00:35:14
 
 <div class="chapter-nav">
     <a href="chuong_264.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_266.html" class="nav-btn">Chương sau →</a>

@@ -427,8 +427,7 @@ Bên trong bóng tối cầu vồng, một phép màu tàn nhẫn giáng xuống
 
 **Thông tin chương:**
 - Số chương: 222
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-222](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-222)
-- Thời gian scrape: 2026-01-17 09:48:13
+- Thời gian cập nhật: 2026-01-17 09:48:13
 
 <div class="chapter-nav">
     <a href="chuong_221.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_223.html" class="nav-btn">Chương sau →</a>

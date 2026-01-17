@@ -401,8 +401,7 @@ Vậy là âm mưu xâm lược Tempest của Đế Quốc đã kết thúc th�
 
 **Thông tin chương:**
 - Số chương: 162
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-162](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-162)
-- Thời gian scrape: 2026-01-17 09:45:24
+- Thời gian cập nhật: 2026-01-17 09:45:24
 
 <div class="chapter-nav">
     <a href="chuong_161.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_163.html" class="nav-btn">Chương sau →</a>

@@ -441,8 +441,7 @@ Ngay lúc này đây, một ngọn lửa hận thù bùng lên bên trong tôi.
 
 **Thông tin chương:**
 - Số chương: 95
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-95](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-95)
-- Thời gian scrape: 2026-01-17 09:42:14
+- Thời gian cập nhật: 2026-01-17 09:42:14
 
 <div class="chapter-nav">
     <a href="chuong_94.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_96.html" class="nav-btn">Chương sau →</a>

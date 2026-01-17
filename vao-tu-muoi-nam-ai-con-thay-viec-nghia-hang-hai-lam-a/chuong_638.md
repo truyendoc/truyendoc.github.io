@@ -158,8 +158,7 @@ Trình Dao Dao hì hì cười một tiếng, tiến lên phía trước nói: "
 
 **Thông tin chương:**
 - Số chương: 638
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-638](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-638)
-- Thời gian scrape: 2026-01-13 22:17:18
+- Thời gian cập nhật: 2026-01-13 22:17:18
 
 <div class="chapter-nav">
     <a href="chuong_637.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_639.html" class="nav-btn">Chương sau →</a>

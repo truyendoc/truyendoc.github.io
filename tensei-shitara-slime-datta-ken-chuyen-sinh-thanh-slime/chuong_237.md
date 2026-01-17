@@ -607,8 +607,7 @@ Tuy nhiên, vì tôi đã tốn rất nhiều năng lượng ma thuật để đ
 
 **Thông tin chương:**
 - Số chương: 237
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-237](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-237)
-- Thời gian scrape: 2026-01-17 09:48:59
+- Thời gian cập nhật: 2026-01-17 09:48:59
 
 <div class="chapter-nav">
     <a href="chuong_236.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_238.html" class="nav-btn">Chương sau →</a>

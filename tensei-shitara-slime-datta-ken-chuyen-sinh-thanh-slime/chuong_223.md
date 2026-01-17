@@ -563,8 +563,7 @@ Tiếc thay, tiếng hét đầy giận dữ của Ruminas không bao giờ ch�
 
 **Thông tin chương:**
 - Số chương: 223
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-223](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-223)
-- Thời gian scrape: 2026-01-17 09:48:17
+- Thời gian cập nhật: 2026-01-17 09:48:17
 
 <div class="chapter-nav">
     <a href="chuong_222.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_224.html" class="nav-btn">Chương sau →</a>

@@ -507,8 +507,7 @@ Coi bộ tôi sẽ không được thảnh thơi sớm rồi.
 
 **Thông tin chương:**
 - Số chương: 172
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-172](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-172)
-- Thời gian scrape: 2026-01-17 09:45:52
+- Thời gian cập nhật: 2026-01-17 09:45:52
 
 <div class="chapter-nav">
     <a href="chuong_171.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_173.html" class="nav-btn">Chương sau →</a>

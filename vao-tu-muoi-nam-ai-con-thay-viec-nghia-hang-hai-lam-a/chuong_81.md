@@ -158,8 +158,7 @@ Nói, Tào Côn tùy tiện vỗ Tôn Vĩ bả vai, sau đó hai người liền
 
 **Thông tin chương:**
 - Số chương: 81
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-81](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-81)
-- Thời gian scrape: 2026-01-13 21:44:22
+- Thời gian cập nhật: 2026-01-13 21:44:22
 
 <div class="chapter-nav">
     <a href="chuong_80.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_82.html" class="nav-btn">Chương sau →</a>

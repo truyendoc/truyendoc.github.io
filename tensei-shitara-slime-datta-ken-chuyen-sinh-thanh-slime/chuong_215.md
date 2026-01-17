@@ -451,8 +451,7 @@ Thế rồi, hai kẻ đã vượt qua giới hạn của người phàm bắt �
 
 **Thông tin chương:**
 - Số chương: 215
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-215](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-215)
-- Thời gian scrape: 2026-01-17 09:47:53
+- Thời gian cập nhật: 2026-01-17 09:47:53
 
 <div class="chapter-nav">
     <a href="chuong_214.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_216.html" class="nav-btn">Chương sau →</a>

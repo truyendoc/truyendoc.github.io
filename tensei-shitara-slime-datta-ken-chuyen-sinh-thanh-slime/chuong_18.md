@@ -635,8 +635,7 @@ Thời đại hòa bình có lẽ sắp đến hồi kết…
 
 **Thông tin chương:**
 - Số chương: 18
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-18](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-18)
-- Thời gian scrape: 2026-01-17 09:38:42
+- Thời gian cập nhật: 2026-01-17 09:38:42
 
 <div class="chapter-nav">
     <a href="chuong_17.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_19.html" class="nav-btn">Chương sau →</a>

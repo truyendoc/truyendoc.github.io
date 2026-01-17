@@ -176,8 +176,7 @@ Nhìn xem Dương Nhật Bố giờ phút này cái kia một bộ ngây thơ v�
 
 **Thông tin chương:**
 - Số chương: 373
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-373](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-373)
-- Thời gian scrape: 2026-01-13 22:02:03
+- Thời gian cập nhật: 2026-01-13 22:02:03
 
 <div class="chapter-nav">
     <a href="chuong_372.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_374.html" class="nav-btn">Chương sau →</a>

@@ -172,8 +172,7 @@ Bởi vì Áo Uy quốc tế người còn phải chờ một hồi mới đến
 
 **Thông tin chương:**
 - Số chương: 678
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-678](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-678)
-- Thời gian scrape: 2026-01-13 22:19:40
+- Thời gian cập nhật: 2026-01-13 22:19:40
 
 <div class="chapter-nav">
     <a href="chuong_677.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_679.html" class="nav-btn">Chương sau →</a>

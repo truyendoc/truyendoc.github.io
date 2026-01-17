@@ -154,8 +154,7 @@ Xem ra, về sau muốn ít cưỡi xe lửa mới được!
 
 **Thông tin chương:**
 - Số chương: 56
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-56](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-56)
-- Thời gian scrape: 2026-01-13 21:42:26
+- Thời gian cập nhật: 2026-01-13 21:42:26
 
 <div class="chapter-nav">
     <a href="chuong_55.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_57.html" class="nav-btn">Chương sau →</a>

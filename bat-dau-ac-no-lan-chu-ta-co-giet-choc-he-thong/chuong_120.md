@@ -244,8 +244,7 @@ Cho nên, nhiệm vụ lần này nên kết thúc.
 
 **Thông tin chương:**
 - Số chương: 120
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-120](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-120)
-- Thời gian scrape: 2026-01-13 00:29:10
+- Thời gian cập nhật: 2026-01-13 00:29:10
 
 <div class="chapter-nav">
     <a href="chuong_119.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_121.html" class="nav-btn">Chương sau →</a>

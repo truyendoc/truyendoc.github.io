@@ -140,8 +140,7 @@ Nói xong, Phương Tử Dương cười xông mộ bia khoát tay áo, sau đó
 
 **Thông tin chương:**
 - Số chương: 306
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-306](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-306)
-- Thời gian scrape: 2026-01-13 21:58:03
+- Thời gian cập nhật: 2026-01-13 21:58:03
 
 <div class="chapter-nav">
     <a href="chuong_305.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_307.html" class="nav-btn">Chương sau →</a>

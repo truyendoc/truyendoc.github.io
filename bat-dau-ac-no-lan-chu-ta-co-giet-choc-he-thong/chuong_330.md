@@ -96,8 +96,7 @@ Thẩm Dục dẫn người điều tra Thần Ân Hầu hạ lạc lúc.
 
 **Thông tin chương:**
 - Số chương: 330
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-330](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-330)
-- Thời gian scrape: 2026-01-13 00:23:44
+- Thời gian cập nhật: 2026-01-13 00:23:44
 
 <div class="chapter-nav">
     <a href="chuong_329.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_331.html" class="nav-btn">Chương sau →</a>

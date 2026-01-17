@@ -232,8 +232,7 @@ Nhưng cũng phân rõ đạt được, Thẩm Dục cho các nàng lấy danh t
 
 **Thông tin chương:**
 - Số chương: 157
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-157](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-157)
-- Thời gian scrape: 2026-01-13 00:30:55
+- Thời gian cập nhật: 2026-01-13 00:30:55
 
 <div class="chapter-nav">
     <a href="chuong_156.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_158.html" class="nav-btn">Chương sau →</a>

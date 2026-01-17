@@ -226,8 +226,7 @@ Nói xong, Tào Côn nhanh chân liền đi vào theo.
 
 **Thông tin chương:**
 - Số chương: 13
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-13](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-13)
-- Thời gian scrape: 2026-01-13 21:40:07
+- Thời gian cập nhật: 2026-01-13 21:40:07
 
 <div class="chapter-nav">
     <a href="chuong_12.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_14.html" class="nav-btn">Chương sau →</a>

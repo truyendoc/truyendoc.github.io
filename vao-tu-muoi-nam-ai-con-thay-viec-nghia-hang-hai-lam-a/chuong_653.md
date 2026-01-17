@@ -206,8 +206,7 @@ Thậm chí, mỗi lần luyện qua, liền cùng làm mấy lần tập thể 
 
 **Thông tin chương:**
 - Số chương: 653
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-653](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-653)
-- Thời gian scrape: 2026-01-13 22:18:10
+- Thời gian cập nhật: 2026-01-13 22:18:10
 
 <div class="chapter-nav">
     <a href="chuong_652.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_654.html" class="nav-btn">Chương sau →</a>

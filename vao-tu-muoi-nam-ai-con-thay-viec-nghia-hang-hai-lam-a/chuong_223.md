@@ -168,8 +168,7 @@ Tào Côn cười cười, giải thích nói: "Nữ nhân ngu ngốc, ngươi s
 
 **Thông tin chương:**
 - Số chương: 223
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-223](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-223)
-- Thời gian scrape: 2026-01-13 21:53:03
+- Thời gian cập nhật: 2026-01-13 21:53:03
 
 <div class="chapter-nav">
     <a href="chuong_222.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_224.html" class="nav-btn">Chương sau →</a>

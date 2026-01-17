@@ -479,8 +479,7 @@ Có cố làm mặt tỉnh đi nữa, những vấn đề trong tương lai cũn
 
 **Thông tin chương:**
 - Số chương: 17
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-17](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-17)
-- Thời gian scrape: 2026-01-17 09:38:39
+- Thời gian cập nhật: 2026-01-17 09:38:39
 
 <div class="chapter-nav">
     <a href="chuong_16.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_18.html" class="nav-btn">Chương sau →</a>

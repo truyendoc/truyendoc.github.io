@@ -1,0 +1,158 @@
+---
+layout: default
+title: TA CÓ THỂ NHÌN THẤU VẠN VẬT - Mục lục
+---
+
+# TA CÓ THỂ NHÌN THẤU VẠN VẬT
+
+## 📚 Mục lục
+
+Tổng số chương: **139**
+
+<div class="story-list">
+- <a href="chuong_1.html">Chương 1: Đôi mắt nhìn thấu vạn vật</a><br>
+- <a href="chuong_2.html">Chương 2: Năng lực kỳ lạ</a><br>
+- <a href="chuong_3.html">Chương 3: Cần câu và người phụ nữ hàng xóm</a><br>
+- <a href="chuong_4.html">Chương 4: Điểm câu cá kỳ lạ</a><br>
+- <a href="chuong_5.html">Chương 5: Mẻ cá đầu tiên</a><br>
+- <a href="chuong_6.html">Chương 6: Lòng tốt của dân làng</a><br>
+- <a href="chuong_7.html">Chương 7: Cá chiên</a><br>
+- <a href="chuong_8.html">Chương 8: Trần lão</a><br>
+- <a href="chuong_9.html">Chương 9: Thế giới tu luyện</a><br>
+- <a href="chuong_10.html">Chương 10: Quyền pháp của Trần lão</a><br>
+- <a href="chuong_11.html">Chương 11: Trị châm và dược thiện</a><br>
+- <a href="chuong_12.html">Chương 12: Bánh củ mài và sợi dây bền chắc</a><br>
+- <a href="chuong_13.html">Chương 13: Sợi chỉ trắng trong hộp gỗ</a><br>
+- <a href="chuong_14.html">Chương 14: Tơ Tuyết Tằm Linh</a><br>
+- <a href="chuong_15.html">Chương 15: Cần mới, bãi câu mới</a><br>
+- <a href="chuong_16.html">Chương 16: Khúc sông mới và quả Huyết Hạnh</a><br>
+- <a href="chuong_17.html">Chương 17: Cá giáp xanh khổng lồ</a><br>
+- <a href="chuong_18.html">Chương 18: Cá chép Huyết Nguyệt</a><br>
+- <a href="chuong_19.html">Chương 19: Cá lớn khiến cả làng chấn động</a><br>
+- <a href="chuong_20.html">Chương 20: Cơn sốt cá lớn trong thôn</a><br>
+- <a href="chuong_21.html">Chương 21: Cháo cá lớn và viên Thạch Ngư bí ẩn</a><br>
+- <a href="chuong_22.html">Chương 22: Viên Thạch Ngư</a><br>
+- <a href="chuong_23.html">Chương 23: Viên Thạch Ngư Giáp Xanh và sự ngạc nhiên của Trần lão</a><br>
+- <a href="chuong_24.html">Chương 24: Cá Chép Huyết Nguyệt và giá trị trăm lượng bạc</a><br>
+- <a href="chuong_25.html">Chương 25: Kinh Bách Thảo và cửa sổ hệ thống mở ra</a><br>
+- <a href="chuong_26.html">Chương 26: Tải xuống Kinh Bách Thảo</a><br>
+- <a href="chuong_27.html">Chương 27: Người ngã sông tỉnh lại</a><br>
+- <a href="chuong_28.html">Chương 28: Lời mời học y</a><br>
+- <a href="chuong_29.html">Chương 29: Cơ hội học y chính thức</a><br>
+- <a href="chuong_30.html">Chương 30: Tiếng động trong đêm</a><br>
+- <a href="chuong_31.html">Chương 31: Tiếng động trong đêm (2)</a><br>
+- <a href="chuong_32.html">Chương 32: Hắc dạ linh hồ</a><br>
+- <a href="chuong_33.html">Chương 33: Không biết</a><br>
+- <a href="chuong_34.html">Chương 34: Một trăm lượng bạc</a><br>
+- <a href="chuong_35.html">Chương 35: Nồi sắt</a><br>
+- <a href="chuong_36.html">Chương 36: Quy tắc khi ra ngoài</a><br>
+- <a href="chuong_37.html">Chương 37: Tu sĩ thứ hai</a><br>
+- <a href="chuong_38.html">Chương 38: Mua sắm</a><br>
+- <a href="chuong_39.html">Chương 39: Suy nghĩ của Mã gia</a><br>
+- <a href="chuong_40.html">Chương 40: Hương thơm của thịt béo</a><br>
+- <a href="chuong_41.html">Chương 41: Đánh giá</a><br>
+- <a href="chuong_42.html">Chương 42: Trở thành đệ tử</a><br>
+- <a href="chuong_43.html">Chương 43: Trở thành đệ tử (2)</a><br>
+- <a href="chuong_44.html">Chương 44: Khái niệm cảnh giới tu luyện</a><br>
+- <a href="chuong_45.html">Chương 45: Mô phỏng công pháp</a><br>
+- <a href="chuong_46.html">Chương 46: Dưỡng Thể Quyền</a><br>
+- <a href="chuong_47.html">Chương 47: Nhân sâm</a><br>
+- <a href="chuong_48.html">Chương 48: Nhân sâm (2)</a><br>
+- <a href="chuong_49.html">Chương 49: Luyện thành đan dược</a><br>
+- <a href="chuong_50.html">Chương 50: Bắt được Dị ngư mới</a><br>
+- <a href="chuong_51.html">Chương 51: Cá Chạch Hoàng Kim</a><br>
+- <a href="chuong_52.html">Chương 52: Đạt được thỏa thuận</a><br>
+- <a href="chuong_53.html">Chương 53: Luyện thành Đan</a><br>
+- <a href="chuong_54.html">Chương 54: Bước vào khí huyết cảnh</a><br>
+- <a href="chuong_55.html">Chương 55: Đao pháp</a><br>
+- <a href="chuong_56.html">Chương 56: Luyện đao</a><br>
+- <a href="chuong_57.html">Chương 57: Ngụy công tử</a><br>
+- <a href="chuong_58.html">Chương 58: Qúy tộc trong thành</a><br>
+- <a href="chuong_59.html">Chương 59: Đao chiến</a><br>
+- <a href="chuong_60.html">Chương 60: Đao chiến (2)</a><br>
+- <a href="chuong_61.html">Chương 61: Hình phạt nhẹ nhàng</a><br>
+- <a href="chuong_62.html">Chương 62: Gặp nạn trên núi</a><br>
+- <a href="chuong_63.html">Chương 63: Qua cơn nguy kịch</a><br>
+- <a href="chuong_64.html">Chương 64: Gia tộc nhà họ Ngụy</a><br>
+- <a href="chuong_65.html">Chương 65: Gia tộc nhà họ Ngụy (2)</a><br>
+- <a href="chuong_66.html">Chương 66: Tỉnh lại</a><br>
+- <a href="chuong_67.html">Chương 67: Ở lại</a><br>
+- <a href="chuong_68.html">Chương 68: Tiểu ly</a><br>
+- <a href="chuong_69.html">Chương 69: Lễ vật</a><br>
+- <a href="chuong_70.html">Chương 70: Dấu hiệu đột phá</a><br>
+- <a href="chuong_71.html">Chương 71: Đột phá</a><br>
+- <a href="chuong_72.html">Chương 72: Hắc lang bang</a><br>
+- <a href="chuong_73.html">Chương 73: Trừng phạt</a><br>
+- <a href="chuong_74.html">Chương 74: Trừng phạt (2)</a><br>
+- <a href="chuong_75.html">Chương 75: Tin tức</a><br>
+- <a href="chuong_76.html">Chương 76: Làng hỉ lạc</a><br>
+- <a href="chuong_77.html">Chương 77: Làng hỉ lạc (2)</a><br>
+- <a href="chuong_78.html">Chương 78: Làng hỉ lạc (3)</a><br>
+- <a href="chuong_79.html">Chương 79: Làng Hỉ lạc (4)</a><br>
+- <a href="chuong_80.html">Chương 80: Sói móc tim</a><br>
+- <a href="chuong_81.html">Chương 81: Thảm sát</a><br>
+- <a href="chuong_82.html">Chương 82: Kết cục</a><br>
+- <a href="chuong_83.html">Chương 83: Nội tâm sáng rõ</a><br>
+- <a href="chuong_84.html">Chương 84: Trở về</a><br>
+- <a href="chuong_85.html">Chương 85: Bức thư</a><br>
+- <a href="chuong_86.html">Chương 86: Ngân giáp vệ</a><br>
+- <a href="chuong_87.html">Chương 87: Cảnh cáo</a><br>
+- <a href="chuong_88.html">Chương 88: Lời cảm ơn</a><br>
+- <a href="chuong_89.html">Chương 89: Chia bạc</a><br>
+- <a href="chuong_90.html">Chương 90: Nhân sâm hai trăm năm</a><br>
+- <a href="chuong_91.html">Chương 91: Ngọn núi bất thường</a><br>
+- <a href="chuong_92.html">Chương 92: Thung lũng</a><br>
+- <a href="chuong_93.html">Chương 93: Địa mạch linh dịch</a><br>
+- <a href="chuong_94.html">Chương 94: Ngọc giản</a><br>
+- <a href="chuong_95.html">Chương 95: Lý vĩ thiên</a><br>
+- <a href="chuong_96.html">Chương 96: Phù văn</a><br>
+- <a href="chuong_97.html">Chương 97: Phù văn (2)</a><br>
+- <a href="chuong_98.html">Chương 98: Tiểu ly biến hình</a><br>
+- <a href="chuong_99.html">Chương 99: Uống địa mạch linh dịch</a><br>
+- <a href="chuong_100.html">Chương 100: Về nhà</a><br>
+- <a href="chuong_101.html">Chương 101: Dược liệu quý và bí mật trong núi</a><br>
+- <a href="chuong_102.html">Chương 102: Báo ân sư phụ</a><br>
+- <a href="chuong_103.html">Chương 103: Bán tiên thiên</a><br>
+- <a href="chuong_104.html">Chương 104: Luyện thần quyết</a><br>
+- <a href="chuong_105.html">Chương 105: Tiểu nhan</a><br>
+- <a href="chuong_106.html">Chương 106: Băng cơ ngọc cốt</a><br>
+- <a href="chuong_107.html">Chương 107: Học chữ</a><br>
+- <a href="chuong_108.html">Chương 108: Học chữ (2)</a><br>
+- <a href="chuong_109.html">Chương 109: Khí huyết viên mãn</a><br>
+- <a href="chuong_110.html">Chương 110: Biến cố Ngụy gia</a><br>
+- <a href="chuong_111.html">Chương 111: Tiểu thiên</a><br>
+- <a href="chuong_112.html">Chương 112: Tiểu thiên (2)</a><br>
+- <a href="chuong_113.html">Chương 113: Tình hình hỗn loạn</a><br>
+- <a href="chuong_114.html">Chương 114: Tình hình hỗn loạn (2)</a><br>
+- <a href="chuong_115.html">Chương 115: Đột phá</a><br>
+- <a href="chuong_116.html">Chương 116: Ngụy gia</a><br>
+- <a href="chuong_117.html">Chương 117: Ngụy phủ (2)</a><br>
+- <a href="chuong_118.html">Chương 118: Cuộc đối thoại</a><br>
+- <a href="chuong_119.html">Chương 119: Mã cố xui xẻo</a><br>
+- <a href="chuong_120.html">Chương 120: Mã cố xui xẻo (2)</a><br>
+- <a href="chuong_121.html">Chương 121: Mã cố xui xẻo (3)</a><br>
+- <a href="chuong_122.html">Chương 122: Mũi tên</a><br>
+- <a href="chuong_123.html">Chương 123: Mũi tên (2)</a><br>
+- <a href="chuong_124.html">Chương 124: Mũi tên (3)</a><br>
+- <a href="chuong_125.html">Chương 125: Bất ngờ</a><br>
+- <a href="chuong_126.html">Chương 126: Cuộc chiến</a><br>
+- <a href="chuong_127.html">Chương 127: Cuộc chiến (2)</a><br>
+- <a href="chuong_128.html">Chương 128: Cuộc chiến (3)</a><br>
+- <a href="chuong_129.html">Chương 129: Cuộc chiến (4)</a><br>
+- <a href="chuong_130.html">Chương 130: Tiểu ly ra tay</a><br>
+- <a href="chuong_131.html">Chương 131: Tiểu ly ra tay (2)</a><br>
+- <a href="chuong_132.html">Chương 132: Lời cuối cùng</a><br>
+- <a href="chuong_133.html">Chương 133: Chữa thương</a><br>
+- <a href="chuong_134.html">Chương 134: Cứu người</a><br>
+- <a href="chuong_135.html">Chương 135: Cứu người (2)</a><br>
+- <a href="chuong_136.html">Chương 136: Cứu người (3)</a><br>
+- <a href="chuong_137.html">Chương 137: Cứu người (4)</a><br>
+- <a href="chuong_138.html">Chương 138: Ngụy phu nhân tỉnh lại</a><br>
+- <a href="chuong_139.html">Chương 139: Dập đầu tạ ơn</a><br>
+</div>
+
+---
+
+**Thông tin truyện:** 
+- Dữ liệu được scrape từ truyenmoiz.org
+- Tổng số chương: 139

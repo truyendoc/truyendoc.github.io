@@ -188,8 +188,7 @@ Một đầu như ẩn như hiện khe rãnh, cứ như vậy bị lặng yên k
 
 **Thông tin chương:**
 - Số chương: 10
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-10](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-10)
-- Thời gian scrape: 2026-01-13 21:39:57
+- Thời gian cập nhật: 2026-01-13 21:39:57
 
 <div class="chapter-nav">
     <a href="chuong_9.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_11.html" class="nav-btn">Chương sau →</a>

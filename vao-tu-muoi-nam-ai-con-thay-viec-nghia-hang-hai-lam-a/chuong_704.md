@@ -190,8 +190,7 @@ Tào Côn trùng sinh sau khi trở về, chính là dùng hắn giấu một nh
 
 **Thông tin chương:**
 - Số chương: 704
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-704](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-704)
-- Thời gian scrape: 2026-01-13 22:21:09
+- Thời gian cập nhật: 2026-01-13 22:21:09
 
 <div class="chapter-nav">
     <a href="chuong_703.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_705.html" class="nav-btn">Chương sau →</a>

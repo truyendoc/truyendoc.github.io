@@ -263,8 +263,7 @@ Thế là, trong thế giới này, tôi đã có được một cơ thể nhân
 
 **Thông tin chương:**
 - Số chương: 26
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-26](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-26)
-- Thời gian scrape: 2026-01-17 09:39:04
+- Thời gian cập nhật: 2026-01-17 09:39:04
 
 <div class="chapter-nav">
     <a href="chuong_25.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_27.html" class="nav-btn">Chương sau →</a>

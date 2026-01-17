@@ -126,8 +126,7 @@ Xuất hiện lần nữa, đã đi tới Hổ Uy Hầu ngoài phủ đệ.
 
 **Thông tin chương:**
 - Số chương: 261
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-261](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-261)
-- Thời gian scrape: 2026-01-13 00:35:04
+- Thời gian cập nhật: 2026-01-13 00:35:04
 
 <div class="chapter-nav">
     <a href="chuong_260.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_262.html" class="nav-btn">Chương sau →</a>

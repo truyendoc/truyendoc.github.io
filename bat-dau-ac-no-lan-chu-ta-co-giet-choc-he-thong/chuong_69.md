@@ -204,8 +204,7 @@ Sau đó, Thẩm Dục tự mình đem Thẩm Huy cùng dưới trướng hắn 
 
 **Thông tin chương:**
 - Số chương: 69
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-69](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-69)
-- Thời gian scrape: 2026-01-13 21:16:50
+- Thời gian cập nhật: 2026-01-13 21:16:50
 
 <div class="chapter-nav">
     <a href="chuong_68.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_70.html" class="nav-btn">Chương sau →</a>

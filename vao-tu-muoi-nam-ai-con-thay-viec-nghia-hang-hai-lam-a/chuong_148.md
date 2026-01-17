@@ -212,8 +212,7 @@ Không hổ là hảo huynh đệ của mình!
 
 **Thông tin chương:**
 - Số chương: 148
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-148](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-148)
-- Thời gian scrape: 2026-01-13 21:48:14
+- Thời gian cập nhật: 2026-01-13 21:48:14
 
 <div class="chapter-nav">
     <a href="chuong_147.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_149.html" class="nav-btn">Chương sau →</a>

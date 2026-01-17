@@ -176,8 +176,7 @@ Nàng không xác định nói: "Tiểu Côn, ngươi, ngươi Trương thúc kh
 
 **Thông tin chương:**
 - Số chương: 576
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-576](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-576)
-- Thời gian scrape: 2026-01-13 22:13:45
+- Thời gian cập nhật: 2026-01-13 22:13:45
 
 <div class="chapter-nav">
     <a href="chuong_575.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_577.html" class="nav-btn">Chương sau →</a>

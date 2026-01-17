@@ -166,8 +166,7 @@ Olivia một chút cười ha ha lên, nói: "Đúng đúng đúng, ta có thể
 
 **Thông tin chương:**
 - Số chương: 681
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-681](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-681)
-- Thời gian scrape: 2026-01-13 22:19:54
+- Thời gian cập nhật: 2026-01-13 22:19:54
 
 <div class="chapter-nav">
     <a href="chuong_680.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_682.html" class="nav-btn">Chương sau →</a>

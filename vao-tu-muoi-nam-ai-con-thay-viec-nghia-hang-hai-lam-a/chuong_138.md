@@ -172,8 +172,7 @@ Nói xong, Tào Côn mang theo Vương San San liền đi hắn phụ trách ph�
 
 **Thông tin chương:**
 - Số chương: 138
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-138](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-138)
-- Thời gian scrape: 2026-01-13 21:47:38
+- Thời gian cập nhật: 2026-01-13 21:47:38
 
 <div class="chapter-nav">
     <a href="chuong_137.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_139.html" class="nav-btn">Chương sau →</a>

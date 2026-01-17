@@ -190,8 +190,7 @@ Tào Côn đầu tiên là mở ra tin.
 
 **Thông tin chương:**
 - Số chương: 663
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-663](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-663)
-- Thời gian scrape: 2026-01-13 22:18:46
+- Thời gian cập nhật: 2026-01-13 22:18:46
 
 <div class="chapter-nav">
     <a href="chuong_662.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_664.html" class="nav-btn">Chương sau →</a>

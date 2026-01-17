@@ -156,8 +156,7 @@ Nàng chính là nghĩ tranh thủ thời gian biết, trận này tại 2 số 
 
 **Thông tin chương:**
 - Số chương: 345
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-345](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-345)
-- Thời gian scrape: 2026-01-13 22:00:22
+- Thời gian cập nhật: 2026-01-13 22:00:22
 
 <div class="chapter-nav">
     <a href="chuong_344.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_346.html" class="nav-btn">Chương sau →</a>

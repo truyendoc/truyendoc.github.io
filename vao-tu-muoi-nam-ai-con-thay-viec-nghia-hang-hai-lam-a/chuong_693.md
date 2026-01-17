@@ -172,8 +172,7 @@ Cát phù hộ, lần này thật sự là đến đúng rồi!
 
 **Thông tin chương:**
 - Số chương: 693
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-693](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-693)
-- Thời gian scrape: 2026-01-13 22:20:35
+- Thời gian cập nhật: 2026-01-13 22:20:35
 
 <div class="chapter-nav">
     <a href="chuong_692.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_694.html" class="nav-btn">Chương sau →</a>

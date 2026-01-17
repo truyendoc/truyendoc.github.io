@@ -160,8 +160,7 @@ Thẳng đến có ba bốn giây, Trịnh Nguyên Sinh mới cười ha ha mộ
 
 **Thông tin chương:**
 - Số chương: 560
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-560](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-560)
-- Thời gian scrape: 2026-01-13 22:12:50
+- Thời gian cập nhật: 2026-01-13 22:12:50
 
 <div class="chapter-nav">
     <a href="chuong_559.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_561.html" class="nav-btn">Chương sau →</a>

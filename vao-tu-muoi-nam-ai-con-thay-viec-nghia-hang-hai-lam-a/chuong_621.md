@@ -162,8 +162,7 @@ Vương Minh tuệ nghĩ nghĩ, cười nhìn về phía Tào Côn nói: "Ngươ
 
 **Thông tin chương:**
 - Số chương: 621
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-621](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-621)
-- Thời gian scrape: 2026-01-13 22:16:18
+- Thời gian cập nhật: 2026-01-13 22:16:18
 
 <div class="chapter-nav">
     <a href="chuong_620.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_622.html" class="nav-btn">Chương sau →</a>

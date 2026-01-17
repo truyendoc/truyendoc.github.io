@@ -112,8 +112,7 @@ Trong đó, linh dược 22 gốc, bảo dược 1 gốc.
 
 **Thông tin chương:**
 - Số chương: 296
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-296](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-296)
-- Thời gian scrape: 2026-01-13 00:22:23
+- Thời gian cập nhật: 2026-01-13 00:22:23
 
 <div class="chapter-nav">
     <a href="chuong_295.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_297.html" class="nav-btn">Chương sau →</a>

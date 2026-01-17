@@ -130,8 +130,7 @@ Ngày kế tiếp sau khi trời sáng, ăn sáng xong, đội ngũ liền tiế
 
 **Thông tin chương:**
 - Số chương: 342
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-342](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-342)
-- Thời gian scrape: 2026-01-13 00:24:12
+- Thời gian cập nhật: 2026-01-13 00:24:12
 
 <div class="chapter-nav">
     <a href="chuong_341.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_343.html" class="nav-btn">Chương sau →</a>

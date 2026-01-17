@@ -124,8 +124,7 @@ Mà tu vi phía sau dấu cộng lại một lần phát sáng lên.
 
 **Thông tin chương:**
 - Số chương: 285
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-285](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-285)
-- Thời gian scrape: 2026-01-13 00:21:56
+- Thời gian cập nhật: 2026-01-13 00:21:56
 
 <div class="chapter-nav">
     <a href="chuong_284.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_286.html" class="nav-btn">Chương sau →</a>

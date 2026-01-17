@@ -367,8 +367,7 @@ Và tôi nghe một thứ gì đó.
 
 **Thông tin chương:**
 - Số chương: 2
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-2](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-2)
-- Thời gian scrape: 2026-01-17 09:37:55
+- Thời gian cập nhật: 2026-01-17 09:37:55
 
 <div class="chapter-nav">
     <a href="chuong_1.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_3.html" class="nav-btn">Chương sau →</a>

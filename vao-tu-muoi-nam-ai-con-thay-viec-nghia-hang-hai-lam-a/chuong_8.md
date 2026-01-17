@@ -192,8 +192,7 @@ Bởi vì, nửa giờ sau mới ăn ba cân thịt bò chín, đảo mắt li�
 
 **Thông tin chương:**
 - Số chương: 8
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-8](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-8)
-- Thời gian scrape: 2026-01-13 21:39:50
+- Thời gian cập nhật: 2026-01-13 21:39:50
 
 <div class="chapter-nav">
     <a href="chuong_7.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_9.html" class="nav-btn">Chương sau →</a>

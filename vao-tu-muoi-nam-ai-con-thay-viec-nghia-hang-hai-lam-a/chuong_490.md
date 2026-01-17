@@ -192,8 +192,7 @@ Cái này mẹ nó chính là tri thức lực lượng a!
 
 **Thông tin chương:**
 - Số chương: 490
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-490](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-490)
-- Thời gian scrape: 2026-01-13 22:08:52
+- Thời gian cập nhật: 2026-01-13 22:08:52
 
 <div class="chapter-nav">
     <a href="chuong_489.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_491.html" class="nav-btn">Chương sau →</a>

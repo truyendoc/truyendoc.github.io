@@ -174,8 +174,7 @@ Tào Côn cười nói: "Ngươi nhìn, chính ngươi trong lòng rất rõ rà
 
 **Thông tin chương:**
 - Số chương: 170
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-170](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-170)
-- Thời gian scrape: 2026-01-13 21:49:33
+- Thời gian cập nhật: 2026-01-13 21:49:33
 
 <div class="chapter-nav">
     <a href="chuong_169.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_171.html" class="nav-btn">Chương sau →</a>

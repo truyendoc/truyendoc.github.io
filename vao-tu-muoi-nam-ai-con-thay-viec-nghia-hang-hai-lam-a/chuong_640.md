@@ -174,8 +174,7 @@ Bất quá, hai người nói, rất nhanh liền trở về, chính là ra ngo�
 
 **Thông tin chương:**
 - Số chương: 640
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-640](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-640)
-- Thời gian scrape: 2026-01-13 22:17:25
+- Thời gian cập nhật: 2026-01-13 22:17:25
 
 <div class="chapter-nav">
     <a href="chuong_639.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_641.html" class="nav-btn">Chương sau →</a>

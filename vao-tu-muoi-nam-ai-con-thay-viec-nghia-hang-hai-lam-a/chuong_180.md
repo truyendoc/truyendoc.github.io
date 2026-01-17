@@ -196,8 +196,7 @@ Trình Dương chăm chú nghĩ một lát, lắc đầu nói: "Không có, anh 
 
 **Thông tin chương:**
 - Số chương: 180
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-180](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-180)
-- Thời gian scrape: 2026-01-13 21:50:08
+- Thời gian cập nhật: 2026-01-13 21:50:08
 
 <div class="chapter-nav">
     <a href="chuong_179.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_181.html" class="nav-btn">Chương sau →</a>

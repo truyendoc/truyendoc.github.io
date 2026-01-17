@@ -174,8 +174,7 @@ Nói, Trương Bách Mộ đi tới sân khấu, vừa mới chuẩn bị mở m
 
 **Thông tin chương:**
 - Số chương: 481
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-481](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-481)
-- Thời gian scrape: 2026-01-13 22:08:22
+- Thời gian cập nhật: 2026-01-13 22:08:22
 
 <div class="chapter-nav">
     <a href="chuong_480.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_482.html" class="nav-btn">Chương sau →</a>

@@ -212,8 +212,7 @@ Nghe được Tiết Linh Đồng hình như có thâm ý lời nói, Tiết Ng�
 
 **Thông tin chương:**
 - Số chương: 210
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-210](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-210)
-- Thời gian scrape: 2026-01-13 00:33:02
+- Thời gian cập nhật: 2026-01-13 00:33:02
 
 <div class="chapter-nav">
     <a href="chuong_209.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_211.html" class="nav-btn">Chương sau →</a>

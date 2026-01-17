@@ -96,8 +96,7 @@ Biết được tin tức này sau, tiểu muội cố ý phái người đi ngh
 
 **Thông tin chương:**
 - Số chương: 350
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-350](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-350)
-- Thời gian scrape: 2026-01-13 00:24:31
+- Thời gian cập nhật: 2026-01-13 00:24:31
 
 <div class="chapter-nav">
     <a href="chuong_349.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_351.html" class="nav-btn">Chương sau →</a>

@@ -158,8 +158,7 @@ Bốc Hạnh Phúc nghĩ nghĩ, nói: "Liền quét dọn việc nhà, dạo ph�
 
 **Thông tin chương:**
 - Số chương: 334
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-334](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-334)
-- Thời gian scrape: 2026-01-13 21:59:41
+- Thời gian cập nhật: 2026-01-13 21:59:41
 
 <div class="chapter-nav">
     <a href="chuong_333.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_335.html" class="nav-btn">Chương sau →</a>

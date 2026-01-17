@@ -172,8 +172,7 @@ Sau khi tới mới phát hiện, lại là một cái thuốc dẫn phát huy�
 
 **Thông tin chương:**
 - Số chương: 720
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-720](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-720)
-- Thời gian scrape: 2026-01-13 22:22:01
+- Thời gian cập nhật: 2026-01-13 22:22:01
 
 <div class="chapter-nav">
     <a href="chuong_719.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="#" class="nav-btn disabled">Chương sau →</a>

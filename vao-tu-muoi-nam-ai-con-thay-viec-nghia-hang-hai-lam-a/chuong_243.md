@@ -210,8 +210,7 @@ Bởi vì, Ngô Khải làm cái kia định thời gian lựu đạn nội hóa
 
 **Thông tin chương:**
 - Số chương: 243
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-243](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-243)
-- Thời gian scrape: 2026-01-13 21:54:16
+- Thời gian cập nhật: 2026-01-13 21:54:16
 
 <div class="chapter-nav">
     <a href="chuong_242.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_244.html" class="nav-btn">Chương sau →</a>

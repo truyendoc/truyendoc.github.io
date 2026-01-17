@@ -194,8 +194,7 @@ Không bao lâu, phòng chứa đồ đèn tắt. . .
 
 **Thông tin chương:**
 - Số chương: 244
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-244](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-244)
-- Thời gian scrape: 2026-01-13 21:54:19
+- Thời gian cập nhật: 2026-01-13 21:54:19
 
 <div class="chapter-nav">
     <a href="chuong_243.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_245.html" class="nav-btn">Chương sau →</a>

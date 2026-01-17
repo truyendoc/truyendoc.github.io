@@ -290,8 +290,7 @@ Vì không dẫn tới phiền toái không cần thiết, liền đem đối ph
 
 **Thông tin chương:**
 - Số chương: 175
-- URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-175](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-175)
-- Thời gian scrape: 2026-01-13 00:31:39
+- Thời gian cập nhật: 2026-01-13 00:31:39
 
 <div class="chapter-nav">
     <a href="chuong_174.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_176.html" class="nav-btn">Chương sau →</a>

@@ -196,8 +196,7 @@ Tại phòng ăn, ngươi cũng không thể vì hiện ra tài lực hùng hậ
 
 **Thông tin chương:**
 - Số chương: 535
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-535](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-535)
-- Thời gian scrape: 2026-01-13 22:11:26
+- Thời gian cập nhật: 2026-01-13 22:11:26
 
 <div class="chapter-nav">
     <a href="chuong_534.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_536.html" class="nav-btn">Chương sau →</a>

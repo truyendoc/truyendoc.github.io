@@ -597,8 +597,7 @@ Trò Chơi của Guy và Rudra kéo dài ngàn thu, cuối cùng cũng tới h�
 
 **Thông tin chương:**
 - Số chương: 189
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-189](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-189)
-- Thời gian scrape: 2026-01-17 09:46:40
+- Thời gian cập nhật: 2026-01-17 09:46:40
 
 <div class="chapter-nav">
     <a href="chuong_188.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_190.html" class="nav-btn">Chương sau →</a>

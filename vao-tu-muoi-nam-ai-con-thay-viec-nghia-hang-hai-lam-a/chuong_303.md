@@ -156,8 +156,7 @@ Bởi vì điện báo biểu hiện, chính là Cẩu Nhất Vĩ!
 
 **Thông tin chương:**
 - Số chương: 303
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-303](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-303)
-- Thời gian scrape: 2026-01-13 21:57:48
+- Thời gian cập nhật: 2026-01-13 21:57:48
 
 <div class="chapter-nav">
     <a href="chuong_302.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_304.html" class="nav-btn">Chương sau →</a>

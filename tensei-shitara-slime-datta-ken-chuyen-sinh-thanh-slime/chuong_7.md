@@ -433,8 +433,7 @@ Kể từ khi chuyển sinh, đây là lần đầu tiên tôi được đắm m
 
 **Thông tin chương:**
 - Số chương: 7
-- URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-7](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-7)
-- Thời gian scrape: 2026-01-17 09:38:09
+- Thời gian cập nhật: 2026-01-17 09:38:09
 
 <div class="chapter-nav">
     <a href="chuong_6.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_8.html" class="nav-btn">Chương sau →</a>

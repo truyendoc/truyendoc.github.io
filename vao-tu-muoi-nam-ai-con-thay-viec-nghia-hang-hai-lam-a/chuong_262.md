@@ -216,8 +216,7 @@ Còn lại những thứ này, đều chỉ là giữ khuôn phép làm công ng
 
 **Thông tin chương:**
 - Số chương: 262
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-262](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-262)
-- Thời gian scrape: 2026-01-13 21:55:19
+- Thời gian cập nhật: 2026-01-13 21:55:19
 
 <div class="chapter-nav">
     <a href="chuong_261.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_263.html" class="nav-btn">Chương sau →</a>

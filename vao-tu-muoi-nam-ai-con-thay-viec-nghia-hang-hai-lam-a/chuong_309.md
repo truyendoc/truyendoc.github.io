@@ -148,8 +148,7 @@ Mặc dù đầu đã bị người nện p·hát n·ổ, nhưng là, vẫn có 
 
 **Thông tin chương:**
 - Số chương: 309
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-309](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-309)
-- Thời gian scrape: 2026-01-13 21:58:12
+- Thời gian cập nhật: 2026-01-13 21:58:12
 
 <div class="chapter-nav">
     <a href="chuong_308.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_310.html" class="nav-btn">Chương sau →</a>

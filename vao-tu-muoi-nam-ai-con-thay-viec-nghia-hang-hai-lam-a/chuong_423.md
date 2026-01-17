@@ -166,8 +166,7 @@ Trừ đó ra, còn phát sinh một chút sự tình khác, bất quá, còn l�
 
 **Thông tin chương:**
 - Số chương: 423
-- URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-423](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-423)
-- Thời gian scrape: 2026-01-13 22:04:51
+- Thời gian cập nhật: 2026-01-13 22:04:51
 
 <div class="chapter-nav">
     <a href="chuong_422.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_424.html" class="nav-btn">Chương sau →</a>
