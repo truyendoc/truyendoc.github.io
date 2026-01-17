@@ -4,6 +4,7 @@ title: Chương 376: Cứu người (2)
 chapter_number: 376
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh không ngẩng đầu, đôi tay vẫn liên tục di chuyển. Chỉ trong chớp mắt, hắn đã cắm hơn mười cây ngân châm vào chân lão Vương, phong tỏa vết thương do ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,8 +96,7 @@ Tiểu đồ đệ lập tức reo lên đầy phấn khích.
 
 **Thông tin chương:**
 - Số chương: 376
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-376](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-376)
-- Thời gian scrape: 2026-01-17 10:24:47
+- Thời gian cập nhật: 2026-01-17 10:24:47
 
 <div class="chapter-nav">
     <a href="chuong_375.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_377.html" class="nav-btn">Chương sau →</a>

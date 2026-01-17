@@ -4,6 +4,8 @@ title: Chương 438: Pháp bảo (2)
 chapter_number: 438
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không hổ là Huyền Sơn, nền tảng của bốn đại bí địa quả thực thâm hậu, chỉ dựa vào một món chí bảo đã có thể xoay chuyển cục diện trong thế tuyệt lộ.
+“Không ổ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -112,8 +114,7 @@ Lời vừa dứt, thân hình hắn biến mất, xuất hiện ngay trước m
 
 **Thông tin chương:**
 - Số chương: 438
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-438](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-438)
-- Thời gian scrape: 2026-01-17 10:27:51
+- Thời gian cập nhật: 2026-01-17 10:27:51
 
 <div class="chapter-nav">
     <a href="chuong_437.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_439.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 496
 chapter_number: 496
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ai dám mạo phạm uy nghiêm của bản tọa!”
+Theo một tiếng quát hùng tráng vang lên, một luồng nhiệt lực kh*ng b* từ trong đỉnh bộc phát, nhắm thẳng vào thần hồ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -76,8 +78,7 @@ Trung niên nam tử lấy lại bình tĩnh, đứng lơ lửng trong hư khôn
 
 **Thông tin chương:**
 - Số chương: 496
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-496](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-496)
-- Thời gian scrape: 2026-01-17 10:30:45
+- Thời gian cập nhật: 2026-01-17 10:30:45
 
 <div class="chapter-nav">
     <a href="chuong_495.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_497.html" class="nav-btn">Chương sau →</a>

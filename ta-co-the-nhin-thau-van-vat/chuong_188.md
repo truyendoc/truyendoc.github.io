@@ -4,6 +4,10 @@ title: Chương 188: Thân phận bại lộ
 chapter_number: 188
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi bình minh hé rạng, mặt trời bắt đầu nhô lên từ phương đông.
+“Đẹp quá!”
+Ngồi trên xe bò, Tiểu Nhan không khỏi thốt lên kinh ngạc.
+Lúc này, Lục Thanh và mọ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,8 +88,7 @@ Hắn nhớ rõ, hôm qua người này từng biến mất một lúc khá lâu
 
 **Thông tin chương:**
 - Số chương: 188
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-188](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-188)
-- Thời gian scrape: 2026-01-17 10:16:33
+- Thời gian cập nhật: 2026-01-17 10:16:33
 
 <div class="chapter-nav">
     <a href="chuong_187.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_189.html" class="nav-btn">Chương sau →</a>

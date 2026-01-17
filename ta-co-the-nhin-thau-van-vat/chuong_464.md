@@ -4,6 +4,8 @@ title: Chương 464
 chapter_number: 464
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi hấp thu linh khí vào cơ thể, hắn dẫn nó tiến vào khí hải đan điền để luyện hóa và tinh luyện.
+Rất nhanh, tia Linh lực Ngũ Hành thứ hai xuất hiện tron...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -121,8 +123,7 @@ Ngay khoảnh khắc tiếp theo, ánh mắt Trần lão y đột nhiên mở to
 
 **Thông tin chương:**
 - Số chương: 464
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-464](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-464)
-- Thời gian scrape: 2026-01-17 10:29:10
+- Thời gian cập nhật: 2026-01-17 10:29:10
 
 <div class="chapter-nav">
     <a href="chuong_463.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_465.html" class="nav-btn">Chương sau →</a>

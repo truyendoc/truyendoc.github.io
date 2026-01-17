@@ -4,6 +4,8 @@ title: Chương 282: Tầm bảo
 chapter_number: 282
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thời gian không còn nhiều, đám lão niên phong nhã kia e rằng chẳng mấy chốc nữa sẽ quay về thành.
+Lục Thanh không đủ thời giờ để dùng dị năng tra xét từng mó...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,8 +95,7 @@ Nhưng thứ khiến Lục Thanh kinh ngạc không phải ánh sáng ấy, mà 
 
 **Thông tin chương:**
 - Số chương: 282
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-282](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-282)
-- Thời gian scrape: 2026-01-17 10:20:41
+- Thời gian cập nhật: 2026-01-17 10:20:41
 
 <div class="chapter-nav">
     <a href="chuong_281.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_283.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 166: Nhận sư phụ
 chapter_number: 166
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đây đúng là việc đáng mừng, mà ta cũng chẳng có gì quý giá,” Lục Thanh lấy ra một bình thuốc bằng sứ trắng, ném về phía Mã Cố.
+Mã Cố thoáng giật mình, vội v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,8 +97,7 @@ Trong thoáng chốc, hắn đứng ngây ra tại chỗ, không rõ vì sao mì
 
 **Thông tin chương:**
 - Số chương: 166
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-166](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-166)
-- Thời gian scrape: 2026-01-17 10:15:33
+- Thời gian cập nhật: 2026-01-17 10:15:33
 
 <div class="chapter-nav">
     <a href="chuong_165.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_167.html" class="nav-btn">Chương sau →</a>

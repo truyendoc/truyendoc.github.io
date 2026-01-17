@@ -4,6 +4,8 @@ title: Chương 231: Uy danh chấn động bốn phương
 chapter_number: 231
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Công tử Lục, đây… đây chẳng lẽ là Thiên Ngoại Tinh Thiết trong truyền thuyết?”
+Nhìn vật được Lục Thanh lấy ra, ánh mắt Lâm sư phụ mở lớn, giọng nói run nhẹ....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -92,8 +94,7 @@ Tận hai canh giờ liền mới đột nhiên dừng lại.
 
 **Thông tin chương:**
 - Số chương: 231
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-231](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-231)
-- Thời gian scrape: 2026-01-17 10:18:28
+- Thời gian cập nhật: 2026-01-17 10:18:28
 
 <div class="chapter-nav">
     <a href="chuong_230.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_232.html" class="nav-btn">Chương sau →</a>

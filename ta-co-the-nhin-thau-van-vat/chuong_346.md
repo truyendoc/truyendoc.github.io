@@ -4,6 +4,10 @@ title: Chương 346: Thu hoạch lớn, lại lên đường (2)
 chapter_number: 346
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Từ Tiền bối , mọi người, mong rằng sau này còn gặp lại.”
+Lục Thanh chắp tay thi lễ với những người khác.
+“Lên đường!”
+Đợi mọi người đều đã lên xe ngựa, Mã ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -104,8 +108,7 @@ Ngụy Tử An nghe xong liền sững người.
 
 **Thông tin chương:**
 - Số chương: 346
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-346](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-346)
-- Thời gian scrape: 2026-01-17 10:23:22
+- Thời gian cập nhật: 2026-01-17 10:23:22
 
 <div class="chapter-nav">
     <a href="chuong_345.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_347.html" class="nav-btn">Chương sau →</a>

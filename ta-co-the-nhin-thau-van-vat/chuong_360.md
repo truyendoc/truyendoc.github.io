@@ -4,6 +4,8 @@ title: Chương 360: Tin tức
 chapter_number: 360
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tuy nhiên, ta thấy ngươi cũng giống người luyện võ, nên muốn khuyên thật lòng. Mấy dòng văn tự trên cổng thành này ẩn chứa ý vị đặc biệt.
+Nhưng ý vị đó có c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -90,8 +92,7 @@ Thiên Cơ Lâu được xưng là tổ chức thông tin đứng đầu thiên 
 
 **Thông tin chương:**
 - Số chương: 360
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-360](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-360)
-- Thời gian scrape: 2026-01-17 10:24:01
+- Thời gian cập nhật: 2026-01-17 10:24:01
 
 <div class="chapter-nav">
     <a href="chuong_359.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_361.html" class="nav-btn">Chương sau →</a>

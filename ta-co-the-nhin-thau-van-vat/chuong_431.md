@@ -4,6 +4,8 @@ title: Chương 431: Sinh cơ khí
 chapter_number: 431
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Quả nhiên xứng danh thời đại tu hành, thứ khiến vô số tu sĩ kinh sợ — Thiên Kiếp.”
+Toàn thân bị thiêu đen, Lục Thanh dù nghe thấy tiếng hô hoán của Mã Cố và...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -87,8 +89,7 @@ Nhưng đúng lúc ấy, Sinh Cơ Khí lại xuất hiện, bao phủ lấy Lụ
 
 **Thông tin chương:**
 - Số chương: 431
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-431](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-431)
-- Thời gian scrape: 2026-01-17 10:27:31
+- Thời gian cập nhật: 2026-01-17 10:27:31
 
 <div class="chapter-nav">
     <a href="chuong_430.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_432.html" class="nav-btn">Chương sau →</a>

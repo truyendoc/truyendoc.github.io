@@ -4,6 +4,9 @@ title: Chương 59: Đao chiến
 chapter_number: 59
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cảm nhận được khí huyết cường đại đang tỏa ra mơ hồ từ trong người Lục Thanh,
+Mã gia chấn động cả lòng, vừa kinh ngạc vừa khó tin.
+Lần trước hắn gặp Lục Than...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -125,8 +128,7 @@ Hắn cố giữ vẻ bình tĩnh, hỏi tiếp bằng giọng quan tâm:
 
 **Thông tin chương:**
 - Số chương: 59
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-59](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-59)
-- Thời gian scrape: 2026-01-17 10:10:00
+- Thời gian cập nhật: 2026-01-17 10:10:00
 
 <div class="chapter-nav">
     <a href="chuong_58.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_60.html" class="nav-btn">Chương sau →</a>

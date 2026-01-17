@@ -4,6 +4,9 @@ title: Chương 522: Khai Linh Thuật
 chapter_number: 522
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Vậy thì tốt, ta sẽ trồng linh cốc trước.”
+Vừa nghe linh cốc có thể giúp đắp nền móng cho Tiểu Nhan, Lục Thanh lập tức quyết định như vậy.
+“Nhưng Viêm, việc ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,8 +87,7 @@ Theo lẽ thường, Lục Thanh ở ngay sát nhà Trương lão gia tử, vi�
 
 **Thông tin chương:**
 - Số chương: 522
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-522](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-522)
-- Thời gian scrape: 2026-01-17 10:32:01
+- Thời gian cập nhật: 2026-01-17 10:32:01
 
 <div class="chapter-nav">
     <a href="chuong_521.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_523.html" class="nav-btn">Chương sau →</a>

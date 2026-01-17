@@ -4,6 +4,9 @@ title: Chương 51: Cá Chạch Hoàng Kim
 chapter_number: 51
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: [Cá Chạch Hoàng Kim: Dị ngư, toàn thân ánh vàng, giỏi đào hang.]
+[Chứa linh khí, thịt ngon và bổ, có thể bổ cả âm lẫn dương, là một loại đại bổ chân chính.]
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -136,8 +139,7 @@ một ý nghĩ bất chợt lóe lên trong đầu Lục Thanh:
 
 **Thông tin chương:**
 - Số chương: 51
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-51](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-51)
-- Thời gian scrape: 2026-01-17 10:09:41
+- Thời gian cập nhật: 2026-01-17 10:09:41
 
 <div class="chapter-nav">
     <a href="chuong_50.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_52.html" class="nav-btn">Chương sau →</a>

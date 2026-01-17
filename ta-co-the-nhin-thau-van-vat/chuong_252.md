@@ -4,6 +4,8 @@ title: Chương 252: Dược điền
 chapter_number: 252
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Dưới sự giải thích của sư phụ, Lục Thanh cuối cùng cũng hiểu rõ.
+Suốt bao năm nghiên cứu bộ “Thanh Nang Y Điển” của Y Thánh, lại thêm việc quen thuộc với rất...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -91,8 +93,7 @@ Nghĩ đến đây, bỏ ra chút Địa Mạch Dược Dịch quả thật rấ
 
 **Thông tin chương:**
 - Số chương: 252
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-252](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-252)
-- Thời gian scrape: 2026-01-17 10:19:26
+- Thời gian cập nhật: 2026-01-17 10:19:26
 
 <div class="chapter-nav">
     <a href="chuong_251.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_253.html" class="nav-btn">Chương sau →</a>

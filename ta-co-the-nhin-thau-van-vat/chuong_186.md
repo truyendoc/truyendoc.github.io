@@ -4,6 +4,8 @@ title: Chương 186: Bình yên
 chapter_number: 186
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thì ra là tiểu Nhan,” một giọng nói vang lên. “Cô không phải là chị của con đâu, gọi là dì nhé. Dì là bạn của ca ca con, họ Lý.”
+Ngụy phu nhân lập tức hiểu ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,8 +82,7 @@ Nhờ vậy, tay nghề nấu nướng của hắn cũng ngày càng tinh tế h
 
 **Thông tin chương:**
 - Số chương: 186
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-186](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-186)
-- Thời gian scrape: 2026-01-17 10:16:27
+- Thời gian cập nhật: 2026-01-17 10:16:27
 
 <div class="chapter-nav">
     <a href="chuong_185.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_187.html" class="nav-btn">Chương sau →</a>

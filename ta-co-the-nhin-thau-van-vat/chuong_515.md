@@ -4,6 +4,8 @@ title: Chương 515: Bí Mật Của Bí Địa (2)
 chapter_number: 515
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Không ngờ ở nơi hẻo lánh như vậy, lại tồn tại một cứ điểm của Thần Phù Tông.
+Xem ra sau khi ta lâm vào giấc ngủ sâu, giới tu hành hẳn đã xảy ra không ít đại...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,8 +97,7 @@ Nhưng hắn có thể cảm nhận rõ ràng, sinh mệnh khí tức của nó 
 
 **Thông tin chương:**
 - Số chương: 515
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-515](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-515)
-- Thời gian scrape: 2026-01-17 10:31:40
+- Thời gian cập nhật: 2026-01-17 10:31:40
 
 <div class="chapter-nav">
     <a href="chuong_514.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_516.html" class="nav-btn">Chương sau →</a>

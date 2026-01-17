@@ -4,6 +4,9 @@ title: Chương 470
 chapter_number: 470
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đi gấp vậy sao?”
+Thân thể Hồ Trạch Chi khẽ run lên, nàng nhìn Lục Thanh với vẻ bối rối.
+Buổi sáng hôm đó, nàng chưa từng nghe Lục Thanh nhắc đến chuyện này....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -121,8 +124,7 @@ Khoảnh khắc uy áp này xuất hiện, trong một tòa phủ đệ hoa lệ
 
 **Thông tin chương:**
 - Số chương: 470
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-470](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-470)
-- Thời gian scrape: 2026-01-17 10:29:27
+- Thời gian cập nhật: 2026-01-17 10:29:27
 
 <div class="chapter-nav">
     <a href="chuong_469.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_471.html" class="nav-btn">Chương sau →</a>

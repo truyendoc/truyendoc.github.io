@@ -4,6 +4,8 @@ title: Chương 335: Nghiền nát (2)
 chapter_number: 335
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngay lúc ấy, ánh mắt hắn nhìn Lục Thanh đã không còn phẫn nộ như trước, thay vào đó chỉ còn lại kinh hoàng và khó tin.
+Thật khó chấp nhận rằng hắn lại dễ dàn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -104,8 +106,7 @@ Nói xong, một luồng Kiếm Khí bùng lên, chém đầu lão nhân mũi ư
 
 **Thông tin chương:**
 - Số chương: 335
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-335](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-335)
-- Thời gian scrape: 2026-01-17 10:22:54
+- Thời gian cập nhật: 2026-01-17 10:22:54
 
 <div class="chapter-nav">
     <a href="chuong_334.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_336.html" class="nav-btn">Chương sau →</a>

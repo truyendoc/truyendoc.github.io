@@ -4,6 +4,9 @@ title: Chương 409: Oán Hận khó tiêu trừ
 chapter_number: 409
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “A Thanh, vừa rồi sao ngươi không để công tử Chi Duệ rời đi cùng chúng ta?
+Nếu đám hòa thượng kia làm khó cậu ấy thì phải làm sao?”
+Lúc Lâm Chi Duệ đang nhân...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,8 +101,7 @@ Ngay sau sự việc, ta đã cảm nhận được một khí tức cực kỳ 
 
 **Thông tin chương:**
 - Số chương: 409
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-409](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-409)
-- Thời gian scrape: 2026-01-17 10:26:25
+- Thời gian cập nhật: 2026-01-17 10:26:25
 
 <div class="chapter-nav">
     <a href="chuong_408.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_410.html" class="nav-btn">Chương sau →</a>

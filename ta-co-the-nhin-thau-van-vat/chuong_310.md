@@ -4,6 +4,8 @@ title: Chương 310: Đối chiến
 chapter_number: 310
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sư phụ đột phá khiến Lục Thanh càng thêm tin tưởng vào chuyến đi đến Vân Châu lần này.
+Đạt đến Tiên Thiên Tiểu Thành, lại sở hữu song hệ Tiên Thiên Nguyên Kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,8 +82,7 @@ Không kịp nghĩ nhiều, hắn lập tức đạp mạnh lên lưng ngựa, b
 
 **Thông tin chương:**
 - Số chương: 310
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-310](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-310)
-- Thời gian scrape: 2026-01-17 10:21:51
+- Thời gian cập nhật: 2026-01-17 10:21:51
 
 <div class="chapter-nav">
     <a href="chuong_309.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_311.html" class="nav-btn">Chương sau →</a>

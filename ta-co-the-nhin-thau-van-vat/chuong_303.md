@@ -4,6 +4,9 @@ title: Chương 303: Bị dẫm nát dưới chân (2)
 chapter_number: 303
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhưng rất nhanh, hắn liền cảm giác có điều không ổn:
+“Không đúng, ngươi ở đây… vậy còn Hồng trưởng lão đâu?!”
+“ bọn họ đã chết rồi.” Mã Cố lạnh lùng nói, “Ng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -111,8 +114,7 @@ Chết tại chỗ.
 
 **Thông tin chương:**
 - Số chương: 303
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-303](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-303)
-- Thời gian scrape: 2026-01-17 10:21:33
+- Thời gian cập nhật: 2026-01-17 10:21:33
 
 <div class="chapter-nav">
     <a href="chuong_302.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_304.html" class="nav-btn">Chương sau →</a>

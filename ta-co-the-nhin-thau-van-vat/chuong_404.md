@@ -4,6 +4,7 @@ title: Chương 404: Nguy cơ của Trần Lão y (2)
 chapter_number: 404
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nếu đã nói lấy lòng từ bi làm gốc, vì sao lại ngăn cản sư phụ ta xuống núi? Lục Thanh chất giọng lạnh lẽo. Chẳng lẽ vì nhìn thấy sư phụ ta tính tình hiền hòa...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -61,8 +62,7 @@ Lời bàn tán dậy lên như sóng. Tất cả đều bị chấn động b�
 
 **Thông tin chương:**
 - Số chương: 404
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-404](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-404)
-- Thời gian scrape: 2026-01-17 10:26:09
+- Thời gian cập nhật: 2026-01-17 10:26:09
 
 <div class="chapter-nav">
     <a href="chuong_403.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_405.html" class="nav-btn">Chương sau →</a>

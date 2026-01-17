@@ -4,6 +4,9 @@ title: Chương 266: Đao Ý viên mãn
 chapter_number: 266
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong dãy núi sâu, một thung lũng hẻo lánh.
+Lục Thanh và Ngụy Sơn Hải đứng đối diện nhau, trường đao nắm trong tay.
+Dĩ nhiên, binh khí họ dùng chỉ là Bách lu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,8 +84,7 @@ Mã Cố và Ngụy Tử An trên sườn đồi nín thở nhìn, căng thẳng
 
 **Thông tin chương:**
 - Số chương: 266
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-266](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-266)
-- Thời gian scrape: 2026-01-17 10:20:01
+- Thời gian cập nhật: 2026-01-17 10:20:01
 
 <div class="chapter-nav">
     <a href="chuong_265.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_267.html" class="nav-btn">Chương sau →</a>

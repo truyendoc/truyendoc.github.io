@@ -4,6 +4,8 @@ title: Chương 191: Chiến đấu (2)
 chapter_number: 191
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Người đại hán cường tráng siết chặt thanh chiến đao, gương mặt tràn đầy vẻ kinh hãi khi nhìn Lục Thanh.
+Hắn không thể tin nổi chỉ một chiêu của Lục Thanh đã ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -92,8 +94,7 @@ Nhưng trong mắt đám võ giả quan chiến, trận đấu này đã là c�
 
 **Thông tin chương:**
 - Số chương: 191
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-191](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-191)
-- Thời gian scrape: 2026-01-17 10:16:40
+- Thời gian cập nhật: 2026-01-17 10:16:40
 
 <div class="chapter-nav">
     <a href="chuong_190.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_192.html" class="nav-btn">Chương sau →</a>

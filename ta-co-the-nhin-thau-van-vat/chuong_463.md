@@ -4,6 +4,8 @@ title: Chương 463
 chapter_number: 463
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi tia Linh lực Ngũ Hành đầu tiên được ngưng tụ thành công, thần hồn của Lục Thanh lập tức bị cuốn hút.
+Linh lực Ngũ Hành được ngưng tụ từ năm loại linh lực...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,8 +77,7 @@ Theo ý niệm hắn khẽ động, linh khí xung quanh lập tức bị thần
 
 **Thông tin chương:**
 - Số chương: 463
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-463](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-463)
-- Thời gian scrape: 2026-01-17 10:29:07
+- Thời gian cập nhật: 2026-01-17 10:29:07
 
 <div class="chapter-nav">
     <a href="chuong_462.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_464.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 100: Về nhà
 chapter_number: 100
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không biết là do hắn vốn là người xuyên không, hay bởi thể chất võ giả Khí Huyết cảnh,
+mà thân thể Lục Thanh lại có thể hấp thu nhiều Địa Mạch Linh Dịch đến ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -148,8 +150,7 @@ Lục Thanh vẫy tay chào, rồi chạy một mạch về Tiểu viện Bán S
 
 **Thông tin chương:**
 - Số chương: 100
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-100](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-100)
-- Thời gian scrape: 2026-01-17 10:12:24
+- Thời gian cập nhật: 2026-01-17 10:12:24
 
 <div class="chapter-nav">
     <a href="chuong_99.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_101.html" class="nav-btn">Chương sau →</a>

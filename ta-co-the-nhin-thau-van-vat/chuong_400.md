@@ -4,6 +4,9 @@ title: Chương 400: Linh Cảm của Hồ Trạch Chi
 chapter_number: 400
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lâm Chi duệ nghe câu này, toàn thân run lên dữ dội, khẽ lẩm bẩm trong vô thức.
+Hắn rõ ràng đã bị chấn động sâu sắc bởi lời nói ấy.
+Một lúc lâu sau, hắn mới t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -70,8 +73,7 @@ Lục Thanh hơi ngạc nhiên.
 
 **Thông tin chương:**
 - Số chương: 400
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-400](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-400)
-- Thời gian scrape: 2026-01-17 10:25:58
+- Thời gian cập nhật: 2026-01-17 10:25:58
 
 <div class="chapter-nav">
     <a href="chuong_399.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_401.html" class="nav-btn">Chương sau →</a>

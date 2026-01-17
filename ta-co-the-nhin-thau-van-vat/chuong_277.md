@@ -4,6 +4,8 @@ title: Chương 277: Chấn động
 chapter_number: 277
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lâm huynh, huynh phải cẩn thận.”
+Thấy lão hữu vừa mở miệng đã gọi hai chữ “Vân muội”, vị lão giả tóc bạc nhưng mặt mày trẻ trung biết mình không thể khuyên ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -85,8 +87,7 @@ Thấy Lục Thanh định đi, thành chủ vội cất tiếng.
 
 **Thông tin chương:**
 - Số chương: 277
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-277](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-277)
-- Thời gian scrape: 2026-01-17 10:20:28
+- Thời gian cập nhật: 2026-01-17 10:20:28
 
 <div class="chapter-nav">
     <a href="chuong_276.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_278.html" class="nav-btn">Chương sau →</a>

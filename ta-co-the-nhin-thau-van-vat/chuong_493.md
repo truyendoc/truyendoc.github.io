@@ -4,6 +4,8 @@ title: Chương 493
 chapter_number: 493
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tiểu Nhan, con về rồi à, để thím xem nào, có bị đen đi không, ở bên ngoài có chịu khổ gì không?”
+Bị ôm chầm lấy một cách đột ngột, Tiểu Nhan thoáng ngẩn ra....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,8 +111,7 @@ khiến ông thực sự tò mò, rốt cuộc là chuyện gì lại khiến L�
 
 **Thông tin chương:**
 - Số chương: 493
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-493](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-493)
-- Thời gian scrape: 2026-01-17 10:30:36
+- Thời gian cập nhật: 2026-01-17 10:30:36
 
 <div class="chapter-nav">
     <a href="chuong_492.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_494.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 299: Thủ đoạn tàn nhẫn
 chapter_number: 299
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Kẻ nào dám cản trở chuyện của Lưu Vân Tông?”
+Nam tử áo xám lạnh lùng nhìn chằm chằm vào cỗ xe ngựa phía trước, giọng điệu âm trầm.
+Người áo xám không hề ngu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -92,8 +95,7 @@ Cảnh tượng này khiến Ngụy Tử An máu huyết sôi trào, còn Triệ
 
 **Thông tin chương:**
 - Số chương: 299
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-299](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-299)
-- Thời gian scrape: 2026-01-17 10:21:23
+- Thời gian cập nhật: 2026-01-17 10:21:23
 
 <div class="chapter-nav">
     <a href="chuong_298.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_300.html" class="nav-btn">Chương sau →</a>

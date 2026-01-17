@@ -4,6 +4,10 @@ title: Chương 147: Tiên thiên
 chapter_number: 147
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ Trần!”
+Sáng sớm, trước Tiểu Viện Bán Sơn.
+Lục Thanh dắt tay tiểu Nhan, tiểu Ly đứng trên vai, cùng nhau đi từ chân núi lên.
+Thấy Trần lão y đang luyệ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -66,8 +70,7 @@ Dù có mạnh đến đâu, không tinh luyện Thần Hồn lực thì vĩnh v
 
 **Thông tin chương:**
 - Số chương: 147
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-147](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-147)
-- Thời gian scrape: 2026-01-17 10:14:40
+- Thời gian cập nhật: 2026-01-17 10:14:40
 
 <div class="chapter-nav">
     <a href="chuong_146.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_148.html" class="nav-btn">Chương sau →</a>

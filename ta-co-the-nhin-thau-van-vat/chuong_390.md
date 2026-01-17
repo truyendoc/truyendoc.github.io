@@ -4,6 +4,9 @@ title: Chương 390: Thánh Sơn
 chapter_number: 390
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chi Duệ, điều gì khiến con vui mừng như vậy?”
+Một vị lão giả râu bạc, khí chất thoát tục như tiên nhân, lên tiếng hỏi từ phía đối diện Lâm Chi Duệ.
+“Bằng hữ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -77,8 +80,7 @@ Lâm Chi Duệ vừa định sắp xếp, ánh mắt bỗng dừng lại trên c
 
 **Thông tin chương:**
 - Số chương: 390
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-390](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-390)
-- Thời gian scrape: 2026-01-17 10:25:28
+- Thời gian cập nhật: 2026-01-17 10:25:28
 
 <div class="chapter-nav">
     <a href="chuong_389.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_391.html" class="nav-btn">Chương sau →</a>

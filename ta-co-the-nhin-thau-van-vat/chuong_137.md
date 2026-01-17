@@ -4,6 +4,9 @@ title: Chương 137: Cứu người (4)
 chapter_number: 137
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh nói:
+“ ngụy Phu nhân sẽ nhanh chóng khá hơn sau khi uống dược. Nhìn hơi thở của bà ấy đi, đã ổn định hơn nhiều rồi.”
+Anh rất tin tưởng vào dịch dượ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -66,8 +69,7 @@ Một võ giả hỏi:
 
 **Thông tin chương:**
 - Số chương: 137
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-137](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-137)
-- Thời gian scrape: 2026-01-17 10:14:11
+- Thời gian cập nhật: 2026-01-17 10:14:11
 
 <div class="chapter-nav">
     <a href="chuong_136.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_138.html" class="nav-btn">Chương sau →</a>

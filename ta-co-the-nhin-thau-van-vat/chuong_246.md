@@ -4,6 +4,8 @@ title: Chương 246: Luyện đao
 chapter_number: 246
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đệ tử cũng thắc mắc, có lẽ vì lâu rồi không đi câu, tất cả Dị ngư trong sông đều tụ lại,” Lục Thanh nói.
+Thực ra Lục Thanh đã có một phỏng đoán, nhưng trước...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -70,8 +72,7 @@ Lục Thanh biết rõ lý do thật sự mà Ngụy Tử An trở thành đệ 
 
 **Thông tin chương:**
 - Số chương: 246
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-246](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-246)
-- Thời gian scrape: 2026-01-17 10:19:11
+- Thời gian cập nhật: 2026-01-17 10:19:11
 
 <div class="chapter-nav">
     <a href="chuong_245.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_247.html" class="nav-btn">Chương sau →</a>

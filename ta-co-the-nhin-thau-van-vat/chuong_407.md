@@ -4,6 +4,9 @@ title: Chương 407: Đổi đen thành trắng
 chapter_number: 407
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhìn Lục Thanh giơ đao chỉ thẳng vào đám người Huyền Sơn, vẻ mặt hắn vẫn bình thản.
+Lần này, không ai dám xem nhẹ lời hắn nữa.
+Không còn cách nào khác, một t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -104,8 +107,7 @@ Một cảm giác nguy hiểm cực độ ập đến, khiến toàn thân họ 
 
 **Thông tin chương:**
 - Số chương: 407
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-407](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-407)
-- Thời gian scrape: 2026-01-17 10:26:18
+- Thời gian cập nhật: 2026-01-17 10:26:18
 
 <div class="chapter-nav">
     <a href="chuong_406.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_408.html" class="nav-btn">Chương sau →</a>

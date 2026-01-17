@@ -4,6 +4,8 @@ title: Chương 180: Tin tức (2)
 chapter_number: 180
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh không ngạc nhiên khi nghe rằng sư phụ mình chưa từng nghe đến hai thế lực bí ẩn kia.
+Dù trước đây sư phụ từng đạt tới Đại Thành hậu thiên nội cảnh,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,8 +81,7 @@ Dù Ngụy phu nhân cũng vui mừng, bà nhanh chóng bình tĩnh lại.
 
 **Thông tin chương:**
 - Số chương: 180
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-180](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-180)
-- Thời gian scrape: 2026-01-17 10:16:11
+- Thời gian cập nhật: 2026-01-17 10:16:11
 
 <div class="chapter-nav">
     <a href="chuong_179.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_181.html" class="nav-btn">Chương sau →</a>

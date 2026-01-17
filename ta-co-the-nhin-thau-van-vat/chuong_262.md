@@ -4,6 +4,9 @@ title: Chương 262: Tế sống
 chapter_number: 262
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi đối đầu một hồi với Trịnh lão thái.
+Cuối cùng, Lâm lão vẫn lựa chọn tạm thời lùi bước.
+Thứ nhất, bọn họ đều đang ở trong thành. Nếu hai võ giả cảnh T...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,8 +102,7 @@ Nhưng hắn không thấy trong mắt Trịnh lão thái, ánh nhìn lạnh l�
 
 **Thông tin chương:**
 - Số chương: 262
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-262](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-262)
-- Thời gian scrape: 2026-01-17 10:19:51
+- Thời gian cập nhật: 2026-01-17 10:19:51
 
 <div class="chapter-nav">
     <a href="chuong_261.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_263.html" class="nav-btn">Chương sau →</a>

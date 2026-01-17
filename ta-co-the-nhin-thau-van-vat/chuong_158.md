@@ -4,6 +4,8 @@ title: Chương 158: Lục thanh ra tay
 chapter_number: 158
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cú đấm của Hắc Lang mang theo sức mạnh kinh người, khí huyết toàn thân hắn bộc phát như dã thú thoát lồng, dữ tợn vô cùng.
+Mã Cố trong lòng dâng lên nỗi sợ h...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,8 +86,7 @@ Lão Bát chính là võ giả đạt đến cảnh giới Đại thành của K
 
 **Thông tin chương:**
 - Số chương: 158
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-158](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-158)
-- Thời gian scrape: 2026-01-17 10:15:11
+- Thời gian cập nhật: 2026-01-17 10:15:11
 
 <div class="chapter-nav">
     <a href="chuong_157.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_159.html" class="nav-btn">Chương sau →</a>

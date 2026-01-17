@@ -4,6 +4,8 @@ title: Chương 23: Viên Thạch Ngư Giáp Xanh và sự ngạc nhiên của T
 chapter_number: 23
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đêm đó, Lục Thanh ngủ rất say, đến mức không mộng mị, cũng chẳng nghe thấy tiếng gió ngoài hiên.
+Tiểu Nhan cũng không giật mình tỉnh giấc giữa đêm như mọi kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -138,8 +140,7 @@ Nói đến đây, Trần lão bỗng hỏi tiếp:
 
 **Thông tin chương:**
 - Số chương: 23
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-23](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-23)
-- Thời gian scrape: 2026-01-17 10:08:32
+- Thời gian cập nhật: 2026-01-17 10:08:32
 
 <div class="chapter-nav">
     <a href="chuong_22.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_24.html" class="nav-btn">Chương sau →</a>

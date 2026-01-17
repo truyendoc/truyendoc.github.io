@@ -4,6 +4,7 @@ title: Chương 87: Cảnh cáo
 chapter_number: 87
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Bên ngoài Lầu Xuân Nguyệt, đám gián điệp của các thế lực khác nhau chờ một lúc lâu mà vẫn không thấy người của Hắc Lang bang ra mặt, trên gương mặt ai nấy đề...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -136,8 +137,7 @@ gương mặt Mã Cố sáng rực lên niềm vui:
 
 **Thông tin chương:**
 - Số chương: 87
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-87](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-87)
-- Thời gian scrape: 2026-01-17 10:11:46
+- Thời gian cập nhật: 2026-01-17 10:11:46
 
 <div class="chapter-nav">
     <a href="chuong_86.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_88.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 514: Bí Mật Của Bí Địa
 chapter_number: 514
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cũng không phải là thù hận quá lớn.” Lục Thanh thản nhiên nói, sau đó đơn giản kể lại nguồn cơn ân oán giữa mình và Huyền Sơn.
+Nghe xong, “Viêm” nhất thời c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -71,8 +73,7 @@ Chỉ là lần này, do quan hệ với “Viêm” đã trở nên hòa hoãn 
 
 **Thông tin chương:**
 - Số chương: 514
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-514](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-514)
-- Thời gian scrape: 2026-01-17 10:31:37
+- Thời gian cập nhật: 2026-01-17 10:31:37
 
 <div class="chapter-nav">
     <a href="chuong_513.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_515.html" class="nav-btn">Chương sau →</a>

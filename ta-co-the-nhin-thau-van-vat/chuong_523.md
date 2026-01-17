@@ -4,6 +4,8 @@ title: Chương 523: Khai Linh Thuật (2)
 chapter_number: 523
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhưng nếu lão bằng hữu đã nói như vậy, hiển nhiên không phải chuyện tầm thường.
+“A Thanh nói muốn thu gom một ít hạt lúa giống có chất lượng tốt để dùng vào ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -106,8 +108,7 @@ Mà cảnh tượng thần kỳ ấy, tự nhiên khiến toàn bộ thôn dân 
 
 **Thông tin chương:**
 - Số chương: 523
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-523](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-523)
-- Thời gian scrape: 2026-01-17 10:32:04
+- Thời gian cập nhật: 2026-01-17 10:32:04
 
 <div class="chapter-nav">
     <a href="chuong_522.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_524.html" class="nav-btn">Chương sau →</a>

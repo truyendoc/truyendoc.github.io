@@ -4,6 +4,8 @@ title: Chương 272: Nhạo báng
 chapter_number: 272
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tiểu súc sinh! Hôm nay ta phải giết ngươi, báo thù cho Nghiêu nhi của ta!”
+Đôi mắt của Trịnh lão thái đỏ ngầu, nhìn chằm chằm Lục Thanh, hận không thể xé hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -111,8 +113,7 @@ Cùng lúc đó, bà lại cảm nhận được khí tức của tên tiểu s�
 
 **Thông tin chương:**
 - Số chương: 272
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-272](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-272)
-- Thời gian scrape: 2026-01-17 10:20:16
+- Thời gian cập nhật: 2026-01-17 10:20:16
 
 <div class="chapter-nav">
     <a href="chuong_271.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_273.html" class="nav-btn">Chương sau →</a>

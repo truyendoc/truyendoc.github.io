@@ -4,6 +4,9 @@ title: Chương 38: Mua sắm
 chapter_number: 38
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Công tử nói… sư phụ của cậu là Trần lão y sao?”
+Nụ cười trên gương mặt Mã gia nhất thời thu lại, trở nên nghiêm nghị hơn vài phần.
+“Dạ, người trong thôn đều...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -107,8 +110,7 @@ bước nặng nề rời khỏi chợ, hướng về thôn làng.
 
 **Thông tin chương:**
 - Số chương: 38
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-38](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-38)
-- Thời gian scrape: 2026-01-17 10:09:08
+- Thời gian cập nhật: 2026-01-17 10:09:08
 
 <div class="chapter-nav">
     <a href="chuong_37.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_39.html" class="nav-btn">Chương sau →</a>

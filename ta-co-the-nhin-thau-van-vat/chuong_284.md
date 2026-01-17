@@ -4,6 +4,8 @@ title: Chương 284: Luyện hoá địa linh châu
 chapter_number: 284
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhìn sinh cơ của trung niên mỹ phụ dần dần tán đi, Lục Thanh sắc mặt không hề thay đổi.
+Ngay khoảnh khắc đọc được tin tức liên quan đến trung niên mỹ phụ, hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -83,8 +85,7 @@ Theo ý niệm của Lục Thanh, thần hồn ấn ký bên trong Địa Linh C
 
 **Thông tin chương:**
 - Số chương: 284
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-284](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-284)
-- Thời gian scrape: 2026-01-17 10:20:46
+- Thời gian cập nhật: 2026-01-17 10:20:46
 
 <div class="chapter-nav">
     <a href="chuong_283.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_285.html" class="nav-btn">Chương sau →</a>

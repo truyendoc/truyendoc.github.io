@@ -4,6 +4,10 @@ title: Chương 37: Tu sĩ thứ hai
 chapter_number: 37
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đây là chợ lớn sao?”
+Lục Thanh nhìn khung cảnh náo nhiệt trước mắt, không khỏi ngạc nhiên.
+Chợ này còn đông đúc hơn trong trí nhớ của hắn.
+Các quầy hàng hai...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -117,8 +121,7 @@ Vẻ mặt Mã Cố thoáng chấn động.
 
 **Thông tin chương:**
 - Số chương: 37
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-37](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-37)
-- Thời gian scrape: 2026-01-17 10:09:06
+- Thời gian cập nhật: 2026-01-17 10:09:06
 
 <div class="chapter-nav">
     <a href="chuong_36.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_38.html" class="nav-btn">Chương sau →</a>

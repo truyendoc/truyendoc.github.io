@@ -4,6 +4,8 @@ title: Chương 25: Kinh Bách Thảo và cửa sổ hệ thống mở ra
 chapter_number: 25
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh hoàn hồn, trầm mặc một lát rồi gật đầu kiên định:
+“Tặng chứ ạ. So với ơn cứu mạng của Trần lão, trăm lượng bạc có đáng gì đâu. Nếu không có người, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -136,8 +138,7 @@ Hai dòng đầu hắn còn đọc hiểu được,
 
 **Thông tin chương:**
 - Số chương: 25
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-25](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-25)
-- Thời gian scrape: 2026-01-17 10:08:36
+- Thời gian cập nhật: 2026-01-17 10:08:36
 
 <div class="chapter-nav">
     <a href="chuong_24.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_26.html" class="nav-btn">Chương sau →</a>

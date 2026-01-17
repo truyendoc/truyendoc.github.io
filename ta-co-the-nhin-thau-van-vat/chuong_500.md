@@ -4,6 +4,9 @@ title: Chương 500
 chapter_number: 500
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cha, hắn đã đột phá lên Tiên Thiên Cảnh rồi sao?”
+Ngụy Tử An cảm nhận được luồng khí tức ấy, kinh ngạc thốt lên.
+Một đoàn người lập tức lao về hậu viện, đến...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,8 +84,7 @@ Tốc độ tăng tiến ấy, thậm chí có phần kinh người.
 
 **Thông tin chương:**
 - Số chương: 500
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-500](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-500)
-- Thời gian scrape: 2026-01-17 10:30:56
+- Thời gian cập nhật: 2026-01-17 10:30:56
 
 <div class="chapter-nav">
     <a href="chuong_499.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_501.html" class="nav-btn">Chương sau →</a>

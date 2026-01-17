@@ -4,6 +4,8 @@ title: Chương 212: Hoàng tộc
 chapter_number: 212
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Nghiêm xương Hải bái kiến Lục công tử.”
+Người trung niên có đôi mắt phượng mỉm cười bước đến gần Lục Thanh, miệng cất lời, trực tiếp xưng ra thân phận của h...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,8 +88,7 @@ Vừa về tới, hắn khóa cửa cẩn thận, lúc này mới lấy ra nhữ
 
 **Thông tin chương:**
 - Số chương: 212
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-212](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-212)
-- Thời gian scrape: 2026-01-17 10:17:33
+- Thời gian cập nhật: 2026-01-17 10:17:33
 
 <div class="chapter-nav">
     <a href="chuong_211.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_213.html" class="nav-btn">Chương sau →</a>

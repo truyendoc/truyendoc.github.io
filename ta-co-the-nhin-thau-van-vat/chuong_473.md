@@ -4,6 +4,8 @@ title: Chương 473
 chapter_number: 473
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Khí tức phát ra từ phía nam thành, chẳng lẽ là…”
+Thanh Long Thành chủ nhớ lại lời Thành vệ vừa báo lúc trước. Nhóm người kia không phải đã đi về phía nam th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -85,8 +87,7 @@ Những Tiên Thiên cảnh cao thủ khác cũng quan sát tình hình trong s�
 
 **Thông tin chương:**
 - Số chương: 473
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-473](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-473)
-- Thời gian scrape: 2026-01-17 10:29:36
+- Thời gian cập nhật: 2026-01-17 10:29:36
 
 <div class="chapter-nav">
     <a href="chuong_472.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_474.html" class="nav-btn">Chương sau →</a>

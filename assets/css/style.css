@@ -93,13 +93,19 @@ p {
 }
 
 /* Chapter content specifically usually benefits from Serif */
+.chapter-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 .chapter-content p {
     font-family: var(--font-family-serif);
 }
 
 /* Layout */
+/* Layout */
 .container {
-    max-width: 800px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
 }

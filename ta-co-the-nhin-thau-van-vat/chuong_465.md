@@ -4,6 +4,9 @@ title: Chương 465
 chapter_number: 465
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trần lão y chấn động nhìn vào lòng bàn tay của Lục Thanh.
+Trên lòng bàn tay hắn, một lĩnh vực nhỏ cỡ quả trứng gà đang chậm rãi xoay chuyển.
+Hình thái ấy gần...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,8 +89,7 @@ Nếu còn tiếp tục trì hoãn, vấn đề giữa nguyên khí và linh l�
 
 **Thông tin chương:**
 - Số chương: 465
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-465](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-465)
-- Thời gian scrape: 2026-01-17 10:29:13
+- Thời gian cập nhật: 2026-01-17 10:29:13
 
 <div class="chapter-nav">
     <a href="chuong_464.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_466.html" class="nav-btn">Chương sau →</a>

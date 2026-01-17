@@ -4,6 +4,7 @@ title: Chương 512: Ngũ Hành Hồ Lô
 chapter_number: 512
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: [Pháp bảo Hồ Lô: Phôi bảo thượng phẩm, tiềm lực vô hạn.] [Vốn là pháp bảo tà đạo do tu sĩ Nguyên Thần cảnh là Ôn Dịch Lão Nhân luyện chế, sau đó cấm chế bị t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -62,8 +63,7 @@ Trong tương lai, chỉ cần Lục Thanh tiếp tục tế luyện, không ng�
 
 **Thông tin chương:**
 - Số chương: 512
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-512](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-512)
-- Thời gian scrape: 2026-01-17 10:31:32
+- Thời gian cập nhật: 2026-01-17 10:31:32
 
 <div class="chapter-nav">
     <a href="chuong_511.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_513.html" class="nav-btn">Chương sau →</a>

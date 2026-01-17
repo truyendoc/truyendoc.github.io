@@ -4,6 +4,9 @@ title: Chương 378: Vạn vật đổi thay, thiên địa dị động (2)
 chapter_number: 378
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh lấy ra một thỏi bạc đặt lên quầy, rồi lập tức rời đi.
+Trước khi đi, hắn còn thuận tay mang theo cả hũ độc huyết.
+Triệu đại phu vốn muốn giữ hắn lại...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -70,8 +73,7 @@ Lục Thanh thu lại cảm xúc, mỉm cười, kể sơ qua chuyện xảy ra 
 
 **Thông tin chương:**
 - Số chương: 378
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-378](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-378)
-- Thời gian scrape: 2026-01-17 10:24:53
+- Thời gian cập nhật: 2026-01-17 10:24:53
 
 <div class="chapter-nav">
     <a href="chuong_377.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_379.html" class="nav-btn">Chương sau →</a>

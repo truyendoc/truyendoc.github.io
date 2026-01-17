@@ -4,6 +4,9 @@ title: Chương 161: Bạch ngọc hoa
 chapter_number: 161
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Mã Cố nhìn thấy thiếu niên áo trắng, toàn thân hắn chấn động dữ dội.
+Không chỉ vì trước đó hắn hoàn toàn không phát hiện được tung tích đối phương,
+mà cò...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,8 +106,7 @@ Nghe vậy, cả ngụy phu nhân và công tử đều kinh hãi không thôi.
 
 **Thông tin chương:**
 - Số chương: 161
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-161](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-161)
-- Thời gian scrape: 2026-01-17 10:15:21
+- Thời gian cập nhật: 2026-01-17 10:15:21
 
 <div class="chapter-nav">
     <a href="chuong_160.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_162.html" class="nav-btn">Chương sau →</a>

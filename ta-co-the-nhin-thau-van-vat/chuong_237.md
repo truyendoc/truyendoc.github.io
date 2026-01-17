@@ -4,6 +4,10 @@ title: Chương 237: Bảng Thiên Mệnh Chiếu Ứng, Thứ Hạng
 chapter_number: 237
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Long tiềm bảng?”
+Lục Thanh nhìn cuộn trục đặt trên bàn đá.
+“Xin hỏi Chi Duệ công tử, Long tiềm bảng là thứ gì?”
+“ Long tiềm bảng là bảng danh xếp hạng do Th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,8 +88,7 @@ Hắn nhìn những hàng chữ hiện ra:
 
 **Thông tin chương:**
 - Số chương: 237
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-237](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-237)
-- Thời gian scrape: 2026-01-17 10:18:44
+- Thời gian cập nhật: 2026-01-17 10:18:44
 
 <div class="chapter-nav">
     <a href="chuong_236.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_238.html" class="nav-btn">Chương sau →</a>

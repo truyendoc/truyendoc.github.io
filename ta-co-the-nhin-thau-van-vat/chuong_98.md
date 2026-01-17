@@ -4,6 +4,9 @@ title: Chương 98: Tiểu ly biến hình
 chapter_number: 98
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: 【Hắc Dạ Linh Hồ: Linh thú núi sâu, giống cái, tuổi non.】
+【Tốc độ cực nhanh, vuốt sắc có thể nghiền đá, chém vàng.】
+【Tương truyền Hắc Dạ Linh Hồ rất thích cá ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -116,8 +119,7 @@ Tiểu Ly biến mất ngay trước mắt Lục Thanh.
 
 **Thông tin chương:**
 - Số chương: 98
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-98](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-98)
-- Thời gian scrape: 2026-01-17 10:12:18
+- Thời gian cập nhật: 2026-01-17 10:12:18
 
 <div class="chapter-nav">
     <a href="chuong_97.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_99.html" class="nav-btn">Chương sau →</a>

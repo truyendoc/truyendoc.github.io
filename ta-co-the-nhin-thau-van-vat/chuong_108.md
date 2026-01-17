@@ -4,6 +4,9 @@ title: Chương 108: Học chữ (2)
 chapter_number: 108
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi ăn sáng xong, Lục Thanh bắt đầu dạy hai “học trò nhỏ” nhận mặt chữ.
+“Trời đất huyền diệu, vũ trụ bao la…”
+Tay cầm một cành nhỏ, hắn viết từng nét lên...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -77,8 +80,7 @@ Sau chuyến vào núi, hắn đã đạt được kỳ ngộ to lớn — khôn
 
 **Thông tin chương:**
 - Số chương: 108
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-108](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-108)
-- Thời gian scrape: 2026-01-17 10:12:46
+- Thời gian cập nhật: 2026-01-17 10:12:46
 
 <div class="chapter-nav">
     <a href="chuong_107.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_109.html" class="nav-btn">Chương sau →</a>

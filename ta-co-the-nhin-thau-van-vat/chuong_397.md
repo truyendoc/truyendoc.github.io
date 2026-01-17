@@ -4,6 +4,9 @@ title: Chương 397: Kỷ lục Thiên Đăng Thang
 chapter_number: 397
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Bọn họ từng leo Thiên Đăng Thang, nên đương nhiên hiểu rõ một số tình huống trên đó.
+Bạch Ngọc Thiên Thang, những bậc đầu tiên tương đối dễ leo.
+Nhưng một kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -119,8 +122,7 @@ Hắn không chỉ ra, mà nhìn thẳng phía trước, chậm rãi nói:
 
 **Thông tin chương:**
 - Số chương: 397
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-397](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-397)
-- Thời gian scrape: 2026-01-17 10:25:48
+- Thời gian cập nhật: 2026-01-17 10:25:48
 
 <div class="chapter-nav">
     <a href="chuong_396.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_398.html" class="nav-btn">Chương sau →</a>

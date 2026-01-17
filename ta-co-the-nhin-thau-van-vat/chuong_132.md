@@ -4,6 +4,9 @@ title: Chương 132: Lời cuối cùng
 chapter_number: 132
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Hắn biết, mình không còn cơ hội sống sót.
+Trong cơ thể con người, trái tim là cơ quan được xem trọng nhất.
+Trái tim khống chế khí huyết, mà đối với võ giả th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,8 +85,7 @@ Nghĩ đến Đao Pháp ban nãy, Mã Cố vẫn còn run:
 
 **Thông tin chương:**
 - Số chương: 132
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-132](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-132)
-- Thời gian scrape: 2026-01-17 10:13:56
+- Thời gian cập nhật: 2026-01-17 10:13:56
 
 <div class="chapter-nav">
     <a href="chuong_131.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_133.html" class="nav-btn">Chương sau →</a>

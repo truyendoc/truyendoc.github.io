@@ -4,6 +4,9 @@ title: Chương 46: Dưỡng Thể Quyền
 chapter_number: 46
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Bắt đầu tu luyện ngay sao?”
+Lục Thanh nhìn dòng nhắc hiện lên trong tầm nhìn siêu năng của mình, lần này cậu chọn “Có.”
+Ngay lập tức, một luồng thông tin nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,8 +101,7 @@ Suy nghĩ hồi lâu, thấy bụng đã tiêu, Lục Thanh liền lấy ra quy�
 
 **Thông tin chương:**
 - Số chương: 46
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-46](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-46)
-- Thời gian scrape: 2026-01-17 10:09:28
+- Thời gian cập nhật: 2026-01-17 10:09:28
 
 <div class="chapter-nav">
     <a href="chuong_45.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_47.html" class="nav-btn">Chương sau →</a>

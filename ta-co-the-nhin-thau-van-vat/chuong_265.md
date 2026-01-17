@@ -4,6 +4,9 @@ title: Chương 265: Minh tranh ám đấu, lời mời luận võ
 chapter_number: 265
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tổ mẫu của Trịnh gia cố ý để những lời đồn bất lợi lan rộng, là muốn dụ ta tự lộ diện sao?”
+Lục Thanh thầm suy nghĩ trong lòng.
+Khi Ngụy Sơn Hải nói rằng Tr...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,8 +102,7 @@ Nghĩ đến đây, Ngụy Sơn Hải cũng bắt đầu cảm thấy hứng th�
 
 **Thông tin chương:**
 - Số chương: 265
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-265](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-265)
-- Thời gian scrape: 2026-01-17 10:19:58
+- Thời gian cập nhật: 2026-01-17 10:19:58
 
 <div class="chapter-nav">
     <a href="chuong_264.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_266.html" class="nav-btn">Chương sau →</a>

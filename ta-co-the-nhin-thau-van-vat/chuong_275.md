@@ -4,6 +4,9 @@ title: Chương 275: Chém
 chapter_number: 275
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ầm!
+Trịnh lão thái thái bị hất văng đập mạnh vào một thân cây to, lại phun ra một ngụm máu tươi.
+Đồng thời, máu từ những tàn chi bị chém đứt vẫn không ngừng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -92,8 +95,7 @@ Theo bản năng, ánh nhìn của các cường giả Tiên Thiên đồng lo�
 
 **Thông tin chương:**
 - Số chương: 275
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-275](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-275)
-- Thời gian scrape: 2026-01-17 10:20:23
+- Thời gian cập nhật: 2026-01-17 10:20:23
 
 <div class="chapter-nav">
     <a href="chuong_274.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_276.html" class="nav-btn">Chương sau →</a>

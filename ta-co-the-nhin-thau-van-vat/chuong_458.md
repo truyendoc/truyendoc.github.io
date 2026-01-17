@@ -4,6 +4,8 @@ title: Chương 458
 chapter_number: 458
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Những tu sĩ có tu vi thâm hậu thì còn đỡ hơn, chỉ cảm thấy mi tâm đau nhói, đầu óc choáng váng trong chốc lát.
+Nhưng đối với những tu sĩ Tiên Thiên Cảnh tu v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -131,8 +133,7 @@ Hắn chỉ là một tu sĩ Tiên Thiên sơ kỳ, làm sao có được nhãn 
 
 **Thông tin chương:**
 - Số chương: 458
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-458](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-458)
-- Thời gian scrape: 2026-01-17 10:28:50
+- Thời gian cập nhật: 2026-01-17 10:28:50
 
 <div class="chapter-nav">
     <a href="chuong_457.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_459.html" class="nav-btn">Chương sau →</a>

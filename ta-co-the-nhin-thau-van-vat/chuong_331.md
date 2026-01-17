@@ -4,6 +4,7 @@ title: Chương 331: Sát Ý của trần Lão Y (2)
 chapter_number: 331
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lão giả và thiếu niên kia rốt cuộc là ai? Chân Khí Tiên Thiên của lão già mạnh đến mức nghịch thiên, tu vi sâu không dò được. Còn thiếu niên ấy lại dường nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -111,8 +112,7 @@ kiếm ý vô song ẩn trong Kiếm Khí khiến toàn thân hắn lạnh buố
 
 **Thông tin chương:**
 - Số chương: 331
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-331](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-331)
-- Thời gian scrape: 2026-01-17 10:22:44
+- Thời gian cập nhật: 2026-01-17 10:22:44
 
 <div class="chapter-nav">
     <a href="chuong_330.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_332.html" class="nav-btn">Chương sau →</a>

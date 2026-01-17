@@ -4,6 +4,9 @@ title: Chương 518: Dã Tâm của Mã Cố
 chapter_number: 518
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ, người định…”
+Lục Thanh nhìn sắc mặt của sư phụ, trong lòng đã hiểu ra vài phần.
+“Xem tình hình của thôn ta thì các thôn khác e rằng cũng chẳng khá h...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -83,8 +86,7 @@ những tin tức hắn dò xét được không hề trực tiếp hiển lộ 
 
 **Thông tin chương:**
 - Số chương: 518
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-518](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-518)
-- Thời gian scrape: 2026-01-17 10:31:50
+- Thời gian cập nhật: 2026-01-17 10:31:50
 
 <div class="chapter-nav">
     <a href="chuong_517.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_519.html" class="nav-btn">Chương sau →</a>

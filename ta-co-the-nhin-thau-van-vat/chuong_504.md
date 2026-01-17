@@ -4,6 +4,9 @@ title: Chương 504
 chapter_number: 504
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Quả nhiên nơi này đã xảy ra một ít biến hóa.”
+Lục Thanh men theo con đường cũ, tiếp tục tiến sâu vào trong lòng núi.
+Hắn phát hiện địa khí trong thông đạo c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -88,8 +91,7 @@ Không ngờ, vừa nghe đến cái tên này, “Viêm” lập tức chấn �
 
 **Thông tin chương:**
 - Số chương: 504
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-504](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-504)
-- Thời gian scrape: 2026-01-17 10:31:09
+- Thời gian cập nhật: 2026-01-17 10:31:09
 
 <div class="chapter-nav">
     <a href="chuong_503.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_505.html" class="nav-btn">Chương sau →</a>

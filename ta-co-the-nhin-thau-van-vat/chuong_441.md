@@ -4,6 +4,9 @@ title: Chương 441: Tam Thánh Sư
 chapter_number: 441
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Hmm?”
+Thấy Kiếm Khí của mình bị ngăn lại, Lục Thanh nhướng mày, hơi kinh ngạc.
+Hắn nhìn về hướng luồng Kiếm Khí vừa bắn tới, liền thấy một bóng áo trắng khô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -85,8 +88,7 @@ Nếu ngươi chịu nể mặt ta một lần, món ân tình đó xem như ta 
 
 **Thông tin chương:**
 - Số chương: 441
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-441](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-441)
-- Thời gian scrape: 2026-01-17 10:28:00
+- Thời gian cập nhật: 2026-01-17 10:28:00
 
 <div class="chapter-nav">
     <a href="chuong_440.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_442.html" class="nav-btn">Chương sau →</a>

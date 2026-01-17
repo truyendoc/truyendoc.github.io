@@ -4,6 +4,8 @@ title: Chương 40: Hương thơm của thịt béo
 chapter_number: 40
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong bếp, mùi thịt thơm ngào ngạt lan tỏa khắp không gian.
+Tiểu Nhan đang ngồi xổm trước bếp lửa, phụ anh thêm củi, vừa ngửi thấy hương thịt liền nuốt nước ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -114,8 +116,7 @@ Trần lão y khẽ nói:
 
 **Thông tin chương:**
 - Số chương: 40
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-40](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-40)
-- Thời gian scrape: 2026-01-17 10:09:14
+- Thời gian cập nhật: 2026-01-17 10:09:14
 
 <div class="chapter-nav">
     <a href="chuong_39.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_41.html" class="nav-btn">Chương sau →</a>

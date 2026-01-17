@@ -4,6 +4,7 @@ title: Chương 412: Ám Sát
 chapter_number: 412
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Khí tức này thật quái lạ, còn mang theo sát cơ; rốt cuộc là thế lực nào đang định ra tay với chúng ta?” Lục Thanh cảm nhận vài luồng khí tức ẩn núp đang lao...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -68,8 +69,7 @@ Nhớ lại phạm vi Kiếm Khí kinh nhân mà Trần lão y thể hiện trê
 
 **Thông tin chương:**
 - Số chương: 412
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-412](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-412)
-- Thời gian scrape: 2026-01-17 10:26:35
+- Thời gian cập nhật: 2026-01-17 10:26:35
 
 <div class="chapter-nav">
     <a href="chuong_411.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_413.html" class="nav-btn">Chương sau →</a>

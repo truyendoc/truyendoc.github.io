@@ -4,6 +4,9 @@ title: Chương 466
 chapter_number: 466
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tốc độ luyện hóa của sư phụ thật nhanh.”
+Lục Thanh一chăm chú quan sát tình trạng của sư phụ.
+Khi thấy thân thể Trần lão y khẽ run lên, một luồng khí tức nhẹ ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -105,8 +108,7 @@ Nghe đến đây, trong lòng Lục Thanh khẽ động, ánh mắt hắn nhìn
 
 **Thông tin chương:**
 - Số chương: 466
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-466](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-466)
-- Thời gian scrape: 2026-01-17 10:29:16
+- Thời gian cập nhật: 2026-01-17 10:29:16
 
 <div class="chapter-nav">
     <a href="chuong_465.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_467.html" class="nav-btn">Chương sau →</a>

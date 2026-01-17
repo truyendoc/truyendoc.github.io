@@ -4,6 +4,9 @@ title: Chương 417: Kiểm kê thu hoạch (2)
 chapter_number: 417
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thực chất, bọn chúng chỉ có thể xem như “Giả Đại Thành Tiên Thiên”.
+“Nhưng, dám đối đầu với Huyền Sơn, các ngươi đúng là có gan.”
+Lục Thanh nhìn mảnh chữ cuố...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -117,8 +120,7 @@ hắn có thể trực tiếp chém nát Kim Cang Thân, chặt làm hai mảnh!
 
 **Thông tin chương:**
 - Số chương: 417
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-417](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-417)
-- Thời gian scrape: 2026-01-17 10:26:49
+- Thời gian cập nhật: 2026-01-17 10:26:49
 
 <div class="chapter-nav">
     <a href="chuong_416.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_418.html" class="nav-btn">Chương sau →</a>

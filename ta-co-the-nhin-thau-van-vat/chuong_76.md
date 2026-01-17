@@ -4,6 +4,7 @@ title: Chương 76: Làng hỉ lạc
 chapter_number: 76
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cách đây khoảng năm mươi dặm có một ngôi làng tên là Làng Hỉ Lạc, nơi chuyên mở sòng bạc và kỹ viện, thu hút địa chủ cùng bọn rảnh rỗi quanh vùng đến tiêu t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,8 +100,7 @@ Lục Thanh khẽ vuốt đầu con thú đen,
 
 **Thông tin chương:**
 - Số chương: 76
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-76](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-76)
-- Thời gian scrape: 2026-01-17 10:11:19
+- Thời gian cập nhật: 2026-01-17 10:11:19
 
 <div class="chapter-nav">
     <a href="chuong_75.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_77.html" class="nav-btn">Chương sau →</a>

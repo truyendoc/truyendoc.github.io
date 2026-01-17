@@ -4,6 +4,9 @@ title: Chương 145: Thần hồn chi lực
 chapter_number: 145
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ, người đột phá đến cảnh Tiên Thiên rồi sao?” Lục Thanh không giấu được sự phấn khởi.
+Trần lão y lắc đầu:
+“Chưa. Ta mới chỉ tinh luyện được Thần Hồn l...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -72,8 +75,7 @@ Trừ khi có cấm chế Thần Hồn trong ngọc giản, còn không thì qu�
 
 **Thông tin chương:**
 - Số chương: 145
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-145](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-145)
-- Thời gian scrape: 2026-01-17 10:14:35
+- Thời gian cập nhật: 2026-01-17 10:14:35
 
 <div class="chapter-nav">
     <a href="chuong_144.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_146.html" class="nav-btn">Chương sau →</a>

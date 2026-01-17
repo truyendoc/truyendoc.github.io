@@ -4,6 +4,9 @@ title: Chương 461
 chapter_number: 461
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh ngồi xếp bằng trên mặt đất, lặng lẽ lĩnh hội cảm giác về lĩnh vực do dị năng mô phỏng ra.
+Trần lão y cùng những người khác yên lặng đứng quan sát.
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,8 +85,7 @@ mà trực tiếp ngưng tụ linh lực, ngược lại sẽ càng tốt hơn.
 
 **Thông tin chương:**
 - Số chương: 461
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-461](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-461)
-- Thời gian scrape: 2026-01-17 10:29:00
+- Thời gian cập nhật: 2026-01-17 10:29:00
 
 <div class="chapter-nav">
     <a href="chuong_460.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_462.html" class="nav-btn">Chương sau →</a>

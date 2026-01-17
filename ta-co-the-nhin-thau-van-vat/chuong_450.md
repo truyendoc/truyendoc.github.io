@@ -4,6 +4,8 @@ title: Chương 450
 chapter_number: 450
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đêm xuống, Lục Thanh ngồi xếp bằng trên giường, nhắm mắt tĩnh tâm.
+Ban ngày trải qua thiên kiếp, hắn vẫn luôn ở lại trong cao tháp cùng sư phụ và mọi người, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,8 +83,7 @@ Chỉ là, độ khó khi ngưng tụ phù lục bằng Nguyên Khí lại thấ
 
 **Thông tin chương:**
 - Số chương: 450
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-450](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-450)
-- Thời gian scrape: 2026-01-17 10:28:25
+- Thời gian cập nhật: 2026-01-17 10:28:25
 
 <div class="chapter-nav">
     <a href="chuong_449.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_451.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,7 @@ title: Chương 259: Phẫn nộ, Oán hận
 chapter_number: 259
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ngươi nói đi, A Nghiêu chết ở đâu, chết như thế nào? Từng chi tiết một ngươi phải nói rõ cho ta; nếu không, ta sẽ chôn sống toàn bộ các ngươi theo A Nghiêu!...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -89,8 +90,7 @@ Trịnh gia chủ còn muốn nói, nhưng nhìn thấy ánh mắt lạnh thấu
 
 **Thông tin chương:**
 - Số chương: 259
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-259](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-259)
-- Thời gian scrape: 2026-01-17 10:19:44
+- Thời gian cập nhật: 2026-01-17 10:19:44
 
 <div class="chapter-nav">
     <a href="chuong_258.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_260.html" class="nav-btn">Chương sau →</a>

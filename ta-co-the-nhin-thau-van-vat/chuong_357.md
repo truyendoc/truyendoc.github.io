@@ -4,6 +4,9 @@ title: Chương 357: Cuối Cùng Đến Trung Châu.
 chapter_number: 357
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Vù! Vù! Vù!
+Trong thung lũng, thân ảnh Tiểu Ly liên tục lóe lên xung quanh Lục Thanh.
+Thỉnh thoảng, nó vung một trảo về phía hắn, xé rách không khí tạo thành...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -78,8 +81,7 @@ Bất kể tốc độ hay độ sắc của móng vuốt đều mạnh lên rõ
 
 **Thông tin chương:**
 - Số chương: 357
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-357](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-357)
-- Thời gian scrape: 2026-01-17 10:23:51
+- Thời gian cập nhật: 2026-01-17 10:23:51
 
 <div class="chapter-nav">
     <a href="chuong_356.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_358.html" class="nav-btn">Chương sau →</a>

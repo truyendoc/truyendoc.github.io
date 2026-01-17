@@ -4,6 +4,8 @@ title: Chương 510
 chapter_number: 510
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ở đỉnh cao nhất của Huyền Sơn, có một ngôi chùa nhỏ.
+So với vô số ngôi chùa nguy nga, lộng lẫy tọa lạc lưng chừng núi, ngôi chùa nhỏ này trông lại đặc biệt g...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -88,8 +90,7 @@ Người này, chính là Huyền Nhất, kẻ được phái đi Vô Gian Lâu.
 
 **Thông tin chương:**
 - Số chương: 510
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-510](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-510)
-- Thời gian scrape: 2026-01-17 10:31:26
+- Thời gian cập nhật: 2026-01-17 10:31:26
 
 <div class="chapter-nav">
     <a href="chuong_509.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_511.html" class="nav-btn">Chương sau →</a>

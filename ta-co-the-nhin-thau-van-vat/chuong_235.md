@@ -4,6 +4,9 @@ title: Chương 235: Lò Luyện Quán Tưởng pháp
 chapter_number: 235
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Quả nhiên, không đâu bằng nhà.”
+Sáng sớm, Lục Thanh bước ra khỏi nhà, duỗi người một cái, trong lòng vô cùng thư thái.
+Nhớ lại chuyện hôm qua, hắn không nhị...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -83,8 +86,7 @@ Lập tức niệm khẩu quyết, giữ vững Tâm – Thần, cố sức ch�
 
 **Thông tin chương:**
 - Số chương: 235
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-235](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-235)
-- Thời gian scrape: 2026-01-17 10:18:39
+- Thời gian cập nhật: 2026-01-17 10:18:39
 
 <div class="chapter-nav">
     <a href="chuong_234.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_236.html" class="nav-btn">Chương sau →</a>

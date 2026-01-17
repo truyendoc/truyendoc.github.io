@@ -4,6 +4,10 @@ title: Chương 189: Thân phân bại lộ (2)
 chapter_number: 189
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thế nhưng, thiếu niên áo vải chẳng hề đáp lại, chỉ thản nhiên bước ra ngoài.
+“Này, Chi Duệ, đợi ta với!”
+Thành chủ vội vàng đứng dậy, nhanh chân đuổi theo.
+C...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -101,8 +105,7 @@ Mọi võ giả có mặt đều kinh hãi tột độ.
 
 **Thông tin chương:**
 - Số chương: 189
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-189](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-189)
-- Thời gian scrape: 2026-01-17 10:16:35
+- Thời gian cập nhật: 2026-01-17 10:16:35
 
 <div class="chapter-nav">
     <a href="chuong_188.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_190.html" class="nav-btn">Chương sau →</a>

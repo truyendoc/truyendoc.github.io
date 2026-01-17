@@ -4,6 +4,9 @@ title: Chương 173: Xuất hiện Tiên thiên
 chapter_number: 173
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ầm!
+Cú va chạm giữa đao và thương tạo ra một luồng lực kinh người.
+Chỉ vài ngày trước,Ngụy Tổng quản – mới vừa thăng lên Đại Thành hậu thiên Nội cảnh – đã cả...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,8 +84,7 @@ Sự xuất hiện của nhân vật này cũng thu hút ánh mắt của vô s�
 
 **Thông tin chương:**
 - Số chương: 173
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-173](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-173)
-- Thời gian scrape: 2026-01-17 10:15:52
+- Thời gian cập nhật: 2026-01-17 10:15:52
 
 <div class="chapter-nav">
     <a href="chuong_172.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_174.html" class="nav-btn">Chương sau →</a>

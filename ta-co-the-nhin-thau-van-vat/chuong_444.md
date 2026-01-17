@@ -4,6 +4,8 @@ title: Chương 444: Liều mạng giao chiến (2)
 chapter_number: 444
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đã nói là so ba chiêu mà chiêu thứ ba còn chưa xuất, Thánh Chủ sao dám chắc rằng ta không thể ép người phải lùi?” Lục Thanh mỉm cười nhạt nói.
+“Được, rất tố...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -116,8 +118,7 @@ Giữa cơn bão bụi đất, một bóng người đột ngột bị đánh ba
 
 **Thông tin chương:**
 - Số chương: 444
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-444](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-444)
-- Thời gian scrape: 2026-01-17 10:28:09
+- Thời gian cập nhật: 2026-01-17 10:28:09
 
 <div class="chapter-nav">
     <a href="chuong_443.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_445.html" class="nav-btn">Chương sau →</a>

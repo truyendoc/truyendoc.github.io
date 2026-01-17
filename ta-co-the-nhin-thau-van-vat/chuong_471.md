@@ -4,6 +4,9 @@ title: Chương 471
 chapter_number: 471
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cao thủ Tiên Thiên Cảnh?”
+Trong sân viện, toàn bộ gia nô hộ vệ đều bị trấn áp tại chỗ, không thể nhúc nhích.
+Tất cả đều nhìn thân ảnh của thiếu niên đang ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -89,8 +92,7 @@ Hắn không ngờ một người vốn nhút nhát, cẩn trọng như Hồ Lã
 
 **Thông tin chương:**
 - Số chương: 471
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-471](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-471)
-- Thời gian scrape: 2026-01-17 10:29:30
+- Thời gian cập nhật: 2026-01-17 10:29:30
 
 <div class="chapter-nav">
     <a href="chuong_470.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_472.html" class="nav-btn">Chương sau →</a>

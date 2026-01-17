@@ -4,6 +4,7 @@ title: Chương 494
 chapter_number: 494
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đại đỉnh ư?” Ngụy Sơn Hải thoáng sững sờ, sau đó có chút kinh ngạc nói: “Lục công tử, làm sao ngươi biết được chiếc đại đỉnh trong phủ ta lại lớn thêm rồi?”...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -74,8 +75,7 @@ Bằng không, chỉ cần sơ sẩy một chút, thần hồn chi lực sẽ b�
 
 **Thông tin chương:**
 - Số chương: 494
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-494](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-494)
-- Thời gian scrape: 2026-01-17 10:30:39
+- Thời gian cập nhật: 2026-01-17 10:30:39
 
 <div class="chapter-nav">
     <a href="chuong_493.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_495.html" class="nav-btn">Chương sau →</a>

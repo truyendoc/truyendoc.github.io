@@ -4,6 +4,9 @@ title: Chương 369: Kỳ Ngộ bất ngờ
 chapter_number: 369
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Quả thực hùng vĩ, tráng lệ, đúng là kỳ quan thế gian.”
+Bước đi trên cây cầu, Mã Cố nhìn cảnh sắc xung quanh, không nhịn được mà thốt lên đầy kinh ngạc.
+Lúc ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -73,8 +76,7 @@ Giờ hắn mới hiểu vì sao những người đi trước lại bước nha
 
 **Thông tin chương:**
 - Số chương: 369
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-369](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-369)
-- Thời gian scrape: 2026-01-17 10:24:27
+- Thời gian cập nhật: 2026-01-17 10:24:27
 
 <div class="chapter-nav">
     <a href="chuong_368.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_370.html" class="nav-btn">Chương sau →</a>

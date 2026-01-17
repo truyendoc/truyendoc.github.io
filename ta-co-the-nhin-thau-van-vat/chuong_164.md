@@ -4,6 +4,8 @@ title: Chương 164: Giao chiến (3)
 chapter_number: 164
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Hơn nữa, sau khi sử dụng Bí Thuật, gã sẽ rơi vào trạng thái suy yếu, thực lực giảm sút nghiêm trọng.
+Nếu không hạ được Lục Thanh trong thời gian ngắn, gã sợ ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -60,8 +62,7 @@ Chỉ cần kéo dài thời gian thêm chút nữa, chờ thực lực của m�
 
 **Thông tin chương:**
 - Số chương: 164
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-164](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-164)
-- Thời gian scrape: 2026-01-17 10:15:29
+- Thời gian cập nhật: 2026-01-17 10:15:29
 
 <div class="chapter-nav">
     <a href="chuong_163.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_165.html" class="nav-btn">Chương sau →</a>

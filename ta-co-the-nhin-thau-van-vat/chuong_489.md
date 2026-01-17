@@ -4,6 +4,8 @@ title: Chương 489
 chapter_number: 489
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lục công tử xin cứ yên tâm, Cơ gia chúng ta nhất định sẽ chăm sóc tốt cho các thôn dân trong thôn này.”
+Gia chủ họ Cơ vừa dứt lời, Trần lão y liền mở miệng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -111,8 +113,7 @@ Lục Thanh khẽ mỉm cười đáp.
 
 **Thông tin chương:**
 - Số chương: 489
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-489](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-489)
-- Thời gian scrape: 2026-01-17 10:30:24
+- Thời gian cập nhật: 2026-01-17 10:30:24
 
 <div class="chapter-nav">
     <a href="chuong_488.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_490.html" class="nav-btn">Chương sau →</a>

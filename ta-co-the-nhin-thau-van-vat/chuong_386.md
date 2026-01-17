@@ -4,6 +4,8 @@ title: Chương 386: Long Huyết Mã (2)
 chapter_number: 386
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Vị đại đệ tử trông có phần thật thà chất phác, nghi hoặc hỏi:
+“Sư phụ, dị tượng trên trời tối qua, nhất định công tử Lục phải biết nguyên do. Sao chúng ta kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -78,8 +80,7 @@ Dẫu đã chuẩn bị trước, Mã Cố vẫn giật mình vì tốc độ t�
 
 **Thông tin chương:**
 - Số chương: 386
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-386](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-386)
-- Thời gian scrape: 2026-01-17 10:25:17
+- Thời gian cập nhật: 2026-01-17 10:25:17
 
 <div class="chapter-nav">
     <a href="chuong_385.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_387.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,10 @@ title: Chương 1: Đôi mắt nhìn thấu vạn vật
 chapter_number: 1
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ọc… ọc…”
+Sáng sớm, Lục Thanh tỉnh dậy vì tiếng bụng đói réo vang.
+Cảm nhận cơn đói cồn cào trong bụng, hắn thở dài, đưa tay xoa nhẹ nơi dạ dày.
+“Có kêu thế ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,8 +88,7 @@ Khóe môi Lục Thanh khẽ nhếch lên, để lộ một nụ cười nhẹ.
 
 **Thông tin chương:**
 - Số chương: 1
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-1](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-1)
-- Thời gian scrape: 2026-01-17 10:07:35
+- Thời gian cập nhật: 2026-01-17 10:07:35
 
 <div class="chapter-nav">
     <a href="#" class="nav-btn disabled">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_2.html" class="nav-btn">Chương sau →</a>

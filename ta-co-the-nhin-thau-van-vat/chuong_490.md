@@ -4,6 +4,9 @@ title: Chương 490
 chapter_number: 490
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Giữa trưa, Mã Cố tìm được một rừng cây rồi cho xe ngựa dừng lại.
+Lục Thanh tìm một tảng đá lớn ở gần đó, nhảy lên trên, khoanh chân ngồi xuống.
+thần hồn của ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,8 +84,7 @@ một kẻ đã sống sót qua Thiên Nhân Ngũ Suy đại kiếp, và kéo d�
 
 **Thông tin chương:**
 - Số chương: 490
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-490](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-490)
-- Thời gian scrape: 2026-01-17 10:30:27
+- Thời gian cập nhật: 2026-01-17 10:30:27
 
 <div class="chapter-nav">
     <a href="chuong_489.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_491.html" class="nav-btn">Chương sau →</a>

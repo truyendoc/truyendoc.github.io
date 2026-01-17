@@ -4,6 +4,9 @@ title: Chương 118: Cuộc đối thoại
 chapter_number: 118
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Phu nhân và mọi người…”
+“Chỉ có thể trông vào số mệnh thôi.” — Ngụy Tinh Hà khẽ thở dài.
+“Là người của Ngụy gia, sớm muộn gì cũng phải có tinh thần hy sinh ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -166,8 +169,7 @@ Chi Duệ nhìn ông thêm chốc lát rồi nói chậm rãi:
 
 **Thông tin chương:**
 - Số chương: 118
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-118](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-118)
-- Thời gian scrape: 2026-01-17 10:13:17
+- Thời gian cập nhật: 2026-01-17 10:13:17
 
 <div class="chapter-nav">
     <a href="chuong_117.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_119.html" class="nav-btn">Chương sau →</a>

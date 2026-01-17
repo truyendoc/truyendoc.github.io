@@ -4,6 +4,9 @@ title: Chương 125: Bất ngờ
 chapter_number: 125
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Giọng nói bất ngờ vang lên khiến cả Mã Cố lẫn thiếu niên giáp da đều giật mình.
+Cả hai đều không nhận ra trong khe núi còn có người khác.
+Họ đồng thời quay đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -76,8 +79,7 @@ Dù vậy, hắn vẫn không coi một kẻ trẻ tuổi là đối thủ.
 
 **Thông tin chương:**
 - Số chương: 125
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-125](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-125)
-- Thời gian scrape: 2026-01-17 10:13:36
+- Thời gian cập nhật: 2026-01-17 10:13:36
 
 <div class="chapter-nav">
     <a href="chuong_124.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_126.html" class="nav-btn">Chương sau →</a>

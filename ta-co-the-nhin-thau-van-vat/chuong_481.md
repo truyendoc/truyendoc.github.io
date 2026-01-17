@@ -4,6 +4,9 @@ title: Chương 481
 chapter_number: 481
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong căn nhà tranh, Tam công tử nhà họ Cơ nằm trên một chiếc giường gỗ.
+Toàn thân hắn bị một tầng khí xám bao phủ, sắc mặt tái xám.
+Quan trọng nhất là nửa n...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,8 +89,7 @@ Sau khi thiếu nữ tránh ra, Lục Thanh nhặt một thanh củi bên cạnh
 
 **Thông tin chương:**
 - Số chương: 481
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-481](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-481)
-- Thời gian scrape: 2026-01-17 10:30:00
+- Thời gian cập nhật: 2026-01-17 10:30:00
 
 <div class="chapter-nav">
     <a href="chuong_480.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_482.html" class="nav-btn">Chương sau →</a>

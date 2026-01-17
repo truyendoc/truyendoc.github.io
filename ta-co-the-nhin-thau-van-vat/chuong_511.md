@@ -4,6 +4,9 @@ title: Chương 511: Huyền Sơn Ra Tay (2)
 chapter_number: 511
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngay lập tức có người bước ra, cúi đầu khom lưng, nịnh nọt chào đón.
+“Không cần nhiều lời vô nghĩa, thủ lĩnh của các ngươi đâu?
+Dẫn ta đi gặp hắn.” Huyền Nhấ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -96,8 +99,7 @@ Hắn thôi động dị năng, nhìn sâu vào bên trong hồ lô.
 
 **Thông tin chương:**
 - Số chương: 511
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-511](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-511)
-- Thời gian scrape: 2026-01-17 10:31:29
+- Thời gian cập nhật: 2026-01-17 10:31:29
 
 <div class="chapter-nav">
     <a href="chuong_510.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_512.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 379: Vạn vật đổi thay, thiên địa dị động (3)
 chapter_number: 379
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Bạn còn 8 lượt đọc trên website
+Mọi người lúc này mới biết rằng Lục Thanh không chỉ đi mua thuốc mà trên đường còn tiện tay cứu một mạng người.
+Những người k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -51,8 +54,7 @@ Giữa thiên địa, một thanh âm mênh mông uyên thâm bắt đầu vang 
 
 **Thông tin chương:**
 - Số chương: 379
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-379](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-379)
-- Thời gian scrape: 2026-01-17 10:24:56
+- Thời gian cập nhật: 2026-01-17 10:24:56
 
 <div class="chapter-nav">
     <a href="chuong_378.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_380.html" class="nav-btn">Chương sau →</a>

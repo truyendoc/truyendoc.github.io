@@ -4,6 +4,9 @@ title: Chương 468
 chapter_number: 468
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Công tử am hiểu y thuật sao?”
+Nghe Lục Thanh nói năng chắc chắn, ánh mắt vị thương nhân kia lập tức sáng lên.
+“Ta có chút hiểu biết. Nếu đại thúc không ngại...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,8 +112,7 @@ Sắc mặt sư phụ cũng trở nên nghiêm túc, gật đầu đáp: “Ừ,
 
 **Thông tin chương:**
 - Số chương: 468
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-468](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-468)
-- Thời gian scrape: 2026-01-17 10:29:22
+- Thời gian cập nhật: 2026-01-17 10:29:22
 
 <div class="chapter-nav">
     <a href="chuong_467.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_469.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 13: Sợi chỉ trắng trong hộp gỗ
 chapter_number: 13
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trần lão bước vào trong nhà, chẳng bao lâu sau lại trở ra,
+trên tay cầm một chiếc hộp nhỏ bằng gỗ đàn hương.
+“Cầm lấy cái này đi.” – Ông đưa chiếc hộp cho Lụ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -117,8 +120,7 @@ Hắn khẽ vận dụng năng lực, nhìn chằm chằm vào sợi chỉ trong
 
 **Thông tin chương:**
 - Số chương: 13
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-13](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-13)
-- Thời gian scrape: 2026-01-17 10:08:05
+- Thời gian cập nhật: 2026-01-17 10:08:05
 
 <div class="chapter-nav">
     <a href="chuong_12.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_14.html" class="nav-btn">Chương sau →</a>

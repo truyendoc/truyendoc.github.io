@@ -4,6 +4,8 @@ title: Chương 326: Địa ngục nhân gian (1),Huyết Nhục Luyện Hồn T
 chapter_number: 326
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi lão giả mũi ưng phất lá cờ huyết hồng trong tay, một luồng lực lượng cổ quái lan tràn khắp không gian.
+Nó trực tiếp khiến Tông Chủ Ngân Nguyệt tông cùng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -76,8 +78,7 @@ Cuối cùng, trong tầm nhìn của hắn lóe lên tử quang của dị năn
 
 **Thông tin chương:**
 - Số chương: 326
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-326](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-326)
-- Thời gian scrape: 2026-01-17 10:22:31
+- Thời gian cập nhật: 2026-01-17 10:22:31
 
 <div class="chapter-nav">
     <a href="chuong_325.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_327.html" class="nav-btn">Chương sau →</a>

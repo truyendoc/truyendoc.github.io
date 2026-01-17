@@ -4,6 +4,9 @@ title: Chương 54: Bước vào khí huyết cảnh
 chapter_number: 54
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ, ý người là sao?” Lục Thanh hỏi.
+“Thể chất của con vốn hơi yếu. Muốn bước vào Khí Huyết cảnh thì trước hết phải bù đắp phần căn cơ còn thiếu.”
+“Bình ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -69,8 +72,7 @@ Trần lão tràn đầy tin tưởng vào thiên tư võ đạo của đồ đ�
 
 **Thông tin chương:**
 - Số chương: 54
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-54](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-54)
-- Thời gian scrape: 2026-01-17 10:09:48
+- Thời gian cập nhật: 2026-01-17 10:09:48
 
 <div class="chapter-nav">
     <a href="chuong_53.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_55.html" class="nav-btn">Chương sau →</a>

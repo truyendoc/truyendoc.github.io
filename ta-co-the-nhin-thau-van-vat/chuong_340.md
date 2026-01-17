@@ -4,6 +4,8 @@ title: Chương 340: Huyết Ma Thể
 chapter_number: 340
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Giữa Võ Trường của Lưu Vân Tông, một Huyết Nhục Kén đang dựng thẳng.
+Bên dưới nó, những phù văn kỳ dị hiện lên, liên tục rút huyết dịch tinh nguyên từ những ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,8 +77,7 @@ Lúc này, khí tức trên người hắn thậm chí còn vượt qua cả hai
 
 **Thông tin chương:**
 - Số chương: 340
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-340](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-340)
-- Thời gian scrape: 2026-01-17 10:23:07
+- Thời gian cập nhật: 2026-01-17 10:23:07
 
 <div class="chapter-nav">
     <a href="chuong_339.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_341.html" class="nav-btn">Chương sau →</a>

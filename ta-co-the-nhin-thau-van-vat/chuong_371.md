@@ -4,6 +4,8 @@ title: Chương 371: Thái độ khác thường của Lục Thanh
 chapter_number: 371
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lão Trịnh!”
+Thấy đại hán áo xám ngã lăn xuống đất, đau đớn gào thét, không chỉ cô gái sững sờ, mà ngay cả người đàn bà áo đỏ và gã đàn ông gầy gò cũng hoàn ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -78,8 +80,7 @@ Huống hồ xương chân của cô gái chỉ gãy làm đôi, không bị ná
 
 **Thông tin chương:**
 - Số chương: 371
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-371](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-371)
-- Thời gian scrape: 2026-01-17 10:24:33
+- Thời gian cập nhật: 2026-01-17 10:24:33
 
 <div class="chapter-nav">
     <a href="chuong_370.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_372.html" class="nav-btn">Chương sau →</a>

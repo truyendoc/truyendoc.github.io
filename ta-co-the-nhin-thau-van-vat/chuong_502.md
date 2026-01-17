@@ -4,6 +4,9 @@ title: Chương 502
 chapter_number: 502
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trước cổng Cửu Lý thôn, không khí vô cùng náo nhiệt.
+Toàn bộ thôn dân nghe tin Lục Thanh và mọi người trở về đều vội vàng chạy ra khỏi thôn.
+“Thật sự là A Th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -88,8 +91,7 @@ Hồ Tam thúc vội nói.
 
 **Thông tin chương:**
 - Số chương: 502
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-502](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-502)
-- Thời gian scrape: 2026-01-17 10:31:03
+- Thời gian cập nhật: 2026-01-17 10:31:03
 
 <div class="chapter-nav">
     <a href="chuong_501.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_503.html" class="nav-btn">Chương sau →</a>

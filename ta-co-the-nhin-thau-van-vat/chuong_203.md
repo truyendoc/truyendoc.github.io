@@ -4,6 +4,9 @@ title: Chương 203: Ly Hỏa Tông
 chapter_number: 203
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Quả nhiên nguồn gốc của Ly Hỏa Đỉnh vô cùng cổ xưa.”
+Sau khi tiếp nhận truyền thừa, Lục Thanh đã hiểu rõ hơn về lai lịch của đại đỉnh này.
+Ly Hỏa Đỉnh xuất ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,8 +98,7 @@ Ngụy Sơn Hải nghe vậy, đôi mắt càng mở to hơn, hoàn toàn quên 
 
 **Thông tin chương:**
 - Số chương: 203
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-203](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-203)
-- Thời gian scrape: 2026-01-17 10:17:10
+- Thời gian cập nhật: 2026-01-17 10:17:10
 
 <div class="chapter-nav">
     <a href="chuong_202.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_204.html" class="nav-btn">Chương sau →</a>

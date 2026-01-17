@@ -4,6 +4,8 @@ title: Chương 130: Tiểu ly ra tay
 chapter_number: 130
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thấy nếu không né tránh, lòng bàn tay hắn sẽ bị chém đứt.
+Dù là võ giả hậu thiên nội cảnh, hắn cũng vẫn là thân xác bằng thịt, không thể chịu nổi đao chém và...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -110,8 +112,7 @@ Và… tuyệt vọng.
 
 **Thông tin chương:**
 - Số chương: 130
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-130](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-130)
-- Thời gian scrape: 2026-01-17 10:13:50
+- Thời gian cập nhật: 2026-01-17 10:13:50
 
 <div class="chapter-nav">
     <a href="chuong_129.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_131.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 28: Lời mời học y
 chapter_number: 28
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cuối cùng, Lão Triệu được hai người con trai dìu đi, giữa tiếng mắng nhiếc rối rít của vợ.
+Trần lão đã châm cứu và kê thuốc, sắc mặt Lão Triệu lúc rời đi cũn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -122,8 +124,7 @@ hắn càng chắc rằng ông không đơn giản chỉ là một thầy thuố
 
 **Thông tin chương:**
 - Số chương: 28
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-28](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-28)
-- Thời gian scrape: 2026-01-17 10:08:44
+- Thời gian cập nhật: 2026-01-17 10:08:44
 
 <div class="chapter-nav">
     <a href="chuong_27.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_29.html" class="nav-btn">Chương sau →</a>

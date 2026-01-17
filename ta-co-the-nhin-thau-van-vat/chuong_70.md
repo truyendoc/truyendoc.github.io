@@ -4,6 +4,9 @@ title: Chương 70: Dấu hiệu đột phá
 chapter_number: 70
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh và Trần lão y đứng trước tiểu viện Bán Sơn, lặng lẽ nhìn đoàn người nhà họ Ngụy dần khuất bóng dưới chân núi.
+Một lúc sau, Lục Thanh nói:
+“Thưa sư ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -96,8 +99,7 @@ Lục Thanh cảm nhận rõ ràng — cơ hội đột phá đã đến.
 
 **Thông tin chương:**
 - Số chương: 70
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-70](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-70)
-- Thời gian scrape: 2026-01-17 10:10:41
+- Thời gian cập nhật: 2026-01-17 10:10:41
 
 <div class="chapter-nav">
     <a href="chuong_69.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_71.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 349: Con Đường Gian Nan
 chapter_number: 349
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư huynh, vậy nghĩa là cơ duyên đầu tiên sau biến động thiên địa sẽ không liên quan đến chúng ta sao?”
+Lão giả tóc đen râu đen có chút không cam lòng.
+“Đúng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,8 +82,7 @@ Tiểu nha đầu chỉ khẽ cười, nhưng rõ ràng vô cùng vui vẻ.
 
 **Thông tin chương:**
 - Số chương: 349
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-349](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-349)
-- Thời gian scrape: 2026-01-17 10:23:30
+- Thời gian cập nhật: 2026-01-17 10:23:30
 
 <div class="chapter-nav">
     <a href="chuong_348.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_350.html" class="nav-btn">Chương sau →</a>

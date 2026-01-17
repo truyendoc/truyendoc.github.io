@@ -4,6 +4,9 @@ title: Chương 301: Tiêu diệt
 chapter_number: 301
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trưởng lão?!”
+Biến cố xảy ra đột ngột, không ai kịp phản ứng.
+Không ai ngờ lão giả áo xám, người từ nãy đến giờ vẫn đứng quan sát, lại bất ngờ quay đầu bỏ c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -101,8 +104,7 @@ Không đầu, thân thể bị chém nát, vô cùng thảm khốc.
 
 **Thông tin chương:**
 - Số chương: 301
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-301](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-301)
-- Thời gian scrape: 2026-01-17 10:21:28
+- Thời gian cập nhật: 2026-01-17 10:21:28
 
 <div class="chapter-nav">
     <a href="chuong_300.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_302.html" class="nav-btn">Chương sau →</a>

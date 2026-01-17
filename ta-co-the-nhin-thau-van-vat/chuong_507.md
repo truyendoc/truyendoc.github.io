@@ -4,6 +4,8 @@ title: Chương 507
 chapter_number: 507
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhìn thấy hình thái mà Viêm biến hóa ra, Ôn Dịch Lão Quỷ lập tức hiểu ra mình đã rơi vào bẫy của pháp Khí này.
+Trong khoảnh khắc đó, gan hắn run lên từng hồi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -132,8 +134,7 @@ Lục Thanh nhận lấy hồ lô, lúc này nó đã không còn cao bằng n�
 
 **Thông tin chương:**
 - Số chương: 507
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-507](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-507)
-- Thời gian scrape: 2026-01-17 10:31:17
+- Thời gian cập nhật: 2026-01-17 10:31:17
 
 <div class="chapter-nav">
     <a href="chuong_506.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_508.html" class="nav-btn">Chương sau →</a>

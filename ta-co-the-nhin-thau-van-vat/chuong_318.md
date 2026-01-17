@@ -4,6 +4,10 @@ title: Chương 318: Sơn tặc, đồ sát
 chapter_number: 318
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Xảy ra chuyện gì vậy?”
+Nghe động tĩnh bên ngoài, đám người trong Miếu sơn thần đang ăn dở đều sững sờ.
+“Đại ca, sao trước miếu lại có xe ngựa?”
+Một giọng nó...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -85,8 +89,7 @@ Tất cả đều giương cung, nắm phi tiêu, ám khí, nhắm thẳng vào 
 
 **Thông tin chương:**
 - Số chương: 318
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-318](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-318)
-- Thời gian scrape: 2026-01-17 10:22:12
+- Thời gian cập nhật: 2026-01-17 10:22:12
 
 <div class="chapter-nav">
     <a href="chuong_317.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_319.html" class="nav-btn">Chương sau →</a>

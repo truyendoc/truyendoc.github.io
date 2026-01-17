@@ -4,6 +4,9 @@ title: Chương 123: Mũi tên (2)
 chapter_number: 123
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mã Cố lập tức đưa ra quyết định.
+Hắn vung đao gạt lệch một mũi tên, rồi lăn một vòng như lăn lừa, tránh hai mũi còn lại.
+Trong lúc lăn, hắn xoay cổ tay, phón...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,8 +83,7 @@ Sau hai lần, cơ thể sẽ rơi vào trạng thái suy yếu, sức mạnh th
 
 **Thông tin chương:**
 - Số chương: 123
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-123](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-123)
-- Thời gian scrape: 2026-01-17 10:13:31
+- Thời gian cập nhật: 2026-01-17 10:13:31
 
 <div class="chapter-nav">
     <a href="chuong_122.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_124.html" class="nav-btn">Chương sau →</a>

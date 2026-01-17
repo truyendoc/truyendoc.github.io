@@ -4,6 +4,9 @@ title: Chương 243: Trọng thương
 chapter_number: 243
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cái gì?!
+Kẻ ẩn núp trên cây chấn động dữ dội.
+Hắn hoàn toàn không ngờ có người lại đột ngột xuất hiện dưới gốc cây nơi mình ẩn thân, thậm chí còn nói trúng v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,8 +82,7 @@ Lưỡi đoản đao của hắn được tẩm độc chí mạng. Chỉ cần 
 
 **Thông tin chương:**
 - Số chương: 243
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-243](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-243)
-- Thời gian scrape: 2026-01-17 10:19:02
+- Thời gian cập nhật: 2026-01-17 10:19:02
 
 <div class="chapter-nav">
     <a href="chuong_242.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_244.html" class="nav-btn">Chương sau →</a>

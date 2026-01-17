@@ -4,6 +4,8 @@ title: Chương 524: Khai Linh
 chapter_number: 524
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh dùng thủ đoạn của tu sĩ để tuyển chọn lúa giống.
+Cảnh tượng thần diệu như vậy, thôn dân chưa từng thấy qua, ai nấy đều trợn tròn mắt, kinh ngạc khô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -78,8 +80,7 @@ Hắn cũng hiểu phần nào tính cách quái gở, cứng đầu của lão 
 
 **Thông tin chương:**
 - Số chương: 524
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-524](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-524)
-- Thời gian scrape: 2026-01-17 10:32:07
+- Thời gian cập nhật: 2026-01-17 10:32:07
 
 <div class="chapter-nav">
     <a href="chuong_523.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="#" class="nav-btn disabled">Chương sau →</a>

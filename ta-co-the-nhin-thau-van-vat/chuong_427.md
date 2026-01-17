@@ -4,6 +4,9 @@ title: Chương 427: Luyện hoá Nguyên khí
 chapter_number: 427
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Sư phụ lại đột phá tu vi rồi.”
+Lục Thanh cảm nhận được biến đổi trong khí tức của Trần lão y, trong lòng không khỏi vui mừng.
+Không lâu sau, Trần lão y mở ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -74,8 +77,7 @@ Nếu không nhờ Tâm Hộ Kính cấp Thần Binh mà hắn vô tình có đ�
 
 **Thông tin chương:**
 - Số chương: 427
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-427](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-427)
-- Thời gian scrape: 2026-01-17 10:27:19
+- Thời gian cập nhật: 2026-01-17 10:27:19
 
 <div class="chapter-nav">
     <a href="chuong_426.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_428.html" class="nav-btn">Chương sau →</a>

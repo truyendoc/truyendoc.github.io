@@ -4,6 +4,9 @@ title: Chương 169: Nhập môn phù đạo
 chapter_number: 169
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cảm nhận luồng sức mạnh khổng lồ đang tiềm ẩn trong cơ thể, Lục Thanh khẽ gật đầu, ánh mắt thoáng hiện vẻ hài lòng.
+Viên mãn cảnh giới hậu thiên Cốt cảnh
+Đó ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -72,8 +75,7 @@ Nhìn cảnh chim hót hoa thơm giữa thung lũng, trong lòng Lục Thanh kh�
 
 **Thông tin chương:**
 - Số chương: 169
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-169](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-169)
-- Thời gian scrape: 2026-01-17 10:15:41
+- Thời gian cập nhật: 2026-01-17 10:15:41
 
 <div class="chapter-nav">
     <a href="chuong_168.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_170.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 467
 chapter_number: 467
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh nhìn sang, phát hiện cách đó không xa có một nhóm người tụ lại trò chuyện phiếm.
+Từ trang phục có thể thấy, bọn họ đều là thương nhân lữ hành.
+Hắn ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,8 +85,7 @@ Lục Thanh chậm rãi giải thích.
 
 **Thông tin chương:**
 - Số chương: 467
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-467](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-467)
-- Thời gian scrape: 2026-01-17 10:29:19
+- Thời gian cập nhật: 2026-01-17 10:29:19
 
 <div class="chapter-nav">
     <a href="chuong_466.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_468.html" class="nav-btn">Chương sau →</a>

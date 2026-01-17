@@ -4,6 +4,9 @@ title: Chương 170: Thần hồn chi lực
 chapter_number: 170
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Từ khi rời khỏi thung lũng lần trước, đây là lần đầu tiên Lục Thanh quay lại.
+Khi rời đi, hắn vẫn còn là võ giả cảnh Khí Huyết.
+Giờ trở về, hắn đã đạt đến đạ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,8 +85,7 @@ Hiện tại, Lục Thanh cuối cùng đã có đủ tư cách để bắt đ�
 
 **Thông tin chương:**
 - Số chương: 170
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-170](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-170)
-- Thời gian scrape: 2026-01-17 10:15:43
+- Thời gian cập nhật: 2026-01-17 10:15:43
 
 <div class="chapter-nav">
     <a href="chuong_169.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_171.html" class="nav-btn">Chương sau →</a>

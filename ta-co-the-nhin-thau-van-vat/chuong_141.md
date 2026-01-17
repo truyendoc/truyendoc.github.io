@@ -4,6 +4,8 @@ title: Chương 141: Chiến lợi phẩm
 chapter_number: 141
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi an bài ngụy Phu nhân và ngụy Công tử ở chỗ của Mã Cố, Lục Thanh rời đi.
+Việc cần làm đã hoàn tất, cậu không còn gì để hỗ trợ thêm. Chỉ cần hai mẹ con...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -61,8 +63,7 @@ Tiếc là cậu đã chém hỏng mất, vội quá cũng không tiện lột c
 
 **Thông tin chương:**
 - Số chương: 141
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-141](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-141)
-- Thời gian scrape: 2026-01-17 10:14:23
+- Thời gian cập nhật: 2026-01-17 10:14:23
 
 <div class="chapter-nav">
     <a href="chuong_140.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_142.html" class="nav-btn">Chương sau →</a>

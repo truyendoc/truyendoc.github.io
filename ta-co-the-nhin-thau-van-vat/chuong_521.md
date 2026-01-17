@@ -4,6 +4,9 @@ title: Chương 521: Linh Cốc
 chapter_number: 521
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trước cổng Phủ thành Cang Châu.
+Vài bóng người ăn mặc giản dị nhưng dáng đứng thẳng tắp, trên người toát ra khí tức âm u lạnh lẽo.
+“Phủ Thương huyện, theo ti...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,8 +98,7 @@ Ta thấy ngươi dường như đang xây dựng căn cơ cho Tiểu Nhan, linh
 
 **Thông tin chương:**
 - Số chương: 521
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-521](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-521)
-- Thời gian scrape: 2026-01-17 10:31:59
+- Thời gian cập nhật: 2026-01-17 10:31:59
 
 <div class="chapter-nav">
     <a href="chuong_520.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_522.html" class="nav-btn">Chương sau →</a>

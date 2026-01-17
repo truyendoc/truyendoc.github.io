@@ -4,6 +4,8 @@ title: Chương 297: Suy đoán sai lệch
 chapter_number: 297
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tại sao lại không suy diễn ra được?”
+Dung mạo bù xù, ánh mắt điên loạn nhìn chằm chằm những viên đá bày trên một pháp trận kỳ dị phía trước, hắn nghiến răng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -73,8 +75,7 @@ Phương Đào ôm quyền, trầm giọng nói:
 
 **Thông tin chương:**
 - Số chương: 297
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-297](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-297)
-- Thời gian scrape: 2026-01-17 10:21:18
+- Thời gian cập nhật: 2026-01-17 10:21:18
 
 <div class="chapter-nav">
     <a href="chuong_296.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_298.html" class="nav-btn">Chương sau →</a>

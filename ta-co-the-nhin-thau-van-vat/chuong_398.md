@@ -4,6 +4,8 @@ title: Chương 398: Bí Địa Vân Thủy
 chapter_number: 398
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nghe lời Lục Thanh nói, mọi người đều ngẩng đầu nhìn lên Thiên Đăng Thang.
+Chỉ thấy Bạch Bất Phàm và những người kia lúc này đã hoàn toàn đổi sang một bộ dạn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -89,8 +91,7 @@ Trong đầu Lục Thanh khẽ rung, nhớ tới lần giao thủ với đệ t�
 
 **Thông tin chương:**
 - Số chương: 398
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-398](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-398)
-- Thời gian scrape: 2026-01-17 10:25:51
+- Thời gian cập nhật: 2026-01-17 10:25:51
 
 <div class="chapter-nav">
     <a href="chuong_397.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_399.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 472
 chapter_number: 472
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Hắn ngẩng đầu nhìn trung niên mặc trường bào đứng trên mái nhà.
+“Bằng hữu, ngươi cũng nghe rồi đó, vị bằng hữu này của ta nói rằng hiện tại không thể thả bọn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -128,8 +130,7 @@ Nhưng ngay giây tiếp theo, khi cảm nhận được phương hướng của
 
 **Thông tin chương:**
 - Số chương: 472
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-472](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-472)
-- Thời gian scrape: 2026-01-17 10:29:33
+- Thời gian cập nhật: 2026-01-17 10:29:33
 
 <div class="chapter-nav">
     <a href="chuong_471.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_473.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,10 @@ title: Chương 35: Nồi sắt
 chapter_number: 35
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong gian bếp nhà họ Lục,
+Lục Thanh đang nhóm lửa, trên bếp là chiếc nồi sắt lớn mới tinh.
+Ban đầu hắn định đợi tối xuống mới lén mang nồi về,
+nhưng nghĩ lạ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -148,8 +152,7 @@ rồi đi thẳng đến nhà Đại An.
 
 **Thông tin chương:**
 - Số chương: 35
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-35](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-35)
-- Thời gian scrape: 2026-01-17 10:09:01
+- Thời gian cập nhật: 2026-01-17 10:09:01
 
 <div class="chapter-nav">
     <a href="chuong_34.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_36.html" class="nav-btn">Chương sau →</a>

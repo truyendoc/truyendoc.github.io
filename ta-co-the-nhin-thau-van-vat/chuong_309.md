@@ -4,6 +4,8 @@ title: Chương 309: Đột phá (2)
 chapter_number: 309
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Biết rằng sắp đối đầu với một đại tông môn, bọn họ chỉ cảm thấy vô cùng hưng phấn.
+Dù sao thì, nếu trời có sập xuống, cũng đã có Lục Thanh và Trần lão y chốn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,8 +100,7 @@ Nhờ vậy, chuyến đi sắp tới của họ tới Vân Châu càng thêm an
 
 **Thông tin chương:**
 - Số chương: 309
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-309](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-309)
-- Thời gian scrape: 2026-01-17 10:21:48
+- Thời gian cập nhật: 2026-01-17 10:21:48
 
 <div class="chapter-nav">
     <a href="chuong_308.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_310.html" class="nav-btn">Chương sau →</a>

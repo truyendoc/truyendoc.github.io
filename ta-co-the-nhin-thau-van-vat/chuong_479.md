@@ -4,6 +4,9 @@ title: Chương 479
 chapter_number: 479
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thành chủ, ngài đang nói gì vậy?”
+Tất cả mọi người đều sững sờ, đồng loạt quay sang nhìn Thanh Long Thành Chủ.
+Họ muốn xem trên gương mặt ông có lộ ra dù ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,8 +96,7 @@ Một khi tiến vào trong thành, không chỉ có khả năng bị phát hi�
 
 **Thông tin chương:**
 - Số chương: 479
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-479](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-479)
-- Thời gian scrape: 2026-01-17 10:29:54
+- Thời gian cập nhật: 2026-01-17 10:29:54
 
 <div class="chapter-nav">
     <a href="chuong_478.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_480.html" class="nav-btn">Chương sau →</a>

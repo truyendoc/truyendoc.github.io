@@ -4,6 +4,8 @@ title: Chương 291: Vô danh đạo quán
 chapter_number: 291
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ, e rằng chúng ta không kịp đến trấn kế tiếp để trú đêm rồi.”
+Lục Thanh và mọi người hoàn toàn không hay biết rằng phía sau bọn họ, một ác ma đã gây ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,8 +101,7 @@ Tiếng ồn ào náo động từ bên ngoài truyền vào.
 
 **Thông tin chương:**
 - Số chương: 291
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-291](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-291)
-- Thời gian scrape: 2026-01-17 10:21:03
+- Thời gian cập nhật: 2026-01-17 10:21:03
 
 <div class="chapter-nav">
     <a href="chuong_290.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_292.html" class="nav-btn">Chương sau →</a>

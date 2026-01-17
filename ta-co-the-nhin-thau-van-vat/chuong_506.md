@@ -4,6 +4,8 @@ title: Chương 506
 chapter_number: 506
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tiểu tử, đây là nơi nào, rốt cuộc ngươi muốn làm gì!”
+Ôn Dịch Lão Quỷ bị sự xuất hiện đột ngột của Lục Thanh dọa cho giật mình, nhất là khi hắn liếc mắt đã ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -89,8 +91,7 @@ Nhưng Ly Hỏa Đỉnh thì danh chấn toàn bộ tu luyện giới, còn Ly H
 
 **Thông tin chương:**
 - Số chương: 506
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-506](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-506)
-- Thời gian scrape: 2026-01-17 10:31:14
+- Thời gian cập nhật: 2026-01-17 10:31:14
 
 <div class="chapter-nav">
     <a href="chuong_505.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_507.html" class="nav-btn">Chương sau →</a>

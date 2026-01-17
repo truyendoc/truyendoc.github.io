@@ -4,6 +4,8 @@ title: Chương 57: Ngụy công tử
 chapter_number: 57
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ban đầu, Lục Thanh vốn định luyện liền một mạch, cố gắng đạt tới Tiểu thành trong “Tứ Phương Đao”.
+Tiếc rằng, thanh mộc đao gãy ngang, khiến cậu có chút tiếc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -126,8 +128,7 @@ công tử họ Ngụy xanh mặt, suýt nôn mửa.
 
 **Thông tin chương:**
 - Số chương: 57
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-57](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-57)
-- Thời gian scrape: 2026-01-17 10:09:55
+- Thời gian cập nhật: 2026-01-17 10:09:55
 
 <div class="chapter-nav">
     <a href="chuong_56.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_58.html" class="nav-btn">Chương sau →</a>

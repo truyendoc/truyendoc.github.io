@@ -4,6 +4,8 @@ title: Chương 408: Sợ hãi và Bức Bách
 chapter_number: 408
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lão hòa thượng, nếu ông dám tiến thêm một bước, có tin ta thật sự sẽ giết ông không?”
+Bàn tay Lục Thanh đặt lên hông, ánh mắt lạnh nhạt nhìn đám tăng nhân H...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -74,8 +76,7 @@ Hắn khẽ thở dài.
 
 **Thông tin chương:**
 - Số chương: 408
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-408](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-408)
-- Thời gian scrape: 2026-01-17 10:26:21
+- Thời gian cập nhật: 2026-01-17 10:26:21
 
 <div class="chapter-nav">
     <a href="chuong_407.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_409.html" class="nav-btn">Chương sau →</a>

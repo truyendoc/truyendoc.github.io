@@ -85,45 +85,8 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    /* Search Functionality */
-    const searchInput = document.getElementById('search-input');
-
-    // Check if we are on Homepage (filtering stories) or Chapter Page (filtering chapters)
-    const storyCards = document.querySelectorAll('.story-card');
-    const chapterItems = document.querySelectorAll('.chapter-item');
-
-    if (searchInput) {
-        searchInput.addEventListener('input', (e) => {
-            const searchTerm = e.target.value.toLowerCase().trim();
-
-            // Filter Stories (Home Page)
-            if (storyCards.length > 0) {
-                storyCards.forEach(card => {
-                    const title = card.querySelector('.story-card-title').textContent.toLowerCase();
-                    if (title.includes(searchTerm)) {
-                        card.style.display = '';
-                        card.classList.remove('hidden');
-                    } else {
-                        card.style.display = 'none';
-                        card.classList.add('hidden');
-                    }
-                });
-            }
-
-            // Filter Chapters (TOC Page)
-            if (chapterItems.length > 0) {
-                chapterItems.forEach(item => {
-                    const text = item.textContent.toLowerCase();
-                    // Match number or title
-                    if (text.includes(searchTerm)) {
-                        item.classList.remove('hidden');
-                    } else {
-                        item.classList.add('hidden');
-                    }
-                });
-            }
-        });
-    }
+    /* Search Functionality Removed */
+    // const searchInput = document.getElementById('search-input'); ...
 
     // --- Actions ---
 

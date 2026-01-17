@@ -4,6 +4,8 @@ title: Chương 99: Uống địa mạch linh dịch
 chapter_number: 99
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhìn thấy Tiểu Ly biến mất ngay trước mắt, Lục Thanh kinh ngạc tột độ.
+Không chỉ thân thể nó hoàn toàn ẩn đi — mà khí huyết của nó cũng biến mất sạch sẽ, như...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -87,8 +89,7 @@ Vậy mà giờ đây, cơ thể hắn lại cần ba giọt Địa Mạch Linh 
 
 **Thông tin chương:**
 - Số chương: 99
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-99](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-99)
-- Thời gian scrape: 2026-01-17 10:12:21
+- Thời gian cập nhật: 2026-01-17 10:12:21
 
 <div class="chapter-nav">
     <a href="chuong_98.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_100.html" class="nav-btn">Chương sau →</a>

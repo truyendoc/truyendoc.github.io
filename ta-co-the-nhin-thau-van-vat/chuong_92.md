@@ -4,6 +4,9 @@ title: Chương 92: Thung lũng
 chapter_number: 92
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Một nơi đặc biệt sao?”
+Tiểu Ly nghiêng đầu, đôi mắt ngơ ngác nhìn Lục Thanh, rõ ràng không hiểu hắn đang nói gì.
+Thấy vậy, Lục Thanh suy nghĩ một chút rồi g...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -115,8 +118,7 @@ Và khi Lục Thanh nhìn thấy cảnh tượng trước mắt, hắn sững s�
 
 **Thông tin chương:**
 - Số chương: 92
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-92](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-92)
-- Thời gian scrape: 2026-01-17 10:12:00
+- Thời gian cập nhật: 2026-01-17 10:12:00
 
 <div class="chapter-nav">
     <a href="chuong_91.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_93.html" class="nav-btn">Chương sau →</a>

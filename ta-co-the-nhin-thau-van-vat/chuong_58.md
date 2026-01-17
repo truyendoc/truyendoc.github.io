@@ -4,6 +4,8 @@ title: Chương 58: Qúy tộc trong thành
 chapter_number: 58
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Mã gia, kia là cái gì vậy? Thứ thịt hèn hạ như thế cũng có thể để người ăn sao?!”
+Công tử trẻ tuổi ăn mặc sang trọng trắng bệch cả mặt, chỉ tay về phía sạp ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -115,8 +117,7 @@ Trong lòng Mã gia, sóng gió cuồn cuộn dâng lên.
 
 **Thông tin chương:**
 - Số chương: 58
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-58](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-58)
-- Thời gian scrape: 2026-01-17 10:09:58
+- Thời gian cập nhật: 2026-01-17 10:09:58
 
 <div class="chapter-nav">
     <a href="chuong_57.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_59.html" class="nav-btn">Chương sau →</a>

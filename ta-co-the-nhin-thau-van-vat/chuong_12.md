@@ -4,6 +4,8 @@ title: Chương 12: Bánh củ mài và sợi dây bền chắc
 chapter_number: 12
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh tỉnh dậy sau giấc ngủ sâu, âm thanh đầu tiên hắn nghe được là tiếng cười vui vẻ của Tiểu Nhan.
+Hắn nhìn xuống người mình — những cây kim bạc đã...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -127,8 +129,7 @@ dùng làm dây câu được không.”
 
 **Thông tin chương:**
 - Số chương: 12
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-12](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-12)
-- Thời gian scrape: 2026-01-17 10:08:03
+- Thời gian cập nhật: 2026-01-17 10:08:03
 
 <div class="chapter-nav">
     <a href="chuong_11.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_13.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 29: Cơ hội học y chính thức
 chapter_number: 29
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Hả?”
+Lục Thanh nhìn Trần lão đầy kinh ngạc, trong lòng còn hoài nghi không biết mình có nghe nhầm không.
+“Trần lão, người vừa nói… muốn thu con làm đệ tử họ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -122,8 +125,7 @@ bỗng có người kêu lên:
 
 **Thông tin chương:**
 - Số chương: 29
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-29](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-29)
-- Thời gian scrape: 2026-01-17 10:08:46
+- Thời gian cập nhật: 2026-01-17 10:08:46
 
 <div class="chapter-nav">
     <a href="chuong_28.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_30.html" class="nav-btn">Chương sau →</a>

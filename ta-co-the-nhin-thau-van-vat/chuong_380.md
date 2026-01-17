@@ -4,6 +4,9 @@ title: Chương 380: Thiên địa đạo âm tái hiện
 chapter_number: 380
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đây là…”
+“Thiên Địa Đạo Âm?”
+Khi Lục Thanh và Trần lão y đang định nghiên cứu huyết độc, cả hai liền cảm nhận được dao động to lớn giữa thiên địa. Ban đầu h...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -87,8 +90,7 @@ Khi Thần hồn Phù triển khai uy năng, một luồng dao động Nguyên T
 
 **Thông tin chương:**
 - Số chương: 380
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-380](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-380)
-- Thời gian scrape: 2026-01-17 10:24:59
+- Thời gian cập nhật: 2026-01-17 10:24:59
 
 <div class="chapter-nav">
     <a href="chuong_379.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_381.html" class="nav-btn">Chương sau →</a>

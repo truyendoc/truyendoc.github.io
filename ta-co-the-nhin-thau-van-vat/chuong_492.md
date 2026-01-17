@@ -4,6 +4,9 @@ title: Chương 492
 chapter_number: 492
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thương huyện, cuối cùng chúng ta cũng về rồi.”
+Trước cổng thành Thương huyện, Mã Cố và Ngụy Tử An nhìn về phía trước, trên mặt tràn đầy vẻ phấn chấn.
+Dọc đư...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,8 +85,7 @@ Chỉ thấy mẫu thân hắn lại đi thẳng qua hắn, tiến tới ôm ch�
 
 **Thông tin chương:**
 - Số chương: 492
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-492](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-492)
-- Thời gian scrape: 2026-01-17 10:30:33
+- Thời gian cập nhật: 2026-01-17 10:30:33
 
 <div class="chapter-nav">
     <a href="chuong_491.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_493.html" class="nav-btn">Chương sau →</a>

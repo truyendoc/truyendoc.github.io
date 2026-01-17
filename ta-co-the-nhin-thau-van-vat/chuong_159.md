@@ -4,6 +4,8 @@ title: Chương 159: Lục thanh ra tay (2)
 chapter_number: 159
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không ngờ rằng phục kích thiếu niên này chẳng những thất bại, mà còn khiến chính phi tiêu của mình phản phệ, lấy mạng bản thân.
+Một chiêu nhẹ như không, lại ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,8 +95,7 @@ Trước ngực, một lỗ thủng toang hoác — xuyên suốt từ trước 
 
 **Thông tin chương:**
 - Số chương: 159
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-159](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-159)
-- Thời gian scrape: 2026-01-17 10:15:15
+- Thời gian cập nhật: 2026-01-17 10:15:15
 
 <div class="chapter-nav">
     <a href="chuong_158.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_160.html" class="nav-btn">Chương sau →</a>

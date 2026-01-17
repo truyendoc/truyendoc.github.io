@@ -4,6 +4,8 @@ title: Chương 72: Hắc lang bang
 chapter_number: 72
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Bảy tám tên đại hán lực lưỡng kia, đối mặt với đám dân làng Cửu Lý đang phẫn nộ sục sôi, vẫn ung dung như không, thần sắc nhàn nhã, chẳng thèm coi ai ra gì.
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -92,8 +94,7 @@ người vừa xuất hiện, chính là Lục Thanh.
 
 **Thông tin chương:**
 - Số chương: 72
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-72](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-72)
-- Thời gian scrape: 2026-01-17 10:11:07
+- Thời gian cập nhật: 2026-01-17 10:11:07
 
 <div class="chapter-nav">
     <a href="chuong_71.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_73.html" class="nav-btn">Chương sau →</a>

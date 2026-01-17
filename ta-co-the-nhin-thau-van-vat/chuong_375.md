@@ -4,6 +4,8 @@ title: Chương 375: Cứu người
 chapter_number: 375
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cuối cùng, khi Hồ Trạch Chi bước vào quán trọ nơi nàng dự định ở lại, trong đầu nàng vẫn còn hỗn loạn.
+Còn Lục Thanh thì đã chọn phòng, sắp xếp hành lý xong ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -72,8 +74,7 @@ Thiếu niên cất giọng bình thản:
 
 **Thông tin chương:**
 - Số chương: 375
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-375](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-375)
-- Thời gian scrape: 2026-01-17 10:24:44
+- Thời gian cập nhật: 2026-01-17 10:24:44
 
 <div class="chapter-nav">
     <a href="chuong_374.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_376.html" class="nav-btn">Chương sau →</a>

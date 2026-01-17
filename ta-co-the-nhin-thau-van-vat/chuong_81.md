@@ -4,6 +4,9 @@ title: Chương 81: Thảm sát
 chapter_number: 81
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh đuổi theo Sói Móc Tim xuyên qua màn đêm.
+Phía sau, đám con bạc còn sống sót trong tòa lầu gỗ vừa run vừa bò dậy.
+Nhìn những thi thể không đầu và dò...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,8 +112,7 @@ bởi họ nhận ra: Lục Thanh đã biến thành một cơn bão máu thực
 
 **Thông tin chương:**
 - Số chương: 81
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-81](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-81)
-- Thời gian scrape: 2026-01-17 10:11:31
+- Thời gian cập nhật: 2026-01-17 10:11:31
 
 <div class="chapter-nav">
     <a href="chuong_80.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_82.html" class="nav-btn">Chương sau →</a>

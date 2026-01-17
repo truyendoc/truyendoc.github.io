@@ -4,6 +4,10 @@ title: Chương 445: Kết Cục Đã Định
 chapter_number: 445
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đã phân thắng bại rồi sao?”
+“Ai thắng?”
+Thấy một bóng người bị đánh bay ra ngoài, đâm sập một căn nhà, tất cả mọi người đều hít vào một ngụm khí lạnh.
+Đáng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,8 +90,7 @@ Bất kể hắn dựa vào bí pháp hay thủ đoạn nào, chỉ riêng chi�
 
 **Thông tin chương:**
 - Số chương: 445
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-445](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-445)
-- Thời gian scrape: 2026-01-17 10:28:11
+- Thời gian cập nhật: 2026-01-17 10:28:11
 
 <div class="chapter-nav">
     <a href="chuong_444.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_446.html" class="nav-btn">Chương sau →</a>

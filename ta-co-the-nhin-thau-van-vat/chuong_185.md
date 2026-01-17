@@ -4,6 +4,8 @@ title: Chương 185: Khởi hành
 chapter_number: 185
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lục công tử , rốt cuộc đã xảy ra chuyện gì vậy? Giờ có thể nói cho chúng tôi biết rồi chứ?”
+Trong rừng, Lục Thanh đang cõng Ngụy phu nhân, gương mặt thoáng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,8 +82,7 @@ Nàng cúi xuống, bế cô bé lên, dịu dàng hỏi:
 
 **Thông tin chương:**
 - Số chương: 185
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-185](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-185)
-- Thời gian scrape: 2026-01-17 10:16:24
+- Thời gian cập nhật: 2026-01-17 10:16:24
 
 <div class="chapter-nav">
     <a href="chuong_184.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_186.html" class="nav-btn">Chương sau →</a>

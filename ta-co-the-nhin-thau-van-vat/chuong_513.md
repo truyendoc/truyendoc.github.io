@@ -4,6 +4,7 @@ title: Chương 513: Hồ Lô Ngũ Hành (2)
 chapter_number: 513
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chỉ là tu vi Luyện Khí cảnh, vậy mà không những nắm giữ hai kiện pháp Khí, nay còn tự tay luyện chế thành công một kiện pháp bảo bản mệnh có tiềm lực thăng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,8 +96,7 @@ Nhiều nhất, chỉ khoảng hai ba người mà thôi.” Nghe đến đây, 
 
 **Thông tin chương:**
 - Số chương: 513
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-513](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-513)
-- Thời gian scrape: 2026-01-17 10:31:35
+- Thời gian cập nhật: 2026-01-17 10:31:35
 
 <div class="chapter-nav">
     <a href="chuong_512.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_514.html" class="nav-btn">Chương sau →</a>

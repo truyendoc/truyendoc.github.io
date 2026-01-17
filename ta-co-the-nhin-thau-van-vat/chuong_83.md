@@ -4,6 +4,9 @@ title: Chương 83: Nội tâm sáng rõ
 chapter_number: 83
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh đeo thanh chiến đao sau lưng, lặng lẽ bước giữa núi rừng.
+Tiểu Ly yên lặng đứng trên vai cậu, đôi mắt vàng khẽ lóe sáng trong ánh trăng.
+Trong trận...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -139,8 +142,7 @@ Cậu nhẹ nhàng tháo nó xuống, đặt lại dưới tấm đá nhỏ, r�
 
 **Thông tin chương:**
 - Số chương: 83
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-83](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-83)
-- Thời gian scrape: 2026-01-17 10:11:36
+- Thời gian cập nhật: 2026-01-17 10:11:36
 
 <div class="chapter-nav">
     <a href="chuong_82.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_84.html" class="nav-btn">Chương sau →</a>

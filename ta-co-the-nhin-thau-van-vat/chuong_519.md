@@ -4,6 +4,8 @@ title: Chương 519: Dã Tâm Của Mã Cố (2)
 chapter_number: 519
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ta cũng không rõ hắn đã lấy đâu ra nhiều Ngoại Thiên Tinh Thiết như vậy,” Viêm khẽ thở dài.
+Con đường tu hành vốn không hề dễ dàng, đầy rẫy gian nan và hiểm...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -115,8 +117,7 @@ So với điều đó, chuyện nam nữ tầm thường, thì có đáng là g�
 
 **Thông tin chương:**
 - Số chương: 519
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-519](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-519)
-- Thời gian scrape: 2026-01-17 10:31:53
+- Thời gian cập nhật: 2026-01-17 10:31:53
 
 <div class="chapter-nav">
     <a href="chuong_518.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_520.html" class="nav-btn">Chương sau →</a>

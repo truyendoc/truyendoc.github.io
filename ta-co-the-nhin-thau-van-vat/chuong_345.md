@@ -4,6 +4,9 @@ title: Chương 345: Thu hoạch lớn, lại lên đường
 chapter_number: 345
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh bước ra khỏi Tàng Bảo Các, trên mặt hắn nở một nụ cười nhạt.
+Thu hoạch lần này quả thực quá mức phong phú.
+Hầu như toàn bộ tích lũy mấy trăm nă...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -77,8 +80,7 @@ Trần Lão y cất bước về phía cỗ xe.
 
 **Thông tin chương:**
 - Số chương: 345
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-345](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-345)
-- Thời gian scrape: 2026-01-17 10:23:20
+- Thời gian cập nhật: 2026-01-17 10:23:20
 
 <div class="chapter-nav">
     <a href="chuong_344.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_346.html" class="nav-btn">Chương sau →</a>

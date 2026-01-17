@@ -4,6 +4,9 @@ title: Chương 215: Thiên Ngoại Tinh Thiết
 chapter_number: 215
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chẳng lẽ đây là Thiên Ngoại Tinh Thiết?”
+Lục Thanh vô cùng phấn khích.
+Trong truyền thừa của Ly Hỏa Tông, loại linh tài hiếm có này từng được nhắc đến và tô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -104,8 +107,7 @@ Rồi ánh mắt chuyển sang Lục Thanh:
 
 **Thông tin chương:**
 - Số chương: 215
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-215](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-215)
-- Thời gian scrape: 2026-01-17 10:17:41
+- Thời gian cập nhật: 2026-01-17 10:17:41
 
 <div class="chapter-nav">
     <a href="chuong_214.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_216.html" class="nav-btn">Chương sau →</a>

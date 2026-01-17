@@ -4,6 +4,8 @@ title: Chương 176: Căn nguyên
 chapter_number: 176
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mọi người trong ngụy phủ đều nhìn về hướng đó.
+Dưới ánh mắt của bao người, một bóng người từ mái hiên bò xuống, đáp nhẹ xuống đất rồi đứng thẳng, dáng vẻ ung...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -73,8 +75,7 @@ Từ đó, hai người ngày càng bất đồng trong cách đối nhân xử 
 
 **Thông tin chương:**
 - Số chương: 176
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-176](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-176)
-- Thời gian scrape: 2026-01-17 10:16:00
+- Thời gian cập nhật: 2026-01-17 10:16:00
 
 <div class="chapter-nav">
     <a href="chuong_175.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_177.html" class="nav-btn">Chương sau →</a>

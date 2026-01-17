@@ -4,6 +4,8 @@ title: Chương 491
 chapter_number: 491
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nếu không, hắn thật sự khó mà tin nổi, chỉ dựa vào một tên tiểu bối như Lục Thanh, lại có thể nhìn thấu đến tận gốc rễ của mình,
+còn biết rõ thân phận và lai...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -112,8 +114,7 @@ Nhưng trong ánh mắt hắn lại thoáng hiện một tia tà khí.
 
 **Thông tin chương:**
 - Số chương: 491
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-491](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-491)
-- Thời gian scrape: 2026-01-17 10:30:30
+- Thời gian cập nhật: 2026-01-17 10:30:30
 
 <div class="chapter-nav">
     <a href="chuong_490.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_492.html" class="nav-btn">Chương sau →</a>

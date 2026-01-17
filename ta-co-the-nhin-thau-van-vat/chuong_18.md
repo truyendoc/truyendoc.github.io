@@ -4,6 +4,9 @@ title: Chương 18: Cá chép Huyết Nguyệt
 chapter_number: 18
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cú giật mạnh đến bất ngờ khiến Lục Thanh suýt đánh rơi cần.
+May mà nhiều năm kinh nghiệm giúp hắn phản ứng kịp:
+trong nháy mắt, hai tay đã siết chặt cần, thâ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -129,8 +132,7 @@ nhìn theo bóng dáng lớn – nhỏ khuất dần trong ánh chiều.
 
 **Thông tin chương:**
 - Số chương: 18
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-18](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-18)
-- Thời gian scrape: 2026-01-17 10:08:19
+- Thời gian cập nhật: 2026-01-17 10:08:19
 
 <div class="chapter-nav">
     <a href="chuong_17.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_19.html" class="nav-btn">Chương sau →</a>

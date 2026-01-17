@@ -4,6 +4,9 @@ title: Chương 149: Tiên thiên (3)
 chapter_number: 149
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thời gian trôi qua từng khắc một, Lục Thanh lặng lẽ ghi nhớ.
+Rồi dần dần, miệng hắn khẽ há ra.
+Bởi vì hắn phát hiện — sự chuyển hóa của Trần lão y đã kéo dài...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -60,8 +63,7 @@ Tiên Thiên… quả nhiên khác biệt hoàn toàn.
 
 **Thông tin chương:**
 - Số chương: 149
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-149](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-149)
-- Thời gian scrape: 2026-01-17 10:14:46
+- Thời gian cập nhật: 2026-01-17 10:14:46
 
 <div class="chapter-nav">
     <a href="chuong_148.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_150.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 53: Luyện thành Đan
 chapter_number: 53
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi đến Tiểu viện Bán Sơn,
+Lục Thanh không thấy cảnh sư phụ đang luyện quyền ngoài sân như thường lệ.
+Cậu bước lại gần, nhìn vào trong nhà, thấy cửa phòng lu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -107,8 +110,7 @@ Nghe vậy, tim Lục Thanh khẽ chấn động.
 
 **Thông tin chương:**
 - Số chương: 53
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-53](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-53)
-- Thời gian scrape: 2026-01-17 10:09:46
+- Thời gian cập nhật: 2026-01-17 10:09:46
 
 <div class="chapter-nav">
     <a href="chuong_52.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_54.html" class="nav-btn">Chương sau →</a>

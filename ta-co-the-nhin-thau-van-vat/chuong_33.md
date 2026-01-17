@@ -4,6 +4,9 @@ title: Chương 33: Không biết
 chapter_number: 33
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đêm đó, Lục Thanh cuối cùng cũng được một giấc ngủ yên lành.
+Sáng hôm sau, sau khi ăn sáng, hắn dắt Tiểu Nhan ra sông câu cá.
+Lần này, hắn nhận ra người đến ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -143,8 +146,7 @@ Trần lão nhìn qua liền mỉm cười hài lòng:
 
 **Thông tin chương:**
 - Số chương: 33
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-33](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-33)
-- Thời gian scrape: 2026-01-17 10:08:56
+- Thời gian cập nhật: 2026-01-17 10:08:56
 
 <div class="chapter-nav">
     <a href="chuong_32.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_34.html" class="nav-btn">Chương sau →</a>

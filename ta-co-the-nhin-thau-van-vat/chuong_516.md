@@ -4,6 +4,8 @@ title: Chương 516: Thiên Tượng Dị Biến
 chapter_number: 516
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Viêm,” lúc trước tiền bối nói phụ thân của tiểu Ly rất có thể là Dạ Vương?” “Đúng vậy.
+Thời kỳ Thượng cổ Tu Tiên, tuy nhân tộc tu sĩ cực kỳ cường thịnh, như...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -66,8 +68,7 @@ Giờ đây, Ngụy gia coi trọng mọi yêu cầu của Lục Thanh đến c�
 
 **Thông tin chương:**
 - Số chương: 516
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-516](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-516)
-- Thời gian scrape: 2026-01-17 10:31:43
+- Thời gian cập nhật: 2026-01-17 10:31:43
 
 <div class="chapter-nav">
     <a href="chuong_515.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_517.html" class="nav-btn">Chương sau →</a>

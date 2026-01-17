@@ -4,6 +4,9 @@ title: Chương 419: Sóng ngầm dâng lên , Đại đạo vang vọng (2)
 chapter_number: 419
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thực ra, để những kẻ điên đó gây chút phong ba bên ngoài cũng tốt.
+Lần này các người ra ngoài, hẳn đã tự mình thấy rõ cảnh thái bình kéo dài quá lâu.
+Chúng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -124,8 +127,7 @@ Cùng lúc ấy, trên bầu trời cao, một dao động vũ trụ khổng l�
 
 **Thông tin chương:**
 - Số chương: 419
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-419](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-419)
-- Thời gian scrape: 2026-01-17 10:26:55
+- Thời gian cập nhật: 2026-01-17 10:26:55
 
 <div class="chapter-nav">
     <a href="chuong_418.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_420.html" class="nav-btn">Chương sau →</a>

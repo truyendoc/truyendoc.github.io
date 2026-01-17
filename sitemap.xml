@@ -6,6 +6,12 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>https://your-site-url.github.io/truyen/dinh-luyen-than-ma/</loc>
+        <lastmod>2026-01-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://your-site-url.github.io/truyen/ta-co-the-nhin-thau-van-vat/</loc>
         <lastmod>2026-01-17</lastmod>
         <changefreq>weekly</changefreq>

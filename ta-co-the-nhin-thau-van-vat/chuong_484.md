@@ -4,6 +4,9 @@ title: Chương 484
 chapter_number: 484
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Chẳng lẽ là bí mật do lò đỉnh bên dưới truyền tới?
+“Nếu không muốn người khác biết, thì đừng có làm. Trên đời này không có bức tường nào là không lọt gió.
+Tề...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,8 +96,7 @@ Chỉ riêng việc ngay cả Hồ Lô Dịch Chướng cũng phải cảnh giá
 
 **Thông tin chương:**
 - Số chương: 484
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-484](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-484)
-- Thời gian scrape: 2026-01-17 10:30:10
+- Thời gian cập nhật: 2026-01-17 10:30:10
 
 <div class="chapter-nav">
     <a href="chuong_483.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_485.html" class="nav-btn">Chương sau →</a>

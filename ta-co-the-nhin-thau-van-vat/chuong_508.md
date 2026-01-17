@@ -4,6 +4,8 @@ title: Chương 508
 chapter_number: 508
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Viêm” đối với Hồ Lô Ôn Dịch vẫn mang theo vài phần tò mò.
+Theo lẽ thường, một Hạ Phẩm Pháp Khí đã tổn hại nặng nề, lại còn chưa nhận chủ, tuyệt đối không t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -90,8 +92,7 @@ lại càng không hiểu được sự huyền diệu chân chính của Hỗn 
 
 **Thông tin chương:**
 - Số chương: 508
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-508](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-508)
-- Thời gian scrape: 2026-01-17 10:31:20
+- Thời gian cập nhật: 2026-01-17 10:31:20
 
 <div class="chapter-nav">
     <a href="chuong_507.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_509.html" class="nav-btn">Chương sau →</a>

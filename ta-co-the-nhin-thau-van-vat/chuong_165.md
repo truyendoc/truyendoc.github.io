@@ -4,6 +4,9 @@ title: Chương 165: Chỗ tạm trú mới
 chapter_number: 165
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lục Thanh huynh, huynh về rồi sao?”
+Khi Lục Thanh quay lại khu chợ, Mã Cố lập tức bước ra đón, gương mặt đầy vẻ kinh ngạc và mừng rỡ.
+Cùng lúc ấy, trái tim ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,8 +84,7 @@ Chỉ tiếc là vai vẫn còn thương tích, nên tạm thời chưa thể t�
 
 **Thông tin chương:**
 - Số chương: 165
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-165](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-165)
-- Thời gian scrape: 2026-01-17 10:15:31
+- Thời gian cập nhật: 2026-01-17 10:15:31
 
 <div class="chapter-nav">
     <a href="chuong_164.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_166.html" class="nav-btn">Chương sau →</a>

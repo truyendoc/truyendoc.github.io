@@ -4,6 +4,9 @@ title: Chương 410: Đột phá quỷ dị, Sát cơ hiện
 chapter_number: 410
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lâu chủ, ngài nói sau khi ta rời đi liền có người lén ẩn núp bên ngoài sao?”
+Lục Thanh hơi sững người.
+“Đúng vậy, hơn nữa khí tức vô cùng tà ác. Chỉ cần vừa...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -76,8 +79,7 @@ Nhưng ba vị Thánh Sư thì tuyệt đối không thể đắc tội.
 
 **Thông tin chương:**
 - Số chương: 410
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-410](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-410)
-- Thời gian scrape: 2026-01-17 10:26:28
+- Thời gian cập nhật: 2026-01-17 10:26:28
 
 <div class="chapter-nav">
     <a href="chuong_409.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_411.html" class="nav-btn">Chương sau →</a>

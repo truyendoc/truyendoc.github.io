@@ -4,6 +4,8 @@ title: Chương 503
 chapter_number: 503
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Vì vậy, Lục Thanh sắp xếp cho cha con Hồ Trạch Chi tạm thời ở lại biệt viện riêng của Ngụy gia.
+Sau khi an trí ổn thỏa cho họ, hắn liền đi tới Tiểu viện Bán ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -117,8 +119,7 @@ Như thường lệ, sau khi đơn giản bái tế trước mộ Lý Vĩ Thiên
 
 **Thông tin chương:**
 - Số chương: 503
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-503](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-503)
-- Thời gian scrape: 2026-01-17 10:31:05
+- Thời gian cập nhật: 2026-01-17 10:31:05
 
 <div class="chapter-nav">
     <a href="chuong_502.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_504.html" class="nav-btn">Chương sau →</a>

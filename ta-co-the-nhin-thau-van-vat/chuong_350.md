@@ -4,6 +4,8 @@ title: Chương 350: Con Đường Gian Nan_2
 chapter_number: 350
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi cười xong, nàng mới nhận ra có điều bất thường, liền nhìn về phía Lục Thanh đang bồng tiểu Ly: “Ca ca, tiểu Ly làm sao vậy?”
+“Không sao cả, ta cho nó...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,8 +102,7 @@ Thế nhưng khi Lục Thanh nghe đến đó, hắn bỗng khựng lại.
 
 **Thông tin chương:**
 - Số chương: 350
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-350](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-350)
-- Thời gian scrape: 2026-01-17 10:23:32
+- Thời gian cập nhật: 2026-01-17 10:23:32
 
 <div class="chapter-nav">
     <a href="chuong_349.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_351.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 278: Đào mộ
 chapter_number: 278
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chỉ bằng các ngươi, không xứng biết tên ta.”
+Lục Thanh không dừng lại thêm một khắc nào. Hắn khẽ điểm chân vài lần, thân hình lập tức biến mất giữa rừng cây...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -59,8 +61,7 @@ Nghĩ đến lời hứa mình từng đưa ra nhiều năm trước, lão giả
 
 **Thông tin chương:**
 - Số chương: 278
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-278](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-278)
-- Thời gian scrape: 2026-01-17 10:20:31
+- Thời gian cập nhật: 2026-01-17 10:20:31
 
 <div class="chapter-nav">
     <a href="chuong_277.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_279.html" class="nav-btn">Chương sau →</a>

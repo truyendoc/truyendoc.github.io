@@ -4,6 +4,8 @@ title: Chương 257: Tâm tính thay đổi
 chapter_number: 257
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chạy đi, Thiếu gia, chạy mau!”
+Hộ vệ kia ngay khi nghe Lục Thanh nói ra chữ đầu tiên đã cảm thấy không ổn. Đợi đến lúc Lục Thanh nói đến chữ “chết”, hắn gần...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -114,8 +116,7 @@ Khóe môi hắn cong lên, chân đạp mạnh, tiếp tục phi về nhà.
 
 **Thông tin chương:**
 - Số chương: 257
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-257](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-257)
-- Thời gian scrape: 2026-01-17 10:19:39
+- Thời gian cập nhật: 2026-01-17 10:19:39
 
 <div class="chapter-nav">
     <a href="chuong_256.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_258.html" class="nav-btn">Chương sau →</a>

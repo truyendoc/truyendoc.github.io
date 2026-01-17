@@ -4,6 +4,8 @@ title: Chương 113: Tình hình hỗn loạn
 chapter_number: 113
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nói xong, Tiểu Thiên đỏ mặt, cúi đầu chào rồi vội bước ra khỏi làng.
+Trương bá nhìn nắm bạc trong tay, thấy nặng trĩu — ít nhất cũng nửa lượng, liền vội gọi:...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -124,8 +126,7 @@ chưa từng kiêu ngạo hay tự mãn.
 
 **Thông tin chương:**
 - Số chương: 113
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-113](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-113)
-- Thời gian scrape: 2026-01-17 10:13:02
+- Thời gian cập nhật: 2026-01-17 10:13:02
 
 <div class="chapter-nav">
     <a href="chuong_112.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_114.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,7 @@ title: Chương 497
 chapter_number: 497
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Có một điểm tiền bối đã hiểu lầm rồi,” đối mặt với vẻ châm chọc của trung niên nam tử, Lục Thanh nghiêm túc nói, thần sắc không hề tức giận. “Ta không phải ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,8 +110,7 @@ Thấy Lục Thanh đáp ứng điều kiện thứ nhất, trung niên nam tử
 
 **Thông tin chương:**
 - Số chương: 497
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-497](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-497)
-- Thời gian scrape: 2026-01-17 10:30:48
+- Thời gian cập nhật: 2026-01-17 10:30:48
 
 <div class="chapter-nav">
     <a href="chuong_496.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_498.html" class="nav-btn">Chương sau →</a>

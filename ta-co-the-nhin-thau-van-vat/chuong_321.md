@@ -4,6 +4,8 @@ title: Chương 321: Đại nguy (2)
 chapter_number: 321
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khó trách trước đó bọn họ lại nói: “Chúng ta lại phải xử lý thi thể nữa rồi.”
+Lục Thanh cùng mọi người, ai nấy đều có thực lực xuất chúng, hợp lực khiêng toà...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -114,8 +116,7 @@ Thấy tấm bia đá ngoài trấn, người trung niên viên tráng vui vẻ 
 
 **Thông tin chương:**
 - Số chương: 321
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-321](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-321)
-- Thời gian scrape: 2026-01-17 10:22:20
+- Thời gian cập nhật: 2026-01-17 10:22:20
 
 <div class="chapter-nav">
     <a href="chuong_320.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_322.html" class="nav-btn">Chương sau →</a>

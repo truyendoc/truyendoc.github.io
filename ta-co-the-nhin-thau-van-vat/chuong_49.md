@@ -4,6 +4,8 @@ title: Chương 49: Luyện thành đan dược
 chapter_number: 49
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thế nào, con định bán củ nhân sâm này sao?” – Trần lão hỏi.
+“Không hẳn là muốn bán, chỉ là muốn biết giá trị của nó, để trong lòng có khái niệm thôi ạ.” – L...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,8 +101,7 @@ lại có thể ngộ đạo ngay trong lần đầu tiên luyện võ!”
 
 **Thông tin chương:**
 - Số chương: 49
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-49](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-49)
-- Thời gian scrape: 2026-01-17 10:09:36
+- Thời gian cập nhật: 2026-01-17 10:09:36
 
 <div class="chapter-nav">
     <a href="chuong_48.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_50.html" class="nav-btn">Chương sau →</a>

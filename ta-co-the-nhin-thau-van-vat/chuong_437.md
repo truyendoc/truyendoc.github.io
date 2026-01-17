@@ -4,6 +4,9 @@ title: Chương 437: Pháp Bảo
 chapter_number: 437
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Hàng Ma Kim Cang Xử! Lão hòa thượng kia vậy mà thật sự mang thứ này ra!”
+Dương Minh đạo nhân không khỏi kinh hãi khi nhìn thấy pháp khí Huyền Minh lấy ra.
+“...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -77,8 +80,7 @@ Lục Thanh, người vừa rồi còn khiến đám hòa thượng Huyền Sơn
 
 **Thông tin chương:**
 - Số chương: 437
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-437](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-437)
-- Thời gian scrape: 2026-01-17 10:27:48
+- Thời gian cập nhật: 2026-01-17 10:27:48
 
 <div class="chapter-nav">
     <a href="chuong_436.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_438.html" class="nav-btn">Chương sau →</a>

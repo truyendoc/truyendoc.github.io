@@ -4,6 +4,9 @@ title: Chương 269: Châu phủ
 chapter_number: 269
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đỉnh cao của Cảnh Tiên thiên, tạm thời ta đã nắm được,” Lục Thanh nghĩ thầm.
+“Điều khó ước lượng duy nhất chính là sức mạnh của Bí Thuật Tiên thiên.”
+Ngồi k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -94,8 +97,7 @@ Cậu sải bước vào thành, và vừa bước vào, Lục Thanh đã bị c
 
 **Thông tin chương:**
 - Số chương: 269
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-269](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-269)
-- Thời gian scrape: 2026-01-17 10:20:08
+- Thời gian cập nhật: 2026-01-17 10:20:08
 
 <div class="chapter-nav">
     <a href="chuong_268.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_270.html" class="nav-btn">Chương sau →</a>

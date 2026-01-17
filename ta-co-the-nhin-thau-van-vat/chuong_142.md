@@ -4,6 +4,8 @@ title: Chương 142: Chiến lợi phẩm (2)
 chapter_number: 142
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong số các bình dược, có vài bình giống nhau, chỉ khác đôi chút, có vẻ là loại dược hoàn do Thanh lam Tông chế tạo hàng loạt.
+Không có nhãn ghi tên, nên Lụ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -85,8 +87,7 @@ Hơn nữa còn hết sức tương thích với đao pháp Tứ Phương của 
 
 **Thông tin chương:**
 - Số chương: 142
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-142](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-142)
-- Thời gian scrape: 2026-01-17 10:14:26
+- Thời gian cập nhật: 2026-01-17 10:14:26
 
 <div class="chapter-nav">
     <a href="chuong_141.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_143.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 245: Chiến thắng
 chapter_number: 245
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trên sườn đồi, giữa rừng cây.
+Lục Thanh nhìn thi thể “Ảnh” khi hắn từ từ ngừng thở, rơi vào im lặng.
+Những lời mà “Ảnh” nói trước khi chết vang lên trong tâm...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -76,8 +79,7 @@ Lục Thanh gật đầu, rồi thêm: “Sư phụ, sáng nay ta khá may mắn
 
 **Thông tin chương:**
 - Số chương: 245
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-245](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-245)
-- Thời gian scrape: 2026-01-17 10:19:08
+- Thời gian cập nhật: 2026-01-17 10:19:08
 
 <div class="chapter-nav">
     <a href="chuong_244.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_246.html" class="nav-btn">Chương sau →</a>

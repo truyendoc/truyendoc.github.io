@@ -4,6 +4,8 @@ title: Chương 71: Đột phá
 chapter_number: 71
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong rừng trúc phía sau núi, Lục Thanh đang luyện chín thức đầu của Dưỡng Thể Quyền.
+Sau hơn một tháng khổ luyện, quyền pháp này với cậu giờ đã như bản năng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -102,8 +104,7 @@ Lão Trương quát lớn, giọng run lên vì giận.
 
 **Thông tin chương:**
 - Số chương: 71
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-71](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-71)
-- Thời gian scrape: 2026-01-17 10:10:52
+- Thời gian cập nhật: 2026-01-17 10:10:52
 
 <div class="chapter-nav">
     <a href="chuong_70.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_72.html" class="nav-btn">Chương sau →</a>

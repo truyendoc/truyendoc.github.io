@@ -4,6 +4,8 @@ title: Chương 381: Nguyệt Hoa Tinh
 chapter_number: 381
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lần đầu tiên, ông thật sự nhận ra thần hồn lực trong cơ thể đồ đệ mình cường đại đến mức nào.
+Tuy nhiên, lúc này Lục Thanh không còn tâm trí quan tâm mấy chi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -112,8 +114,7 @@ Cuối cùng, sau khi đấu tranh trong lòng, Hồ Trạch Chi lấy hết dũ
 
 **Thông tin chương:**
 - Số chương: 381
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-381](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-381)
-- Thời gian scrape: 2026-01-17 10:25:01
+- Thời gian cập nhật: 2026-01-17 10:25:01
 
 <div class="chapter-nav">
     <a href="chuong_380.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_382.html" class="nav-btn">Chương sau →</a>

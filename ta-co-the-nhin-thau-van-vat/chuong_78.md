@@ -4,6 +4,9 @@ title: Chương 78: Làng hỉ lạc (3)
 chapter_number: 78
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thời gian trôi qua từng chút một, Lục Thanh vẫn lặng lẽ ẩn mình trên cây.
+Còn bên kia, Mã Cố thì đứng ngồi không yên.
+“Đã tìm thấy tung tích của Lục huynh ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -125,8 +128,7 @@ Sát khí mà cậu cố đè nén suốt từ nãy… cuối cùng cũng không
 
 **Thông tin chương:**
 - Số chương: 78
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-78](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-78)
-- Thời gian scrape: 2026-01-17 10:11:24
+- Thời gian cập nhật: 2026-01-17 10:11:24
 
 <div class="chapter-nav">
     <a href="chuong_77.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_79.html" class="nav-btn">Chương sau →</a>

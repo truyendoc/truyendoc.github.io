@@ -4,6 +4,8 @@ title: Chương 486
 chapter_number: 486
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lĩnh Vực Kiếm Khí, hơn nữa còn là cảnh giới khống chế cực cao… lão già này sao có thể!”
+Nam tử áo xám chứng kiến cảnh tượng ấy, cảm nhận khí tức kh*ng b* tỏ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,8 +83,7 @@ Gương mặt vốn đã tái nhợt nay càng trở nên trắng bệch như gi
 
 **Thông tin chương:**
 - Số chương: 486
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-486](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-486)
-- Thời gian scrape: 2026-01-17 10:30:16
+- Thời gian cập nhật: 2026-01-17 10:30:16
 
 <div class="chapter-nav">
     <a href="chuong_485.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_487.html" class="nav-btn">Chương sau →</a>

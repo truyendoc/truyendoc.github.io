@@ -4,6 +4,8 @@ title: Chương 499
 chapter_number: 499
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Vãn bối cũng không ngại nói thẳng với tiền bối, nếu lần này tiền bối vẫn không chịu hợp tác,
+thì đến khi vãn bối quay lại lần nữa, sẽ không còn chỗ cho thươ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -114,8 +116,7 @@ Ngụy Sơn Hải đột nhiên đứng bật dậy, trên mặt tràn đầy k�
 
 **Thông tin chương:**
 - Số chương: 499
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-499](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-499)
-- Thời gian scrape: 2026-01-17 10:30:53
+- Thời gian cập nhật: 2026-01-17 10:30:53
 
 <div class="chapter-nav">
     <a href="chuong_498.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_500.html" class="nav-btn">Chương sau →</a>

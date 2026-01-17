@@ -4,6 +4,8 @@ title: Chương 367: Chuẩn bị bế quan
 chapter_number: 367
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thân thể và Thần Hồn của ta cuối cùng cũng lần nữa đạt đến trạng thái viên mãn, chạm đến cực hạn.”
+Lục Thanh cảm nhận biến hóa trong thân mình, trong lòng k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -71,8 +73,7 @@ Xe ngựa của bọn họ đặt ở đây quả thực quá mức nhỏ bé, c
 
 **Thông tin chương:**
 - Số chương: 367
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-367](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-367)
-- Thời gian scrape: 2026-01-17 10:24:21
+- Thời gian cập nhật: 2026-01-17 10:24:21
 
 <div class="chapter-nav">
     <a href="chuong_366.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_368.html" class="nav-btn">Chương sau →</a>

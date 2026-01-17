@@ -4,6 +4,7 @@ title: Chương 238: Xếp hạng 29
 chapter_number: 238
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: [Danh sách này ghi lại một trăm võ giả Hậu Thiên trên toàn đại lục, những người được Thiên Cơ Lâu đánh giá là có tiềm lực đột phá lên cảnh Tiên Thiên cao nhấ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -110,8 +111,7 @@ Mà nguyên nhân, tự nhiên chính là bởi tên hắn xuất hiện trên b
 
 **Thông tin chương:**
 - Số chương: 238
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-238](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-238)
-- Thời gian scrape: 2026-01-17 10:18:47
+- Thời gian cập nhật: 2026-01-17 10:18:47
 
 <div class="chapter-nav">
     <a href="chuong_237.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_239.html" class="nav-btn">Chương sau →</a>

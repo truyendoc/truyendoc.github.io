@@ -4,6 +4,10 @@ title: Chương 63: Qua cơn nguy kịch
 chapter_number: 63
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cách gì? Là cách gì thế?”
+Lý hộ vệ ban đầu hơi ngẩn người, rồi nhanh chóng hỏi dồn.
+Những hộ vệ khác cũng đồng loạt nhìn về phía Mã gia.
+“Ở ngôi làng gần đâ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -158,8 +162,7 @@ Hắn kéo Tiểu Thiên lại, ghé sát tai dặn nhỏ:
 
 **Thông tin chương:**
 - Số chương: 63
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-63](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-63)
-- Thời gian scrape: 2026-01-17 10:10:12
+- Thời gian cập nhật: 2026-01-17 10:10:12
 
 <div class="chapter-nav">
     <a href="chuong_62.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_64.html" class="nav-btn">Chương sau →</a>

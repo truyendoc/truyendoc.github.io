@@ -4,6 +4,8 @@ title: Chương 478
 chapter_number: 478
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đám thủ vệ cổng thành địa vị thấp kém, Thành chủ Thanh Long dĩ nhiên không thể nhận ra từng người.
+Thế nhưng, khi thấy Hồ lão Tam bước ra từ phía sau Lục Tha...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -142,8 +144,7 @@ Thành chủ Thanh Long nói bằng giọng sâu xa khó lường.
 
 **Thông tin chương:**
 - Số chương: 478
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-478](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-478)
-- Thời gian scrape: 2026-01-17 10:29:51
+- Thời gian cập nhật: 2026-01-17 10:29:51
 
 <div class="chapter-nav">
     <a href="chuong_477.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_479.html" class="nav-btn">Chương sau →</a>

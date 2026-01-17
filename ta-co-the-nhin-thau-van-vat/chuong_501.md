@@ -4,6 +4,9 @@ title: Chương 501
 chapter_number: 501
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong lòng Ngụy Sơn Hải thầm suy nghĩ.
+Thiên phú của Mã Cố và Ngụy Tử An, hắn hiểu rất rõ.
+Theo lẽ thường, dù có cho họ thêm vài năm nữa, cũng tuyệt đối khôn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -129,8 +132,7 @@ Người thôn dân kia lập tức trợn to hai mắt.
 
 **Thông tin chương:**
 - Số chương: 501
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-501](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-501)
-- Thời gian scrape: 2026-01-17 10:31:00
+- Thời gian cập nhật: 2026-01-17 10:31:00
 
 <div class="chapter-nav">
     <a href="chuong_500.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_502.html" class="nav-btn">Chương sau →</a>

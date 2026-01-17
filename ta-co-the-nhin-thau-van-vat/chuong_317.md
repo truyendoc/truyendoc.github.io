@@ -4,6 +4,9 @@ title: Chương 317: Mỹ vị (2)
 chapter_number: 317
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi bày thịt nướng, Lục Thanh liền quay lại bên đống lửa.
+“Trần lão y, mời.”
+Đợi Lục Thanh rời đi, viên tráng trung niên lập tức gắp một miếng thịt thỏ b...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -112,8 +115,7 @@ bên ngoài miếu bỗng nhiên truyền đến một trận náo động.
 
 **Thông tin chương:**
 - Số chương: 317
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-317](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-317)
-- Thời gian scrape: 2026-01-17 10:22:09
+- Thời gian cập nhật: 2026-01-17 10:22:09
 
 <div class="chapter-nav">
     <a href="chuong_316.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_318.html" class="nav-btn">Chương sau →</a>

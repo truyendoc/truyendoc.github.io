@@ -4,6 +4,9 @@ title: Chương 322: Lưu Vân Tông
 chapter_number: 322
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lưu Vân trấn?” Lục Thanh nhìn thị trấn phía trước, hỏi:
+“Từ tiền bối, trấn này có quan hệ gì với Lưu Vân Tông vậy?”
+“Trấn này vốn là phụ thuộc của Lưu Vân T...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -71,8 +74,7 @@ Trong khi đám người Lục Thanh đang bận rộn, thì ở tửu lâu lớ
 
 **Thông tin chương:**
 - Số chương: 322
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-322](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-322)
-- Thời gian scrape: 2026-01-17 10:22:22
+- Thời gian cập nhật: 2026-01-17 10:22:22
 
 <div class="chapter-nav">
     <a href="chuong_321.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_323.html" class="nav-btn">Chương sau →</a>

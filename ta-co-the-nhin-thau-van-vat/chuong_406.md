@@ -4,6 +4,8 @@ title: Chương 406: Đao phá
 chapter_number: 406
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi Lục Thanh bóp nát sinh mệnh của tên tiểu tăng trong tay, bốn phía lập tức rơi vào tĩnh lặng chết chóc.
+Mọi người mở to hai mắt, chăm chú nhìn thiếu n...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -94,8 +96,7 @@ Lục Thanh chỉ trường đao, nhàn nhạt nói.
 
 **Thông tin chương:**
 - Số chương: 406
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-406](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-406)
-- Thời gian scrape: 2026-01-17 10:26:15
+- Thời gian cập nhật: 2026-01-17 10:26:15
 
 <div class="chapter-nav">
     <a href="chuong_405.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_407.html" class="nav-btn">Chương sau →</a>

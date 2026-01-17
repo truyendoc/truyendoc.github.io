@@ -4,6 +4,9 @@ title: Chương 403
 chapter_number: 403
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Sư Phụ, người đột phá rồi sao?”
+Ngụy Tử An cảm nhận được khí tức mạnh mẽ tỏa ra từ sư phụ mình, liền kinh hỉ hỏi.
+“Ừm, lần này phải cảm ơn Lục Thanh huynh....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -39,8 +42,7 @@ Lục Thanh kinh ngạc. Huyền Sơn là một trong Tứ Đại Bí Địa, v�
 
 **Thông tin chương:**
 - Số chương: 403
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-403](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-403)
-- Thời gian scrape: 2026-01-17 10:26:06
+- Thời gian cập nhật: 2026-01-17 10:26:06
 
 <div class="chapter-nav">
     <a href="chuong_402.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_404.html" class="nav-btn">Chương sau →</a>

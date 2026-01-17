@@ -4,6 +4,9 @@ title: Chương 480
 chapter_number: 480
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Khi đó ta đang trực ở cổng thành, về sau bỗng có một đứa trẻ đưa cho ta một bức thư.
+Nhưng người của nhà họ Tề vẫn phát hiện ra điều bất thường.
+Ta vừa trở ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -115,8 +118,7 @@ Và khi nhìn rõ tình trạng của Tam công tử nhà họ Cơ, tất cả b
 
 **Thông tin chương:**
 - Số chương: 480
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-480](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-480)
-- Thời gian scrape: 2026-01-17 10:29:57
+- Thời gian cập nhật: 2026-01-17 10:29:57
 
 <div class="chapter-nav">
     <a href="chuong_479.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_481.html" class="nav-btn">Chương sau →</a>

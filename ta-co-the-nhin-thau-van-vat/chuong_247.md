@@ -4,6 +4,10 @@ title: Chương 247: Ăn chực
 chapter_number: 247
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mã Cố chỉ mỉm cười khẽ, ra vẻ thần thần bí bí.
+Lục Thanh: …
+Ngay khi Lục Thanh còn chưa biết nên nói gì, Mã Cố đã tháo thanh trường kiếm bên hông xuống.
+“Đún...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -59,8 +63,7 @@ Nghe lý do ăn chực mà lại hùng hồn đến mức đó, Lục Thanh ch�
 
 **Thông tin chương:**
 - Số chương: 247
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-247](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-247)
-- Thời gian scrape: 2026-01-17 10:19:13
+- Thời gian cập nhật: 2026-01-17 10:19:13
 
 <div class="chapter-nav">
     <a href="chuong_246.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_248.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 356: Tiểu Ly Tỉnh Lại, Lại Thêm Một Thiên Phú Thầ
 chapter_number: 356
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Có vẻ như mấy ngày chìm trong giấc ngủ sâu thực sự đã khiến nó đói cồn cào.
+Lục Thanh không quấy rầy mà lặng lẽ vận chuyển dị năng, nhìn về phía Tiểu Ly.
+Hắn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,8 +103,7 @@ Quả thực đáng sợ.
 
 **Thông tin chương:**
 - Số chương: 356
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-356](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-356)
-- Thời gian scrape: 2026-01-17 10:23:48
+- Thời gian cập nhật: 2026-01-17 10:23:48
 
 <div class="chapter-nav">
     <a href="chuong_355.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_357.html" class="nav-btn">Chương sau →</a>

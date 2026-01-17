@@ -4,6 +4,9 @@ title: Chương 460
 chapter_number: 460
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nói xong, hắn lại lấy ra hai khối ngọc phù, đưa cho hai người.
+“Nguyên Khí này, với thực lực hiện tại của các ngươi vẫn chưa thể tự mình luyện hóa.
+Hãy luyện...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -114,8 +117,7 @@ khiến tâm hồn Lục Thanh rung động mãnh liệt.
 
 **Thông tin chương:**
 - Số chương: 460
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-460](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-460)
-- Thời gian scrape: 2026-01-17 10:28:57
+- Thời gian cập nhật: 2026-01-17 10:28:57
 
 <div class="chapter-nav">
     <a href="chuong_459.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_461.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 249: Thần hồn phù
 chapter_number: 249
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lĩnh ngộ đột ngột của Thần hồn lực quả nhiên khác biệt rất lớn so với trạng thái học tập cảm ngộ của Dị năng.”
+Lục Thanh chậm rãi tỉnh khỏi trạng thái ngộ đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -97,8 +99,7 @@ Hắn tùy tay thu hết đồ vào Túi Càn Khôn, rồi cõng Tiểu Ly lên 
 
 **Thông tin chương:**
 - Số chương: 249
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-249](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-249)
-- Thời gian scrape: 2026-01-17 10:19:19
+- Thời gian cập nhật: 2026-01-17 10:19:19
 
 <div class="chapter-nav">
     <a href="chuong_248.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_250.html" class="nav-btn">Chương sau →</a>

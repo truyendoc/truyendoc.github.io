@@ -4,6 +4,8 @@ title: Chương 146: Tu luyện
 chapter_number: 146
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lý Vĩ Thiên không hề đặt cấm chế Thần Hồn trên Truyền Thừa Ngọc Giản, vì vậy chỉ cần có Thần Hồn lực là có thể xem được nội dung bên trong.
+Trần lão y đọc th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -94,8 +96,7 @@ Lục Thanh nghĩ đến lời hẹn, ánh mắt tràn đầy mong đợi.
 
 **Thông tin chương:**
 - Số chương: 146
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-146](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-146)
-- Thời gian scrape: 2026-01-17 10:14:38
+- Thời gian cập nhật: 2026-01-17 10:14:38
 
 <div class="chapter-nav">
     <a href="chuong_145.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_147.html" class="nav-btn">Chương sau →</a>

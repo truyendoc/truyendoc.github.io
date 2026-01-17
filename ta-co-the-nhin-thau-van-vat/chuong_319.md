@@ -4,6 +4,9 @@ title: Chương 319: Sơn tặc, đồ sát (2)
 chapter_number: 319
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ngươi muốn giao cô gái đó cho ta, hay để huynh đệ ta bắn chết nàng bằng mưa tên? Lựa chọn đi.”
+Sắc mặt trung niên mập mạp lại thay đổi.
+Hắn tự nhủ mình thật...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -121,8 +124,7 @@ Trung niên mập và đệ tử đứng sững, như gà gỗ, mắt tròn mắ
 
 **Thông tin chương:**
 - Số chương: 319
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-319](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-319)
-- Thời gian scrape: 2026-01-17 10:22:14
+- Thời gian cập nhật: 2026-01-17 10:22:14
 
 <div class="chapter-nav">
     <a href="chuong_318.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_320.html" class="nav-btn">Chương sau →</a>

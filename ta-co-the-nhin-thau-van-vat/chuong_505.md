@@ -4,6 +4,9 @@ title: Chương 505
 chapter_number: 505
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Giọng nói của khí linh run rẩy:
+“Ngươi nói cái gì? Thần Phù Tông?!”
+“Không sai, Thần Phù Tông. Nghe ngữ khí của tiền bối, xem ra ngài khá quen thuộc với tông...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -132,8 +135,7 @@ Lần này, ta muốn xem cái miệng của ngươi còn cứng được đến
 
 **Thông tin chương:**
 - Số chương: 505
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-505](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-505)
-- Thời gian scrape: 2026-01-17 10:31:11
+- Thời gian cập nhật: 2026-01-17 10:31:11
 
 <div class="chapter-nav">
     <a href="chuong_504.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_506.html" class="nav-btn">Chương sau →</a>

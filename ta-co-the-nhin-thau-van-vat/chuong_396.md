@@ -4,6 +4,8 @@ title: Chương 396: Leo Thiên Đăng
 chapter_number: 396
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Tư Đồ Huynh, các vị, như vậy là không đúng. Có chuyện náo nhiệt thế này, sao có thể bỏ bọn ta ở ngoài?”
+Đúng lúc Bạch bất Phàm và Tư Đồ Tấn đang đối mặt nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -77,8 +79,7 @@ Tất cả đều gật đầu tán đồng.
 
 **Thông tin chương:**
 - Số chương: 396
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-396](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-396)
-- Thời gian scrape: 2026-01-17 10:25:46
+- Thời gian cập nhật: 2026-01-17 10:25:46
 
 <div class="chapter-nav">
     <a href="chuong_395.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_397.html" class="nav-btn">Chương sau →</a>

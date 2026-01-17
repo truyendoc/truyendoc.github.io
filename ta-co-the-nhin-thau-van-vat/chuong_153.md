@@ -4,6 +4,8 @@ title: Chương 153: Câu cá
 chapter_number: 153
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đồng thời, trong lòng hắn cũng trở nên nghiêm túc hơn.
+Hai đứa nhỏ có thiên phú càng cao, hắn càng không thể buông lỏng trong việc dạy dỗ về sau. Nếu không, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,8 +95,7 @@ Dù sao, hắn đã hứa với tiểu Ly rằng sẽ cho nó ăn cá Kỳ Ngư 
 
 **Thông tin chương:**
 - Số chương: 153
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-153](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-153)
-- Thời gian scrape: 2026-01-17 10:14:57
+- Thời gian cập nhật: 2026-01-17 10:14:57
 
 <div class="chapter-nav">
     <a href="chuong_152.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_154.html" class="nav-btn">Chương sau →</a>

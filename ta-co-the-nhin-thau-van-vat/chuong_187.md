@@ -4,6 +4,8 @@ title: Chương 187: Vào thành
 chapter_number: 187
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Giờ đây, món thịt kho của Lục Thanh đã có thể sánh ngang với hương vị ở kiếp trước của hắn.
+Ngụy phu nhân nhìn con trai ăn ngon lành mà trong lòng không khỏi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,8 +82,7 @@ Chiếc xe bò chậm rãi lăn qua rừng, làm bầy chim trên tán cây ho�
 
 **Thông tin chương:**
 - Số chương: 187
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-187](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-187)
-- Thời gian scrape: 2026-01-17 10:16:30
+- Thời gian cập nhật: 2026-01-17 10:16:30
 
 <div class="chapter-nav">
     <a href="chuong_186.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_188.html" class="nav-btn">Chương sau →</a>

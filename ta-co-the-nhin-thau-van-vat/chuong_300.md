@@ -4,6 +4,8 @@ title: Chương 300: Vừa thấy đã bỏ chạy
 chapter_number: 300
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trên quan đạo, Mã Cố đơn độc vung đao giao chiến kịch liệt với hơn mười đệ tử đối phương.
+Không ngờ chỉ dựa vào đao pháp của mình, hắn lại có thể ép cả nhóm ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -96,8 +98,7 @@ Hắn chọn chạy ngay không cần đánh!
 
 **Thông tin chương:**
 - Số chương: 300
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-300](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-300)
-- Thời gian scrape: 2026-01-17 10:21:25
+- Thời gian cập nhật: 2026-01-17 10:21:25
 
 <div class="chapter-nav">
     <a href="chuong_299.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_301.html" class="nav-btn">Chương sau →</a>

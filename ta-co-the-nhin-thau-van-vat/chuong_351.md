@@ -4,6 +4,9 @@ title: Chương 351: Khắc Trận
 chapter_number: 351
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Trần lão y, chúng ta phải làm gì bây giờ?” Mã Cố hỏi.
+Trần lão y suy nghĩ một lúc, cuối cùng nói: “Quay lại thôi, trở về Vân Châu rồi tìm con đường khác.”
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,8 +78,7 @@ Khi xe nhẹ đi thì tốc độ tăng, mà tốc độ cao thì kết cấu c�
 
 **Thông tin chương:**
 - Số chương: 351
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-351](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-351)
-- Thời gian scrape: 2026-01-17 10:23:35
+- Thời gian cập nhật: 2026-01-17 10:23:35
 
 <div class="chapter-nav">
     <a href="chuong_350.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_352.html" class="nav-btn">Chương sau →</a>

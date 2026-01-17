@@ -4,6 +4,8 @@ title: Chương 483
 chapter_number: 483
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh ngưng tụ xong đạo Linh Phù tỏa ra kim quang nhàn nhạt,
+Ấn ký sương độc trong tâm mạch của Tam thiếu gia nhà họ Cơ dường như cảm nhận được một m...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -85,8 +87,7 @@ Chuyện ở Phong Châu hắn làm vô cùng kín đáo, theo lý mà nói khô
 
 **Thông tin chương:**
 - Số chương: 483
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-483](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-483)
-- Thời gian scrape: 2026-01-17 10:30:07
+- Thời gian cập nhật: 2026-01-17 10:30:07
 
 <div class="chapter-nav">
     <a href="chuong_482.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_484.html" class="nav-btn">Chương sau →</a>

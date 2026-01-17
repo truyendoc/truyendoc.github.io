@@ -4,6 +4,10 @@ title: Chương 120: Mã cố xui xẻo (2)
 chapter_number: 120
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mã Cố – người trước giờ luôn tỏ ra thật thà – nghe vậy thì tim đập thình thịch.
+Hắn cố nặn ra một nụ cười:
+“Ngài muốn tôi… giúp chuyện gì?”
+Vệ trưởng Phan nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -116,8 +120,7 @@ Khá giống tình trạng thiếu gia trước đây.
 
 **Thông tin chương:**
 - Số chương: 120
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-120](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-120)
-- Thời gian scrape: 2026-01-17 10:13:22
+- Thời gian cập nhật: 2026-01-17 10:13:22
 
 <div class="chapter-nav">
     <a href="chuong_119.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_121.html" class="nav-btn">Chương sau →</a>

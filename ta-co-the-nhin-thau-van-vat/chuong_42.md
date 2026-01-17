@@ -4,6 +4,8 @@ title: Chương 42: Trở thành đệ tử
 chapter_number: 42
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trần lão, con đã gom đủ hết dược thảo rồi ạ!” — Lục Thanh thở hổn hển, vừa nói vừa trình giỏ thuốc trước mặt Trần lão trong tiểu viện sườn núi.
+Sau khi đào ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -92,8 +94,7 @@ Giữa sự chứng kiến của toàn thôn, Lục Thanh chính thức làm l�
 
 **Thông tin chương:**
 - Số chương: 42
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-42](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-42)
-- Thời gian scrape: 2026-01-17 10:09:19
+- Thời gian cập nhật: 2026-01-17 10:09:19
 
 <div class="chapter-nav">
     <a href="chuong_41.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_43.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 32: Hắc dạ linh hồ
 chapter_number: 32
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh nghe thấy tiếng cào cửa quen thuộc ấy, hắn gần như không tin vào tai mình.
+Chẳng phải Trần lão đã nói bột dược kia cực kỳ hiệu nghiệm sao — nga...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,8 +111,7 @@ Lục Thanh che trán, khẽ than thở:
 
 **Thông tin chương:**
 - Số chương: 32
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-32](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-32)
-- Thời gian scrape: 2026-01-17 10:08:54
+- Thời gian cập nhật: 2026-01-17 10:08:54
 
 <div class="chapter-nav">
     <a href="chuong_31.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_33.html" class="nav-btn">Chương sau →</a>

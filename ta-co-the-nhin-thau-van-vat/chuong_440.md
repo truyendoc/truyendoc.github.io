@@ -4,6 +4,8 @@ title: Chương 440: Đối chiến (2)
 chapter_number: 440
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Tiểu tử, ngươi đúng là tự tìm đường chết!
+Đôi bàn tay tròn mập, lớn như hai chiếc quạt phiến, nhuốm đỏ như hai bánh nghiền máu, khuấy động luồng không khí rồ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -119,8 +121,7 @@ Một luồng kiếm khí khác từ nơi nào đó bay đến, chậm hơn như
 
 **Thông tin chương:**
 - Số chương: 440
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-440](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-440)
-- Thời gian scrape: 2026-01-17 10:27:57
+- Thời gian cập nhật: 2026-01-17 10:27:57
 
 <div class="chapter-nav">
     <a href="chuong_439.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_441.html" class="nav-btn">Chương sau →</a>

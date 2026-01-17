@@ -4,6 +4,9 @@ title: Chương 217: Kiếm Thai Bách Luyện
 chapter_number: 217
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Keng! Keng! Keng...
+Trước lò rèn số một của Chúc Tâm Phường, Lục Thanh đã rèn liên tục suốt mấy canh giờ.
+Thế nhưng hắn lại chẳng tỏ ra mệt mỏi chút nào, cán...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,8 +106,7 @@ Một tiếng nổ lớn vang dội khắp hậu viện.
 
 **Thông tin chương:**
 - Số chương: 217
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-217](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-217)
-- Thời gian scrape: 2026-01-17 10:17:46
+- Thời gian cập nhật: 2026-01-17 10:17:46
 
 <div class="chapter-nav">
     <a href="chuong_216.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_218.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 236: Danh Chấn Thiên Hạ Mà Không Cần Bước Ra Ngoài
 chapter_number: 236
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong biển thức hải, Lục Thanh cảm thấy mình bị giam trong một lò luyện.
+Tâm thần và ý niệm bị nung đỏ không ngừng, đau đến mức như chỉ cần chậm một nhịp, hồ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,8 +105,7 @@ Và Lục công tử… ngươi đã có mặt trên đó.”
 
 **Thông tin chương:**
 - Số chương: 236
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-236](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-236)
-- Thời gian scrape: 2026-01-17 10:18:42
+- Thời gian cập nhật: 2026-01-17 10:18:42
 
 <div class="chapter-nav">
     <a href="chuong_235.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_237.html" class="nav-btn">Chương sau →</a>

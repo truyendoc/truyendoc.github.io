@@ -4,6 +4,8 @@ title: Chương 425: Cơ duyên hay Tai hoạ
 chapter_number: 425
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngay khi những lời ấy rơi xuống, một thân ảnh đáp xuống giữa Lục Thanh và nhóm người cảnh Tiên Thiên.
+Kẻ vừa đến, tóc trắng râu bạc, khí tức như bậc hiền giả...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,8 +82,7 @@ Khi thi thể không đầu ngã xuống, Lục Thanh tiện tay b*n r* một lu
 
 **Thông tin chương:**
 - Số chương: 425
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-425](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-425)
-- Thời gian scrape: 2026-01-17 10:27:14
+- Thời gian cập nhật: 2026-01-17 10:27:14
 
 <div class="chapter-nav">
     <a href="chuong_424.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_426.html" class="nav-btn">Chương sau →</a>

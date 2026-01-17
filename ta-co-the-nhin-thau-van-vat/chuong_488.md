@@ -4,6 +4,9 @@ title: Chương 488
 chapter_number: 488
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh cẩn thận bước tới vị trí nơi Hồ Lô Ôn Dịch rơi xuống.
+Lúc này, Hồ Lô Ôn Dịch lặng lẽ nằm nửa vùi trong hố sâu do chính nó tạo ra.
+Không còn chút kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -88,8 +91,7 @@ Nghe vậy, sắc mặt gia chủ họ Cơ trở nên nghiêm nghị:
 
 **Thông tin chương:**
 - Số chương: 488
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-488](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-488)
-- Thời gian scrape: 2026-01-17 10:30:22
+- Thời gian cập nhật: 2026-01-17 10:30:22
 
 <div class="chapter-nav">
     <a href="chuong_487.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_489.html" class="nav-btn">Chương sau →</a>

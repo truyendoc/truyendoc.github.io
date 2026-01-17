@@ -4,6 +4,8 @@ title: Chương 41: Đánh giá
 chapter_number: 41
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trần lão, ý người là con không cần học ‘Kinh Bách Thảo’ nữa ạ?” Lục Thanh hơi sững sờ.
+“Đúng vậy. Tốc độ học của con vượt cả ta dự đoán. ‘Kinh Bách Thảo’ co...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -89,8 +91,7 @@ Tới sân nhà, cậu nhìn về góc vườn nơi mảng cây mọc rất kh�
 
 **Thông tin chương:**
 - Số chương: 41
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-41](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-41)
-- Thời gian scrape: 2026-01-17 10:09:16
+- Thời gian cập nhật: 2026-01-17 10:09:16
 
 <div class="chapter-nav">
     <a href="chuong_40.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_42.html" class="nav-btn">Chương sau →</a>

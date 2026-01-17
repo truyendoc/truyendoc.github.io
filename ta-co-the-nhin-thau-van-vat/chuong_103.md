@@ -4,6 +4,9 @@ title: Chương 103: Bán tiên thiên
 chapter_number: 103
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thưa sư phụ, người sao vậy?”
+Lục Thanh kinh ngạc nhìn, chỉ thấy sư phụ mình thoạt trông trẻ hơn hẳn.
+Làn da vốn nhăn nheo nay căng mịn rõ rệt, mái tóc bạc t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,8 +98,7 @@ nào ngờ ngày ấy lại đến sớm thế này.”
 
 **Thông tin chương:**
 - Số chương: 103
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-103](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-103)
-- Thời gian scrape: 2026-01-17 10:12:32
+- Thời gian cập nhật: 2026-01-17 10:12:32
 
 <div class="chapter-nav">
     <a href="chuong_102.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_104.html" class="nav-btn">Chương sau →</a>

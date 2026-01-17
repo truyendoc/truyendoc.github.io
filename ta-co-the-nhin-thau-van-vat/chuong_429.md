@@ -4,6 +4,8 @@ title: Chương 429: Vân Kiếp
 chapter_number: 429
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Nhìn vị trí của Vân Kiếp… hình như ở gần Thiên Cơ Lâu?”
+Người áo đen vận dụng thân pháp, liên tục lướt qua những bóng tối trong các con phố và ngõ hẻm, tron...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,8 +77,7 @@ Nếu bị Kiếp Khí quấn lấy, rồi dẫn sét đánh xuống — cho dù
 
 **Thông tin chương:**
 - Số chương: 429
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-429](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-429)
-- Thời gian scrape: 2026-01-17 10:27:25
+- Thời gian cập nhật: 2026-01-17 10:27:25
 
 <div class="chapter-nav">
     <a href="chuong_428.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_430.html" class="nav-btn">Chương sau →</a>

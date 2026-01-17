@@ -4,6 +4,9 @@ title: Chương 520: Trận Pháp Hoàn Thành
 chapter_number: 520
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cuối cùng cũng luyện xong hết rồi.”
+Trong Tiểu Viện Bán Sơn, Lục Thanh nhìn những trụ pháp trận trước mặt, lau mồ hôi trên trán, gương mặt lộ ra nụ cười.
+Dù...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -112,8 +115,7 @@ Phủ Thành lại đang nghênh đón vài vị khách không mời mà đến.
 
 **Thông tin chương:**
 - Số chương: 520
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-520](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-520)
-- Thời gian scrape: 2026-01-17 10:31:56
+- Thời gian cập nhật: 2026-01-17 10:31:56
 
 <div class="chapter-nav">
     <a href="chuong_519.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_521.html" class="nav-btn">Chương sau →</a>

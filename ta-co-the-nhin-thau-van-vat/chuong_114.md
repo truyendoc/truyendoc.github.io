@@ -4,6 +4,9 @@ title: Chương 114: Tình hình hỗn loạn (2)
 chapter_number: 114
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thưa sư phụ, vừa rồi Mã gia sai người mang thư đến. Trong đó có nói vài chuyện, đệ tử cảm thấy cần bẩm lại với người.”
+Lục Thanh mở lời, giọng nghiêm túc.
+“...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,8 +87,7 @@ trong lòng bỗng dấy lên một cảm giác bất an mơ hồ.
 
 **Thông tin chương:**
 - Số chương: 114
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-114](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-114)
-- Thời gian scrape: 2026-01-17 10:13:05
+- Thời gian cập nhật: 2026-01-17 10:13:05
 
 <div class="chapter-nav">
     <a href="chuong_113.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_115.html" class="nav-btn">Chương sau →</a>

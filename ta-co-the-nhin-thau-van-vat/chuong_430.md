@@ -4,6 +4,8 @@ title: Chương 430: Vân kiếp (2)
 chapter_number: 430
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Vì thế, mọi người chỉ có thể kiên nhẫn chờ đợi, đợi cho Vân Kiếp tản đi, chân tướng tự nhiên sẽ hiện rõ.
+“Trần lão y, bên trong xảy ra chuyện gì? Lục Công tử...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,8 +102,7 @@ Từ trên tháp cao, tất cả những ai nhìn thấy cảnh này đều th�
 
 **Thông tin chương:**
 - Số chương: 430
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-430](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-430)
-- Thời gian scrape: 2026-01-17 10:27:28
+- Thời gian cập nhật: 2026-01-17 10:27:28
 
 <div class="chapter-nav">
     <a href="chuong_429.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_431.html" class="nav-btn">Chương sau →</a>

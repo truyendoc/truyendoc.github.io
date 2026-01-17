@@ -4,6 +4,7 @@ title: Chương 462
 chapter_number: 462
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngay khi hắn luyện hóa xong chín sợi Bản Nguyên Chi Khí, thân thể liền đạt đến cảnh giới bảo quang , tự nhiên vô cùng thích hợp để bước lên con đường luyện t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -121,8 +122,7 @@ Rất nhanh, trong Đan Điền của hắn đã xuất hiện một sợi Linh 
 
 **Thông tin chương:**
 - Số chương: 462
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-462](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-462)
-- Thời gian scrape: 2026-01-17 10:29:04
+- Thời gian cập nhật: 2026-01-17 10:29:04
 
 <div class="chapter-nav">
     <a href="chuong_461.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_463.html" class="nav-btn">Chương sau →</a>

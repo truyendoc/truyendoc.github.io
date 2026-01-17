@@ -4,6 +4,8 @@ title: Chương 279: Sự sụp đổ của Trịnh gia
 chapter_number: 279
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cao thủ Tiên Thiên… quả nhiên không dễ đối phó.”
+Cách nơi đã giết Trịnh lão thái một dặm, Lục Thanh ngồi xếp bằng trên thân một đại thụ, điều tức khôi phục....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,8 +82,7 @@ Trịnh gia chủ ngẩng đầu, hai mắt đỏ bừng vì phẫn hận và bi
 
 **Thông tin chương:**
 - Số chương: 279
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-279](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-279)
-- Thời gian scrape: 2026-01-17 10:20:33
+- Thời gian cập nhật: 2026-01-17 10:20:33
 
 <div class="chapter-nav">
     <a href="chuong_278.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_280.html" class="nav-btn">Chương sau →</a>

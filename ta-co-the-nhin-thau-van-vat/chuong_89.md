@@ -4,6 +4,8 @@ title: Chương 89: Chia bạc
 chapter_number: 89
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trương gia gia, ông định chia hai trăm lượng bạc này thế nào?” Lục Thanh hỏi.
+“Tất nhiên là chia đều — mỗi hộ trong thôn đều nhận phần như nhau,” Trương gia...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -87,8 +89,7 @@ Còn ở sườn đồi không xa, Lục Thanh đang trên đường trở lại
 
 **Thông tin chương:**
 - Số chương: 89
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-89](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-89)
-- Thời gian scrape: 2026-01-17 10:11:51
+- Thời gian cập nhật: 2026-01-17 10:11:51
 
 <div class="chapter-nav">
     <a href="chuong_88.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_90.html" class="nav-btn">Chương sau →</a>

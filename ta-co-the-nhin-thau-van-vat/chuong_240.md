@@ -4,6 +4,7 @@ title: Chương 240: Danh Tính Kinh Động Thiên Hạ (2)
 chapter_number: 240
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đáng tiếc là Minh Kiếm và những người khác vẫn chưa trở về từ chuyến lịch luyện; nếu không, chúng ta còn có thể hỏi họ cho rõ ràng hơn về tình huống lúc ấy....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,8 +104,7 @@ Trong bóng tối dưới mái tóc bù xù, khóe môi hắn cong lên thành m
 
 **Thông tin chương:**
 - Số chương: 240
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-240](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-240)
-- Thời gian scrape: 2026-01-17 10:18:53
+- Thời gian cập nhật: 2026-01-17 10:18:53
 
 <div class="chapter-nav">
     <a href="chuong_239.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_241.html" class="nav-btn">Chương sau →</a>

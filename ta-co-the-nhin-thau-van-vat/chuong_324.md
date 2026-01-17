@@ -4,6 +4,9 @@ title: Chương 324: Biến cố kinh thiên
 chapter_number: 324
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Sơn tông chủ, xin hãy khoan!”
+Nhìn thấy Ngân Nguyệt tông chủ đặt tay lên cổ Vương Bàn, Lưu Phó Điện Chủ của Bách Hoa cung vội vàng cất tiếng ngăn lại.
+Nàng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,8 +82,7 @@ Lần này, dù số lượng người từ các đại tông không nhiều, nh
 
 **Thông tin chương:**
 - Số chương: 324
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-324](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-324)
-- Thời gian scrape: 2026-01-17 10:22:27
+- Thời gian cập nhật: 2026-01-17 10:22:27
 
 <div class="chapter-nav">
     <a href="chuong_323.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_325.html" class="nav-btn">Chương sau →</a>

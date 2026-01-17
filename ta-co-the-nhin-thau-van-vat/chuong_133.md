@@ -4,6 +4,8 @@ title: Chương 133: Chữa thương
 chapter_number: 133
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Còn có sinh vật bí ẩn kia — thứ có thể xuyên qua hư không để ra tay giết người.
+Tuy Mã Cố tận mắt chứng kiến võ giả hậu thiên nội cảnh bị giết chỉ trong chớp...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -62,8 +64,7 @@ Sau khi xử lý xong thương thế, hai người mới có thời gian nói ch
 
 **Thông tin chương:**
 - Số chương: 133
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-133](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-133)
-- Thời gian scrape: 2026-01-17 10:14:00
+- Thời gian cập nhật: 2026-01-17 10:14:00
 
 <div class="chapter-nav">
     <a href="chuong_132.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_134.html" class="nav-btn">Chương sau →</a>

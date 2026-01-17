@@ -17,12 +17,7 @@ description: Đọc truyện VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA
         </div>
     </div>
     
-    <div class="action-bar" style="margin-bottom: 0;">
-        <div class="search-container" style="width: 100%; max-width: 100%;">
-            <span class="search-icon">🔍</span>
-            <input type="text" id="search-input" class="search-input" placeholder="Tìm chương (ví dụ: 10, 100)...">
-        </div>
-    </div>
+    <div class="action-bar" style="display: none;"></div>
 </div>
 
 <ul class="chapter-list">

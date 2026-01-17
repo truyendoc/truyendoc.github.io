@@ -4,6 +4,8 @@ title: Chương 314: Dị bảo
 chapter_number: 314
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đám khách giang hồ ở chiếc bàn bên cạnh ồn ào bàn tán thêm một lúc rồi đứng dậy thanh toán, rời khỏi trà lâu.
+Có vẻ như bọn họ muốn lên đường thật nhanh, kẻo...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -77,8 +79,7 @@ Hiển nhiên họ đã nhận ra nhóm của Lục Thanh.
 
 **Thông tin chương:**
 - Số chương: 314
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-314](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-314)
-- Thời gian scrape: 2026-01-17 10:22:01
+- Thời gian cập nhật: 2026-01-17 10:22:01
 
 <div class="chapter-nav">
     <a href="chuong_313.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_315.html" class="nav-btn">Chương sau →</a>

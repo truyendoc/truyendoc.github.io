@@ -4,6 +4,8 @@ title: Chương 65: Gia tộc nhà họ Ngụy (2)
 chapter_number: 65
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Nhà họ Ngụy,” Mã gia chậm rãi nói, “là đại tộc lớn nhất trong toàn huyện thành, thế lực không chỉ giới hạn ở đây.”
+“Nghe nói họ còn có quan hệ sâu xa tận tr...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,8 +100,7 @@ Sáng hôm sau, khi ánh nắng đầu tiên chiếu vào song cửa,
 
 **Thông tin chương:**
 - Số chương: 65
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-65](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-65)
-- Thời gian scrape: 2026-01-17 10:10:19
+- Thời gian cập nhật: 2026-01-17 10:10:19
 
 <div class="chapter-nav">
     <a href="chuong_64.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_66.html" class="nav-btn">Chương sau →</a>

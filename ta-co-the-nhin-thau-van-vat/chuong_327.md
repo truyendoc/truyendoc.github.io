@@ -4,6 +4,8 @@ title: Chương 327: Địa ngục nhân gian (2)
 chapter_number: 327
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: [Huyết Nhục Luyện Hồn Trận: Sơ cấp Ác Trận truyền thừa từ thời Viễn Cổ Tu Chân, vô cùng độc ác.]
+[Sinh linh nằm trong phạm vi Huyết Nhục Luyện Hồn Trận sẽ bị...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,8 +111,7 @@ Với tu vi của hắn, căn bản không thể chống đỡ — bị đánh b
 
 **Thông tin chương:**
 - Số chương: 327
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-327](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-327)
-- Thời gian scrape: 2026-01-17 10:22:34
+- Thời gian cập nhật: 2026-01-17 10:22:34
 
 <div class="chapter-nav">
     <a href="chuong_326.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_328.html" class="nav-btn">Chương sau →</a>

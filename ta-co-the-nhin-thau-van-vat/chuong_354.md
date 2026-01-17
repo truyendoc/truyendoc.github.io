@@ -4,6 +4,7 @@ title: Chương 354: Ngàn dặm (2)
 chapter_number: 354
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trước đây, chẳng phải mọi người đều biết sao? Chính vì Lưu Vân Tông sử dụng một trận pháp nên rất nhiều dân chúng ở trấn Lưu Vân mới chết oan uổng như vậy.”...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,8 +100,7 @@ Cứ như vậy, xe ngựa lướt đi không nghỉ, đến khi trời tối, L
 
 **Thông tin chương:**
 - Số chương: 354
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-354](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-354)
-- Thời gian scrape: 2026-01-17 10:23:43
+- Thời gian cập nhật: 2026-01-17 10:23:43
 
 <div class="chapter-nav">
     <a href="chuong_353.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_355.html" class="nav-btn">Chương sau →</a>

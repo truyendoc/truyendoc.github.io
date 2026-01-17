@@ -4,6 +4,7 @@ title: Chương 469
 chapter_number: 469
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Không ngờ bên ngoài lại xuất hiện những dị thú biến dị cường đại như vậy, xem ra những biến đổi của thiên địa sau khi linh khí khôi phục còn nhanh hơn dự li...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,8 +80,7 @@ Chỉ cần đối phương không chủ động gây phiền phức, Lục Than
 
 **Thông tin chương:**
 - Số chương: 469
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-469](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-469)
-- Thời gian scrape: 2026-01-17 10:29:25
+- Thời gian cập nhật: 2026-01-17 10:29:25
 
 <div class="chapter-nav">
     <a href="chuong_468.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_470.html" class="nav-btn">Chương sau →</a>

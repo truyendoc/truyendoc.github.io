@@ -4,6 +4,9 @@ title: Chương 341: Huyết ma thể (2)
 chapter_number: 341
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngay lúc ấy, Lục Thanh bỗng khẽ bật cười và lắc đầu.
+Hắn xoay người:
+“Sư phụ, Nhan tiền bối, tay đệ tử hơi ngứa nghề. Trận này đệ tử muốn thử lãnh giáo một p...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -118,8 +121,7 @@ Bị trói buộc bởi lực lượng kỳ dị, Mặc Chấn không kịp trá
 
 **Thông tin chương:**
 - Số chương: 341
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-341](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-341)
-- Thời gian scrape: 2026-01-17 10:23:10
+- Thời gian cập nhật: 2026-01-17 10:23:10
 
 <div class="chapter-nav">
     <a href="chuong_340.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_342.html" class="nav-btn">Chương sau →</a>

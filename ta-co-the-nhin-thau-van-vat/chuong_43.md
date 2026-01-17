@@ -4,6 +4,9 @@ title: Chương 43: Trở thành đệ tử (2)
 chapter_number: 43
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lễ bái sư của Lục Thanh thật ra rất đơn giản.
+Trần lão vốn không thích phô trương, nên mọi thứ đều được tiến hành gọn gàng.
+Lục Thanh chỉ cần làm theo nghi t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,8 +103,7 @@ Thấy cậu đã chú ý, Trần lão mỉm cười:
 
 **Thông tin chương:**
 - Số chương: 43
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-43](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-43)
-- Thời gian scrape: 2026-01-17 10:09:21
+- Thời gian cập nhật: 2026-01-17 10:09:21
 
 <div class="chapter-nav">
     <a href="chuong_42.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_44.html" class="nav-btn">Chương sau →</a>

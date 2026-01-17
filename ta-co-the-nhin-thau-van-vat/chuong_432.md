@@ -4,6 +4,8 @@ title: Chương 432: Sinh cơ khí (2)
 chapter_number: 432
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mọi người đều biết Lục Thanh đang ở trong tình cảnh vô cùng nguy hiểm, nên bất luận có nghi vấn gì cũng phải chờ hắn vượt qua thiên kiếp xong mới hỏi.
+Lục Th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -106,8 +108,7 @@ Vừa dứt ý niệm, một đạo Thần Hồn Phù bay ra từ huyệt Thần
 
 **Thông tin chương:**
 - Số chương: 432
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-432](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-432)
-- Thời gian scrape: 2026-01-17 10:27:34
+- Thời gian cập nhật: 2026-01-17 10:27:34
 
 <div class="chapter-nav">
     <a href="chuong_431.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_433.html" class="nav-btn">Chương sau →</a>

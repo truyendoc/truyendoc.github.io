@@ -4,6 +4,9 @@ title: Chương 260: Cuồng Loạn
 chapter_number: 260
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Còn nữa, ta muốn ngươi dùng mọi thủ đoạn có thể để tìm ra kẻ đã g**t ch*t Nghiêu nhi.”
+“Không băm thây hắn vạn đoạn, ta thề không bỏ qua!”
+Lão thái quân ngh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -73,8 +76,7 @@ Lão giả gật đầu. “Lão Đại Trịnh gia năm đó đúng là thiên 
 
 **Thông tin chương:**
 - Số chương: 260
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-260](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-260)
-- Thời gian scrape: 2026-01-17 10:19:46
+- Thời gian cập nhật: 2026-01-17 10:19:46
 
 <div class="chapter-nav">
     <a href="chuong_259.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_261.html" class="nav-btn">Chương sau →</a>

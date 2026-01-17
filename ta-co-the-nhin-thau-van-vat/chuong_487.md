@@ -4,6 +4,9 @@ title: Chương 487
 chapter_number: 487
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhưng vẻ mặt hắn lại dữ tợn đến cực điểm.
+Trong đôi mắt lộ ra vẻ điên cuồng, hắn giơ cao hồ lô khổng lồ, miệng hồ lô nhắm thẳng vào Trần lão y.
+Một đạo quang...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -126,8 +129,7 @@ Chỉ thấy Lục Thanh chậm rãi bước về phía Hồ Lô Ôn Dịch đan
 
 **Thông tin chương:**
 - Số chương: 487
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-487](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-487)
-- Thời gian scrape: 2026-01-17 10:30:18
+- Thời gian cập nhật: 2026-01-17 10:30:18
 
 <div class="chapter-nav">
     <a href="chuong_486.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_488.html" class="nav-btn">Chương sau →</a>

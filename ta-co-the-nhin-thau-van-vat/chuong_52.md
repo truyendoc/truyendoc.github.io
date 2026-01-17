@@ -4,6 +4,8 @@ title: Chương 52: Đạt được thỏa thuận
 chapter_number: 52
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Nhỏ kia, đừng nói là ngươi nhắm tới hai con cá chạch hoàng kim của ta đấy chứ?”
+Thấy con thú đen cứ nhìn chằm chằm về hướng nhà bếp, Lục Thanh bất giác đưa ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -115,8 +117,7 @@ bước vào Khí Huyết cảnh, chỉ còn là vấn đề thời gian.
 
 **Thông tin chương:**
 - Số chương: 52
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-52](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-52)
-- Thời gian scrape: 2026-01-17 10:09:43
+- Thời gian cập nhật: 2026-01-17 10:09:43
 
 <div class="chapter-nav">
     <a href="chuong_51.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_53.html" class="nav-btn">Chương sau →</a>

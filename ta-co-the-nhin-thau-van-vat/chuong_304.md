@@ -4,6 +4,8 @@ title: Chương 304: Giết sạch
 chapter_number: 304
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong tửu lầu, không khí chết lặng.
+Chứng kiến Lục Thanh lấy một cước giẫm nát tên công tử mặt trắng, toàn bộ đệ tử Lưu Vân Tông còn sống sót đều run rẩy toà...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -110,8 +112,7 @@ Sắc mặt hắn tràn đầy kinh hoàng và phẫn nộ.
 
 **Thông tin chương:**
 - Số chương: 304
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-304](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-304)
-- Thời gian scrape: 2026-01-17 10:21:35
+- Thời gian cập nhật: 2026-01-17 10:21:35
 
 <div class="chapter-nav">
     <a href="chuong_303.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_305.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 162: Giao chiến
 chapter_number: 162
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong rừng, Lục Thanh đang truy đuổi gã thanh niên áo trắng không chút ngừng nghỉ.
+“Các hạ là cao thủ hậu thiên nội cảnh, cớ sao lại phải chạy trối chết như ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -74,8 +76,7 @@ Sức đao như sóng lớn cuộn trào bỗng biến thành dòng nước xo�
 
 **Thông tin chương:**
 - Số chương: 162
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-162](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-162)
-- Thời gian scrape: 2026-01-17 10:15:24
+- Thời gian cập nhật: 2026-01-17 10:15:24
 
 <div class="chapter-nav">
     <a href="chuong_161.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_163.html" class="nav-btn">Chương sau →</a>

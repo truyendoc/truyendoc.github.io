@@ -4,6 +4,9 @@ title: Chương 184: Quyết định
 chapter_number: 184
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lòng Trần lão y khẽ chấn động, rơi vào trầm tư.
+Thấy Trần lão y đã hiểu ý mình, thiếu niên áo vải mỉm cười.
+Hắn gật đầu chào Lục Thanh, rồi cầm gói Mai Hoa t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -57,8 +60,7 @@ Thấy hắn xuất hiện, Mã Cố cùng hai người đều kinh hãi — kh�
 
 **Thông tin chương:**
 - Số chương: 184
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-184](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-184)
-- Thời gian scrape: 2026-01-17 10:16:21
+- Thời gian cập nhật: 2026-01-17 10:16:21
 
 <div class="chapter-nav">
     <a href="chuong_183.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_185.html" class="nav-btn">Chương sau →</a>

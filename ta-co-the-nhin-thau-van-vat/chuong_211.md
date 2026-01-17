@@ -4,6 +4,9 @@ title: Chương 211: Túi Khí Vân Càn Khôn
 chapter_number: 211
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Người trẻ tuổi kia… là người của Ngụy phủ sao?”
+Nhìn theo bóng lưng Lục Thanh đang rời đi, trên mặt mọi người đều hiện rõ vẻ kinh ngạc.
+Không ai ngờ thân ph...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -129,8 +132,7 @@ Phía trước, một nam tử trung niên phong độ nhàn nhã, miệng mỉm
 
 **Thông tin chương:**
 - Số chương: 211
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-211](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-211)
-- Thời gian scrape: 2026-01-17 10:17:31
+- Thời gian cập nhật: 2026-01-17 10:17:31
 
 <div class="chapter-nav">
     <a href="chuong_210.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_212.html" class="nav-btn">Chương sau →</a>

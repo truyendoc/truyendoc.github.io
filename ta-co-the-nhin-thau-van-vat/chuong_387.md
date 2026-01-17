@@ -4,6 +4,9 @@ title: Chương 387: Tốc độ cực hạn
 chapter_number: 387
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thật ra những người ngồi trong xe như Lục Thanh, nhờ có trận pháp bảo hộ, nên hoàn toàn không chịu ảnh hưởng gì.
+“Quá nhanh rồi.”
+Trần Lão y không kìm được, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -104,8 +107,7 @@ Khi cỗ xe lại bắt đầu tăng tốc,Trần lão y âm thầm truyền âm
 
 **Thông tin chương:**
 - Số chương: 387
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-387](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-387)
-- Thời gian scrape: 2026-01-17 10:25:19
+- Thời gian cập nhật: 2026-01-17 10:25:19
 
 <div class="chapter-nav">
     <a href="chuong_386.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_388.html" class="nav-btn">Chương sau →</a>

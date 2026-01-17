@@ -4,6 +4,9 @@ title: Chương 477
 chapter_number: 477
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thành chủ Thanh Long khi nghe tiếng hô của Tề lão Ngũ, trong lòng lập tức dâng lên một cảm giác bất an.
+Ông ta muốn né tránh, nhưng đã quá muộn.
+Các cường gi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,8 +96,7 @@ Thành chủ Thanh Long cũng không ngờ rằng, người dám đứng ra ch�
 
 **Thông tin chương:**
 - Số chương: 477
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-477](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-477)
-- Thời gian scrape: 2026-01-17 10:29:48
+- Thời gian cập nhật: 2026-01-17 10:29:48
 
 <div class="chapter-nav">
     <a href="chuong_476.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_478.html" class="nav-btn">Chương sau →</a>

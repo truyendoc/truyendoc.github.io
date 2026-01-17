@@ -4,6 +4,9 @@ title: Chương 498
 chapter_number: 498
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong mật thất dưới lòng đất của phủ Ngụy.
+Khi Lục Thanh nhập định, thần hồn tiến vào Ly Hỏa Đỉnh, Ngụy Sơn Hải luôn ở trong trạng thái thấp thỏm bất an.
+Bởi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,8 +89,7 @@ Thấy sắc mặt người trung niên thay đổi, Lục Thanh khẽ mỉm cư
 
 **Thông tin chương:**
 - Số chương: 498
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-498](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-498)
-- Thời gian scrape: 2026-01-17 10:30:50
+- Thời gian cập nhật: 2026-01-17 10:30:50
 
 <div class="chapter-nav">
     <a href="chuong_497.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_499.html" class="nav-btn">Chương sau →</a>

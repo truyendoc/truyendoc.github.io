@@ -4,6 +4,9 @@ title: Chương 4: Điểm câu cá kỳ lạ
 chapter_number: 4
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh, theo sau là một nhóm nhóc con háo hức, cùng nhau đi đến bờ sông ngoài rìa làng.
+Dòng sông này không lớn, chỗ rộng nhất chỉ khoảng mười mét.
+Tuy kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -91,8 +94,7 @@ Thấy bọn trẻ đều nghe lời, Lục Thanh hài lòng, xách cần câu v
 
 **Thông tin chương:**
 - Số chương: 4
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-4](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-4)
-- Thời gian scrape: 2026-01-17 10:07:42
+- Thời gian cập nhật: 2026-01-17 10:07:42
 
 <div class="chapter-nav">
     <a href="chuong_3.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_5.html" class="nav-btn">Chương sau →</a>

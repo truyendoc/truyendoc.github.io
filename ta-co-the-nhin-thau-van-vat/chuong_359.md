@@ -4,6 +4,8 @@ title: Chương 359: Thanh long Thành (2)
 chapter_number: 359
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh dời ánh mắt lên ba chữ “Thanh Long Thành” trên cổng thành.
+Chẳng bao lâu sau, từ những nét chữ ấy hiện lên một tầng Kim quang của Dị năng vô cù...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,8 +83,7 @@ Vị Thành Vệ lên tiếng là một thanh niên diện mạo đoan chính.
 
 **Thông tin chương:**
 - Số chương: 359
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-359](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-359)
-- Thời gian scrape: 2026-01-17 10:23:57
+- Thời gian cập nhật: 2026-01-17 10:23:57
 
 <div class="chapter-nav">
     <a href="chuong_358.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_360.html" class="nav-btn">Chương sau →</a>

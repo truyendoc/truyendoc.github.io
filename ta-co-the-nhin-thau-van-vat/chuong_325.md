@@ -4,6 +4,9 @@ title: Chương 325: Biến cố kinh thiên (2)
 chapter_number: 325
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sức chiến đấu hùng hậu như vậy, ngay cả Lưu Vân Tông bọn họ cũng không thể tập hợp được.
+“Chư vị, xin hãy bình tĩnh.”
+Đối diện với khí thế cường đại đủ khiến...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -102,8 +105,7 @@ Ngay khoảnh khắc tiếp theo — một biến cố kinh thiên động đị
 
 **Thông tin chương:**
 - Số chương: 325
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-325](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-325)
-- Thời gian scrape: 2026-01-17 10:22:29
+- Thời gian cập nhật: 2026-01-17 10:22:29
 
 <div class="chapter-nav">
     <a href="chuong_324.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_326.html" class="nav-btn">Chương sau →</a>

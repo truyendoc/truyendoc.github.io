@@ -4,6 +4,8 @@ title: Chương 509
 chapter_number: 509
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Nếu chỉ luyện nó thành pháp bảo chuyên dùng để phóng thích ôn dịch, chỉ thích hợp cho Ma Đạo, thì quả thực là phung phí.
+” “ Chủ Nhân, ngài tu luyện rất tạp...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,8 +111,7 @@ Còn ta, cần phải lên núi, đích thân bẩm báo việc này với Phư�
 
 **Thông tin chương:**
 - Số chương: 509
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-509](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-509)
-- Thời gian scrape: 2026-01-17 10:31:23
+- Thời gian cập nhật: 2026-01-17 10:31:23
 
 <div class="chapter-nav">
     <a href="chuong_508.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_510.html" class="nav-btn">Chương sau →</a>

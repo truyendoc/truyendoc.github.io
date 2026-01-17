@@ -4,6 +4,8 @@ title: Chương 151: Tiên thiên (5)
 chapter_number: 151
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ đã vào cảnh giới Tiên Thiên rồi, chẳng phải cũng không cần quá kiêng dè những cường giả Tiên Thiên khác nữa sao?” Lục Thanh hỏi.
+Trần lão y cười khổ:...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -72,8 +74,7 @@ gân cốt vang tiếng răng rắc giòn giã.
 
 **Thông tin chương:**
 - Số chương: 151
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-151](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-151)
-- Thời gian scrape: 2026-01-17 10:14:52
+- Thời gian cập nhật: 2026-01-17 10:14:52
 
 <div class="chapter-nav">
     <a href="chuong_150.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_152.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,9 @@ title: Chương 436: Sát ý của Lục Thanh (2)
 chapter_number: 436
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Là ngươi, tiểu súc sinh?!”
+Trong tất cả những người có mặt, người khiếp sợ nhất chính là Xuyên Nữu hòa thượng.
+Hắn không thể ngờ rằng kẻ khiến hắn trọng thư...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -104,8 +107,7 @@ Lời vừa dứt, Kim Cang Xử trước mặt hắn phát sáng rực rỡ.
 
 **Thông tin chương:**
 - Số chương: 436
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-436](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-436)
-- Thời gian scrape: 2026-01-17 10:27:45
+- Thời gian cập nhật: 2026-01-17 10:27:45
 
 <div class="chapter-nav">
     <a href="chuong_435.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_437.html" class="nav-btn">Chương sau →</a>

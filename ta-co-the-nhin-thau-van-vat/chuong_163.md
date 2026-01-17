@@ -4,6 +4,7 @@ title: Chương 163: Giao chiến (2)
 chapter_number: 163
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cổ tay Lục Thanh khẽ xoay, thân hình hòa cùng chiến đao. Đường đao uốn lượn linh hoạt như dòng suối trên núi, vẽ nên một cung huyền ảo quanh thân cây, chém t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -78,8 +79,7 @@ Nếu bây giờ dùng ra, e rằng khi gặp lại kẻ kia, gã sẽ không c�
 
 **Thông tin chương:**
 - Số chương: 163
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-163](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-163)
-- Thời gian scrape: 2026-01-17 10:15:26
+- Thời gian cập nhật: 2026-01-17 10:15:26
 
 <div class="chapter-nav">
     <a href="chuong_162.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_164.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 39: Suy nghĩ của Mã gia
 chapter_number: 39
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh cùng Đại An mua sắm khá nhiều ở phiên chợ, tự nhiên khiến không ít người để mắt tới.
+Vì vậy, khi hai người vừa rời đi, ở ngoài cổng chợ đã có mấy k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -94,8 +96,7 @@ Sau khi tiễn bạn, Lục Thanh cắt thêm một khúc thịt nhỏ nữa, r�
 
 **Thông tin chương:**
 - Số chương: 39
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-39](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-39)
-- Thời gian scrape: 2026-01-17 10:09:11
+- Thời gian cập nhật: 2026-01-17 10:09:11
 
 <div class="chapter-nav">
     <a href="chuong_38.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_40.html" class="nav-btn">Chương sau →</a>

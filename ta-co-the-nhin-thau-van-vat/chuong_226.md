@@ -4,6 +4,8 @@ title: Chương 226: Thời thế sắp thay đổi
 chapter_number: 226
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Tuy nhiên, dù “Gia chủ họ Tiền” đổi sắc mặt, hắn vẫn không nói lời nào.
+Thanh niên áo vải không để ý mà tiếp tục: “Nghe nói trong Thất Sát Lâu, Thất Thập Nhị...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,8 +95,7 @@ Hắn đã chủ ý làm vỡ mạch tim và qua đời.
 
 **Thông tin chương:**
 - Số chương: 226
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-226](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-226)
-- Thời gian scrape: 2026-01-17 10:18:12
+- Thời gian cập nhật: 2026-01-17 10:18:12
 
 <div class="chapter-nav">
     <a href="chuong_225.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_227.html" class="nav-btn">Chương sau →</a>

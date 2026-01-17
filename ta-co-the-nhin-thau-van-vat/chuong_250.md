@@ -4,6 +4,9 @@ title: Chương 250: Sinh linh trí
 chapter_number: 250
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Khả năng cảm ứng Thần Hồn của ta đã tăng mạnh.”
+Bên trong Ngọc Động, nơi trận pháp che giấu mọi thứ, Lục Thanh không cảm thấy rõ rệt lắm.
+Nhưng sau khi bước...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,8 +78,7 @@ Sau khi xử lý xong mọi thứ, Lục Thanh cùng Tiểu Ly tiếp tục men 
 
 **Thông tin chương:**
 - Số chương: 250
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-250](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-250)
-- Thời gian scrape: 2026-01-17 10:19:21
+- Thời gian cập nhật: 2026-01-17 10:19:21
 
 <div class="chapter-nav">
     <a href="chuong_249.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_251.html" class="nav-btn">Chương sau →</a>

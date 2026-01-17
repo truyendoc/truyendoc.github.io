@@ -4,6 +4,8 @@ title: Chương 276: Thị uy
 chapter_number: 276
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ánh mắt của mấy vị võ giả Tiên Thiên đồng loạt rơi xuống người Lục Thanh, khiến bọn họ một lần nữa chấn động.
+Bởi vì trên người Lục Thanh, bọn họ không hề cả...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -76,8 +78,7 @@ Vừa dứt lời, lão tóc bạc giật mình:
 
 **Thông tin chương:**
 - Số chương: 276
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-276](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-276)
-- Thời gian scrape: 2026-01-17 10:20:26
+- Thời gian cập nhật: 2026-01-17 10:20:26
 
 <div class="chapter-nav">
     <a href="chuong_275.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_277.html" class="nav-btn">Chương sau →</a>

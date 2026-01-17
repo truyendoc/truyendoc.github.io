@@ -4,6 +4,8 @@ title: Chương 179: Tin tức
 chapter_number: 179
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ta không biết Thánh Sơn giữ lực lượng gì mà có thể kìm chế được những người cực mạnh ở Cảnh Tiên Thiên!”
+“May mà có lệnh cấm ấy, nếu không, có lẽ bây giờ ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,8 +105,7 @@ Nghe câu hỏi, lão y có vẻ lúng túng, lắc đầu: “Ta chưa từng n
 
 **Thông tin chương:**
 - Số chương: 179
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-179](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-179)
-- Thời gian scrape: 2026-01-17 10:16:09
+- Thời gian cập nhật: 2026-01-17 10:16:09
 
 <div class="chapter-nav">
     <a href="chuong_178.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_180.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 190: Chiến đấu
 chapter_number: 190
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lúc này, gần cổng thành, không chỉ có đệ tử của Thanh lam tông mà còn có vô số võ giả đến từ các thế lực lớn nhỏ trong thành.
+Tất cả đều là những cao thủ hàn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -126,8 +128,7 @@ Lục Thanh mỉm cười, thong thả nói:
 
 **Thông tin chương:**
 - Số chương: 190
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-190](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-190)
-- Thời gian scrape: 2026-01-17 10:16:37
+- Thời gian cập nhật: 2026-01-17 10:16:37
 
 <div class="chapter-nav">
     <a href="chuong_189.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_191.html" class="nav-btn">Chương sau →</a>

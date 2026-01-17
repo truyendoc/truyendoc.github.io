@@ -4,6 +4,9 @@ title: Chương 208: Tiệm sách
 chapter_number: 208
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ ngụy Gia chủ , vậy tôi xin phép về trước.”
+Mã Cố cúi chào Ngụy Tinh Hà rồi tiến về cổng chính của Ngụy phủ.
+Theo sau hắn, Tổng quản Ngụy gia dẫn theo một đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,8 +102,7 @@ Lần này, hắn làm sau khi kích hoạt dị năng, rồi từ từ tìm ki�
 
 **Thông tin chương:**
 - Số chương: 208
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-208](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-208)
-- Thời gian scrape: 2026-01-17 10:17:23
+- Thời gian cập nhật: 2026-01-17 10:17:23
 
 <div class="chapter-nav">
     <a href="chuong_207.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_209.html" class="nav-btn">Chương sau →</a>

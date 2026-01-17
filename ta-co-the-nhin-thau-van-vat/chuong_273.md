@@ -4,6 +4,8 @@ title: Chương 273: Một đao chém đứt cánh tay
 chapter_number: 273
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Hắn thật sự đã thoát ra khỏi thành? Sao hắn có thể nhanh đến vậy?”
+Cảm ứng được khí tức của Lục Thanh ở ngoài thành, Trịnh lão thái thái vừa kinh hãi vừa ph...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -108,8 +110,7 @@ Cùng lúc đó, vang lên một câu —
 
 **Thông tin chương:**
 - Số chương: 273
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-273](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-273)
-- Thời gian scrape: 2026-01-17 10:20:18
+- Thời gian cập nhật: 2026-01-17 10:20:18
 
 <div class="chapter-nav">
     <a href="chuong_272.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_274.html" class="nav-btn">Chương sau →</a>

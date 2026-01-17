@@ -4,6 +4,8 @@ title: Chương 485
 chapter_number: 485
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không tự chủ được, trong lòng nam tử áo xám dần nảy sinh ý định rút lui.
+Thiếu niên họ Cơ kia tuy là một lò đỉnh hiếm có, nhưng so với an nguy của bản thân t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -58,8 +60,7 @@ Nam tử áo xám đang rút lui, đôi mắt trong nháy mắt trợn trừng, 
 
 **Thông tin chương:**
 - Số chương: 485
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-485](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-485)
-- Thời gian scrape: 2026-01-17 10:30:13
+- Thời gian cập nhật: 2026-01-17 10:30:13
 
 <div class="chapter-nav">
     <a href="chuong_484.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_486.html" class="nav-btn">Chương sau →</a>

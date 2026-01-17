@@ -4,6 +4,8 @@ title: Chương 90: Nhân sâm hai trăm năm
 chapter_number: 90
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tiểu Ly, chỗ này chính là nơi ngươi tìm thấy nhân sâm phải không?” — Lục Thanh vừa quan sát xung quanh, vừa hỏi con linh thú nhỏ đang đậu trên vai mình.
+Lúc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -91,8 +93,7 @@ Làm xong tất cả, hắn duỗi lưng, ngẩng đầu nhìn cánh rừng phí
 
 **Thông tin chương:**
 - Số chương: 90
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-90](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-90)
-- Thời gian scrape: 2026-01-17 10:11:54
+- Thời gian cập nhật: 2026-01-17 10:11:54
 
 <div class="chapter-nav">
     <a href="chuong_89.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_91.html" class="nav-btn">Chương sau →</a>

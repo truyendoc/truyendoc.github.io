@@ -4,6 +4,9 @@ title: Chương 91: Ngọn núi bất thường
 chapter_number: 91
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: 【Nhân sâm: Dược thảo quý hiếm, vô độc, có thể ăn.】
+【Gốc nhân sâm này đã sinh trưởng hơn một trăm năm.】
+【Tương truyền nhân sâm có nhiều công dụng thần kỳ, nhữ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,8 +78,7 @@ Nghĩ đến đây, Lục Thanh quay sang con linh thú nhỏ bên cạnh:
 
 **Thông tin chương:**
 - Số chương: 91
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-91](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-91)
-- Thời gian scrape: 2026-01-17 10:11:57
+- Thời gian cập nhật: 2026-01-17 10:11:57
 
 <div class="chapter-nav">
     <a href="chuong_90.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_92.html" class="nav-btn">Chương sau →</a>

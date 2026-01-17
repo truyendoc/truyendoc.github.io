@@ -4,6 +4,8 @@ title: Chương 285: Trời đất thay đổi
 chapter_number: 285
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Địa Linh Châu vừa tiến vào huyệt vị giữa hai đầu mày liền trực tiếp bay về trung tâm.
+Đồng thời, Thần Hồn Phù cũng đột ngột thu nhỏ lại, lao thẳng về phía Đị...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,8 +84,7 @@ Quá nhiều vấn đề đè nặng trong lòng lão giả, khiến tâm tình 
 
 **Thông tin chương:**
 - Số chương: 285
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-285](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-285)
-- Thời gian scrape: 2026-01-17 10:20:48
+- Thời gian cập nhật: 2026-01-17 10:20:48
 
 <div class="chapter-nav">
     <a href="chuong_284.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_286.html" class="nav-btn">Chương sau →</a>

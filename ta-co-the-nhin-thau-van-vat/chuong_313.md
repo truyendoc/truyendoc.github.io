@@ -4,6 +4,9 @@ title: Chương 313: Thần hồn huyễn thuật (2)
 chapter_number: 313
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Bởi vì lòng dâm loạn của mình, hắn tự tay giết huynh trưởng và tẩu tử,” Lục Thanh nhàn nhạt nói.
+Trần lão y trầm mặc không nói lời nào.
+“Người của Lưu Vân T...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -101,8 +104,7 @@ Lục Thanh và những người đồng hành vẫn lắng nghe nãy giờ cũn
 
 **Thông tin chương:**
 - Số chương: 313
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-313](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-313)
-- Thời gian scrape: 2026-01-17 10:21:59
+- Thời gian cập nhật: 2026-01-17 10:21:59
 
 <div class="chapter-nav">
     <a href="chuong_312.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_314.html" class="nav-btn">Chương sau →</a>

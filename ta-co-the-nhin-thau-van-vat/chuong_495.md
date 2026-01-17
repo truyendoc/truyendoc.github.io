@@ -4,6 +4,7 @@ title: Chương 495
 chapter_number: 495
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đúng vậy, hiện tại chiếc đại đỉnh đã khôi phục được một phần uy năng. Việc luyện hóa nó tuyệt đối không phải chuyện mà người bình thường có thể làm được. Cầ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,8 +87,7 @@ ngay khoảnh khắc thần hồn chi lực vừa tiến vào Ly Hỏa Đỉnh, 
 
 **Thông tin chương:**
 - Số chương: 495
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-495](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-495)
-- Thời gian scrape: 2026-01-17 10:30:42
+- Thời gian cập nhật: 2026-01-17 10:30:42
 
 <div class="chapter-nav">
     <a href="chuong_494.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_496.html" class="nav-btn">Chương sau →</a>

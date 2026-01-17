@@ -4,6 +4,9 @@ title: Chương 302: Bị dẫm nát dưới chân
 chapter_number: 302
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Trần lão y, Công tử, xem ra đây đều là dân trong trấn,” Mã Cố bước lên kiểm tra mấy thi thể rồi bẩm lại.
+“Ừm,” Trần lão y khẽ gật đầu, sắc mặt lạnh xuống.
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,8 +83,7 @@ Hắn nhìn Triệu Khiên Lâm, khóe môi nhếch lên nụ cười tàn nhẫ
 
 **Thông tin chương:**
 - Số chương: 302
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-302](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-302)
-- Thời gian scrape: 2026-01-17 10:21:30
+- Thời gian cập nhật: 2026-01-17 10:21:30
 
 <div class="chapter-nav">
     <a href="chuong_301.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_303.html" class="nav-btn">Chương sau →</a>

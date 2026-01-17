@@ -4,6 +4,9 @@ title: Chương 15: Cần mới, bãi câu mới
 chapter_number: 15
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh khẽ vung cần, khuôn mặt đầy vẻ tự hào.
+Tuy được làm vội, nhưng chất lượng của cần câu mới quả thật không tồi chút nào.
+Trong mắt hắn lúc này, cần c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -138,8 +141,7 @@ quan sát mặt nước.
 
 **Thông tin chương:**
 - Số chương: 15
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-15](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-15)
-- Thời gian scrape: 2026-01-17 10:08:11
+- Thời gian cập nhật: 2026-01-17 10:08:11
 
 <div class="chapter-nav">
     <a href="chuong_14.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_16.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 16: Khúc sông mới và quả Huyết Hạnh
 chapter_number: 16
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Tại một khúc quanh của dòng sông, cuối cùng Lục Thanh cũng phát hiện ra một bãi câu mới.
+[Điểm câu sơ cấp: Nguồn nước dồi dào dưỡng chất, thủy thảo phong phú...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -111,8 +113,7 @@ khiến Lục Thanh lảo đảo suýt ngã!
 
 **Thông tin chương:**
 - Số chương: 16
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-16](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-16)
-- Thời gian scrape: 2026-01-17 10:08:14
+- Thời gian cập nhật: 2026-01-17 10:08:14
 
 <div class="chapter-nav">
     <a href="chuong_15.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_17.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 228: Thất sát lệnh
 chapter_number: 228
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thấy Lục Thanh không hề tỏ ra sợ hãi trước khả năng bị Thất Sát Lâu ám sát, ngay cả thanh niên áo vải cũng không khỏi sinh lòng thán phục.
+Lúc này, hắn phải ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -68,8 +70,7 @@ Như nhóm đệ tử Thanh Vân Kiếm Các, chính là một trong số đó.
 
 **Thông tin chương:**
 - Số chương: 228
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-228](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-228)
-- Thời gian scrape: 2026-01-17 10:18:18
+- Thời gian cập nhật: 2026-01-17 10:18:18
 
 <div class="chapter-nav">
     <a href="chuong_227.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_229.html" class="nav-btn">Chương sau →</a>

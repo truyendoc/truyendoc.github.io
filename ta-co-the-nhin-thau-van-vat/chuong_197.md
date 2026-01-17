@@ -4,6 +4,8 @@ title: Chương 197: Cảnh vực tiên thiên
 chapter_number: 197
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngụy Sơn Hải cũng kinh hãi không kém.
+Phương pháp “đóng băng kiếm khí” mà Trần lão y vừa thi triển mang vài phần tương tự với Cảnh Vực Tiên Thiên trong truyề...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -101,8 +103,7 @@ Nhưng Chi Duệ đã không để ý đến vẻ mặt kinh ngạc của bạn 
 
 **Thông tin chương:**
 - Số chương: 197
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-197](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-197)
-- Thời gian scrape: 2026-01-17 10:16:55
+- Thời gian cập nhật: 2026-01-17 10:16:55
 
 <div class="chapter-nav">
     <a href="chuong_196.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_198.html" class="nav-btn">Chương sau →</a>

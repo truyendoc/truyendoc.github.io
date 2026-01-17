@@ -4,6 +4,9 @@ title: Chương 401: Linh cảm của Hồ Trạch Chi (2)
 chapter_number: 401
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thì ra là vậy.”
+Lục Thanh khẽ gật đầu, nhớ lại những tin tức bản thân từng dùng Dị Năng thăm dò được. Trong mắt hắn thoáng qua một tia nghiêm nghị.
+“Không n...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -94,8 +97,7 @@ Tâm trạng ổn định lại, nàng bỗng nhớ ra điều gì.
 
 **Thông tin chương:**
 - Số chương: 401
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-401](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-401)
-- Thời gian scrape: 2026-01-17 10:26:01
+- Thời gian cập nhật: 2026-01-17 10:26:01
 
 <div class="chapter-nav">
     <a href="chuong_400.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_402.html" class="nav-btn">Chương sau →</a>

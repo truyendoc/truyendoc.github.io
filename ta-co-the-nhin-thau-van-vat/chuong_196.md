@@ -4,6 +4,8 @@ title: Chương 196: Trần lão y ra tay
 chapter_number: 196
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Vào khoảnh khắc đó, quản gia Ngụy mới nhận ra người bên cạnh xe bò chính là Lục Thanh và Mã Cố, ngay cả Tiểu Nhan cũng đang ngồi trên xe.
+Còn lão nhân đánh x...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,8 +88,7 @@ Vương Thương Dực nhìn cảnh ấy, mặt đầy chấn động, khẽ l�
 
 **Thông tin chương:**
 - Số chương: 196
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-196](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-196)
-- Thời gian scrape: 2026-01-17 10:16:52
+- Thời gian cập nhật: 2026-01-17 10:16:52
 
 <div class="chapter-nav">
     <a href="chuong_195.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_197.html" class="nav-btn">Chương sau →</a>

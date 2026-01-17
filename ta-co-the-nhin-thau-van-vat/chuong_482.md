@@ -4,6 +4,8 @@ title: Chương 482
 chapter_number: 482
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Tốc độ của hắn không chậm, chẳng bao lâu sau đã khắc xong một trận pháp huyền ảo.
+Chiếc giường gỗ nơi Tam thiếu gia nhà họ Cơ nằm vừa khéo ở chính giữa trận ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -117,8 +119,7 @@ Trái lại, ấn ký sương độc trên người Tam thiếu gia nhà họ C�
 
 **Thông tin chương:**
 - Số chương: 482
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-482](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-482)
-- Thời gian scrape: 2026-01-17 10:30:03
+- Thời gian cập nhật: 2026-01-17 10:30:03
 
 <div class="chapter-nav">
     <a href="chuong_481.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_483.html" class="nav-btn">Chương sau →</a>

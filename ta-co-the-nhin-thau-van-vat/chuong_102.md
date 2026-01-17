@@ -4,6 +4,7 @@ title: Chương 102: Báo ân sư phụ
 chapter_number: 102
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thưa sư phụ, trong chuyến đi lên núi, con tình cờ phát hiện một hang động rất kỳ lạ. Trong đó có một loại linh dịch thần bí. Sau khi Tiểu Ly uống vào, nó đã...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -77,8 +78,7 @@ gương mặt ông ánh lên vẻ ngẩn ngơ khó tả.
 
 **Thông tin chương:**
 - Số chương: 102
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-102](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-102)
-- Thời gian scrape: 2026-01-17 10:12:29
+- Thời gian cập nhật: 2026-01-17 10:12:29
 
 <div class="chapter-nav">
     <a href="chuong_101.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_103.html" class="nav-btn">Chương sau →</a>

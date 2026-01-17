@@ -4,6 +4,9 @@ title: Chương 377: Vạn vật đổi thay, thiên địa dị động
 chapter_number: 377
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Sư phụ, sư huynh, hai người đã về rồi!”
+Tiểu đồ đệ vui mừng kêu lên khi thấy hai người bước vào từ bên ngoài.
+“Đúng vậy, chúng ta đã về một lúc rồi, nhưng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,8 +78,7 @@ Hắn chắp tay, chuẩn bị rời đi.
 
 **Thông tin chương:**
 - Số chương: 377
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-377](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-377)
-- Thời gian scrape: 2026-01-17 10:24:50
+- Thời gian cập nhật: 2026-01-17 10:24:50
 
 <div class="chapter-nav">
     <a href="chuong_376.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_378.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 475
 chapter_number: 475
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh chỉ bằng một đạo kiếm khí đã phế bỏ Tề gia Nhị gia, lập tức khiến toàn bộ những người có mặt đều bị trấn nhiếp.
+Mọi ánh mắt nhìn về phía hắn đều kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -90,8 +92,7 @@ Lần này, tất cả mọi người lại một phen kinh ngạc.
 
 **Thông tin chương:**
 - Số chương: 475
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-475](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-475)
-- Thời gian scrape: 2026-01-17 10:29:42
+- Thời gian cập nhật: 2026-01-17 10:29:42
 
 <div class="chapter-nav">
     <a href="chuong_474.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_476.html" class="nav-btn">Chương sau →</a>

@@ -4,6 +4,8 @@ title: Chương 474
 chapter_number: 474
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Tề gia Ngũ gia không ngờ bị phế mất một cánh tay, hơn nữa từ khí tức và tình trạng trong cơ thể hắn mà xét, tình hình hoàn toàn không khả quan.
+Mọi người đều...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -131,8 +133,7 @@ Nếu chẳng may cơn tức giận còn sót lại của đối phương trút 
 
 **Thông tin chương:**
 - Số chương: 474
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-474](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-474)
-- Thời gian scrape: 2026-01-17 10:29:39
+- Thời gian cập nhật: 2026-01-17 10:29:39
 
 <div class="chapter-nav">
     <a href="chuong_473.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_475.html" class="nav-btn">Chương sau →</a>

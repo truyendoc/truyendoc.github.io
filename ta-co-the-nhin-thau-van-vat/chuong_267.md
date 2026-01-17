@@ -4,6 +4,8 @@ title: Chương 267: Trận chiến đầu tiên với Tiên Thiên
 chapter_number: 267
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không ai ngờ rằng vừa mới giao thủ, hai người đã đấu đến mức độ này.
+Cứ thế, Lục Thanh và Ngụy Sơn Hải dùng đao pháp cực nhanh chém giết lẫn nhau liên tục hơ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -116,8 +118,7 @@ Hắn tiếp tục lựa chọn – lấy cứng chọi cứng!
 
 **Thông tin chương:**
 - Số chương: 267
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-267](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-267)
-- Thời gian scrape: 2026-01-17 10:20:03
+- Thời gian cập nhật: 2026-01-17 10:20:03
 
 <div class="chapter-nav">
     <a href="chuong_266.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_268.html" class="nav-btn">Chương sau →</a>

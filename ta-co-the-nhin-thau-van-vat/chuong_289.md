@@ -4,6 +4,8 @@ title: Chương 289: Quyết định của Trần lão y
 chapter_number: 289
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Biết được kết cục cuối cùng của Trịnh gia từ miệng Ngụy Sơn Hải, Lục Thanh cảm thấy vô cùng mãn ý.
+Xem ra vị Thành Chủ kia quả nhiên xử sự công bằng, không d...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -107,8 +109,7 @@ Hai ngày sau, một bóng người lảo đảo, áo quần rách nát xuất h
 
 **Thông tin chương:**
 - Số chương: 289
-- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-289](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-289)
-- Thời gian scrape: 2026-01-17 10:20:58
+- Thời gian cập nhật: 2026-01-17 10:20:58
 
 <div class="chapter-nav">
     <a href="chuong_288.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_290.html" class="nav-btn">Chương sau →</a>
