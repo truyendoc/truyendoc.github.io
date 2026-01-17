@@ -3,141 +3,95 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Truyện Đọc - Danh Sách Truyện</title>
-    <style>
-        :root {
-            --bg-color: #1a1a1a;
-            --card-bg: #2d2d2d;
-            --text-color: #e0e0e0;
-            --accent-color: #3f51b5;
-            --hover-color: #536dfe;
-            --meta-color: #9e9e9e;
-        }
-        
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-        }
-        
-        .container {
-            max_width: 800px;
-            margin: 0 auto;
-        }
-        
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-            padding-bottom: 20px;
-            border-bottom: 1px solid #333;
-        }
-        
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-            color: #fff;
-        }
-        
-        p.subtitle {
-            color: var(--meta-color);
-            font-size: 1.1rem;
-        }
-        
-        .story-list {
-            display: grid;
-            gap: 20px;
-        }
-        
-        .story-card {
-            background-color: var(--card-bg);
-            border-radius: 8px;
-            padding: 20px;
-            transition: transform 0.2s, box-shadow 0.2s;
-            text-decoration: none;
-            color: inherit;
-            display: block;
-            border: 1px solid #333;
-        }
-        
-        .story-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-            border-color: var(--accent-color);
-        }
-        
-        .story-title {
-            font-size: 1.25rem;
-            font-weight: 600;
-            margin: 0 0 10px 0;
-            color: var(--accent-color);
-        }
-        
-        .story-card:hover .story-title {
-            color: var(--hover-color);
-        }
-        
-        .story-meta {
-            font-size: 0.9rem;
-            color: var(--meta-color);
-            display: flex;
-            justify_content: space-between;
-        }
-        
-        footer {
-            margin-top: 50px;
-            text-align: center;
-            color: var(--meta-color);
-            font-size: 0.9rem;
-            border-top: 1px solid #333;
-            padding-top: 20px;
-        }
-    </style>
+    <title>Truyện Đọc - Thư Viện</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Lora:ital,wght@0,400;0,700;1,400&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+    <header class="site-header">
+        <div class="container header-inner">
+            <a href="index.html" class="site-title">
+                📚 Truyện Đọc
+            </a>
+            
+            <div class="settings-bar">
+                 <button id="theme-toggle" class="btn-icon" title="Đổi giao diện">🌞</button>
+            </div>
+        </div>
+    </header>
+
     <div class="container">
-        <header>
-            <h1>📚 Truyện Đọc</h1>
-            <p class="subtitle">Kho truyện convert cập nhật tự động</p>
-        </header>
-        
-        <div class="story-list">
+        <div class="main-content">
+            <h1>📚 Thư Viện Truyện</h1>
+            <p>Kho truyện convert được cập nhật tự động mới nhất.</p>
             
-            <a href="vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/" class="story-card">
-                <h2 class="story-title">vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a</h2>
-                <div class="story-meta">
-                    <span>Cập nhật: 2026-01-17 09:53</span>
-                </div>
-            </a>
-            
-            <a href="tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/" class="story-card">
-                <h2 class="story-title">tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime</h2>
-                <div class="story-meta">
-                    <span>Cập nhật: 2026-01-17 09:53</span>
-                </div>
-            </a>
-            
-            <a href="bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/" class="story-card">
-                <h2 class="story-title">bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong</h2>
-                <div class="story-meta">
-                    <span>Cập nhật: 2026-01-17 09:53</span>
-                </div>
-            </a>
-            
-            <a href="_layouts/" class="story-card">
-                <h2 class="story-title">_layouts</h2>
-                <div class="story-meta">
-                    <span>Cập nhật: 2026-01-17 09:52</span>
-                </div>
-            </a>
-            
+            <div class="story-grid">
+                
+                <a href="assets/" class="story-card">
+                    <div class="story-card-body">
+                        <h2 class="story-card-title">assets</h2>
+                        <div class="story-card-meta">
+                            <span>📅 2026-01-17</span>
+                            <span>📖 Đọc ngay</span>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/" class="story-card">
+                    <div class="story-card-body">
+                        <h2 class="story-card-title">vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a</h2>
+                        <div class="story-card-meta">
+                            <span>📅 2026-01-17</span>
+                            <span>📖 Đọc ngay</span>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/" class="story-card">
+                    <div class="story-card-body">
+                        <h2 class="story-card-title">tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime</h2>
+                        <div class="story-card-meta">
+                            <span>📅 2026-01-17</span>
+                            <span>📖 Đọc ngay</span>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/" class="story-card">
+                    <div class="story-card-body">
+                        <h2 class="story-card-title">bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong</h2>
+                        <div class="story-card-meta">
+                            <span>📅 2026-01-17</span>
+                            <span>📖 Đọc ngay</span>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="_layouts/" class="story-card">
+                    <div class="story-card-body">
+                        <h2 class="story-card-title">_layouts</h2>
+                        <div class="story-card-meta">
+                            <span>📅 2026-01-17</span>
+                            <span>📖 Đọc ngay</span>
+                        </div>
+                    </div>
+                </a>
+                
+            </div>
         </div>
         
-        <footer>
-            <p>Generated at 2026-01-17 09:53:34</p>
+        <footer class="site-footer">
+            <p>Generated at 2026-01-17 09:57:54</p>
         </footer>
     </div>
+
+    <!-- Custom JS -->
+    <script src="assets/js/main.js"></script>
 </body>
 </html>
