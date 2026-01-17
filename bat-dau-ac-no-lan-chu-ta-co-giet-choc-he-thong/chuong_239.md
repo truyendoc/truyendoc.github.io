@@ -4,6 +4,11 @@ title: Chương 239: Pháp tướng cảnh bát trọng (2)
 chapter_number: 239
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 233: Pháp tướng cảnh bát trọng (2)
+
+Sau đó một cái thuấn di liền biến mất không thấy gì nữa.
+
+Xuất hiện lần nữa, hắn đã đi tới một tòa trong thanh lâu...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

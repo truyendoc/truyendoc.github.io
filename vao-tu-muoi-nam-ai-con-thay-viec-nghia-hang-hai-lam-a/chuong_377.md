@@ -4,6 +4,11 @@ title: Chương 377: Có người đang tìm vô danh sách
 chapter_number: 377
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 377: Có người đang tìm vô danh sách
+
+Tào Côn lên tiếng, một chút liền để đứng tại cửa phòng thiếu phụ hồi thần lại.
+
+Mặc dù nàng không biết Tào Côn, n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

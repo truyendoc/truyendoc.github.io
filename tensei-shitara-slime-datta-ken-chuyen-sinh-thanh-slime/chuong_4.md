@@ -4,6 +4,13 @@ title: Chương 4
 chapter_number: 4
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tôi thật sự ngạc nhiên.
+
+Rất xin lỗi vì đã gọi ông là mềm yếu.
+
+Không nghi ngờ gì nữa. Rất nguy hiểm!
+
+Tôi sẽ lấy việc mình chưa thấy được để biện giải cho t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

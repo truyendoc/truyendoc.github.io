@@ -4,6 +4,11 @@ title: Chương 252: Sơ lộ khí binh thuật (1)
 chapter_number: 252
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 240: Sơ lộ khí binh thuật (1)
+
+Thẩm Dục nhìn chăm chú lên hẻm núi nói: “Là cái gì, các ngươi rất nhanh liền biết, chuẩn bị tâm lý thật tốt!”
+
+Cùng lúc...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

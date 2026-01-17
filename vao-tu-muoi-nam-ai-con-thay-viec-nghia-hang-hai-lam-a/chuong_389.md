@@ -4,6 +4,11 @@ title: Chương 389: Có qua có lại
 chapter_number: 389
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 389: Có qua có lại
+
+Vừa rạng sáng ngày thứ hai, trong phòng, Tào Côn tại duỗi cái lưng mệt mỏi về sau, từ trên giường nhảy xuống tới.
+
+Đến côn thành p...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

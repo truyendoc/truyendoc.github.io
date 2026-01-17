@@ -4,6 +4,8 @@ title: Chương 23: Viên Thạch Ngư Giáp Xanh và sự ngạc nhiên của T
 chapter_number: 23
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đêm đó, Lục Thanh ngủ rất say, đến mức không mộng mị, cũng chẳng nghe thấy tiếng gió ngoài hiên.
+Tiểu Nhan cũng không giật mình tỉnh giấc giữa đêm như mọi kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

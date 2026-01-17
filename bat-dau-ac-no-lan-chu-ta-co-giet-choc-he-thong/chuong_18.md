@@ -4,6 +4,11 @@ title: Chương 18: đến từ Ngu Tuyết Oánh mời chào
 chapter_number: 18
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 18 đến từ Ngu Tuyết Oánh mời chào
+
+Sau đó, Thẩm Dục ánh mắt rơi vào « Lưu Vân » cùng « Thần Mạch Thập Tam Kiếm » phía trên.
+
+Hai môn võ kỹ này còn có ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

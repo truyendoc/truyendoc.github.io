@@ -4,6 +4,8 @@ title: Chương 11: Trị châm và dược thiện
 chapter_number: 11
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tiểu Nhan, sao con biết ta đang luyện quyền vậy?” – Trần lão mỉm cười hỏi.
+“Con đâu có biết.” – Tiểu Nhan lắc đầu, nói rất thật thà. – “Là anh bảo con đó, a...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

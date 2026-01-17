@@ -4,6 +4,11 @@ title: Chương 542: Cho mẹ vợ lễ vật
 chapter_number: 542
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 542: Cho mẹ vợ lễ vật
+
+Kỳ thật, đối với Trương Bách Mộ tình cảnh, Tào Côn vẫn là rất có thể lý giải.
+
+Trương gia mặc dù là nữ nhân đương gia, nhưng là...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

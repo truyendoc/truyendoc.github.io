@@ -4,6 +4,9 @@ title: Chương 232
 chapter_number: 232
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Họ đã kết thúc cuộc nói chuyện, mặc kệ tiếng hét của Dino.
+
+Gã biết rằng, với tốc độ này, tình hình sẽ trở nên xấu đi, Dino bắt đầu nói ra kế hoạch vừa mới n...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

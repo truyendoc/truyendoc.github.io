@@ -4,6 +4,9 @@ title: Chương 319: Sơn tặc, đồ sát (2)
 chapter_number: 319
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ngươi muốn giao cô gái đó cho ta, hay để huynh đệ ta bắn chết nàng bằng mưa tên? Lựa chọn đi.”
+Sắc mặt trung niên mập mạp lại thay đổi.
+Hắn tự nhủ mình thật...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

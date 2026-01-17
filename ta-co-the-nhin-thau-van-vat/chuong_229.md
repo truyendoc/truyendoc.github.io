@@ -4,6 +4,9 @@ title: Chương 229: Sóng ngầm nổi lên
 chapter_number: 229
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Biến động chưa từng xuất hiện trong vạn năm là gì vậy?”
+Trong một tiểu viện, mấy đệ tử Thanh Vân Kiếm Các tụ lại, nhỏ giọng bàn luận.
+“Không rõ. Nhưng Thiên...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

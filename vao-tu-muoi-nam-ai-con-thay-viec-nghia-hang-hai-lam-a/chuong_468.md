@@ -4,6 +4,11 @@ title: Chương 468: Bận rộn lễ Giáng Sinh
 chapter_number: 468
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 468: Bận rộn lễ Giáng Sinh
+
+Trong phòng khách, Tào Côn vừa đem chén nước giơ lên bên miệng, đang chuẩn bị uống một ngụm.
+
+Mà khi nhìn đến như thế một ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

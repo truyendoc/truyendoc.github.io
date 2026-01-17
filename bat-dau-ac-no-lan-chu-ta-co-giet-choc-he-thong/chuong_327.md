@@ -4,6 +4,9 @@ title: Chương 327: Thẩm Dục trừ tam hại (2)
 chapter_number: 327
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 277: Thẩm Dục trừ tam hại (2)
+
+Nhị hoàng tử tự tin nói: “Yên tâm đi thanh di, ta lại không ngốc, làm sao có thể duy nhất một lần đem tất cả đều giao r...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

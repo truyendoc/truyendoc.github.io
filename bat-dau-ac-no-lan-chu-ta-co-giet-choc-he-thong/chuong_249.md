@@ -4,6 +4,9 @@ title: Chương 249: Người biểu diễn tú (2)
 chapter_number: 249
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 238: Người biểu diễn tú (2)
+
+Khương lão nhướng mày: “Vừa rồi vị kia Nguyên Thần cảnh cũng là chủ quan, nếu như hắn xuất thủ lần nữa, kia Thẩm Dục hẳn ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 71: không ăn đạo đức bắt cóc một bộ này
 chapter_number: 71
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 71 không ăn đạo đức bắt cóc một bộ này
+
+Sáng ngày hôm sau, trong Thẩm gia viện.
+
+Ngũ Tiểu Chích cùng Lý Linh Nhi cùng thường ngày, ra sức ở trong sân ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

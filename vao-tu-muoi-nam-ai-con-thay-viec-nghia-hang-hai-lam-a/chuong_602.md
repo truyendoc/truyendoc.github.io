@@ -4,6 +4,9 @@ title: Chương 602: Cảm giác giống như lão bằng hữu
 chapter_number: 602
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 602: Cảm giác giống như lão bằng hữu
+
+Cũng chính là căn cứ vào tình huống này, Tào Côn tại Hải Thành bên trong bị một số người truyền rất tàn bạo, rất...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

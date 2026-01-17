@@ -4,6 +4,13 @@ title: Chương 129: Tiết Càn
 chapter_number: 129
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 129: Tiết Càn
+
+Thoáng chớp mắt.
+
+Thẩm Dục liền mang theo dưới trướng tiểu đội tại trên quan đạo tuần tra mười ngày.
+
+Thông qua các lưu dân, Thẩm Dục b...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

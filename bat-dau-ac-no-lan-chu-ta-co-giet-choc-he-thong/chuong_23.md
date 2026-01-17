@@ -4,6 +4,13 @@ title: Chương 23: sau đó các phương phản ứng
 chapter_number: 23
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 23 sau đó các phương phản ứng
+
+Sáng sớm hôm sau.
+
+Thẩm Dục ngay tại Xuân Nha cùng Đông Nhi hầu hạ bên dưới tiến hành rửa mặt.
+
+Đột nhiên, Nhị Hổ vội v...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

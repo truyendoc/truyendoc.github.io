@@ -4,6 +4,9 @@ title: Chương 27
 chapter_number: 27
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Giờ, đã có được một cơ thể con người rồi, tôi không thể nào đi vòng quanh chỉ khoác lông thú suốt được.
+
+Cho nên tôi ngay lập tức yêu cầu làm một bộ quần áo....
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

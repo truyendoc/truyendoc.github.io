@@ -4,6 +4,11 @@ title: Chương 50
 chapter_number: 50
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ma nhân Grucius và Ma nhân Myulan hóa người và bước vào trong rừng.
+
+Họ dự tính sẽ sớm gặp nhóm người kia thôi.
+
+Grucius là Lang nhân tộc, nên nguyên hình tr...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

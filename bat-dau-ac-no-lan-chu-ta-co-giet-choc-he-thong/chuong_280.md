@@ -4,6 +4,9 @@ title: Chương 280: Nhị hoàng tử là nữ nhân (1)
 chapter_number: 280
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 254: Nhị hoàng tử là nữ nhân (1)
+
+Theo Thẩm Dục đem huyền cơ doanh thứ hai doanh Thiên phu trưởng Lâm Phi Vũ bắn thành trọng thương sau, tin tức cấp t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 202
 chapter_number: 202
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: --------------------------------------------------------
+
+\"Chết mất-ssu! Vừa rồi nguy quá-ssu!!\"
+
+Karion đưa mắt nhìn theo Gobuta đang vừa chạy vừa ré, anh t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

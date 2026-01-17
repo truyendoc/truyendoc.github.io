@@ -4,6 +4,14 @@ title: Chương 352: Lục Loan Loan thăm dò (1)
 chapter_number: 352
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 290: Lục Loan Loan thăm dò (1)
+
+Trung Vương phủ.
+
+Thẩm Dục nhập phủ sau, liền bị phủ đệ hạ nhân dẫn tới một tòa u tĩnh trong sân.
+
+Không đầy một lát.
+...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

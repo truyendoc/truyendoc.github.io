@@ -4,6 +4,11 @@ title: Chương 521: Sau cùng du lịch
 chapter_number: 521
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 521: Sau cùng du lịch
+
+Sáng sớm hôm sau, năm điểm.
+
+Bởi vì thời gian quá sớm, Hải Thành trên đường phố còn không có quá nhiều người đi đường và số lượ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

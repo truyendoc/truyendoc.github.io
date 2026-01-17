@@ -4,6 +4,9 @@ title: Chương 90: Tất cả đều là số đào hoa
 chapter_number: 90
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 90: Tất cả đều là số đào hoa
+
+Nghe được gã đeo kính nói, x cảng bên kia có thể xuất ra 4 ức, Hùng Bất Phàm chỉ là thoáng suy nghĩ một chút, liền làm r...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

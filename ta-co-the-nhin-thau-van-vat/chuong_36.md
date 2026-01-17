@@ -4,6 +4,9 @@ title: Chương 36: Quy tắc khi ra ngoài
 chapter_number: 36
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đại An ca! Đại An ca! Huynh có ở nhà không?”
+Trước căn nhà đất nhỏ, Lục Thanh đứng gọi lớn.
+“Ai đó, ai gọi ta thế?” — một giọng trầm vang lên, rồi từ trong ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

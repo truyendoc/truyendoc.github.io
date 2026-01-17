@@ -4,6 +4,11 @@ title: Chương 416: Bị nắm cự ngạc
 chapter_number: 416
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 416: Bị nắm cự ngạc
+
+Không bao lâu.
+
+Mặc áo khoác, mang theo khẩu trang cùng mũ nam nhân, dẫn theo vali xách tay đi tới số 8 nhà lầu tầng cao nhất, cũ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

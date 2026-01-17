@@ -4,6 +4,9 @@ title: Chương 32: Kế hoạch tiếp theo, mẫu nữ bất hoà
 chapter_number: 32
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 32: Kế hoạch tiếp theo, mẫu nữ bất hoà
+
+Quán cà phê trong rạp, trải qua một trận ngắn ngủi trầm mặc về sau, cuối cùng vẫn Vương San San trước tiên mở ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

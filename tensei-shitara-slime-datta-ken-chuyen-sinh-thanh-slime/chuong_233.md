@@ -4,6 +4,13 @@ title: Chương 233
 chapter_number: 233
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Vào lúc đó, Ramiris lặng lẽ lẩm bẩm,
+
+「Ah, quá trình cô lập đã hoàn thành rồi. 」
+
+Nghe vậy, những người xung quanh bắt đầu vội vã di chuyển.
+
+Benimaru cũng v...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

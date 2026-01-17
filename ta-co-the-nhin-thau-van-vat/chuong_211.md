@@ -4,6 +4,9 @@ title: Chương 211: Túi Khí Vân Càn Khôn
 chapter_number: 211
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Người trẻ tuổi kia… là người của Ngụy phủ sao?”
+Nhìn theo bóng lưng Lục Thanh đang rời đi, trên mặt mọi người đều hiện rõ vẻ kinh ngạc.
+Không ai ngờ thân ph...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

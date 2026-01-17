@@ -4,6 +4,9 @@ title: Chương 204
 chapter_number: 204
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Khi kế hoạch đã được thống nhất, Milim bảo rằng cô ấy sẽ dùng ma pháp mạnh nhất cô có, Draco Nova.
+
+Vậy là cổ sẽ dùng một ma pháp siêu cấp nguy hiểm, xứng da...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

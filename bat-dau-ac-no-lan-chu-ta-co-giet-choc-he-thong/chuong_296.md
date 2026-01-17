@@ -4,6 +4,11 @@ title: Chương 296: Hốt hoảng chỉ huy sứ (1)
 chapter_number: 296
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 262: Hốt hoảng chỉ huy sứ (1)
+
+Nghe được Thẩm Dục lời nói này, Thẩm Vũ Châu sắc mặt lập tức biến hết sức khó coi.
+
+Hắn cố gắng để cho mình tỉnh táo lạ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

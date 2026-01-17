@@ -4,6 +4,11 @@ title: Chương 10
 chapter_number: 10
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tộc Nha Lang.
+
+Những kẻ thống trị vùng đồng bằng phía đông.
+
+Nguyên nhân chính gây đau đầu cho các thương gia từ Đế quốc phía Đông và những quốc gia bao quan...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

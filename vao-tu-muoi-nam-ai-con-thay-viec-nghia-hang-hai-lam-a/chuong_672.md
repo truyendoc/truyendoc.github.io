@@ -4,6 +4,11 @@ title: Chương 672: Lão tử liền buồn bực
 chapter_number: 672
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 672: Lão tử liền buồn bực
+
+Nghe được Hạng Nam Nguyệt nói như vậy, nguyên bản còn muốn nói cái gì Tào Côn, cuối cùng chỉ là hít sâu một hơi.
+
+Bởi vì, H...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

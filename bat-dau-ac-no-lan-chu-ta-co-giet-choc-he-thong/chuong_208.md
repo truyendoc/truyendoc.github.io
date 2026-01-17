@@ -4,6 +4,13 @@ title: Chương 208: Tiết Ngạo Huyên
 chapter_number: 208
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 208: Tiết Ngạo Huyên
+
+Khi thấy Thẩm Dục là bị giơ lên trở về.
+
+Từ trên xuống dưới Thẩm gia đều đã bị kinh động.
+
+“Dục mà, ngươi thế nào?” Thẩm Lâm Thị...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

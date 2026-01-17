@@ -4,6 +4,11 @@ title: Chương 359: Tào Côn việc ác
 chapter_number: 359
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 359: Tào Côn việc ác
+
+\"Hi vọng hết thảy còn kịp, hi vọng hết thảy cũng đều tại khả khống bên trong.\"
+
+Thất thần nhìn xem bên trong căn phòng TV, Dương...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

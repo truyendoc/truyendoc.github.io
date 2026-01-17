@@ -4,6 +4,7 @@ title: Chương 238: Xếp hạng 29
 chapter_number: 238
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: [Danh sách này ghi lại một trăm võ giả Hậu Thiên trên toàn đại lục, những người được Thiên Cơ Lâu đánh giá là có tiềm lực đột phá lên cảnh Tiên Thiên cao nhấ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,9 @@ title: Chương 10: Quyền pháp của Trần lão
 chapter_number: 10
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh đột nhiên nhận ra — có lẽ mình đã thật sự trọng sinh vào một thế giới có năng lực siêu nhiên.
+Trong lòng hắn vừa vui mừng, vừa kinh ngạc.
+Vui là vì...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

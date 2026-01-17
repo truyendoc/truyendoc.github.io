@@ -4,6 +4,9 @@ title: Chương 259: Đoan vương cáo ốm (2)
 chapter_number: 259
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 243: Đoan vương cáo ốm (2)
+
+“Không tạo phản, chẳng lẽ trơ mắt nhìn đại vương đi Kinh thành bị giam lỏng, hoặc là bị cẩu hoàng đế g·iết c·hết?” Hồng hu...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

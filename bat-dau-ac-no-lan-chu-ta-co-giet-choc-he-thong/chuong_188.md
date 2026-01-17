@@ -4,6 +4,11 @@ title: Chương 188: quỷ quái
 chapter_number: 188
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 188: quỷ quái
+
+Thôn trưởng mang theo một đám tộc lão, đem Thẩm Dục bọn người mời vào trong nhà.
+
+“Chư vị đại nhân xin chờ một chút, tiểu lão nhân cái ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

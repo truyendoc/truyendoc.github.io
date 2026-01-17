@@ -4,6 +4,9 @@ title: Chương 334: Bốc Hạnh Phúc cái kia Ôn Nhu hiền lành truyền t
 chapter_number: 334
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 334: Bốc Hạnh Phúc cái kia Ôn Nhu hiền lành truyền thống tốt lão bà
+
+Coi là Hạng Nam Nguyệt còn không có đối Quách Hữu Lý cùng Quách Hữu Tài hai huynh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

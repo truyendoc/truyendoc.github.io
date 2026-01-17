@@ -4,6 +4,11 @@ title: Chương 207: phi đao miểu sát
 chapter_number: 207
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 207: phi đao miểu sát
+
+Lạc Nhật sơn mạch, nơi nào đó.
+
+Một đạo vô cùng nhanh chóng đao quang cùng hai đạo màu đen trảo quang quấn quanh lấy, đụng chạm...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

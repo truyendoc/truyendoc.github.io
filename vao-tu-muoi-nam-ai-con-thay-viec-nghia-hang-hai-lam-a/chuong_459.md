@@ -4,6 +4,11 @@ title: Chương 459: Trăm tỷ hào môn Thiếu nãi nãi
 chapter_number: 459
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 459: Trăm tỷ hào môn Thiếu nãi nãi
+
+Nghe được Vương San San nói như vậy, Tào Côn vội khoát khoát tay, giống như sợ nhiễm đến xúi quẩy.
+
+\"Ngừng ngừng n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

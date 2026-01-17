@@ -4,6 +4,9 @@ title: Chương 137: Cứu người (4)
 chapter_number: 137
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh nói:
+“ ngụy Phu nhân sẽ nhanh chóng khá hơn sau khi uống dược. Nhìn hơi thở của bà ấy đi, đã ổn định hơn nhiều rồi.”
+Anh rất tin tưởng vào dịch dượ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

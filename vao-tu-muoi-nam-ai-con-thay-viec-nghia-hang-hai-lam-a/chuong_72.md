@@ -4,6 +4,13 @@ title: Chương 72: Sàn đêm, Lưu đỏ
 chapter_number: 72
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 72: Sàn đêm, Lưu đỏ
+
+Nghe được Lưu Ngọc Linh nói như vậy, Tào Côn nhẹ gật đầu.
+
+Hắn đương nhiên minh bạch Lưu Ngọc Linh ý tứ.
+
+Đoạn thời gian trước nà...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 645: Bàng Hồng Na sư tỷ
 chapter_number: 645
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 645: Bàng Hồng Na sư tỷ
+
+Tào Côn nghĩ bạo nói tục, thế nhưng là, hết lần này tới lần khác còn không có cách nào nói ra.
+
+Bởi vì, dù sao cũng là hắn lú...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

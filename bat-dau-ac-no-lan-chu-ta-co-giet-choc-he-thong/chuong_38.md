@@ -4,6 +4,11 @@ title: Chương 38: truy tung
 chapter_number: 38
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 38 truy tung
+
+Nghe được Đoan Mộc Thông muốn Đồ Thôn, Dương Xuyên, Trần Nguyệt, Triệu Ngọc Long ba vị hộ pháp trưởng lão bỗng nhiên biến sắc.
+
+Bởi vì c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

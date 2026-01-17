@@ -4,6 +4,9 @@ title: Chương 134: Cứu người
 chapter_number: 134
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lục huynh, sao ngươi lại xuất hiện ở đây?”
+“Ta vào núi hái dược liệu, tình cờ gặp các người,” Lục Thanh đáp.
+Từ khi bước vào hậu thiên cốt cảnh, Lục Thanh đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

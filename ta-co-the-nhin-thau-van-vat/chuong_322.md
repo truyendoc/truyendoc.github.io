@@ -4,6 +4,9 @@ title: Chương 322: Lưu Vân Tông
 chapter_number: 322
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lưu Vân trấn?” Lục Thanh nhìn thị trấn phía trước, hỏi:
+“Từ tiền bối, trấn này có quan hệ gì với Lưu Vân Tông vậy?”
+“Trấn này vốn là phụ thuộc của Lưu Vân T...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

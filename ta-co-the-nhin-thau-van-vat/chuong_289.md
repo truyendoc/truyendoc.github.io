@@ -4,6 +4,8 @@ title: Chương 289: Quyết định của Trần lão y
 chapter_number: 289
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Biết được kết cục cuối cùng của Trịnh gia từ miệng Ngụy Sơn Hải, Lục Thanh cảm thấy vô cùng mãn ý.
+Xem ra vị Thành Chủ kia quả nhiên xử sự công bằng, không d...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

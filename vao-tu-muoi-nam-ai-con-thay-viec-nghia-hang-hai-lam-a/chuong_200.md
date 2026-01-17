@@ -4,6 +4,9 @@ title: Chương 200: Có giấu cự ngạc số 8 nhà lầu
 chapter_number: 200
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 200: Có giấu cự ngạc số 8 nhà lầu
+
+Thâm trầm, tiện Hề Hề thanh âm không có dấu hiệu nào tại sau lưng mình vang lên, kém chút đem Tôn Phỉ Phỉ dọa cho l...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

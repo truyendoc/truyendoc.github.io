@@ -4,6 +4,11 @@ title: Chương 362: Lần nữa đánh giết khí vận chi tử (1)
 chapter_number: 362
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 295: Lần nữa đánh giết khí vận chi tử (1)
+
+“Ngươi chính là trấn yêu tư người chủ sự?”
+
+Xích Diễm Tông tông chủ phương đông thắng mắt mang sát cơ rơi v...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

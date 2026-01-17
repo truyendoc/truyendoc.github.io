@@ -4,6 +4,13 @@ title: Chương 246: Trên đường gặp sát thủ (1)
 chapter_number: 246
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 237: Trên đường gặp sát thủ (1)
+
+Tại Bách hộ chỗ chờ không sai biệt lắm một khắc đồng hồ.
+
+Truyền chỉ thái giám rốt cục đến.
+
+Hơn nữa, cũng không phải...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

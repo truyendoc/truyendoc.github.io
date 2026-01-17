@@ -4,6 +4,15 @@ title: Chương 207
 chapter_number: 207
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Kagali cười.
+
+Một điệu cười thật tàn ác.
+
+Tất cả mọi thứ đều như ả muốn.
+
+Ả sắp có thể trả hận với tên Leon đáng ghét đó rồi.
+
+Tới lúc này thì chỉ còn là chu...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

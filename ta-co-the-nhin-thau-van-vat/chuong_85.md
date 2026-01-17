@@ -4,6 +4,8 @@ title: Chương 85: Bức thư
 chapter_number: 85
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Mã gia, chuyện ở Làng Hỉ Lạc đã được xử lý xong, nhưng mấy cô gái được cứu thì phải sắp xếp thế nào đây?”
+Đêm đó, trong sảnh lớn của phủ Mã gia, Tiểu Thiên ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

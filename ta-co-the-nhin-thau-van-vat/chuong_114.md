@@ -4,6 +4,9 @@ title: Chương 114: Tình hình hỗn loạn (2)
 chapter_number: 114
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thưa sư phụ, vừa rồi Mã gia sai người mang thư đến. Trong đó có nói vài chuyện, đệ tử cảm thấy cần bẩm lại với người.”
+Lục Thanh mở lời, giọng nghiêm túc.
+“...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

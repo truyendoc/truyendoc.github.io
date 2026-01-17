@@ -4,6 +4,11 @@ title: Chương 203: Quán bar rốt cục bắt đầu nháo sự
 chapter_number: 203
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 203: Quán bar rốt cục bắt đầu nháo sự
+
+Giống như ngày thường.
+
+Tại khoảng cách buổi chiều trên lớp khóa, còn có 15 phút khoảng chừng thời điểm, Vương ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

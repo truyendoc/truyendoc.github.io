@@ -4,6 +4,9 @@ title: Chương 518: Hiệu quả rất tốt
 chapter_number: 518
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 518: Hiệu quả rất tốt
+
+Nghe được Trương Bách Mộ nói Trương Khiết không phải thành tâm đầu nhập vào mình, là cái cạm bẫy thời điểm, Tào Côn kém một chú...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 57: Mùi vị của tử vong
 chapter_number: 57
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 57: Mùi vị của tử vong
+
+Không có dấu hiệu nào bắt chuyện, lại thêm đầu trọc so người bình thường nhìn qua nhiều mấy phần hung hãn cùng cường tráng, để...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

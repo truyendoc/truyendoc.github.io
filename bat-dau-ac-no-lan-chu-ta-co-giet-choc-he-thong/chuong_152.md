@@ -4,6 +4,13 @@ title: Chương 152: ngư ông đắc lợi
 chapter_number: 152
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 152: ngư ông đắc lợi
+
+“Chỉ là cái này cửu tinh linh vật muốn từ nơi nào đi tìm?”
+
+Thẩm Dục âm thầm cân nhắc nói.
+
+Bỗng nhiên, trong lòng của hắn khẽ đ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

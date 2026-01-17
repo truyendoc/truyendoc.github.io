@@ -4,6 +4,11 @@ title: Chương 538: Tiêm vào tử hình
 chapter_number: 538
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 538: Tiêm vào tử hình
+
+Không bao lâu, Vương San San liền đem mình cùng Đoàn Minh chuyện đã xảy ra hôm nay, tất cả đều nói cho Tào Côn.
+
+Nàng nằm lỳ ở ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

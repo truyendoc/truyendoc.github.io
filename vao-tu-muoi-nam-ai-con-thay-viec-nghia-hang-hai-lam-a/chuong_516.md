@@ -4,6 +4,11 @@ title: Chương 516: Cái thứ hai cố sự
 chapter_number: 516
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 516: Cái thứ hai cố sự
+
+Nói được cái này, Trương Khiết gặp Trương Bách Mộ cũng không muốn mở miệng, liền nói tiếp:
+
+\"Kết quả, sự tình như ta cái này n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

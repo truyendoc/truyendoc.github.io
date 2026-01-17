@@ -4,6 +4,13 @@ title: Chương 24
 chapter_number: 24
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sự yên lặng ập đến đột ngột.
+
+Những vết nứt xuất hiện trên mặt nạ, và một luồng Yêu khí trào ra.
+
+Chầm chậm, Shizu đứng lên, và bắt đầu vịnh xướng.
+
+“Ma pháp...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

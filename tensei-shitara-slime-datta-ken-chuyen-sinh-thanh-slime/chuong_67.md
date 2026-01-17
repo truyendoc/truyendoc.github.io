@@ -4,6 +4,11 @@ title: Chương 67
 chapter_number: 67
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sau khi đưa Grucius trở lại Tempest, tôi cũng định làm điều tương tự với bản thân nhưng thất bại.
+
+Điều gì thế này?
+
+Mặc dù Gricius đã biến mất trước mặt tôi...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

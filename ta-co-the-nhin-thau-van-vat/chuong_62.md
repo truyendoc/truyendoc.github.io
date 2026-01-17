@@ -4,6 +4,9 @@ title: Chương 62: Gặp nạn trên núi
 chapter_number: 62
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh bước chậm rãi trên con đường làng vắng lặng.
+Bề ngoài cậu trông bình tĩnh, nhưng trong lòng lại dậy sóng.
+Mấy tên côn đồ bị cậu đánh gãy tay chân, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

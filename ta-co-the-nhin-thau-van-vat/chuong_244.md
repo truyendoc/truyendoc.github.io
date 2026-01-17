@@ -4,6 +4,8 @@ title: Chương 244: Trọng thương (2)
 chapter_number: 244
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đối mặt với phản kích của “Ảnh”, Lục Thanh vẫn bình thản. Khi thanh đoản đao sắp đâm vào nắm đấm hắn, đột nhiên hắn hạ vai né lưỡi đao.
+Rồi hắn bật ngón tay,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

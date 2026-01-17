@@ -4,6 +4,10 @@ title: Chương 9
 chapter_number: 9
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tôi đưa mắt nhìn đám Goblin.
+
+Nhóm Goblin này, theo tôi thấy, trông khá tuyệt vọng. Họ đang cảnh giác, vũ khí lăm lăm trong tay, và đang lịch thiệp gọi tôi.
+...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

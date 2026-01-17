@@ -4,6 +4,9 @@ title: Chương 53
 chapter_number: 53
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ma nhân Myulan cảm thấy nhẹ nhõm vì cuối cùng cũng có thể báo cáo.
+
+Việc Ma vương Milim không còn ‘hung bạo’ và kết bạn thân với Trưởng trấn nơi họ đang quan...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

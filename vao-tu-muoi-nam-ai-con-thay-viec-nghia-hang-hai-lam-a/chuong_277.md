@@ -4,6 +4,11 @@ title: Chương 277: Ba trăm triệu nâng lên một tỷ!
 chapter_number: 277
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 277: Ba trăm triệu nâng lên một tỷ!
+
+Cái gì thân thể xảy ra chút vấn đề, Tào Côn nếu là tin hắn chỉ thấy quỷ.
+
+Cho lẫn nhau hai phương diện con lời nó...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

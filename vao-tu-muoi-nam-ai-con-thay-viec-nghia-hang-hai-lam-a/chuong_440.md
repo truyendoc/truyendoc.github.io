@@ -4,6 +4,11 @@ title: Chương 440: Chết thảm Dương Tam Đao
 chapter_number: 440
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 440: Chết thảm Dương Tam Đao
+
+\"A! !\"
+
+Xưởng bên trong, Liễu Truyền Sĩ thống khổ tiếng kêu thảm thiết vang lên, hai tay của hắn ôm mặt quẳng xuống đất,...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

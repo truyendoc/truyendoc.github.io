@@ -4,6 +4,15 @@ title: Chương 157
 chapter_number: 157
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ----------------------------------
+
+\"Dùng toàn lực!\"
+
+Đúng là tôi có nhớ rằng mình nói vậy.
+
+Không sao, tôi chưa đến tuổi lẩm cẩm đâu.
+
+Dù sao thì tính từ lú...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

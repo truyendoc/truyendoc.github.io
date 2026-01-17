@@ -4,6 +4,15 @@ title: Chương 145: thành công bắt
 chapter_number: 145
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 145: thành công bắt
+
+Vân thủy bên ngoài phủ thành, sen ngõ hẻm nước.
+
+Lộ gia.
+
+Tuy là đêm khuya, nhưng Lộ gia lại là đèn đuốc sáng trưng.
+
+Trong phủ đ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

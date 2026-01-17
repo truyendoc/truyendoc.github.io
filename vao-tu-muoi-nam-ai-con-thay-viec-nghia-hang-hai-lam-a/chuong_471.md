@@ -4,6 +4,13 @@ title: Chương 471: Lần thứ nhất ngẫu nhiên gặp
 chapter_number: 471
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 471: Lần thứ nhất ngẫu nhiên gặp
+
+Đúng!
+
+Có đạo lý!
+
+Nghe được Tào Côn nói như vậy, lại không quản về sau mình có thể hay không làm như thế, Vương San...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

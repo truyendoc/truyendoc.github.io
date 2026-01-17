@@ -4,6 +4,10 @@ title: Chương 193: Chiến thắng
 chapter_number: 193
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhưng khi hắn nhận ra thì đã quá muộn.
+Trong chớp mắt, nắm đấm của Lục Thanh đã ập tới.
+Theo bản năng, đại hán cảm thấy mình không thể né tránh cú đấm này.
+N...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

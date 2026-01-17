@@ -4,6 +4,11 @@ title: Chương 248: Người biểu diễn tú (1)
 chapter_number: 248
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 238: Người biểu diễn tú (1)
+
+Số lượng địch nhân không ít, tiếp cận hai trăm người.
+
+Hơn nữa đa số người đều mặc chế thức áo giáp, xem xét chính là tro...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

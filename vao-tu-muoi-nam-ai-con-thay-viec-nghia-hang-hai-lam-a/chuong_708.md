@@ -4,6 +4,11 @@ title: Chương 708: Vừa tới liền ra tai nạn xe cộ
 chapter_number: 708
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 708: Vừa tới liền ra tai nạn xe cộ
+
+Cùng lúc đó!
+
+Từ nghiên cứu phát minh nhà lầu bên này rời đi Tào Côn, vừa trở lại văn phòng, nhỏ thư ký Mã Vũ Thiế...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

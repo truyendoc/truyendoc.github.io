@@ -4,6 +4,11 @@ title: Chương 491: Tương hỗ là công cụ người
 chapter_number: 491
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 491: Tương hỗ là công cụ người
+
+Không khí ngắn ngủi an tĩnh như vậy hai giây, cuối cùng vẫn Tào Côn trước cười lên tiếng chào.
+
+\"Bàng chủ nhiệm, vội v...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

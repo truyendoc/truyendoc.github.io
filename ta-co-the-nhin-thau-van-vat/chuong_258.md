@@ -4,6 +4,8 @@ title: Chương 258: Lá bài tẩy mới! Tổ tiên của Trịnh gia
 chapter_number: 258
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh trở về thôn Cửu Lý, trời vẫn còn tối, bình minh vẫn chưa tới.
+Không ai biết rằng chỉ trong một đêm, hắn đã vượt hơn ngàn dặm, rồi tiêu diệt sạc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

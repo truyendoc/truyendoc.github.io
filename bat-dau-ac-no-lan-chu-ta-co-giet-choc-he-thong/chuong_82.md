@@ -4,6 +4,11 @@ title: Chương 82: từ hôn
 chapter_number: 82
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 82 từ hôn
+
+Nghe được Thẩm Dục lại để cho trực tiếp giải trừ hôn nhân, Vương Uyên cùng Vương Tâm Thiền đều có chút mắt trợn tròn.
+
+Nguyên bản bọn hắn c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

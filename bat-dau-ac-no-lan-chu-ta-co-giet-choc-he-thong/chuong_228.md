@@ -4,6 +4,11 @@ title: Chương 228: Mạnh mời (1)
 chapter_number: 228
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 228: Mạnh mời (1)
+
+Nhìn thấy Thẩm Dục đến, Ngu Tuyết Oánh nhãn tình sáng lên, cười hô: “Mau tới, ta giới thiệu cho ngươi bằng hữu của ta.”
+
+Sau đó, nà...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

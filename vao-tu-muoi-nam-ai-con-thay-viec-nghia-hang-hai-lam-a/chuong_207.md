@@ -4,6 +4,13 @@ title: Chương 207: Tôn Vĩ càng thảm hơn
 chapter_number: 207
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 207: Tôn Vĩ càng thảm hơn
+
+Không nghĩ tới, Tào Côn vì giúp Tôn Vĩ, đều đến giúp loại tình trạng này.
+
+Bất quá, Lưu Giai Mẫn tuyệt không cảm động.
+
+Thậ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

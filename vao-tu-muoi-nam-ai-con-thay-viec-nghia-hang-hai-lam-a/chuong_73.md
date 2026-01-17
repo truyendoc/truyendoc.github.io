@@ -4,6 +4,11 @@ title: Chương 73: Xuất tràng phí, 10 vạn
 chapter_number: 73
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 73: Xuất tràng phí, 10 vạn
+
+Mặc dù Lưu Ngọc Linh thời gian rất sớm liền nghe nói qua Kim Đỉnh KTV, nhưng là, cho tới bây giờ chưa có tới nơi này.
+
+Dù ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

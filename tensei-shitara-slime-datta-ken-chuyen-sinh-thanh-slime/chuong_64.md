@@ -4,6 +4,11 @@ title: Chương 64
 chapter_number: 64
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chúng tôi di chuyển đến nơi khác.
+
+Đến nơi sâu thẳm nhất của mê cung, gọi là gian Tiên đoán.
+
+Thật ra, dẫu kết quả có là sao, thì tôi cũng chỉ bảo vệ đám trẻ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

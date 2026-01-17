@@ -4,6 +4,15 @@ title: Chương 169: tăng lên một đợt
 chapter_number: 169
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 169: tăng lên một đợt
+
+Thẩm Dục thả Sở Khuynh Thành rời đi.
+
+Coi như bước kế tiếp nhàn kỳ.
+
+Nói không chừng về sau còn cần đến.
+
+Ban đêm, Trấn Yêu Qua...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 369: Cấp tiến một chút (2)
 chapter_number: 369
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 298: Cấp tiến một chút (2)
+
+Thẩm Dục đưa cho Ngạo Thanh Sương một cái trữ vật giới chỉ.
+
+Tại không có đột phá Thần cảnh trước, Thẩm Dục không cách nào...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

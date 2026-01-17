@@ -4,6 +4,8 @@ title: Chương 305: Đạo tâm
 chapter_number: 305
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Huyền nhi… thật sự đã chết rồi sao?”
+Một thân ảnh tỏa ra khí tức kinh nhân, trong tay cầm một khối Ngọc Bài đã vỡ nát, gương mặt tràn đầy chấn kinh lẫn phẫ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 48: tu vi tăng vọt
 chapter_number: 48
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 48 tu vi tăng vọt
+
+Ánh mắt rơi vào điểm g·iết chóc phía trên, Thẩm Dục nụ cười trên mặt làm sao đều không che giấu được.
+
+Trọn vẹn 5.4 vạn điểm g·iết ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

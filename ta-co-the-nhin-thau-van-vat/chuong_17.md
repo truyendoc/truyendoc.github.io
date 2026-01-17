@@ -4,6 +4,9 @@ title: Chương 17: Cá giáp xanh khổng lồ
 chapter_number: 17
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh phản ứng cực nhanh, lập tức bước lên một bước để giữ thăng bằng.
+“Giỏi lắm, dám đánh lén ta à!”
+Hắn siết chặt cần câu, cảm nhận lực kéo mạnh mẽ từ ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

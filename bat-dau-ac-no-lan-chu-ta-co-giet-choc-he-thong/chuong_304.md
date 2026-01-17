@@ -4,6 +4,11 @@ title: Chương 304: Khí cũng thuật lại hiển lộ thần uy (1)
 chapter_number: 304
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 266: Khí cũng thuật lại hiển lộ thần uy (1)
+
+“Hỗn trướng!”
+
+Nhìn thấy được Kỷ trưởng lão bị nhân tộc chỗ bắn g·iết, mới Vu vương trên mặt không khỏi h...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

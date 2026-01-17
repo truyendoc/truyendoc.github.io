@@ -4,6 +4,13 @@ title: Chương 498: Điều tra Tào Côn cùng Bạch Tĩnh
 chapter_number: 498
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 498: Điều tra Tào Côn cùng Bạch Tĩnh
+
+Sáu giờ tối nửa!
+
+Hải Thành đại học cửa trường học, Đoàn Minh cùng Vương San San hai người phất tay tạm biệt.
+
+L...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,10 @@ title: Chương 552: Háo sắc là một cơ hội
 chapter_number: 552
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 552: Háo sắc là một cơ hội
+
+Đại tỷ Trương Mỹ Quyên, tựa như là một chậu nước lạnh từ đầu rót xuống tới, để Trương Mỹ Lâm tâm đều đi theo biến lạnh a.
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

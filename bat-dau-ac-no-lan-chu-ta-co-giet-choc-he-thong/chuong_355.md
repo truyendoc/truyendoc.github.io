@@ -4,6 +4,11 @@ title: Chương 355: Vu tộc bí cảnh (2)
 chapter_number: 355
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 291: Vu tộc bí cảnh (2)
+
+Đặng Lăng nhãn tình sáng lên: “Ha ha, không tệ, trước kiếm một khoản lại nói, thời gian khẩn cấp, ta trước hết đi an bài!”
+
+L...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

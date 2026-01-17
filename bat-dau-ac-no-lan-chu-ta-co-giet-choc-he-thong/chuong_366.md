@@ -4,6 +4,11 @@ title: Chương 366: Ta chỉ sợ vô địch (1)
 chapter_number: 366
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 297: Ta chỉ sợ vô địch (1)
+
+Hệ thống lần này thăng cấp sau, công năng cơ hồ không có gì biến hóa.
+
+Cũng liền rút thưởng cần thiết g·iết chóc điểm tiến...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

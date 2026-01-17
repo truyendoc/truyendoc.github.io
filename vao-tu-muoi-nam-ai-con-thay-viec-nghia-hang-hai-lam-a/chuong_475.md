@@ -4,6 +4,15 @@ title: Chương 475: Liễu Truyền Sĩ chết
 chapter_number: 475
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 475: Liễu Truyền Sĩ chết
+
+Áo?
+
+Thật đúng là tới?
+
+Cũng đã gần hai giờ sáng, Tào Côn coi là Thôi Minh không tới chứ.
+
+Hắn đều dự định lại cùng Hạng Nam...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

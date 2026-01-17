@@ -4,6 +4,11 @@ title: Chương 324: Lưu Hồng lớn mật ý nghĩ
 chapter_number: 324
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 324: Lưu Hồng lớn mật ý nghĩ
+
+Quan sát trong phòng.
+
+Vương San San kh·iếp sợ mở ra miệng nhỏ, nhìn xem phụ thân cứ như vậy bị sáu cái giám ngục một tr...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,15 @@ title: Chương 6: bức lui sơn tặc
 chapter_number: 6
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 6 bức lui sơn tặc
+
+Nghĩ tới đây.
+
+Thẩm Dục lập tức nhảy xuống giường, chuẩn bị đi ra xem một chút đến cùng chuyện gì xảy ra?
+
+“Nhị thiếu gia!”
+
+Lúc đầ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

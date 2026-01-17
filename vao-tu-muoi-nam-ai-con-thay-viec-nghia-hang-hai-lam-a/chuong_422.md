@@ -4,6 +4,11 @@ title: Chương 422: Liễu Truyền Tâm bị thả
 chapter_number: 422
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 422: Liễu Truyền Tâm bị thả
+
+Tào Côn lần trước đến pp đẹp da công ty thời điểm, có một loại không nói ra được quạnh quẽ.
+
+Khu xưởng bên trong không có...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

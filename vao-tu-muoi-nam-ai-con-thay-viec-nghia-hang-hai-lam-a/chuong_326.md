@@ -4,6 +4,9 @@ title: Chương 326: Hả? Có sát khí
 chapter_number: 326
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 326: Hả? Có sát khí
+
+Tào Côn xách những thứ này, kỳ thật đều là kiếp trước, Lưu Hồng tại đẩy ra cái này hình thức về sau, trải qua mấy lần sửa chữa cù...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

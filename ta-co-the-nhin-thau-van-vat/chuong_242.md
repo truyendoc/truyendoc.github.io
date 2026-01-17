@@ -4,6 +4,9 @@ title: Chương 242: Bầy Dị Ngư
 chapter_number: 242
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đó là cá chép huyết nguyệt sao?”
+Lục Thanh kinh ngạc nhìn bóng hình đỏ thẫm tuyệt đẹp đang treo trên lưỡi câu.
+Không ngờ lại chính là con Dị Ngư đầu tiên hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

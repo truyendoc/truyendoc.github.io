@@ -4,6 +4,11 @@ title: Chương 145: Hùng Bất Phàm đào mệnh
 chapter_number: 145
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 145: Hùng Bất Phàm đào mệnh
+
+Sau đó chính là Vương San San!
+
+Bởi vì Tôn Vĩ nói xong trả lại nàng năm vạn khối tiền, một mực không thể trả lại cho nàng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

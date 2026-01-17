@@ -4,6 +4,11 @@ title: Chương 306: Hai nữ nhân này, không thể động
 chapter_number: 306
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 306: Hai nữ nhân này, không thể động
+
+Nghe xong Tào Côn lời nói này về sau, Phương Tử Dương trầm mặc rất lâu không nói chuyện.
+
+Hắn cứ như vậy trong n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

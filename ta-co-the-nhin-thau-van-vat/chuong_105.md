@@ -4,6 +4,9 @@ title: Chương 105: Tiểu nhan
 chapter_number: 105
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Anh ơi, cái này là gì vậy?”
+Chiều hôm đó, tại nhà họ Lục, sau bữa cơm tối, Tiểu Nhan tò mò nhìn chiếc bình ngọc trong tay Lục Thanh.
+“Đồ ngon đấy, món tráng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

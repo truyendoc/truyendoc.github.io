@@ -4,6 +4,13 @@ title: Chương 143: Lớn ngu xuẩn là Vương San San
 chapter_number: 143
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 143: Lớn ngu xuẩn là Vương San San
+
+Vừa rạng sáng ngày thứ hai.
+
+Lưu Ngọc Linh thật sớm liền rời giường đi phòng bếp làm điểm tâm.
+
+Mà Tào Côn, thì là...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

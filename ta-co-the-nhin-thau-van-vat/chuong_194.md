@@ -4,6 +4,8 @@ title: Chương 194: Long tiềm bảng
 chapter_number: 194
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhưng khi nghe những lời ấy, sắc mặt của Vương Thương Dực càng trở nên khó coi hơn.
+Nếu để tên thiếu niên áo vải kia báo tin chi tiết trận chiến lên Thiên Cơ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 266
 chapter_number: 266
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngày thứ hai thật kinh khủng.
+
+Hành động theo nhóm quả là một ý tưởng tồi, và đến hôm nay tôi mới nhận ra điều đó.
+
+Những người đi câu cá đã trở về với kết q...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

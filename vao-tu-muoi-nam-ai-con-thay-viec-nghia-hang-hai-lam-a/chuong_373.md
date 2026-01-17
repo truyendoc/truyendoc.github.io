@@ -4,6 +4,10 @@ title: Chương 373: Dương Nhật Bố phát sóng
 chapter_number: 373
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 373: Dương Nhật Bố phát sóng
+
+\"Tào lão bản, vậy chúng ta liền nói tốt, ngài để cái kia Bốc tổng mình liên hệ ta liền tốt, liền không làm phiền ngài.\"
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

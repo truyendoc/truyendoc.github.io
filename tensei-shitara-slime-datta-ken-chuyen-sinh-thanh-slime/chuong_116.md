@@ -4,6 +4,13 @@ title: Chương 116
 chapter_number: 116
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Trận chung kết đã kết thúc, với Benimaru là nhà vô địch.
+
+Sau đó bảng xếp hạng từ hạng 1 đến hạng 4 đã được quyết định.
+
+Điều này sẽ cầ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

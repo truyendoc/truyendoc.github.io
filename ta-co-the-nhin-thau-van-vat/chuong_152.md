@@ -4,6 +4,9 @@ title: Chương 152: Thiên phú
 chapter_number: 152
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Mình lại đột phá… đạt đến cảnh giới Đại Thành của hậu thiên Cốt Cảnh rồi sao?”
+Đứng giữa sân, Lục Thanh lặng lẽ cảm nhận biến hoá trong thân thể.
+Quả nhiên,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 367: Ngươi không uống thuốc ta không cho ngươi
 chapter_number: 367
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 367: Ngươi không uống thuốc ta không cho ngươi
+
+\"Xem hết sao?\"
+
+Trong phòng khách, Tào Côn vừa xem hết Hạng Nam Nguyệt chụp lén đoạn video này, Hạng N...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 376: Ta muốn khiêu chiến ngươi (1)
 chapter_number: 376
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 302: Ta muốn khiêu chiến ngươi (1)
+
+“Bán Thần cảnh?”
+
+Tô Dao Quang yên lặng thì thầm một câu: “Chỉ là một cái vương triều thế mà có thể sinh ra Bán Th...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

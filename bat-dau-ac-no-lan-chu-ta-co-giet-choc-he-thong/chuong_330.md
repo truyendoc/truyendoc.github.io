@@ -4,6 +4,11 @@ title: Chương 330: Tam hoàng tử bị u gấp (1)
 chapter_number: 330
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 279: Tam hoàng tử bị u gấp (1)
+
+“Đại nhân, Thiên hộ đại nhân phái người đến, nhường ngài tranh thủ thời gian tiến về Thiên Hộ Sở!”
+
+Ngô Dương đến đây ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 69: một hai cũng không thể thiếu
 chapter_number: 69
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 69 một hai cũng không thể thiếu
+
+Mặc dù đám người đối với vị này thúc thu làm mắng bọn hắn Điêu Dân cảm thấy bất mãn.
+
+Nhưng nhìn thấy Tần Huyện lệnh ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

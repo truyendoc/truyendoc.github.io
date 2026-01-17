@@ -4,6 +4,13 @@ title: Chương 286: Hôm nay Âu hoàng (1)
 chapter_number: 286
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 257: Hôm nay Âu hoàng (1)
+
+Bây giờ Thẩm Dục tu vi là Thông Thiên cảnh tứ trọng.
+
+Hắn quả quyết lựa chọn thêm điểm.
+
+Giết chóc điểm bị trừ đi 40 triệu,...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

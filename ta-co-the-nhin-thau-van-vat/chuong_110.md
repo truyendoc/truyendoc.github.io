@@ -4,6 +4,9 @@ title: Chương 110: Biến cố Ngụy gia
 chapter_number: 110
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Không ngờ chỉ một mảnh bạc nhỏ lại ẩn chứa nhiều điều huyền diệu đến vậy…”
+Lục Thanh lẩm bẩm, ánh mắt ánh lên một tia sáng thích thú.
+Vừa rồi, hắn đã hoàn t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

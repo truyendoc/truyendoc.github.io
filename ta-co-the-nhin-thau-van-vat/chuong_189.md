@@ -4,6 +4,10 @@ title: Chương 189: Thân phân bại lộ (2)
 chapter_number: 189
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thế nhưng, thiếu niên áo vải chẳng hề đáp lại, chỉ thản nhiên bước ra ngoài.
+“Này, Chi Duệ, đợi ta với!”
+Thành chủ vội vàng đứng dậy, nhanh chân đuổi theo.
+C...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

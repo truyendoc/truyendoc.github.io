@@ -4,6 +4,9 @@ title: Chương 438: Dương Tam Đao tiến vò
 chapter_number: 438
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 438: Dương Tam Đao tiến vò
+
+Vứt bỏ trong nhà máy, Dương Tam Đao tại mình bốn cái bảo tiêu cùng đi sau khi xuống xe, đầu tiên là đơn giản nhìn chung qu...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

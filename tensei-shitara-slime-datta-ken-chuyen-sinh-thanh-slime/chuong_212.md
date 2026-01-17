@@ -4,6 +4,11 @@ title: Chương 212
 chapter_number: 212
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ---------------------------------------------------------
+
+Trận chiến giữa Albert và Grasword ngày một căng thẳng hơn.
+
+Và khi chỉ huy của cả hai đội quân đề...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

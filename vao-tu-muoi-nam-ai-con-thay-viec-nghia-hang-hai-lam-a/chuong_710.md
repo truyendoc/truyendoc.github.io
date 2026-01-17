@@ -4,6 +4,11 @@ title: Chương 710: Để Triệu Xảo Thiến tiến bộ
 chapter_number: 710
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 710: Để Triệu Xảo Thiến tiến bộ
+
+Triệu Xảo Thiến không ngại, Tào Côn liền càng thêm không ngại!
+
+Dù sao hắn không tồn tại hư tình huống này, thình thị...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

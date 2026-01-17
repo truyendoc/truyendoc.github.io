@@ -4,6 +4,11 @@ title: Chương 720: Phía trên lãnh đạo tới
 chapter_number: 720
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 720: Phía trên lãnh đạo tới
+
+Theo Tào Côn lời nói này nói xong, trong văn phòng lại một lần nữa lâm vào yên tĩnh.
+
+Thậm chí, ba vị mũ thúc thúc nhìn x...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

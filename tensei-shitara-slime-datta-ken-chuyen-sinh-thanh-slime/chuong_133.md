@@ -4,6 +4,11 @@ title: Chương 133
 chapter_number: 133
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Sau khi rời bỏ thủ đô của Ingracia, nhóm Yuuki giờ đang chậm rãi đi dọc dãy núi Kanat hướng về Đế Quốc phía Đông.
+
+Để an toàn đến Đế Qu...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

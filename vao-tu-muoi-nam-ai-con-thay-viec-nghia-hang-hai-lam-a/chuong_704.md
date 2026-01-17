@@ -4,6 +4,9 @@ title: Chương 704: Biết hay không hàm kim lượng
 chapter_number: 704
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 704: Biết hay không hàm kim lượng
+
+Trước đó thời điểm, Đoàn Minh chẳng qua là cảm thấy Vương San San ba ba Vương Nhất Phu, chính là cái bình thường ná...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

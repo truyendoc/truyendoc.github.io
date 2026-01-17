@@ -4,6 +4,13 @@ title: Chương 175: hệ thống hai lần thăng cấp
 chapter_number: 175
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 175: hệ thống hai lần thăng cấp
+
+Liên tiếp bắt hơn trăm người.
+
+Những cái kia có vấn đề cũng không ngốc, nên ẩn núp, nên chạy chạy.
+
+Cho nên, sáng hôm...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

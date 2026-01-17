@@ -4,6 +4,13 @@ title: Chương 153: Ngu Tuyết Oánh phản kích
 chapter_number: 153
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 153: Ngu Tuyết Oánh phản kích
+
+Đưa tiễn Lâm Thiên Hữu một nhà sau.
+
+Thẩm Dục liền không nhanh không chậm Triều Trấn yêu ti mà đi.
+
+Tại Trấn Yêu Tư Khô...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

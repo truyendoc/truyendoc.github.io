@@ -4,6 +4,13 @@ title: Chương 130: Phỉ tỷ tỷ côn đệ đệ
 chapter_number: 130
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 130: Phỉ tỷ tỷ côn đệ đệ
+
+\"Tiến đến!\"
+
+Theo Tào Côn gõ hai lần cửa, trong văn phòng rất nhanh liền truyền ra thanh âm của một nam nhân.
+
+Bởi vì lúc tr...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

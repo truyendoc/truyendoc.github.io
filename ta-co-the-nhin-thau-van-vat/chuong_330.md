@@ -4,6 +4,8 @@ title: Chương 330: Sát ý của Trần lão y
 chapter_number: 330
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trần lão y quả nhiên là cường giả Tiên Thiên cảnh, hơn nữa bên kia còn có thêm hai vị Tiên Thiên nữa!”
+Đứng trên ngọn cây trong khu rừng cách Lưu Vân trấn m...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

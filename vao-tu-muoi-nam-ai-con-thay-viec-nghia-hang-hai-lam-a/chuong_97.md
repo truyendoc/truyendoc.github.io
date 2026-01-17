@@ -4,6 +4,9 @@ title: Chương 97: Trong một tháng, tất diệt Lang ca
 chapter_number: 97
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 97: Trong một tháng, tất diệt Lang ca
+
+Nhìn thấy Tô Nhược Lan cùng Trương Vân Vân xuống tới, Chu Thiến Thiến một cái giật mình lấy lại tinh thần, bận ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

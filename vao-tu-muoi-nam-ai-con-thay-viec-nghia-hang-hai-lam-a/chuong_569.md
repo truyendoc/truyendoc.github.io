@@ -4,6 +4,11 @@ title: Chương 569: Ba cái nữ lưu manh
 chapter_number: 569
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 569: Ba cái nữ lưu manh
+
+Không nghĩ tới Tào Côn sẽ cùng Khương Mẫn đồng thời trở về.
+
+Ngay tại phòng khách cố gắng chế tạo các loại bánh sủi cảo Lam K...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

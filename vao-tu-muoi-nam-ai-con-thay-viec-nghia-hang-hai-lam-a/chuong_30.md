@@ -4,6 +4,11 @@ title: Chương 30: Chứng cứ vô cùng xác thực án giết người
 chapter_number: 30
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 30: Chứng cứ vô cùng xác thực án giết người
+
+Tám giờ tối!
+
+Theo cơm tối kết thúc, Tào Côn ba người cũng kết thúc đối Vương Nhất Phu án g·iết người ngh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

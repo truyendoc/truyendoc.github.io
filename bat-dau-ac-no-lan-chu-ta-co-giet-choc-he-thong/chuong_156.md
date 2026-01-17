@@ -4,6 +4,11 @@ title: Chương 156: có người muốn đào góc tường
 chapter_number: 156
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 156: có người muốn đào góc tường
+
+“Đúng rồi tổng kỳ đại nhân, không có gì bất ngờ xảy ra, hôm nay yêu thú sẽ đến Tập Thành!”
+
+Tên lính kia nhắc nhở mộ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

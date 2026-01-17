@@ -4,6 +4,11 @@ title: Chương 519: Cha ruột mẹ ruột cũng không được
 chapter_number: 519
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 519: Cha ruột mẹ ruột cũng không được
+
+Đối với Bốc Hạnh Phúc yêu cầu này, Tào Côn tự nhiên không có ý kiến gì.
+
+Bởi vì, bến tàu sinh ý cái này một khố...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

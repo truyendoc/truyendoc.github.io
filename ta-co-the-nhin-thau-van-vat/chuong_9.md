@@ -4,6 +4,9 @@ title: Chương 9: Thế giới tu luyện
 chapter_number: 9
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chẳng lẽ hôm qua ta đã chẩn sai sao?”
+Nhìn vẻ mặt mơ hồ của Lục Thanh, thầy y Trần lão lần đầu tiên trong đời hoài nghi tay nghề y thuật của chính mình.
+Như...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

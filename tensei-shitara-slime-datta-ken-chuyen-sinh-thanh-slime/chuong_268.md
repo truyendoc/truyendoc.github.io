@@ -4,6 +4,11 @@ title: Chương 268
 chapter_number: 268
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ba ngày sau cuộc tẩu thoát của Rimuru.
+
+Diablo và Souei hiện đang ở Vương quốc Ingracia.
+
+Suốt ngày thứ hai, họ tập trung thu thập thông tin ở những nơi có l...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,7 @@ title: Chương 96
 chapter_number: 96
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Bên trong không-thời gian đã được kéo dài 1 triệu lần, chúng tôi gặp nhau, mặt đối mặt. Một không gian tư tưởng được tạo bởi Wisdom King Raphael { Chúa Tể T...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

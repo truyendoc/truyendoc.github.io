@@ -4,6 +4,9 @@ title: Chương 46
 chapter_number: 46
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Khi nhận được báo cáo từ đội Ám bộ, Vua Dwarf Gazelle Dwargo chìm trong suy nghĩ.
+
+Đội Ám bộ, khi được lệnh phải giám sát con Ma vật đáng ngờ kia, đã có bản ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

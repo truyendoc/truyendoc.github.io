@@ -4,6 +4,11 @@ title: Chương 95
 chapter_number: 95
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Sakaguchi Hinata nghĩ mình thật may mắn khi có thể gặp được Izawa Shizue.
+
+Dù thời gian ở bên nhau quá ngắn ngủi, đối với Hinata, Shizue là người duy ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

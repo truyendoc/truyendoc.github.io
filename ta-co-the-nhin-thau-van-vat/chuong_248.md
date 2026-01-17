@@ -4,6 +4,10 @@ title: Chương 248: Hai năm trôi qua
 chapter_number: 248
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sâu trong núi lớn, tại thung lũng kỳ dị nơi Lý Vĩ Thiên được an táng,
+Lục Thanh cùng Tiểu Ly xuất hiện.
+“Đã nửa năm không đến, nơi này chẳng thay đổi gì.”
+Lụ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

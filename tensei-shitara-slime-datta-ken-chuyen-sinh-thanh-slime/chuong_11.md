@@ -4,6 +4,13 @@ title: Chương 11
 chapter_number: 11
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Đàn Nha Lang không có dấu hiệu cử động.
+
+Ái chà…
+
+Chẳng lẽ chúng định lao vào tấn công tôi theo kiểu ‘Thà chết còn hơn tuân phục!’ sao.
+
+Vậy sẽ thành ra một ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

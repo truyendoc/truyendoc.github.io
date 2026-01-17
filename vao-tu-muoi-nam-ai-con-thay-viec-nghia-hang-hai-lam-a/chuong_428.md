@@ -4,6 +4,11 @@ title: Chương 428: Hắn chính là bánh nướng ăn nhiều
 chapter_number: 428
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 428: Hắn chính là bánh nướng ăn nhiều
+
+Nhìn xem Dương Tam Đao cái kia không dám tin biểu lộ, Tào Côn rất là bình tĩnh hút một hơi thuốc, nói:
+
+\"Kỳ thậ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

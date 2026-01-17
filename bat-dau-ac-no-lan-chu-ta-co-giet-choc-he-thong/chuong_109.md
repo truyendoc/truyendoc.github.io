@@ -4,6 +4,11 @@ title: Chương 109: đến Vân Thủy Phủ
 chapter_number: 109
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 109: đến Vân Thủy Phủ
+
+Ngay tại Hàn Thượng Phong mang theo mấy cái hộ vệ cách mấy ngàn mét nhìn trộm đội xe lúc.
+
+Thẩm Dục đã phát hiện bọn hắn tồn tạ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

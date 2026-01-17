@@ -4,6 +4,9 @@ title: Chương 20: Cơn sốt cá lớn trong thôn
 chapter_number: 20
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cuối cùng, đám dân làng không đuổi kịp ba người Lục Thanh.
+Nhờ có Đại An phụ giúp, tốc độ của họ nhanh hơn hẳn —
+hơn nữa, con sông cũng chẳng cách làng bao x...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

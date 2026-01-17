@@ -4,6 +4,13 @@ title: Chương 20
 chapter_number: 20
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chúng tôi họp mặt với nhóm của Rigur tại cửa rừng.
+
+Chúng tôi đã ở trong thành phố hết 5 ngày.
+
+Nhưng đó vẫn nằm trong số ngày dự tính.
+
+Tuy đã gặp khá nhiều...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

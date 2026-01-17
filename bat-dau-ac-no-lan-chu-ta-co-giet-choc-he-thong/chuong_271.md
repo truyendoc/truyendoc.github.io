@@ -4,6 +4,11 @@ title: Chương 271: Dưới mặt đất chỗ ăn chơi (2)
 chapter_number: 271
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 249: Dưới mặt đất chỗ ăn chơi (2)
+
+Dẫn người bắt lúc, bị Yêu Tộc trọng thương, phá hắn khí hải, cũng dẫn đến hắn nguyên đan vỡ vụn.
+
+Nếu như không có ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

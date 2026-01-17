@@ -4,6 +4,11 @@ title: Chương 121: Thuận lợi nắm Hoàng Đông Mai
 chapter_number: 121
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 121: Thuận lợi nắm Hoàng Đông Mai
+
+Mỹ nam kế áp dụng, so Tào Côn nghĩ đơn giản muốn thuận lợi gấp một vạn lần.
+
+Hắn vốn còn nghĩ, trước cùng Hoàng Đôn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

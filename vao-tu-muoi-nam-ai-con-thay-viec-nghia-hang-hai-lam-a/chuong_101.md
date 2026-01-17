@@ -4,6 +4,13 @@ title: Chương 101: Tiểu nhân đắc chí sắc mặt
 chapter_number: 101
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 101: Tiểu nhân đắc chí sắc mặt
+
+Hơn mười phút sau!
+
+Bên trong phòng mướn, Tào Côn đẩy cửa đi đến.
+
+Bạch Tĩnh cùng Lưu Ngọc Linh hai người không có ở n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

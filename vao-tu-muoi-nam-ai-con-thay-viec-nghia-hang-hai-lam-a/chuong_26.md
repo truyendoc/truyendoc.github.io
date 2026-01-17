@@ -4,6 +4,11 @@ title: Chương 26: Hoàng mao lại chết
 chapter_number: 26
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 26: Hoàng mao lại chết
+
+So với vội vàng rời đi Vương Nhất Phu, Tào Côn tuyệt không sốt ruột.
+
+Hắn đem trong bình bia uống cạn, lại chậm rãi kẹp hai cá...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

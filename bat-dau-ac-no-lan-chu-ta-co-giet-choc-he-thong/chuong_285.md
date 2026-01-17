@@ -4,6 +4,9 @@ title: Chương 285: Bưng Minh Vương phủ (2)
 chapter_number: 285
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 256: Bưng Minh Vương phủ (2)
+
+“Ngươi chính là Thẩm Dục?” Minh Vương trong nháy mắt liền ý thức được cái gì, lập tức thở dài nói: “Là Bản vương xem thư...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 508: Trương Bách Mộ trời sập
 chapter_number: 508
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 508: Trương Bách Mộ trời sập
+
+Trương Bách Mộ mặc dù rất ngang ngược càn rỡ, nhưng là, đối với hòa thượng còn có đạo sĩ loại này phương ngoại nhân sĩ, ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

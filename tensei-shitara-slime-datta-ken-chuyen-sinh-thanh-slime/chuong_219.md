@@ -4,6 +4,11 @@ title: Chương 219
 chapter_number: 219
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Trong thời gian ngưng đọng, ba kẻ đang giằng co dần lâm vào thế tiến thoái lưỡng nan.
+
+Thanh gươm rực rỡ của Guy bị chặn đứng bởi lưỡi kiếm của Chloe.
+
+Chloe...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

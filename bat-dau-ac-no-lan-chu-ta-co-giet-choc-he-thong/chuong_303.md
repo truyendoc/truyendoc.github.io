@@ -4,6 +4,11 @@ title: Chương 303: Vu tộc đại quân đột kích (2)
 chapter_number: 303
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 265: Vu tộc đại quân đột kích (2)
+
+Khó trách Vu Tộc dám phát động đại quân đột kích, xem ra là ăn chắc bọn hắn không có viện quân.
+
+Bất quá thua người...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

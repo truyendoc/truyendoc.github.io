@@ -4,6 +4,11 @@ title: Chương 344: Tiên hạ thủ vi cường (1)
 chapter_number: 344
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 286: Tiên hạ thủ vi cường (1)
+
+Ngồi xuống lần nữa sau.
+
+Dao Quang công chúa có chút nghiền ngẫm mở miệng nói: “Ta nghe nói người, Khai Nguyên đế tư ch...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

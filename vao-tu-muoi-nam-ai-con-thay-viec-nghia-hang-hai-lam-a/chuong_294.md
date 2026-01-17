@@ -4,6 +4,11 @@ title: Chương 294: Bật hết hỏa lực, có thể lật 90 lần
 chapter_number: 294
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 294: Bật hết hỏa lực, có thể lật 90 lần
+
+Thời gian không lâu, trước sau cũng liền nửa giờ, Tào Côn liền đem toàn bộ công ty đi dạo một lần.
+
+Dù sao, l...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 312: Nam Cương nói lễ vật (1)
 chapter_number: 312
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 270: Nam Cương nói lễ vật (1)
+
+Đạt được Thẩm Dục lời hứa, Chung Diệu đi ra ngoài một chuyến.
+
+Sau đó, những cái kia theo Kinh thành đến chấp hành nhiệ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 262
 chapter_number: 262
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Mọi người đã nhất trí đưa Julius lên làm lãnh đạo, chả biết tốt hay xấu nữa.
+
+Dù sao thì, họ đã điểm danh và bắt đầu phân phát thức ăn cho mọi người.
+
+「Dù em...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

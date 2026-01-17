@@ -4,6 +4,9 @@ title: Chương 277: Huyền cơ doanh ngựa đạp thứ bảy trăm hộ ch�
 chapter_number: 277
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 252: Huyền cơ doanh ngựa đạp thứ bảy trăm hộ chỗ (2)
+
+Đang khi nói chuyện, hắn cũng phóng thích thần thức, đem sáu cái binh lính càn quấy thân thể bao...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

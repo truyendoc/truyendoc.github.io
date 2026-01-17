@@ -4,6 +4,13 @@ title: Chương 150: Lục Thiên Lâu Phân Lâu
 chapter_number: 150
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 150: Lục Thiên Lâu Phân Lâu
+
+Cùng lúc đó.
+
+Tiết Linh Đồng đi tới Ngu Tuyết Oánh công phòng bên trong.
+
+“Ngu Bách Hộ, nghe nói ngươi bị hái được quả đà...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

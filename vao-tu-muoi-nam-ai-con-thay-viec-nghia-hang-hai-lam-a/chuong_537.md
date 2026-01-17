@@ -4,6 +4,15 @@ title: Chương 537: Nguyên lai đã biết
 chapter_number: 537
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 537: Nguyên lai đã biết
+
+Rốt cục, tại trở nên kích động về sau, Vương San San ngừng lăn lộn.
+
+Tỉnh táo!
+
+Tỉnh táo một điểm!
+
+Hiện tại vẫn chưa tới cao...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

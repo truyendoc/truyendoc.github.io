@@ -4,6 +4,11 @@ title: Chương 131: Quyền cao chức trọng Tôn Phỉ Phỉ
 chapter_number: 131
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 131: Quyền cao chức trọng Tôn Phỉ Phỉ
+
+Trong văn phòng.
+
+Theo Tôn Phỉ Phỉ người thủ trưởng này rời đi, phụ đạo viên Tô Kiến Dân trên người áp lực cũng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

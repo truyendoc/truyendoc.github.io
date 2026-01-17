@@ -4,6 +4,13 @@ title: Chương 244: Lòng dạ biết rõ (1)
 chapter_number: 244
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 236: Lòng dạ biết rõ (1)
+
+Cùng lúc đó.
+
+Hoàng cung, tu tâm điện.
+
+Người mặc long bào Đại Diễm Quốc Hoàng đế đang cùng một người mặc làm bào lộ ra mấy ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

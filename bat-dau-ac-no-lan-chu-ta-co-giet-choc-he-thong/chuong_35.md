@@ -4,6 +4,15 @@ title: Chương 35: ngươi là đến khôi hài a
 chapter_number: 35
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 35 ngươi là đến khôi hài a
+
+Hai ngày sau.
+
+Huyết hải đường ba cái hộ pháp trưởng lão toàn bộ từ nơi khác chạy về đường khẩu.
+
+Trong thạch điện.
+
+Đoan ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

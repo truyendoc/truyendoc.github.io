@@ -4,6 +4,11 @@ title: Chương 506: Nam Sơn Thái Thanh Cung
 chapter_number: 506
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 506: Nam Sơn Thái Thanh Cung
+
+Sáng sớm hôm sau!
+
+Bát Quốc Công quán lầu hai, Tào Côn chuyên môn một con rồng phòng cửa mở ra, tám vị dáng người cao gầ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

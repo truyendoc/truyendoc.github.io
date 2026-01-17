@@ -4,6 +4,11 @@ title: Chương 52
 chapter_number: 52
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Kể từ khi nhóm Youmu đến, 2 tuần đã trôi qua.
+
+Việc tu sửa đường vẫn tiến triển thuận lợi.
+
+Trái với những gì chúng tôi nghĩ, các thành viên Đội bảo vệ biên ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

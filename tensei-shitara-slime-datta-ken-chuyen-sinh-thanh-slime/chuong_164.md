@@ -4,6 +4,11 @@ title: Chương 164
 chapter_number: 164
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: --------------------------
+
+Nó nói rằng nó sẽ giới thiệu họ với chủ nhân của Mê Cung, Gadra-roushi cùng với nhóm Shinji đi theo con slime trước mặt họ.
+
+Có v...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

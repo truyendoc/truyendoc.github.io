@@ -4,6 +4,11 @@ title: Chương 287: Ta muốn pp đẹp da công ty
 chapter_number: 287
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 287: Ta muốn pp đẹp da công ty
+
+Theo Cẩu Nhất Vĩ lời nói này lối ra, trong phòng, một chút liền lâm vào yên tĩnh bên trong.
+
+Tào Côn lông mày hơi nhíu...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

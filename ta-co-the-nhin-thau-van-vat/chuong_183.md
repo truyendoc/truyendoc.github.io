@@ -4,6 +4,8 @@ title: Chương 183: Thánh sơn (2)
 chapter_number: 183
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong cảnh giới Tiên Thiên, phong cách chiến đấu đã không còn giới hạn ở quyền cước hay đao kiếm giao phong đơn thuần.
+Chỉ một cái vung tay, có thể hóa ra ki...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

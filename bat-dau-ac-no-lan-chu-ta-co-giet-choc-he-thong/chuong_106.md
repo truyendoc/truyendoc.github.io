@@ -4,6 +4,11 @@ title: Chương 106: toàn diệt địch đến
 chapter_number: 106
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 106: toàn diệt địch đến
+
+“Đốt, chúc mừng kí chủ thu hoạch được 10 cái điểm g·iết chóc!”
+
+Thanh âm hệ thống nhắc nhở dày đặc vang lên, là Thẩm Dục tăng...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

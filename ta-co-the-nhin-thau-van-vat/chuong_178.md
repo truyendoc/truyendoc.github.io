@@ -4,6 +4,9 @@ title: Chương 178: Vết thương nặng khó lành
 chapter_number: 178
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Vậy nghĩa là Ninh Yên và Tử An, sinh mệnh của họ vẫn đang treo lơ lửng trên sợi chỉ?”
+Ngụy Sơn Hải nhăn mày hỏi.
+Ngay lúc này, Ngụy Tinh Hà vừa kể lại toàn ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

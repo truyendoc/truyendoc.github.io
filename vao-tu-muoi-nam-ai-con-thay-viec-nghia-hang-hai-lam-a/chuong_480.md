@@ -4,6 +4,13 @@ title: Chương 480: Từ Trương Bách Mộ ra tay
 chapter_number: 480
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 480: Từ Trương Bách Mộ ra tay
+
+Nửa giờ sau!
+
+Bát Quốc Công quán lầu ba, Tào Côn chuyên môn gian phòng bên trong, Tào Côn mang theo Ngốc Cẩu đi đến.
+
+G...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

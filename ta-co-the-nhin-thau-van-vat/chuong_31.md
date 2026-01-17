@@ -4,6 +4,10 @@ title: Chương 31: Tiếng động trong đêm (2)
 chapter_number: 31
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Tiếng động bất ngờ vang lên khiến Lục Thanh giật mình, rồi lập tức trở nên cảnh giác.
+Đó là tiếng gì vậy?
+Người, thú, hay chuột?
+Hắn nhớ đến con thú nhỏ bí ẩ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

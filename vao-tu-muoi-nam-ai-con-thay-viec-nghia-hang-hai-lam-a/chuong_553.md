@@ -4,6 +4,9 @@ title: Chương 553: Nên sinh con
 chapter_number: 553
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 553: Nên sinh con
+
+Từ t·ang l·ễ rời đi về sau, Tào Côn cũng không có mang theo tam nữ trở về mộng ảo cư xá số tám biệt thự, mà là trực tiếp đi Trương ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

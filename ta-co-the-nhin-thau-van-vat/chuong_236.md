@@ -4,6 +4,8 @@ title: Chương 236: Danh Chấn Thiên Hạ Mà Không Cần Bước Ra Ngoài
 chapter_number: 236
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong biển thức hải, Lục Thanh cảm thấy mình bị giam trong một lò luyện.
+Tâm thần và ý niệm bị nung đỏ không ngừng, đau đến mức như chỉ cần chậm một nhịp, hồ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

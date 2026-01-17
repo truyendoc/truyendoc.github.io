@@ -4,6 +4,11 @@ title: Chương 306: Tuyệt hậu mắc (1)
 chapter_number: 306
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 267: Tuyệt hậu mắc (1)
+
+Vu sư cũng không có ngăn cản Giang Uyên bọn người rút lui.
+
+Hắn một bước phóng ra, đi vào kết trận Vu Tộc binh sĩ trước, đưa t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

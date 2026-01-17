@@ -4,6 +4,11 @@ title: Chương 133: Hoàn mỹ phòng chứa
 chapter_number: 133
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 133: Hoàn mỹ phòng chứa
+
+Sau hai tiếng rưỡi!
+
+Tôn Phỉ Phỉ trong văn phòng, nương theo lấy bộp một tiếng cái bật lửa tiếng vang, Tào Côn một mặt khoan ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

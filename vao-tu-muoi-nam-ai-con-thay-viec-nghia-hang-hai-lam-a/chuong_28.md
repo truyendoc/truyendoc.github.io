@@ -4,6 +4,9 @@ title: Chương 28: Kẻ cầm đầu lại là nàng
 chapter_number: 28
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 28: Kẻ cầm đầu lại là nàng
+
+\"Mẹ, chúng ta muốn mời luật sư, chúng ta nhất định phải mời tốt nhất luật sư, ta không tin cha ta sẽ g·iết người, hắn khẳn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

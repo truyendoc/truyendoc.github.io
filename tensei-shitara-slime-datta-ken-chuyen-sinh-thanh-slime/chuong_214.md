@@ -4,6 +4,11 @@ title: Chương 214
 chapter_number: 214
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: --------------------------
+
+Leon và Kazaream đã đánh nhau một ngày một đêm rồi.
+
+Không phải ngẫu nhiên mà Kazaream lại dám tự nhận là một Đại Chúa Quỷ, mức n...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

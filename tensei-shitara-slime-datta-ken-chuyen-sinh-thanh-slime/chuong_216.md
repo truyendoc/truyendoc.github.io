@@ -4,6 +4,11 @@ title: Chương 216
 chapter_number: 216
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: “Chưa vào chưa biết trường Y, vào rồi mới biết là thi suốt ngày
+
+Nếu mà biết trước thế này, ta thà bỏ học, đi cày cho xong~” :V
+
+1 buổi rưỡi hết một quyển sá...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

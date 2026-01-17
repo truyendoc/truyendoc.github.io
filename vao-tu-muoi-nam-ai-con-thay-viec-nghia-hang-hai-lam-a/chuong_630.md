@@ -4,6 +4,11 @@ title: Chương 630: Khương Mẫn đi
 chapter_number: 630
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 630: Khương Mẫn đi
+
+\"Ừm? Chó nữ nhân yêu đương?\"
+
+Làm Tào Côn nhìn thấy Vương San San tại vòng bằng hữu quan tuyên yêu đương tin tức lúc, đã nhanh buổ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

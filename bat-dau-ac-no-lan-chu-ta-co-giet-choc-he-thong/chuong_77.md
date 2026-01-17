@@ -4,6 +4,15 @@ title: Chương 77: đánh giết Hàn Mộ
 chapter_number: 77
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 77 đánh giết Hàn Mộ
+
+Vào lúc ban đêm.
+
+“Linh nhi, ta có việc muốn ra ngoài một chuyến!”
+
+Thẩm Dục đối với Lý Linh Nhi nói.
+
+“Tốt phu quân, bất quá ngư...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

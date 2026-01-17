@@ -4,6 +4,11 @@ title: Chương 173: Kiếp trước hảo huynh đệ, trình Hàm Hàm
 chapter_number: 173
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 173: Kiếp trước hảo huynh đệ, trình Hàm Hàm
+
+Đối với bình thường công ty cùng xí nghiệp mà nói, bảo an căn bản chính là một cái râu ria chức nghiệp.
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

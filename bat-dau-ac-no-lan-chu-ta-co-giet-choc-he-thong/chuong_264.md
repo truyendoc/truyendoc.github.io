@@ -4,6 +4,13 @@ title: Chương 264: Hoàng đế bày nát (1)
 chapter_number: 264
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 246: Hoàng đế bày nát (1)
+
+Ngày kế tiếp, sáng sớm.
+
+Thẩm Dục đi tới Bách hộ chỗ.
+
+Sau đó đưa tới lưu tại Kinh thành mấy cái tiểu kỳ, hướng bọn hắn ngh...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

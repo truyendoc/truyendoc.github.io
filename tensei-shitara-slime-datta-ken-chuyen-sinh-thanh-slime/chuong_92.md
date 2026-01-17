@@ -4,6 +4,11 @@ title: Chương 92
 chapter_number: 92
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngay khi Arnaud bỏ cuộc, ngừng chiến đấu trong tuyệt vọng, các đội khác cũng đã từ bỏ ý định thiết lập kết giới.
+
+Hãy quan sát 1 đội làm ví dụ...
+
+Đội trưởng...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 158: Kiếm tiền phương pháp
 chapter_number: 158
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 158: Kiếm tiền phương pháp
+
+Cũng không trách Tào Côn cười vui vẻ như vậy, rực rỡ như vậy, là thật nhịn không được a!
+
+Khi thấy trong video Tôn Vĩ b·ị ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

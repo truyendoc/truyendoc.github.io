@@ -4,6 +4,13 @@ title: Chương 20: huynh đệ Chu gia
 chapter_number: 20
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 20 huynh đệ Chu gia
+
+Hôm nay là Thẩm Phong hạ táng thời gian.
+
+Từ trên xuống dưới Thẩm gia đều bận rộn một ngày.
+
+Cho nên, vào lúc ban đêm, bận rộn mộ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

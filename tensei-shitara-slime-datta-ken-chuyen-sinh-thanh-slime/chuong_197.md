@@ -4,6 +4,11 @@ title: Chương 197
 chapter_number: 197
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------------------------------------
+
+Qua Walpurgis, tôi đã lấy được sự hậu thuẫn của các Chúa Quỷ khác ổn thỏa hết rồi.
+
+Thì, cũng ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

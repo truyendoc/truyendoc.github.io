@@ -4,6 +4,9 @@ title: Chương 400: Đem ngươi đệ đệ chặn ngang chặt
 chapter_number: 400
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 400: Đem ngươi đệ đệ chặn ngang chặt
+
+Nghe được điện thoại đối diện cái này xa lạ giọng nam, Liễu Truyền Sĩ trong lòng đã thấp thỏm, lại thở dài một h...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

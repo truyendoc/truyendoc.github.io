@@ -4,6 +4,9 @@ title: Chương 84: Cặn bã nữ, Từ Kiều Kiều
 chapter_number: 84
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 84: Cặn bã nữ, Từ Kiều Kiều
+
+Đương nhiên, Tào Côn cũng không có bởi vì Mercedes-Benz G nữ thần đối với mình trong lời nói cải biến, liền bị nàng đem c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 211
 chapter_number: 211
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Quân của Dagruel vẫn tiếp tục tiến bước.
+
+Dù đã có lúc hàng ngũ chúng rối loạn, nhưng đội quân đã kịp ổn định lại trước khi chạm trán với binh đoàn undead.
+
+...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

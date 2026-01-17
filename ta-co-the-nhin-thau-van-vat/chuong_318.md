@@ -4,6 +4,10 @@ title: Chương 318: Sơn tặc, đồ sát
 chapter_number: 318
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Xảy ra chuyện gì vậy?”
+Nghe động tĩnh bên ngoài, đám người trong Miếu sơn thần đang ăn dở đều sững sờ.
+“Đại ca, sao trước miếu lại có xe ngựa?”
+Một giọng nó...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 483: Tinh khiết lớn ngu xuẩn
 chapter_number: 483
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 483: Tinh khiết lớn ngu xuẩn
+
+Cùng lúc đó!
+
+Bát Quốc Công quán lầu ba, Tào Côn chuyên môn gian phòng bên trong, một đại hán ôm Laptop, đi tới Tào Côn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

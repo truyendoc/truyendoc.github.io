@@ -4,6 +4,13 @@ title: Chương 311: Bảy tòa Nguyên thạch mỏ (2)
 chapter_number: 311
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 269: Bảy tòa Nguyên thạch mỏ (2)
+
+Sau một khắc, Thẩm Dục giương tay vồ một cái.
+
+Lập tức, một cái năng lượng cự thủ xuất hiện.
+
+Năng lượng cự thủ khôn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

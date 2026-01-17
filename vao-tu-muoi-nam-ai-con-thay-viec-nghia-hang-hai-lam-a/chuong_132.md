@@ -4,6 +4,9 @@ title: Chương 132: Lưu manh cùng sinh viên, không mâu thuẫn
 chapter_number: 132
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 132: Lưu manh cùng sinh viên, không mâu thuẫn
+
+Thậm chí, làm chưởng quản toàn bộ tài chính học viện viện trưởng, Tôn Phỉ Phỉ đối Tô Kiến Dân như thế m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

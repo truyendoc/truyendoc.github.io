@@ -4,6 +4,9 @@ title: Chương 212: lòng dạ hẹp hòi khí vận chi tử
 chapter_number: 212
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 212: lòng dạ hẹp hòi khí vận chi tử
+
+Đương nhiên, Thẩm Dục còn phát hiện không ít có được thượng phẩm căn cốt thiếu nam thiếu nữ, hắn cũng chuẩn bị cù...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

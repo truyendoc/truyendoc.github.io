@@ -4,6 +4,11 @@ title: Chương 338: Đến đều tới
 chapter_number: 338
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 338: Đến đều tới
+
+Không nghe Tào Côn nói còn tốt, nghe xong Tào Côn nói như vậy, Hạng Nam Nguyệt đơn giản hận không thể cho hắn hai cước.
+
+Bởi vì, hai...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

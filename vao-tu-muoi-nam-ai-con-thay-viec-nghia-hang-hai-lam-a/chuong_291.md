@@ -4,6 +4,11 @@ title: Chương 291: Tàn khốc chân tướng
 chapter_number: 291
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 291: Tàn khốc chân tướng
+
+Mười một giờ trưa bốn mươi điểm!
+
+Hải Thành, khai phát khu, một đại môn miệng khắc lấy mấy cái th·iếp vàng chữ lớn công ty t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

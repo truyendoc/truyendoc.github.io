@@ -4,6 +4,10 @@ title: Chương 237: Bảng Thiên Mệnh Chiếu Ứng, Thứ Hạng
 chapter_number: 237
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Long tiềm bảng?”
+Lục Thanh nhìn cuộn trục đặt trên bàn đá.
+“Xin hỏi Chi Duệ công tử, Long tiềm bảng là thứ gì?”
+“ Long tiềm bảng là bảng danh xếp hạng do Th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 95: Lang ca lại là số không
 chapter_number: 95
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 95: Lang ca lại là số không
+
+Lang ca chân thực danh tự cùng sói không có bất kỳ cái gì quan hệ.
+
+Hắn chân thực danh tự rất đại chúng, gọi Lý Kiến Quốc...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

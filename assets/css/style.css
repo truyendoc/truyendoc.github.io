@@ -502,40 +502,38 @@ p {
     text-transform: uppercase;
 }
 
-/* Chapter Grid (TOC Page) */
-.chapter-controls {
-    margin-bottom: 1.5rem;
-}
-
-.chapter-grid {
+/* Chapter List (TOC Page) */
+.chapter-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    gap: 10px;
-    margin-top: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
 }
 
 .chapter-item {
     display: block;
-    padding: 10px 5px;
+    padding: 12px 15px;
     background-color: var(--card-bg);
     border: 1px solid var(--border-color);
-    border-radius: 6px;
-    text-align: center;
+    border-radius: 8px;
     text-decoration: none;
     color: var(--text-color);
-    font-size: 0.9rem;
-    transition: all 0.2s;
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
 }
 
 .chapter-item:hover {
     border-color: var(--accent-color);
-    background-color: var(--accent-color);
-    color: white;
     transform: translateY(-2px);
-}
-
-.chapter-item:active {
-    transform: translateY(0);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    color: var(--accent-color);
+    background-color: var(--card-bg);
 }
 
 .hidden {

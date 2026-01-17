@@ -4,6 +4,13 @@ title: Chương 86: xoát độ trung thành
 chapter_number: 86
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 86 xoát độ trung thành
+
+Thẩm Gia.
+
+Thẩm Dục hài lòng nhìn xem Ngũ Tiểu Chích cùng Lý Linh.
+
+Cũng không biết có phải hay không vừa vặn, hôm nay các nàn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 317: Mỹ vị (2)
 chapter_number: 317
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi bày thịt nướng, Lục Thanh liền quay lại bên đống lửa.
+“Trần lão y, mời.”
+Đợi Lục Thanh rời đi, viên tráng trung niên lập tức gắp một miếng thịt thỏ b...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

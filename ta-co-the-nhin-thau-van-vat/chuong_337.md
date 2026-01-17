@@ -4,6 +4,8 @@ title: Chương 337: Tâm người khó lường, Thánh Lệnh trở nên vô d
 chapter_number: 337
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tiền bối cũng hiểu y thuật sao?” người đàn ông mang kiếm kinh ngạc hỏi.
+Với tu vi thâm sâu khó lường của vị lão y, y thuật mà ông nắm giữ ắt hẳn cũng phi ph...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

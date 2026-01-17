@@ -4,6 +4,11 @@ title: Chương 251: Thần Tiêu tông (2)
 chapter_number: 251
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 239: Thần Tiêu tông (2)
+
+Thẩm Dục thuấn di biến mất không thấy gì nữa, sau đó đem trấn yêu tư đào hố chôn kĩ t·hi t·hể thu nhập tiểu thế giới.
+
+Những ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

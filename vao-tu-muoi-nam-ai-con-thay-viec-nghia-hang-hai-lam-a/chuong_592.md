@@ -4,6 +4,9 @@ title: Chương 592: Trạm thứ nhất, Bàng Hồng Na
 chapter_number: 592
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 592: Trạm thứ nhất, Bàng Hồng Na
+
+Tại Khương Mẫn cùng Tô Nhược Lan ba tỷ muội rời đi biệt thự về sau, không bao lâu, Ngốc Cẩu liền mở ra Tào Côn chiếc...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

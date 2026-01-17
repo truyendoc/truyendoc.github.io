@@ -4,6 +4,13 @@ title: Chương 339: Hạng Nam Nguyệt công tác mới
 chapter_number: 339
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 339: Hạng Nam Nguyệt công tác mới
+
+Sáng sớm hôm sau.
+
+Hạng Nam Nguyệt rửa mặt xong, một lần nữa về tới phòng ngủ.
+
+Gặp Tào Côn cũng đã từ trên giường ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

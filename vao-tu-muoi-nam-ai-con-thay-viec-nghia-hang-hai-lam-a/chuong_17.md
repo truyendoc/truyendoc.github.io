@@ -4,6 +4,11 @@ title: Chương 17: Nghĩa địa lời nói trong đêm
 chapter_number: 17
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 17: Nghĩa địa lời nói trong đêm
+
+Phòng cho thuê quá trình rất thuận lợi.
+
+Nhờ vào bây giờ đang là nghỉ hè, phòng nguyên coi như sung túc, Tào Côn chỉ ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 479: Vậy cũng chớ qua cái này năm
 chapter_number: 479
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 479: Vậy cũng chớ qua cái này năm
+
+Đối với Lam Khả Tâm nói chuyện này, Tào Côn kiếp trước thời điểm liền biết.
+
+Trương gia bởi vì là đặc biệt nữ nhân ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

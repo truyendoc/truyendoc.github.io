@@ -4,6 +4,11 @@ title: Chương 38
 chapter_number: 38
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Gabil vẫn tiếp tục cuộc chiến vô vọng.
+
+Tình hình chiến trận rõ ràng là chống lại bọn họ.
+
+Như thể chẳng hề biết mệt mỏi, cũng chẳng hề cần nghỉ ngơi, lính O...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

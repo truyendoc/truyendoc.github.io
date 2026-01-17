@@ -4,6 +4,11 @@ title: Chương 149: bị hái đi Đào Tử
 chapter_number: 149
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 149: bị hái đi Đào Tử
+
+Sáng sớm hôm sau, cậu Lâm Thiên Hữu liền đến gặp Thẩm Dục.
+
+Thẩm Dục không tâm tình cùng hắn nói nhảm, trực tiếp hỏi: “Cậu dự đ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

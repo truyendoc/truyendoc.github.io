@@ -4,6 +4,11 @@ title: Chương 30
 chapter_number: 30
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Có một cái hồ nằm ở trung tâm Đại sâm lâm Jura, tên là Shisu.
+
+Xung quanh hồ Shisu là một vùng đất ngập nước.
+
+Ở nơi đó, Tích dịch nhân tộc {Lizardman} cai t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

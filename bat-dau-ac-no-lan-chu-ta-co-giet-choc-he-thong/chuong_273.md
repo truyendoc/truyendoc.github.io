@@ -4,6 +4,9 @@ title: Chương 273: Huyền cơ doanh nháo sự (2)
 chapter_number: 273
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 250: Huyền cơ doanh nháo sự (2)
+
+Coi như ta áp chú Nhị hoàng tử thất bại, tân hoàng muốn thanh toán, ta Nhị đệ còn có muội muội còn sẽ không là ta cầu...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

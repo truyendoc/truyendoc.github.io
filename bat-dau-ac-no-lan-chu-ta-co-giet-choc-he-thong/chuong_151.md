@@ -4,6 +4,13 @@ title: Chương 151: hơn tám mươi vạn điểm giết chóc
 chapter_number: 151
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 151: hơn tám mươi vạn điểm giết chóc
+
+“Trước hết g·iết đáng giá nhất!”
+
+Trong chớp mắt, Thẩm Dục liền làm ra quyết định.
+
+Sau một khắc, thần thức của ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 640: Tăng phiêu tốt ngồi cùng bàn
 chapter_number: 640
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 640: Tăng phiêu tốt ngồi cùng bàn
+
+Mặc dù Tina nói lời nói này thời điểm, là một loại gần như trò đùa cùng không quan tâm ngữ khí.
+
+Nhưng là, từ nàng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

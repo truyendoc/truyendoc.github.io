@@ -4,6 +4,9 @@ title: Chương 154: Câu cá (2)
 chapter_number: 154
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: ---
+Đáng tiếc, kể từ sau khi câu được hai con cá chạch vàng kia, hắn chưa từng bắt thêm được con Dị Ngư nào nữa.
+Trước đây, Lục Thanh vẫn nghĩ sông ngoài thô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

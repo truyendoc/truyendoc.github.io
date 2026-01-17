@@ -4,6 +4,11 @@ title: Chương 249: Tôn Phỉ Phỉ muốn báo thù
 chapter_number: 249
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 249: Tôn Phỉ Phỉ muốn báo thù
+
+Đương nhiên, ngoại trừ cái này tai hoạ ngầm, còn có khác một chút nhỏ tai hoạ ngầm.
+
+Tỉ như: Triệu Tuyết là có bạn trai...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

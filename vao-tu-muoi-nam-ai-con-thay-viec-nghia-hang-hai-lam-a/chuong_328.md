@@ -4,6 +4,11 @@ title: Chương 328: Thật sát thủ, giả Hạng Nam Nguyệt
 chapter_number: 328
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 328: Thật sát thủ, giả Hạng Nam Nguyệt
+
+Không biết qua bao lâu, nữ sát thủ sâu kín tỉnh lại.
+
+Con mắt vừa mới trợn thành một đường, đột nhiên, nàng tự...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

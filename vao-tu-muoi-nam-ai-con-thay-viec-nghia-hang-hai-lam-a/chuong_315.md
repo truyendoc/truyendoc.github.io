@@ -4,6 +4,9 @@ title: Chương 315: Quách gia, Quách Hữu Lý
 chapter_number: 315
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 315: Quách gia, Quách Hữu Lý
+
+Ngoài miệng nói phải nắm chặt thời gian thuần thục bản thảo, kết quả, Tào Côn quay đầu liền đi một bên tự rước trên kệ, ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

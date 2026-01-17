@@ -4,6 +4,13 @@ title: Chương 223
 chapter_number: 223
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Trận chiến giữa Veldora và Dagruel tàn phá nặng nề mọi thứ xung quanh.
+
+Có một người đang rất bực mình.
+
+Không ai khác chính là Ruminas.
+
+(Khốn kiếp! Con thằ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

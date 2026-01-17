@@ -4,6 +4,8 @@ title: Chương 39: Suy nghĩ của Mã gia
 chapter_number: 39
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh cùng Đại An mua sắm khá nhiều ở phiên chợ, tự nhiên khiến không ít người để mắt tới.
+Vì vậy, khi hai người vừa rời đi, ở ngoài cổng chợ đã có mấy k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

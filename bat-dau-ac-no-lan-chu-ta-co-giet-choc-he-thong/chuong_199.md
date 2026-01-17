@@ -4,6 +4,11 @@ title: Chương 199: Kim Lang tộc
 chapter_number: 199
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 199: Kim Lang tộc
+
+Vân Mộc Huyện, huyện nha hậu viện.
+
+Đỗ Trọng rất cung kính đứng tại Thẩm Dục trước mặt, trên nét mặt lộ ra mấy phần kinh hoảng cùng...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

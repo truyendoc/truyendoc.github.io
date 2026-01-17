@@ -4,6 +4,11 @@ title: Chương 371: Tất làm Liễu Truyền Sĩ
 chapter_number: 371
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 371: Tất làm Liễu Truyền Sĩ
+
+Về nước một năm, hết thảy tất cả đều gió êm sóng lặng.
+
+Cốc Thượng Minh vốn cho rằng, mình ở nước ngoài làm huấn chó sư n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

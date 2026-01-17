@@ -4,6 +4,11 @@ title: Chương 226
 chapter_number: 226
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Hinata đứng dậy, lạnh lùng đánh mắt về phía Reiner.
+
+Trong ánh mắt ấy không hề có sự dịu dàng, mà tràn đầy khinh miệt.
+
+「Ng-Ngài Hinata―― Ngài ổn chứ ạ? Cứ đ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

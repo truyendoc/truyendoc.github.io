@@ -4,6 +4,9 @@ title: Chương 19: Cá lớn khiến cả làng chấn động
 chapter_number: 19
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh và Tiểu Nhan vừa xuất hiện ở bãi câu,
+đám dân làng vẫn đang ngồi câu gần đó đều sững người,
+ánh mắt đồng loạt dán vào con cá khổng lồ vác sau l...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,9 @@ title: Chương 239: Tìm cao lầu, đem hắn ném xuống
 chapter_number: 239
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 239: Tìm cao lầu, đem hắn ném xuống
+
+Tại Dương Tam Đao ngay từ đầu đề cập đôi kia song bào thai tỷ muội thời điểm, Lý Thiếu Vĩ trong lòng còn có như v...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

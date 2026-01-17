@@ -4,6 +4,13 @@ title: Chương 229
 chapter_number: 229
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Velda quan sát tình hình chiến sự trên khắp mặt trận với gương mặt lạnh tanh.
+
+Kết quả không đạt.
+
+Đúng hơn là, thảm bại.
+
+Tại trận chiến ở lãnh địa Milim, c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

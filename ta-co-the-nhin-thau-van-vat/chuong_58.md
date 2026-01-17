@@ -4,6 +4,8 @@ title: Chương 58: Qúy tộc trong thành
 chapter_number: 58
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Mã gia, kia là cái gì vậy? Thứ thịt hèn hạ như thế cũng có thể để người ăn sao?!”
+Công tử trẻ tuổi ăn mặc sang trọng trắng bệch cả mặt, chỉ tay về phía sạp ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

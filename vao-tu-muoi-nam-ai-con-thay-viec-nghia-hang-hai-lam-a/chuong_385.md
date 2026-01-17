@@ -4,6 +4,13 @@ title: Chương 385: Có phụ cấp sao
 chapter_number: 385
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 385: Có phụ cấp sao
+
+Phan Dĩnh đầu này pm vừa gửi tới, Lý Kiến Ba bên kia liền hồi đáp đi qua.
+
+\"Tốt, đương nhiên không có vấn đề.\"
+
+\"Phan Dĩnh đồng h...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 92: Hắc Phong trộm tận thế
 chapter_number: 92
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 92 Hắc Phong trộm tận thế
+
+Thần Mộc Huyện, trấn Thanh Thủy.
+
+Lâm Gia Thôn hơn mười dặm bên ngoài trong một sơn cốc.
+
+Một đám tướng mạo hung ác tráng h...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

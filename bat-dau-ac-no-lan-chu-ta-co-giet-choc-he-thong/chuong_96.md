@@ -4,6 +4,11 @@ title: Chương 96: quét ngang thủy trại
 chapter_number: 96
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 96 quét ngang thủy trại
+
+“Ta ngược lại muốn xem xem các ngươi là ai?”
+
+Thẩm Dục ánh mắt rơi vào ba vị kia Khí Hải cảnh trên thân, nhìn rõ chi nhãn đi ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

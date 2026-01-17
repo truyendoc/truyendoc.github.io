@@ -4,6 +4,13 @@ title: Chương 322: Thế giới chân tướng (1)
 chapter_number: 322
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 275: Thế giới chân tướng (1)
+
+“Ta cảm thấy ngươi vẫn là không cần biết cho thỏa đáng?” Ngạo Thanh Sương ngữ khí không hiểu nói.
+
+“Vì cái gì?”
+
+Ngạo Th...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

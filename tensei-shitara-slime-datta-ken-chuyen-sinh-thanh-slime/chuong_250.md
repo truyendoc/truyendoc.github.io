@@ -4,6 +4,13 @@ title: Chương 250
 chapter_number: 250
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chuyện quái gì thế...?
+
+Đúng như tôi nghĩ,
+
+「Không, khônggg ... Sức mạnh, sức mạnh của ta đã cạn kiệt ngay đúng phút cuối cùng ...」
+
+Veldora nói như thể đang...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

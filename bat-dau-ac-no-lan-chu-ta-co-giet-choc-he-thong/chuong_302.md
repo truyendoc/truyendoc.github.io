@@ -4,6 +4,13 @@ title: Chương 302: Vu tộc đại quân đột kích (1)
 chapter_number: 302
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 265: Vu tộc đại quân đột kích (1)
+
+Vì mau chóng đưa Quốc Sư ra Kinh thành.
+
+Hoàng đế chỉ dùng hai ngày thời gian liền tập hợp 50 vạn đại quân.
+
+Mà thố...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

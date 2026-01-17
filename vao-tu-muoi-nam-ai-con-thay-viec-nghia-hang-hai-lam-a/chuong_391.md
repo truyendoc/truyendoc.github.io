@@ -4,6 +4,13 @@ title: Chương 391: Lý Văn Văn tới
 chapter_number: 391
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 391: Lý Văn Văn tới
+
+Bởi vì là sớm chuyến bay.
+
+Cho nên, vừa mới bảy giờ sáng, Tào Côn liền đi ra nhà khách.
+
+Hắn đầu tiên là về khách sạn cấp năm sao...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

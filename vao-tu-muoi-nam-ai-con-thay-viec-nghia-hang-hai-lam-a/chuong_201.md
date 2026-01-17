@@ -4,6 +4,11 @@ title: Chương 201: Gió êm sóng lặng một đêm
 chapter_number: 201
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 201: Gió êm sóng lặng một đêm
+
+Mặc dù Tôn Phỉ Phỉ ở là một bộ một phòng ngủ một phòng khách một bếp một vệ độc thân nhà trọ.
+
+Nhưng là, nàng mua căn n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

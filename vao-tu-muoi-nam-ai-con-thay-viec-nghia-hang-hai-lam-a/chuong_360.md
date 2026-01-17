@@ -4,6 +4,11 @@ title: Chương 360: Nguyên lai là hỗn hắc đạo
 chapter_number: 360
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 360: Nguyên lai là hỗn hắc đạo
+
+Nghe xong Trương tỷ nói với mình những tin tức này, Dương Nhật Bố miệng đều mở ra.
+
+Giúp người ta chủ trì t·ang l·ễ, t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

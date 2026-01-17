@@ -4,6 +4,8 @@ title: Chương 272: Nhạo báng
 chapter_number: 272
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tiểu súc sinh! Hôm nay ta phải giết ngươi, báo thù cho Nghiêu nhi của ta!”
+Đôi mắt của Trịnh lão thái đỏ ngầu, nhìn chằm chằm Lục Thanh, hận không thể xé hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 681: Cho ta ba ngày thời gian
 chapter_number: 681
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 681: Cho ta ba ngày thời gian
+
+Còn những cái khác thủ đoạn là cái gì, cái này liền không cần nói cũng biết.
+
+Ôn Nhu một điểm, khả năng chỉ là đem Bàng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

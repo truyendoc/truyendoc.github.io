@@ -4,6 +4,9 @@ title: Chương 44: Khái niệm cảnh giới tu luyện
 chapter_number: 44
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “A Thanh, con có biết muốn trở thành một thầy thuốc giỏi thì cần có những gì không?”
+Nghe câu hỏi của sư phụ, Lục Thanh suy nghĩ một lát rồi đáp:
+“Là y thuật...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

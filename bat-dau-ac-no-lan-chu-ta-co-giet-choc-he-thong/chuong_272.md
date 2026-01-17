@@ -4,6 +4,11 @@ title: Chương 272: Huyền cơ doanh nháo sự (1)
 chapter_number: 272
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 250: Huyền cơ doanh nháo sự (1)
+
+Đang chọn xong đầu bài vũ giả sau không đến nửa khắc đồng hồ.
+
+Dàn nhạc cùng đầu bài vũ giả cùng bạn nhảy đoàn liền t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

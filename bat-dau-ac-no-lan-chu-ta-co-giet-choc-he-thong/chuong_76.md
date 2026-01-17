@@ -4,6 +4,13 @@ title: Chương 76: Hàn Mộ rốt cục rời đi
 chapter_number: 76
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 76 Hàn Mộ rốt cục rời đi
+
+Thẩm Dục một lần nữa trở lại Thanh Mộc Nông Trang.
+
+Quản gia cùng Thiết Ngưu đều đã xét nhà trở về.
+
+Quản gia tiến lên báo c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

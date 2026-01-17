@@ -4,6 +4,9 @@ title: Chương 209
 chapter_number: 209
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Cuối cùng đội quân của Dagruel cũng đã tới Thánh Quốc Ruberius và đang tràn qua biên giới.
+
+Quân đoàn khổng lồ cày nát bất kì ai cả gan cản đường chúng, hừng...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

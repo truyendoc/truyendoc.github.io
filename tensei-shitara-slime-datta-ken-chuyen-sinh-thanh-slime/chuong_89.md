@@ -4,6 +4,11 @@ title: Chương 89
 chapter_number: 89
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Hinata rời khỏi.
+
+Sau khi xác nhận rằng cô đã đi hẳn, bốn hiền nhân tiếp tục cuộc nói chuyện của họ.
+
+\"Ôi con nhỏ đáng thương. Cô ta thực sự nghĩ mình là anh...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 388: Trước rút 100 roi lại nói
 chapter_number: 388
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 388: Trước rút 100 roi lại nói
+
+Thời khắc này Liễu Truyền Tâm, đầy mắt khủng hoảng, tựa như là một con nhận lấy kinh hãi bé thỏ trắng.
+
+Hắn ở chỗ này ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

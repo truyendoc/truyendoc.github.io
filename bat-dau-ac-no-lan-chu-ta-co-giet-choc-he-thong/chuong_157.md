@@ -4,6 +4,11 @@ title: Chương 157: Sơ Tuyết cùng bắt đầu thấy
 chapter_number: 157
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 157: Sơ Tuyết cùng bắt đầu thấy
+
+Đến đây cho Thẩm Dục đưa yêu thú chính là Trấn Yêu Quân một cái bách phu trưởng.
+
+Hắn giọng mang hâm mộ nói cho Thẩm ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

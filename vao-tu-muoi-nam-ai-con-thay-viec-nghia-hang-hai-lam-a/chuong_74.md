@@ -4,6 +4,11 @@ title: Chương 74: Đáng sợ tửu lượng
 chapter_number: 74
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 74: Đáng sợ tửu lượng
+
+Chính là cái phổ phổ thông thông nam nhân.
+
+Căn cứ Lưu Ngọc Linh miêu tả, từ gia đình điều kiện, đến công việc, lại đến nghiệp ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

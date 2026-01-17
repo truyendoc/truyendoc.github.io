@@ -4,6 +4,11 @@ title: Chương 31: Liếm chó cắn người
 chapter_number: 31
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 31: Liếm chó cắn người
+
+Đương nhiên, luật sư nói lời nói này ý tứ, cũng không phải là để Bạch Tĩnh cùng Vương San San từ bỏ.
+
+Mà là nói cho các nàng b...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

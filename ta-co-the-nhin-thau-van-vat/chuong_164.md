@@ -4,6 +4,8 @@ title: Chương 164: Giao chiến (3)
 chapter_number: 164
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Hơn nữa, sau khi sử dụng Bí Thuật, gã sẽ rơi vào trạng thái suy yếu, thực lực giảm sút nghiêm trọng.
+Nếu không hạ được Lục Thanh trong thời gian ngắn, gã sợ ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,13 @@ title: Chương 356: Trung vương ngả bài (1)
 chapter_number: 356
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 292: Trung vương ngả bài (1)
+
+Đặng phủ.
+
+Trong nhà ăn.
+
+Đặng Lăng mời Thẩm Dục sau khi ngồi xuống, liền đem một cái hộp gấm đẩy lên trước mặt hắn: “Th...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

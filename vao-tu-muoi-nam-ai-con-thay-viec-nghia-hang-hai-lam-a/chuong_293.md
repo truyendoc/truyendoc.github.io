@@ -4,6 +4,11 @@ title: Chương 293: Cẩu Nhất Vĩ phụ thân quyển nhật ký
 chapter_number: 293
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 293: Cẩu Nhất Vĩ phụ thân quyển nhật ký
+
+Thời gian thoáng một cái đã qua, đảo mắt liền đi tới hai giờ chiều.
+
+Nguyên bản thuộc về Trương Uyển Thanh, h...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

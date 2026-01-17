@@ -4,6 +4,13 @@ title: Chương 163: cực lớn hồn tinh
 chapter_number: 163
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 163: cực lớn hồn tinh
+
+Cái này Lục Đầu Nguyên Thần trong Yêu thú, chỉ có một đầu là Nguyên Thần cảnh hậu kỳ.
+
+Hai đầu Nguyên Thần cảnh trung kỳ.
+
+Còn ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

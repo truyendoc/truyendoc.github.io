@@ -4,6 +4,11 @@ title: Chương 589: Xuất phát, trong đêm về Hải Thành!
 chapter_number: 589
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 589: Xuất phát, trong đêm về Hải Thành!
+
+\"120 vạn a, ta đi đâu cho bọn hắn góp cái này 120 vạn đi a!\"
+
+Giữa trưa, cục cảnh sát phụ cận không xa một nh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

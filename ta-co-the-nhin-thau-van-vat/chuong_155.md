@@ -4,6 +4,9 @@ title: Chương 155: Cá râu rồng
 chapter_number: 155
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thấy cần câu đột nhiên bị kéo mạnh, Lục Thanh lại chẳng mấy bất ngờ.
+Loài cá ở dị giới này rất thích đánh lén, hắn đã sớm quen với điều đó rồi.
+Điều khiến hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

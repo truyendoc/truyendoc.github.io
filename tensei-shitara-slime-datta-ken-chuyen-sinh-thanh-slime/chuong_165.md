@@ -4,6 +4,11 @@ title: Chương 165
 chapter_number: 165
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------
+
+Đã sang ngày thứ hai kể từ khi tôi hồi sinh 700,000 quân Đế Quốc.
+
+Vì đại sảnh của Tempest cũng không rộng rãi gì cho cam, n...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

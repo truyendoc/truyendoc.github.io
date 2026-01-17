@@ -4,6 +4,8 @@ title: Chương 209: Dạo phố
 chapter_number: 209
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong lúc Lục Thanh kích hoạt Siêu năng lực, các cuốn sách trên kệ bắt đầu phát ra “Ánh sáng Siêu năng lực” tương ứng.
+Phần lớn sách tỏa ra ánh sáng trắng nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,9 @@ title: Chương 399: Lo lắng Liễu Truyền Sĩ
 chapter_number: 399
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 399: Lo lắng Liễu Truyền Sĩ
+
+Một trận sát có việc suy nghĩ, Tào Côn nói: \"Lý tiên sinh, cái này Liễu Truyền Tâm trước đó hàng năm giao phí bảo hộ là n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 119: Hoàng Đông Mai tự mình hạ tràng bồi tửu
 chapter_number: 119
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 119: Hoàng Đông Mai tự mình hạ tràng bồi tửu
+
+Rộng rãi Minh Lượng trong văn phòng, đập vào mắt đầu tiên là một cái bàn làm việc.
+
+Sau đó chính là một ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

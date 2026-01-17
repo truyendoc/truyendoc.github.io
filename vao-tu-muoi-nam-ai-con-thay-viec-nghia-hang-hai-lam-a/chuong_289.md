@@ -4,6 +4,13 @@ title: Chương 289: Đem Trương Uyển Thanh lưu cho ta
 chapter_number: 289
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 289: Đem Trương Uyển Thanh lưu cho ta
+
+Thời gian lại qua có nửa giờ!
+
+Tào Côn cùng Cẩu Nhất Vĩ cũng kết bạn từ trong biệt thự ra, đi tới trong viện.
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

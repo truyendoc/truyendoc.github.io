@@ -4,6 +4,13 @@ title: Chương 515: Cái thứ nhất cố sự
 chapter_number: 515
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 515: Cái thứ nhất cố sự
+
+Trương Bách Mộ mất ngủ!
+
+Bởi vì Tào Côn cho ra cái này phương pháp phá giải, xa xa vượt ra khỏi hắn mong muốn.
+
+Thế nhưng là,...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

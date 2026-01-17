@@ -4,6 +4,11 @@ title: Chương 29
 chapter_number: 29
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Có những đồng bạn mới cũng tốt, nhưng liệu mọi người sẽ hòa thuận với nhau?
+
+Tôi đã có mối lo như thế, nhưng mối lo đó nhanh chóng tan biến đi.
+
+Các Đại quỷ ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

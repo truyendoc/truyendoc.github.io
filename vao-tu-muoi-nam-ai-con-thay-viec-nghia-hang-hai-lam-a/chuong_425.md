@@ -4,6 +4,11 @@ title: Chương 425: Sợ chết Bốc Hạnh Phúc
 chapter_number: 425
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 425: Sợ chết Bốc Hạnh Phúc
+
+Gặp Tào Côn nghe xong những lời này của mình, trực tiếp rơi vào trầm mặc, Hạng Nam Nguyệt tiếp tục mở miệng.
+
+\"Đừng trách ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

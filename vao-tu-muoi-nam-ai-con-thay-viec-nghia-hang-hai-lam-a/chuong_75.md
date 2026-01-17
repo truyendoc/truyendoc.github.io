@@ -4,6 +4,11 @@ title: Chương 75: Hảo huynh đệ tới
 chapter_number: 75
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 75: Hảo huynh đệ tới
+
+Đương nhiên, những chuyện này Lưu Ngọc Linh là sẽ không nói cho Bạch Tĩnh.
+
+Mặc kệ là Tào Côn một đêm bỏ ra 16 vạn, hay là hắn u...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

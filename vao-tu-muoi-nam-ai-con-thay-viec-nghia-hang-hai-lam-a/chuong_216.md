@@ -4,6 +4,9 @@ title: Chương 216: Giá trị 15 ức tin tức
 chapter_number: 216
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 216: Giá trị 15 ức tin tức
+
+Bởi vì căn bản cũng không có cái gọi là lão bản, thế nhưng là, ngay trước Dương Tam Đao cùng Tiêu Văn Tĩnh trước mặt, Tào ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

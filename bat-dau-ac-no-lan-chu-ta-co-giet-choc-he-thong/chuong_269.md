@@ -4,6 +4,13 @@ title: Chương 269: Mới nhậm chức, ba không thể trêu chọc (2)
 chapter_number: 269
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 248: Mới nhậm chức, ba không thể trêu chọc (2)
+
+“Hóa ra là dạng này!”
+
+Thẩm Dục gật gật đầu: “Kia thứ hai không thể trêu chọc chính là?”
+
+Ngô Dương ti...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

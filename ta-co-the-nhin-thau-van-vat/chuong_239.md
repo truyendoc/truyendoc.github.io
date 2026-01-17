@@ -4,6 +4,8 @@ title: Chương 239: Danh Tính Kinh Động Thiên Hạ
 chapter_number: 239
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thiên Cơ Lâu công bố Long tiềm Bảng, từ trước đến nay luôn thu hút sự chú ý của vô số thế lực trong thiên hạ.
+Bởi lẽ, võ giả có thể lọt vào bảng ấy đều có kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

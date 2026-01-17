@@ -4,6 +4,9 @@ title: Chương 255
 chapter_number: 255
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Đây chỉ là một phụ chương nho nhỏ mình gửi tặng đến tất cả những bạn đã đọc truyện và ủng hộ mình trong thời gian qua.
+
+Đây là ảnh một số nhân vật trong bộ t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

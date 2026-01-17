@@ -4,6 +4,13 @@ title: Chương 122
 chapter_number: 122
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Đã vài tuần kể từ lúc Fritz và Hinata đến Ingracia.­
+
+Dù họ có quá giang một chiếc xe chở hàng thì cũng vẫn mất thời gian.
+
+Nhưng Hinat...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

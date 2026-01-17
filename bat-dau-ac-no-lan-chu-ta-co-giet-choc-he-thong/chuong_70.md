@@ -4,6 +4,15 @@ title: Chương 70: tham lam vô độ
 chapter_number: 70
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 70 tham lam vô độ
+
+Một bên khác.
+
+Huyện nha hậu viện.
+
+Huyện lệnh Tần Chiêu Chính cùng thúc thu làm Hàn Mộ tại uống trà ôn chuyện.
+
+Cộng đồng nhớ lại ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

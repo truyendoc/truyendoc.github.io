@@ -4,6 +4,8 @@ title: Chương 142: Chiến lợi phẩm (2)
 chapter_number: 142
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong số các bình dược, có vài bình giống nhau, chỉ khác đôi chút, có vẻ là loại dược hoàn do Thanh lam Tông chế tạo hàng loạt.
+Không có nhãn ghi tên, nên Lụ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

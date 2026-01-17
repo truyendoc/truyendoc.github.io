@@ -4,6 +4,11 @@ title: Chương 237
 chapter_number: 237
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Dino có một kỹ năng ẩn.
+
+Ultimate Skill『Sa Ngã Chi Vương Luciel』[1], một trong những Ultimate Skill cổ đại nhất.
+
+Nó có năng lực của cả hai Ultimate Skill『Ki...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

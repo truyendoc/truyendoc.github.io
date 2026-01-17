@@ -4,6 +4,11 @@ title: Chương 336: Tân hoàng Khai Nguyên (1)
 chapter_number: 336
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 282: Tân hoàng Khai Nguyên (1)
+
+Nghe được Ngao Thanh Sương bế quan, Thẩm Dục cũng không ngoài ý muốn.
+
+Dù sao nàng trọng thương nhiều năm như vậy, tu ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

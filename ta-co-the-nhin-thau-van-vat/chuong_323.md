@@ -4,6 +4,9 @@ title: Chương 323: Miệng lưỡi sắc bén
 chapter_number: 323
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Một đại hán vác búa lớn đập bàn, giận dữ đứng bật dậy.
+“Triệu tiền bối nói sai rồi.
+Lưu Vân Tông chúng ta xưa nay lấy nhiệt tình hiếu khách nổi danh, tuyệt k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

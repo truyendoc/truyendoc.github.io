@@ -4,6 +4,9 @@ title: Chương 10: chuông nguyên tinh
 chapter_number: 10
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 10 chuông nguyên tinh
+
+Ngu Tuyết Oánh là cái lôi lệ phong hành nữ nhân, tại xác định Tiêu Huyền Không có khả năng thi biến sau, liền mang theo thủ hạ ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

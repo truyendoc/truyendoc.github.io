@@ -4,6 +4,11 @@ title: Chương 312: Tang lễ, ta đến chủ trì
 chapter_number: 312
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 312: Tang lễ, ta đến chủ trì
+
+Theo Tào Côn lời nói này nói xong, trong biệt thự một chút liền lâm vào yên tĩnh.
+
+Tại Tào Côn cùng Lâm Thi Hàm nhìn chă...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

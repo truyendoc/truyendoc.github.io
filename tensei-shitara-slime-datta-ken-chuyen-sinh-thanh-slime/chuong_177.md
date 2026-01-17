@@ -4,6 +4,11 @@ title: Chương 177
 chapter_number: 177
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ----------------------------
+
+Velgrynd bình tĩnh chuẩn bị tinh thần khi nhìn Chúa Quỷ Rimuru.
+
+Đã khuất phục thành công được Veldora rồi, Rudra giờ đã tự chì...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

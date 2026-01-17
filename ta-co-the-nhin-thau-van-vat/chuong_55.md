@@ -4,6 +4,9 @@ title: Chương 55: Đao pháp
 chapter_number: 55
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Pháp tu luyện và kỹ chiến đấu?” — Lục Thanh ngạc nhiên hỏi.
+“Đúng vậy.” — Trần lão gật đầu.
+“Cái gọi là phương pháp tu luyện, hay còn gọi là thuật dưỡng, nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,9 @@ title: Chương 341: Huyết ma thể (2)
 chapter_number: 341
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngay lúc ấy, Lục Thanh bỗng khẽ bật cười và lắc đầu.
+Hắn xoay người:
+“Sư phụ, Nhan tiền bối, tay đệ tử hơi ngứa nghề. Trận này đệ tử muốn thử lãnh giáo một p...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

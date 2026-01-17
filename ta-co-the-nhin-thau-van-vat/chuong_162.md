@@ -4,6 +4,8 @@ title: Chương 162: Giao chiến
 chapter_number: 162
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong rừng, Lục Thanh đang truy đuổi gã thanh niên áo trắng không chút ngừng nghỉ.
+“Các hạ là cao thủ hậu thiên nội cảnh, cớ sao lại phải chạy trối chết như ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

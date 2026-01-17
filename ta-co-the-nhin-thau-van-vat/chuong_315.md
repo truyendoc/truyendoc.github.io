@@ -4,6 +4,8 @@ title: Chương 315: Đồng hành
 chapter_number: 315
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đúng vậy, hữu duyên gặp gỡ,” Trần lão y bước lên, hòa hoãn mở lời.
+“Nơi này vẫn còn chỗ. Ngôi miếu nhìn bên ngoài thì nhỏ, nhưng bên trong khá rộng. Nếu khô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

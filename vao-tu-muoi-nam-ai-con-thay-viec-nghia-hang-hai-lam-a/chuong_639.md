@@ -4,6 +4,11 @@ title: Chương 639: Thật · cặn bã nam
 chapter_number: 639
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 639: Thật · cặn bã nam
+
+Nghe được Trình Dao Dao nói như vậy, Tào Côn cũng không có nói cho hai người mình trở về là vì cái gì.
+
+Chỉ là đưa tay tại hai...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

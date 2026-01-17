@@ -4,6 +4,11 @@ title: Chương 647: Cười, nàng lại cười
 chapter_number: 647
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 647: Cười, nàng lại cười
+
+Bàng Hồng Na mặc dù là một cái chỉ một lòng làm nghiên cứu nhân viên nghiên cứu khoa học.
+
+Nhưng là, Tưởng Trung Vân đều đã ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

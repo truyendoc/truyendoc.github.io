@@ -4,6 +4,9 @@ title: Chương 251
 chapter_number: 251
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chuyện này không ngạc nhiên lắm. Đó là suy nghĩ thật lòng của tôi.
+
+Tôi cố gắng suy nghĩ một cách bình tĩnh khi chúng tôi bắt đầu giận dữ tấn công đối phương...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

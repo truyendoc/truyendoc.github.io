@@ -4,6 +4,13 @@ title: Chương 613: Bọn hắn khả năng vẫn luôn tại
 chapter_number: 613
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 613: Bọn hắn khả năng vẫn luôn tại
+
+Năm giờ rưỡi chiều!
+
+Hải Thành mộng ảo biệt thự cư xá, số 8 biệt thự trước cổng chính, Ngốc Cẩu ngừng xe lại.
+
+The...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 1: Buông xuống cục gạch, cầm điện thoại di động
 chapter_number: 1
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 01: Buông xuống cục gạch, cầm điện thoại di động lên
+
+\"Ta vậy mà trọng sinh?\"
+
+\"Hơn nữa, còn là trùng sinh trở về mười năm trước, thấy việc nghĩa hăng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

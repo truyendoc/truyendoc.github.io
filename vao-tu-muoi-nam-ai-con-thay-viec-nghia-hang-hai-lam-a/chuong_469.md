@@ -4,6 +4,11 @@ title: Chương 469: Chó nữ nhân chân mệnh thiên tử
 chapter_number: 469
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 469: Chó nữ nhân chân mệnh thiên tử
+
+\"Ngươi hôm nay muốn đi trường học?\"
+
+Sáng sớm hôm sau, biệt thự lầu một cơm trưa trong sảnh, ngay tại ăn điểm tâm...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 512: Ta muốn năm thành
 chapter_number: 512
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 512: Ta muốn năm thành
+
+Người thiếu niên tại không có kinh lịch hiện thực tàn phá trước đó, luôn luôn tâm cao khí ngạo, tự cho mình siêu phàm.
+
+Nhất l...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

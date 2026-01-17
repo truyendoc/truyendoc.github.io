@@ -4,6 +4,9 @@ title: Chương 317: Trừ phi ngươi sinh con trai (2)
 chapter_number: 317
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 272: Trừ phi ngươi sinh con trai (2)
+
+Thanh di gật gật đầu: “Tối hôm qua, Đại Diễm Quốc khí vận đã bị ngươi phụ hoàng hoàn toàn thôn phệ, dẫn đến còn ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

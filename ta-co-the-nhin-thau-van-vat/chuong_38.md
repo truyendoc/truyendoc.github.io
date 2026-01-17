@@ -4,6 +4,9 @@ title: Chương 38: Mua sắm
 chapter_number: 38
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Công tử nói… sư phụ của cậu là Trần lão y sao?”
+Nụ cười trên gương mặt Mã gia nhất thời thu lại, trở nên nghiêm nghị hơn vài phần.
+“Dạ, người trong thôn đều...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

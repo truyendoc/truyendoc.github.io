@@ -4,6 +4,11 @@ title: Chương 206: Yêu Vương hiện, Ngu Tuyết Oánh tuyệt vọng
 chapter_number: 206
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 206: Yêu Vương hiện, Ngu Tuyết Oánh tuyệt vọng
+
+Rất nhanh, chiến đấu liền kết thúc.
+
+Đơn giản quét dọn chiến trường sau, đội ngũ liền tiếp tục xuất ph...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 651: Lần thứ hai câu thông
 chapter_number: 651
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 651: Lần thứ hai câu thông
+
+Trước đó cùng Tào Côn còn không quá quen thời điểm, Bàng Hồng Na vẫn cho là.
+
+Mặc kệ là Tiêu Văn Tĩnh, Lâm Thi Hàm, vẫn là...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 182: Thẩm Dục tức giận
 chapter_number: 182
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 182: Thẩm Dục tức giận
+
+Đối với Chiến Đông Lai ghi hận, Thẩm Dục cũng không có để vào mắt.
+
+Nếu như hắn vẻn vẹn ở trong lòng ghi hận không biến thành ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

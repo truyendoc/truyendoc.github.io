@@ -4,6 +4,11 @@ title: Chương 82
 chapter_number: 82
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Clayman cảm thấy mình nắm chắc phần thắng rồi
+
+Những người luôn coi thường hắn giờ đang phải nhìn hắn 1 cách kinh ngạc.
+
+Chỉ từ việc dám đυ.ng đến Milim thôi...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 173
 chapter_number: 173
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------------------
+
+Ramiris đột nhiên bay vào phòng hét lên rằng Veldora đã đi đến chỗ của Ruminas.
+
+《Cái vẹo... ?》 Tôi nổi lên ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

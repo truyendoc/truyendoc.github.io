@@ -4,6 +4,13 @@ title: Chương 365: Hạng Nam Nguyệt chụp lén
 chapter_number: 365
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 365: Hạng Nam Nguyệt chụp lén
+
+Năm giờ chiều!
+
+Cư xá Dương Quang cửa chính rìa đường, Ngốc Cẩu ngừng xe lại.
+
+Ngốc Cẩu từ trong xe ra, vừa mới chuẩn b...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

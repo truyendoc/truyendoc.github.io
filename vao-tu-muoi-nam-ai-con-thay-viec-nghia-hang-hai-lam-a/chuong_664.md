@@ -4,6 +4,9 @@ title: Chương 664: Đến chậm điều tra
 chapter_number: 664
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 664: Đến chậm điều tra
+
+\"Đó chính là, năm đó b·ắt c·óc ngài cùng người nhà ngài trận kia vụ án b·ắt c·óc bên trong, cũng không phải là chỉ có ta, cùng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

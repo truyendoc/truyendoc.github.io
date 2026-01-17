@@ -4,6 +4,13 @@ title: Chương 172
 chapter_number: 172
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ------------------------------------
+
+Không nên đứng ngoài mà nói chuyện, chúng tôi đi vào trong.
+
+Tôi dẫn guy đến một phòng khách VIP trong Tempest.
+
+Nội th...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

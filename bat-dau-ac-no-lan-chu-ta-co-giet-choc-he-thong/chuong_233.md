@@ -4,6 +4,9 @@ title: Chương 233: Trần chi đình bắt đầu không may (2)
 chapter_number: 233
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 230: Trần chi đình bắt đầu không may (2)
+
+Nhưng biết thì biết, nếu như tùy tiện đi điều tra công bộ cùng thiên vũ tư, liền sẽ đắc tội hai cái này cơ c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

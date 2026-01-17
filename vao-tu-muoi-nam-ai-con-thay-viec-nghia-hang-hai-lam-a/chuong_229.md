@@ -4,6 +4,13 @@ title: Chương 229: Dựa thế giết người
 chapter_number: 229
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 229: Dựa thế giết người
+
+Dương Tam Đao cái gọi là nhà, chính là Tiêu Văn Tĩnh cùng nàng nữ nhi chỗ ở.
+
+Cũng là một cái cấp cao biệt thự cư xá.
+
+Nhưng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

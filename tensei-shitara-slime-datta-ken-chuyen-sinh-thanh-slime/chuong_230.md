@@ -4,6 +4,11 @@ title: Chương 230
 chapter_number: 230
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: *****
+
+Veldora cứ nhìn về phía tôi nhiều lần và sau đó lại thấy hối hận khi tôi nhìn lại cậu ta.
+
+Người từ bỏ là kẻ thua cuộc. Nhìn qua thì thấy có vẻ ít, nh...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

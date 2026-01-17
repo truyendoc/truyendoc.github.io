@@ -4,6 +4,11 @@ title: Chương 296: Chết thảm cha, bị mạnh mẹ
 chapter_number: 296
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 296: Chết thảm cha, bị mạnh mẹ
+
+Hoa Hạ có một câu ngạn ngữ, gọi là trong nhà chưa tỏ, ngoài ngõ đã tường.
+
+Ý là, làm một người thân ở trong đó thời đi...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

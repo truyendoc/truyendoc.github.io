@@ -4,6 +4,13 @@ title: Chương 612: Bởi vì, hắn là cái người thành thật
 chapter_number: 612
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 612: Bởi vì, hắn là cái người thành thật
+
+Nửa giờ sau!
+
+Tại Lý Nguyên Hà chờ đợi bên trong, Tôn Giai Lâm rốt cuộc đã đến.
+
+Một mét bảy khoảng chừng th...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,15 @@ title: Chương 51: Thẩm Huy
 chapter_number: 51
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 51 Thẩm Huy
+
+Cùng lúc đó.
+
+Trấn Yêu Quan.
+
+Trấn Yêu Quân, nam năm doanh.
+
+Tiểu đội trưởng trong doanh trướng, Thẩm Huy chính tranh đoạt từng giây tu l...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

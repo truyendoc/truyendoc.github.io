@@ -4,6 +4,11 @@ title: Chương 316: Bới Cẩu Thiên Hạo mộ phần
 chapter_number: 316
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 316: Bới Cẩu Thiên Hạo mộ phần
+
+Bị người như thế trêu chọc, Quách Hữu Lý một chút liền ha ha nở nụ cười.
+
+Đợi cho sau khi cười xong, hắn sát có việc n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

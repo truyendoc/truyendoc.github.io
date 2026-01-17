@@ -4,6 +4,11 @@ title: Chương 161
 chapter_number: 161
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------------
+
+Đoàn trưởng Quân Cơ Quân Đoàn Calgurio không thể dấu nổi sự khó chịu khi liên lạc bị cắt đứt.
+
+Tiền và hàng hóa thì cũ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

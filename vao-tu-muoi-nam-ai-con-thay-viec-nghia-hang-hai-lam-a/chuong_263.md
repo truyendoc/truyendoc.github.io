@@ -4,6 +4,9 @@ title: Chương 263: Gian phu dâm phụ mưu đồ bí mật
 chapter_number: 263
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 263: Gian phu dâm phụ mưu đồ bí mật
+
+Theo sáu tên tám quốc công quán hiện hữu quản lý rời đi, gian phòng bên trong chỉ còn lại có Tào Côn, Lưu Hồng cù...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

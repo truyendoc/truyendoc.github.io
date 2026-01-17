@@ -4,6 +4,11 @@ title: Chương 117
 chapter_number: 117
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Mấy ngày qua thật là bận rộn, chủ yếu là do mê cung.
+
+Sau khi tôi ra mắt như một Demon Lord, giải đấu đã được tổ chức và nó đã diễn ra ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

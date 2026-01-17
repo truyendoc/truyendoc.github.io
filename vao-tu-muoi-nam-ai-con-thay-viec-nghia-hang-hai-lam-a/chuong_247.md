@@ -4,6 +4,11 @@ title: Chương 247: Rốt cục hả giận Lưu Hồng
 chapter_number: 247
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 247: Rốt cục hả giận Lưu Hồng
+
+Mười hai giờ rưỡi trưa!
+
+Tài chính chuyên nghiệp lầu dạy học lầu ba hành lang cuối cùng, vẫn như cũ là Tào Côn trước từ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

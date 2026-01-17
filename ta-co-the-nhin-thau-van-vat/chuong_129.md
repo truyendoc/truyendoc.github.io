@@ -4,6 +4,8 @@ title: Chương 129: Cuộc chiến (4)
 chapter_number: 129
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thiếu niên mặc giáp da cuối cùng cũng bị Lục Thanh chém rơi đầu.
+Khi nhìn thấy cái đầu lăn trên không trung, trong lòng Mã Cố vừa chấn động vừa ngổn ngang cả...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

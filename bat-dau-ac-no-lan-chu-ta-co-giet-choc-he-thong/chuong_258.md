@@ -4,6 +4,13 @@ title: Chương 258: Đoan vương cáo ốm (1)
 chapter_number: 258
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 243: Đoan vương cáo ốm (1)
+
+Thẩm Dục không kịp chờ đợi dung hợp Đại Dự Ngôn Thuật sau.
+
+Liền hiểu rõ lên tồn tại tước đoạt môn thần thông này.
+
+Môn th...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

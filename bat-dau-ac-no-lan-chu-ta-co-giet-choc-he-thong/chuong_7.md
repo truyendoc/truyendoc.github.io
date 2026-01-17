@@ -4,6 +4,12 @@ title: Chương 7: Chung Gia muốn thông gia
 chapter_number: 7
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 7 Chung Gia muốn thông gia
+
+Vị này thành vệ quân quan gọi Cao Dụ, tu vi Ngưng Khí cửu trọng.
+
+Trước mắt đã là Thành Vệ Quân Trung thực lực mạnh nhất.
+...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 210: Quang mang màu tím
 chapter_number: 210
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ánh sáng tím… sao có thể chứ!”
+Lục Thanh nhìn chằm chằm vào túi tiền cũ kỹ trong tay lão nhân, trong mắt tràn đầy vẻ kinh ngạc.
+Lúc này, trong tầm nhìn của ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

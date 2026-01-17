@@ -4,6 +4,9 @@ title: Chương 236: Trong tiểu thuyết sáo lộ (1)
 chapter_number: 236
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 232: Trong tiểu thuyết sáo lộ (1)
+
+Linh nỏ án chuyển sau khi đi, đông chín khu trấn yêu vệ nhóm đều là âm thầm thích thú, ai cũng biết, vụ án này dính...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,13 @@ title: Chương 139: Thẩm Dục phía sau có cao nhân
 chapter_number: 139
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 139: Thẩm Dục phía sau có cao nhân
+
+“Cái kia Linh giới nguy hiểm không nguy hiểm?” Thẩm Dục hỏi lại.
+
+“Ngươi đây liền làm khó ta!”
+
+Trương Dĩnh tức gi...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

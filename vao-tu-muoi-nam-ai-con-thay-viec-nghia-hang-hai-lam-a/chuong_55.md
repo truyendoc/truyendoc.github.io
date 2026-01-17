@@ -4,6 +4,11 @@ title: Chương 55: Mẫu nữ đối chọi gay gắt
 chapter_number: 55
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 55: Mẫu nữ đối chọi gay gắt
+
+Một trận tính tiền Phong Ba, cuối cùng cuối cùng bị Tào Côn dùng vũ lực trấn áp phương thức, cho trấn áp xuống tới.
+
+Đợi ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

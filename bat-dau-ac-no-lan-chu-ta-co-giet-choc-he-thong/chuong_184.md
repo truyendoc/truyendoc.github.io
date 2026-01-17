@@ -4,6 +4,13 @@ title: Chương 184: tiến về Thang Cốc
 chapter_number: 184
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 184: tiến về Thang Cốc
+
+Trận này Thang Cốc Hoa sẽ là do vân thủy phủ tứ đại thế gia liên thủ tổ chức.
+
+Tự nhiên sắp xếp xong xuôi tiếp đãi dẫn nói.
+
+K...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

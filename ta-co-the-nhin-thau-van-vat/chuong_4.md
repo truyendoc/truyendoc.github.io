@@ -4,6 +4,9 @@ title: Chương 4: Điểm câu cá kỳ lạ
 chapter_number: 4
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh, theo sau là một nhóm nhóc con háo hức, cùng nhau đi đến bờ sông ngoài rìa làng.
+Dòng sông này không lớn, chỗ rộng nhất chỉ khoảng mười mét.
+Tuy kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

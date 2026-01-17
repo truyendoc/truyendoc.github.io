@@ -4,6 +4,10 @@ title: Chương 254: Đêm tàn sát
 chapter_number: 254
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh đang chuẩn bị lén leo lên núi,
+Trong thôn trang, bên trong một gác mái bí mật,
+Vài bóng người tỏa ra khí tức mạnh mẽ đang bàn bạc điều gì đó.
+“...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

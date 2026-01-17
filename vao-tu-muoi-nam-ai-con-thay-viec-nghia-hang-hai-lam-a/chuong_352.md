@@ -4,6 +4,11 @@ title: Chương 352: pp đẹp da, hỏa lực toàn lực a
 chapter_number: 352
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 352: pp đẹp da, hỏa lực toàn lực a
+
+Nghe được Tào Côn lời giải thích này, Trình Dao Dao tán dương nhẹ gật đầu.
+
+Lời giải thích này vẫn còn là có chuyệ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 351: Không cứu (2)
 chapter_number: 351
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 289: Không cứu (2)
+
+“Vậy được, sư muội của ngươi ngươi đi tiếp xúc hắn thử một chút, bất quá tất cả chú ý cẩn thận, chớ có bị hắn phát giác!”
+
+“Sư tỷ ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

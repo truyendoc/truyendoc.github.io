@@ -4,6 +4,8 @@ title: Chương 196: Trần lão y ra tay
 chapter_number: 196
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Vào khoảnh khắc đó, quản gia Ngụy mới nhận ra người bên cạnh xe bò chính là Lục Thanh và Mã Cố, ngay cả Tiểu Nhan cũng đang ngồi trên xe.
+Còn lão nhân đánh x...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

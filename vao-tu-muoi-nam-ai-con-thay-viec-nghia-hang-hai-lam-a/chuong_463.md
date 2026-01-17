@@ -4,6 +4,11 @@ title: Chương 463: Xong, bị ăn định
 chapter_number: 463
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 463: Xong, bị ăn định
+
+Tào Côn nói tất cả đều là lời trong lòng!
+
+Bởi vì, hắn biết rõ, Hải Đông chế dược nghiên cứu khoa học trung tâm, tại không lâu ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

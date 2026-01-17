@@ -4,6 +4,11 @@ title: Chương 673: Giúp chúng ta rút ra a
 chapter_number: 673
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 673: Giúp chúng ta rút ra a
+
+Tào Côn lần này ở bên tai mình nói nhỏ, để vốn là sợ hãi Tiêu Văn Bân nàng dâu, tâm lý phòng tuyến triệt để sụp đổ.
+
+Thậm...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

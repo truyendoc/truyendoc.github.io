@@ -4,6 +4,13 @@ title: Chương 43: u oán Phong Uyển Nhi
 chapter_number: 43
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 43 u oán Phong Uyển Nhi
+
+Tâm niệm vừa động.
+
+Thẩm Dục hướng Lý Linh Nhi ném ra một cái hố xem xét chi nhãn.
+
+Lập tức đối phương tin tức tại trong đầu ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

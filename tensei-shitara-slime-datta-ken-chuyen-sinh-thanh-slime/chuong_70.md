@@ -4,6 +4,9 @@ title: Chương 70
 chapter_number: 70
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sau cuộc trò chuyện liên quan đến Youmu đã kết thúc, các hội nghị chiến lược thực sự sẽ bắt đầu một cách nghiêm túc.
+
+Mọi người đều nhìn tôi với vẻ nghiêm tú...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

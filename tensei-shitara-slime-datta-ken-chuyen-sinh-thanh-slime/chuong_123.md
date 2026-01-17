@@ -4,6 +4,13 @@ title: Chương 123
 chapter_number: 123
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Đối đầu với Yuuki, Hinata cảm thấy một áp lực kỳ lạ.
+
+Cô đã tiếp tục với kế hoạch với giả định rằng cô không thể bị phát hiện.
+
+「Làm sa...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

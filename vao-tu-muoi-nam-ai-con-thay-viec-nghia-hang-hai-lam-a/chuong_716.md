@@ -4,6 +4,9 @@ title: Chương 716: Chân chính cao nhân
 chapter_number: 716
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 716: Chân chính cao nhân
+
+Rối bời thanh âm tại bốn phía vang lên, bên tai tất cả đều là những cái kia nói không rõ là hưng phấn hay là thanh âm hoảng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

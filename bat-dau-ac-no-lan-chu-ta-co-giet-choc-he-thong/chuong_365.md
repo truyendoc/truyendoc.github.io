@@ -4,6 +4,11 @@ title: Chương 365: U Liên tới, U Liên chạy (2)
 chapter_number: 365
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 296: U Liên tới, U Liên chạy (2)
+
+Lại cùng Thẩm Dục nói chuyện phiếm vài câu sau, Đặng Lăng liền rời đi.
+
+Hôm nay Nam Cương Đạo thành lộ ra phá lệ an ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

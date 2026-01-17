@@ -4,6 +4,9 @@ title: Chương 25: lại bị làm
 chapter_number: 25
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 25 lại bị làm
+
+Lư Đông Lâm tiếp tục nói: “Tộc đệ của ta Lư Đông Thăng bị cao thủ thần bí đánh lén, đến nay đều không có thức tỉnh, mà vừa lúc ngươi lạ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,13 @@ title: Chương 104
 chapter_number: 104
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Phản ứng của mấy tên sợ hãi rất chi là phức tạp.
+
+Những tên sợ hãi vẫn còn chưa bình tĩnh nổi từ khi buổi yết kiến bắt đầu.
+
+Cả hai tộc Gozu lẫn Mezu ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

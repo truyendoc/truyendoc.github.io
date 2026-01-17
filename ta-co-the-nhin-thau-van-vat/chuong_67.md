@@ -4,6 +4,10 @@ title: Chương 67: Ở lại
 chapter_number: 67
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “…”
+Một người, một thú — bốn mắt nhìn nhau, im lặng đến lạ.
+Lục Thanh ngồi đối diện con thú nhỏ, ánh mắt hai bên giao nhau không lời.
+Cậu thở dài, nhìn vào đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

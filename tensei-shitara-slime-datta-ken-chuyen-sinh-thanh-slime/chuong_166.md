@@ -4,6 +4,13 @@ title: Chương 166
 chapter_number: 166
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------------
+
+Giờ đến tên Diablo này.
+
+Cậu ta, chắc cú luôn, là người mạnh nhất trong số các ứng cử viên cho việc tiến hóa.
+
+Khô...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,13 @@ title: Chương 378: Cho ngươi thu mấy cái pháp tướng cảnh thủ hạ
 chapter_number: 378
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 303: Cho ngươi thu mấy cái pháp tướng cảnh thủ hạ (1)
+
+Thẩm gia.
+
+Thẩm Dục đang cùng Lý Linh Nhi đang đánh cờ g·iết thời gian.
+
+Xuân nha cùng Đông nhi...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

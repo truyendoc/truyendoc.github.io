@@ -4,6 +4,8 @@ title: Chương 333
 chapter_number: 333
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh vừa cảm nhận được dao động thần hồn của hai tên lão giả mũi ưng liền lập tức quát lớn.
+Hắn là người ra tay trước, rút nhanh một mũi trường tiễn từ ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

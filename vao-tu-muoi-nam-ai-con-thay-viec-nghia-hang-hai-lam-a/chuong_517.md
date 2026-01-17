@@ -4,6 +4,9 @@ title: Chương 517: Đem các nàng bốn cái toàn bộ diệt trừ!
 chapter_number: 517
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 517: Đem các nàng bốn cái toàn bộ diệt trừ!
+
+Theo Trương Khiết cái này cái thứ hai cố sự kể xong, lại thêm nàng sau cùng câu kia cảm khái, Trương Bách...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

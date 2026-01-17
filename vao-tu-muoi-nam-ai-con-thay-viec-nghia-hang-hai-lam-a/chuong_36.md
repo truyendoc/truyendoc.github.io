@@ -4,6 +4,9 @@ title: Chương 36: Hai bên ăn sạch!
 chapter_number: 36
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 36: Hai bên ăn sạch!
+
+Nguyên bản khí thế tùy tiện, hùng hổ dọa người Hoàng Kiến nhân phụ mẫu, đang nhìn qua đoạn này ba phút video về sau, liền giống ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

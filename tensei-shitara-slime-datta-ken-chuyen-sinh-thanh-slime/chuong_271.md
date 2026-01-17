@@ -4,6 +4,11 @@ title: Chương 271
 chapter_number: 271
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngày thứ tư sóng gió đã khép lại, và ta lại bước sang một ngày mới.
+
+Các học viên xếp hàng ngay ngắn, tôi đứng đối diện với họ, trên mặt đeo cặp kính xoáy.
+
+...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

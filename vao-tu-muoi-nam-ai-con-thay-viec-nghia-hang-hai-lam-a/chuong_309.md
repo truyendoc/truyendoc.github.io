@@ -4,6 +4,11 @@ title: Chương 309: Chúc thân thể ngươi khỏe mạnh, thê thiếp thàn
 chapter_number: 309
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 309: Chúc thân thể ngươi khỏe mạnh, thê thiếp thành đàn
+
+Là Phương Tử Dương!
+
+Bởi vì đêm qua vừa mới đã gặp mặt, cho nên, Phương Tử Dương mới mở miệng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

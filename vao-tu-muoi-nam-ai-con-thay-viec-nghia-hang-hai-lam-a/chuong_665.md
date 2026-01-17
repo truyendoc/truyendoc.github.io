@@ -4,6 +4,11 @@ title: Chương 665: Phỉ báng, tất cả đều là phỉ báng!
 chapter_number: 665
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 665: Phỉ báng, tất cả đều là phỉ báng!
+
+Mặc dù trong lòng là nghĩ như vậy đem trước mặt mình bát, trực tiếp cho chụp đến Tưởng Trung Vân trên mặt.
+
+Bấ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

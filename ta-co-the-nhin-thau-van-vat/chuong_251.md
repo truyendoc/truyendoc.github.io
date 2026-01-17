@@ -4,6 +4,9 @@ title: Chương 251: Nhân sâm khai linh trí
 chapter_number: 251
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Với thực lực hiện tại của Lục Thanh, việc ra vào rừng núi đã trở nên vô cùng dễ dàng.
+Không mất bao lâu, thôn Cửu Lý đã vào tầm mắt.
+Vừa đặt chân vào thôn, h...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

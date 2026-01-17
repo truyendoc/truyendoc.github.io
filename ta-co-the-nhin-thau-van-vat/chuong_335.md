@@ -4,6 +4,8 @@ title: Chương 335: Nghiền nát (2)
 chapter_number: 335
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngay lúc ấy, ánh mắt hắn nhìn Lục Thanh đã không còn phẫn nộ như trước, thay vào đó chỉ còn lại kinh hoàng và khó tin.
+Thật khó chấp nhận rằng hắn lại dễ dàn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,15 @@ title: Chương 199: Phong phú một ngày
 chapter_number: 199
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 199: Phong phú một ngày
+
+Thiên địa lương tâm!
+
+Triệu Tuyết thề, nàng nguyên bản thật chỉ là muốn làm cái nho nhỏ đùa ác.
+
+Gõ cửa liền chạy!
+
+Thế nhưng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

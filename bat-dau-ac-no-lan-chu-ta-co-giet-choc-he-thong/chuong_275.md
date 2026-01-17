@@ -4,6 +4,9 @@ title: Chương 275: Phế bỏ huyền cơ doanh binh lính càn quấy (2)
 chapter_number: 275
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 251: Phế bỏ huyền cơ doanh binh lính càn quấy (2)
+
+Nhưng lại tại bọn hắn vừa mới nâng cốc lâu chưởng quỹ đỡ dậy, liền có một cái vò rượu theo trong tử...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

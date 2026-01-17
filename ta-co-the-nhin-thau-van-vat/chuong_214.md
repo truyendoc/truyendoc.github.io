@@ -4,6 +4,9 @@ title: Chương 214: Luyện hóa túi càn khôn
 chapter_number: 214
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tiểu Ly, và Ly hỏa đỉnh!”
+Lục Thanh bỗng nhớ ra, sự xuất hiện của Tiểu Ly và việc Ly hỏa đỉnh dần được khôi phục có thể vốn là điềm báo điều gì đó.
+Tiểu Ly ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

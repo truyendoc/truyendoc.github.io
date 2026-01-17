@@ -4,6 +4,13 @@ title: Chương 154
 chapter_number: 154
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------------
+
+Cuộc chiến đã được châm ngòi.
+
+Nó nổ ra sớm hơn tôi tưởng.
+
+Quân Đế Quốc không do dự đạp qua lằn ranh Testarossa v...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

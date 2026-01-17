@@ -4,6 +4,8 @@ title: Chương 136: Cứu người (3)
 chapter_number: 136
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi suy nghĩ một lúc, Lục Thanh bắt đầu tiến hành trị liệu cho ngụy phu nhân.
+Thấy sắc mặt đau đớn của ngụy phu nhân, hắn trước tiên dùng ngân châm châm ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

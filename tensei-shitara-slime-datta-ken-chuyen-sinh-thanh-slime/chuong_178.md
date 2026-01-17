@@ -4,6 +4,11 @@ title: Chương 178
 chapter_number: 178
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ---------------------------------
+
+Giờ khi đã có một tia hi vọng, tôi đã lấy lại được sự tình tĩnh.
+
+Nếu cứ để cơn giận của tôi xen vào việc thì có nguy cơ s...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

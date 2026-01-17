@@ -4,6 +4,9 @@ title: Chương 306: Vân châu
 chapter_number: 306
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhìn bóng lưng sư phụ rời đi, Lục Thanh hơi ngẩn người.
+Trước đó, vì sao hắn lại cố chấp tranh luận, ép đám đệ tử Lưu Vân Tông tự mình thú tội?
+Kỳ thực, khôn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

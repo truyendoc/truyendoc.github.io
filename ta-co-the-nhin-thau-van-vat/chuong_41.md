@@ -4,6 +4,8 @@ title: Chương 41: Đánh giá
 chapter_number: 41
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trần lão, ý người là con không cần học ‘Kinh Bách Thảo’ nữa ạ?” Lục Thanh hơi sững sờ.
+“Đúng vậy. Tốc độ học của con vượt cả ta dự đoán. ‘Kinh Bách Thảo’ co...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

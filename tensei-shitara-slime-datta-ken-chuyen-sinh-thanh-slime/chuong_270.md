@@ -4,6 +4,15 @@ title: Chương 270
 chapter_number: 270
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Cảnh tượng thật là bi thảm.
+
+Tôi không ngờ mọi chuyện lại thành ra thế này.
+
+Hệt như Ciel đã lừa tôi vậy.
+
+Mà, tôi thấy cũng như mọi khi thôi.
+
+Tuy nhiên, về...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,13 @@ title: Chương 436: Dương Tam Đao tử cục
 chapter_number: 436
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 436: Dương Tam Đao tử cục
+
+Năm giờ rưỡi chiều!
+
+pp đẹp da công ty ký túc xá hạ.
+
+Trương Khiết tại Lâm Thi Hàm cùng Tào Côn đưa mắt nhìn dưới, mở ra nà...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

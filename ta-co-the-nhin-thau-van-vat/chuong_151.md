@@ -4,6 +4,8 @@ title: Chương 151: Tiên thiên (5)
 chapter_number: 151
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ đã vào cảnh giới Tiên Thiên rồi, chẳng phải cũng không cần quá kiêng dè những cường giả Tiên Thiên khác nữa sao?” Lục Thanh hỏi.
+Trần lão y cười khổ:...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

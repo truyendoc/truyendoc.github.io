@@ -4,6 +4,9 @@ title: Chương 299: Thủ đoạn tàn nhẫn
 chapter_number: 299
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Kẻ nào dám cản trở chuyện của Lưu Vân Tông?”
+Nam tử áo xám lạnh lùng nhìn chằm chằm vào cỗ xe ngựa phía trước, giọng điệu âm trầm.
+Người áo xám không hề ngu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

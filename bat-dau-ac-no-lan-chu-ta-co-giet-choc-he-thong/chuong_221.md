@@ -4,6 +4,11 @@ title: Chương 221: tiểu trấn bị tập kích
 chapter_number: 221
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 221: tiểu trấn bị tập kích
+
+Đêm đó, Thẩm Gia.
+
+Sau khi ăn cơm trưa xong, Thẩm Dục đem Lý Linh Nhi gọi vào thư phòng, dự định trưng cầu một chút ý kiến...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

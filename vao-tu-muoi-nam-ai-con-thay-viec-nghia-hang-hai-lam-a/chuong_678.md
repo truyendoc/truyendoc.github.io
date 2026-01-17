@@ -4,6 +4,11 @@ title: Chương 678: Để cái kia người chết Tiêu Đình điểm
 chapter_number: 678
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 678: Để cái kia người chết Tiêu Đình điểm
+
+\"Ta cũng không xác định!\"
+
+Gian phòng bên trong, Dương Ngọc Đình cầm điện thoại, biểu lộ có vẻ hơi rầu rĩ n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

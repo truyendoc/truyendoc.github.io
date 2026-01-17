@@ -4,6 +4,13 @@ title: Chương 187: Đại Hắc Thôn
 chapter_number: 187
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 187: Đại Hắc Thôn
+
+Đuổi đi đại phu sau.
+
+Mạc Sơn Kỳ lại nhíu mày trầm tư.
+
+Lần này tập kích Thang Cốc bí cảnh, bắt Vân Thủy Phủ thế hệ trẻ tuổi kế hoạ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

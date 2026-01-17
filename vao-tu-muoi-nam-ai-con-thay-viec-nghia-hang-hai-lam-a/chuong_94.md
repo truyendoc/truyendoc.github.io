@@ -4,6 +4,11 @@ title: Chương 94: Lang ca ba cái tình nhân đủ
 chapter_number: 94
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 94: Lang ca ba cái tình nhân đủ
+
+Cỏ!
+
+Nhìn thấy Trương Vân Vân phát tới tấm hình này, còn có phát tới cái tin tức này, Tào Côn trong lòng nhất thời li...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

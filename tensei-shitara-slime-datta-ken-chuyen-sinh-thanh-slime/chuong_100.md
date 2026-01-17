@@ -4,6 +4,15 @@ title: Chương 100
 chapter_number: 100
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Myormiles hối hả trở về cửa hiệu của ông.
+
+Ông có thể sai quản gia đi trước, nhưng ông không muốn làm thế.
+
+Liệu cậu ta có chờ mình không?
+
+Thoáng chú...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

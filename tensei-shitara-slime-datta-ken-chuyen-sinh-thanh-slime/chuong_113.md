@@ -4,6 +4,13 @@ title: Chương 113
 chapter_number: 113
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Trận đấu thứ 12... Hakurou vs Shion
+
+Là trận đấu cuối cùng trong ngày thi đấu thứ ba.
+
+Tại trung tâm của Đấu Trường, Hakurou đứng đối m...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

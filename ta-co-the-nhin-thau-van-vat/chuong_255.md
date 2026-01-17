@@ -4,6 +4,8 @@ title: Chương 255: Đêm tàn sát (2)
 chapter_number: 255
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi xử lý xong hai tên, Lục Thanh không chần chừ, lật tay ném tiếp hai cây kim thép nữa, nhắm thẳng vào điểm mù trên tường làng.
+Ở chỗ đó, dù tối tăm khô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

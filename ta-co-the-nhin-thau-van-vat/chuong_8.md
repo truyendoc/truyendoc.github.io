@@ -4,6 +4,8 @@ title: Chương 8: Trần lão
 chapter_number: 8
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong đầu Lục Thanh hiện lên hình ảnh một ông lão gầy gò, hiền hậu — thầy y Trần lão.
+Ông là thầy thuốc duy nhất phụ trách mấy thôn quanh vùng. Tay nghề rất ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

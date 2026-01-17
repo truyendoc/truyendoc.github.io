@@ -4,6 +4,15 @@ title: Chương 93: Ôn Dịch Cổ
 chapter_number: 93
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 93 Ôn Dịch Cổ
+
+Bây giờ đêm đã khuya.
+
+Hoàng Thạch Trại hay là lộ ra tương đối an tĩnh.
+
+Ngọn núi này trại đã sừng sững ở chỗ này có hơn mười năm.
+
+Trả...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 434: Không có cái này ưu lương phẩm chất
 chapter_number: 434
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 434: Không có cái này ưu lương phẩm chất
+
+Cùng hai thứ cặn bã nữ tại Hải Thành đại học phụ cận một cái quán ăn ăn cơm trưa xong, thời gian đều đã đi v...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

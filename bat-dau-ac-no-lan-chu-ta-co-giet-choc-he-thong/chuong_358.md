@@ -4,6 +4,11 @@ title: Chương 358: Thái Thượng Hoàng đến (1)
 chapter_number: 358
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 293: Thái Thượng Hoàng đến (1)
+
+Thẩm Dục ba người trò chuyện xong Vu Tộc bí cảnh sự tình, liền vây tụ tại nghiên cứu thảo luận lấy thiên hạ thế cục.
+
+...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 155: Tôn Vĩ cha mẹ đến
 chapter_number: 155
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 155: Tôn Vĩ cha mẹ đến
+
+Một bữa cơm, từ buổi sáng 12:30 bắt đầu, trực tiếp ăn vào hơn hai giờ chiều.
+
+Lữ Đại Bằng toàn bộ hành trình thận trọng hầu hạ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

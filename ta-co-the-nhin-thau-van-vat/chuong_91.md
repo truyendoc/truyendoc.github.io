@@ -4,6 +4,9 @@ title: Chương 91: Ngọn núi bất thường
 chapter_number: 91
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: 【Nhân sâm: Dược thảo quý hiếm, vô độc, có thể ăn.】
+【Gốc nhân sâm này đã sinh trưởng hơn một trăm năm.】
+【Tương truyền nhân sâm có nhiều công dụng thần kỳ, nhữ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

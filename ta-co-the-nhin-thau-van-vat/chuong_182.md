@@ -4,6 +4,10 @@ title: Chương 182: Thánh sơn
 chapter_number: 182
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Chi duệ tiên sinh, mời dùng trà.”
+Lục Thanh bưng lên một chén Mai Hoa Trà, cung kính dâng tới trước mặt thiếu niên áo vải.
+“Đa tạ.”
+Thiếu niên áo vải đón l...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

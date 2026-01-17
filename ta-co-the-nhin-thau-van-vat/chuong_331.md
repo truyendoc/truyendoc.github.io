@@ -4,6 +4,7 @@ title: Chương 331: Sát Ý của trần Lão Y (2)
 chapter_number: 331
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lão giả và thiếu niên kia rốt cuộc là ai? Chân Khí Tiên Thiên của lão già mạnh đến mức nghịch thiên, tu vi sâu không dò được. Còn thiếu niên ấy lại dường nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

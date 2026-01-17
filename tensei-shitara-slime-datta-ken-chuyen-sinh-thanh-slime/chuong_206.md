@@ -4,6 +4,11 @@ title: Chương 206
 chapter_number: 206
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngày đầu tiên của trận Đại Chiến.
+
+Hôm đó qua đi mà không có vấn đề gì đặc biệt.
+
+El Dorado được bảo vệ hoàn toàn khỏi cuộc tấn công của Thiên Sứ nhờ lớp kết...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

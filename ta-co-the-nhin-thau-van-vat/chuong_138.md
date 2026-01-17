@@ -4,6 +4,8 @@ title: Chương 138: Ngụy phu nhân tỉnh lại
 chapter_number: 138
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Những võ giả khác sững lại, rồi lập tức hiểu ra.
+Nếu một võ giả hậu thiên Nội cảnh tiểu thành như Tam Sư huynh còn bị giết dễ dàng, thì bọn họ vốn không có c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

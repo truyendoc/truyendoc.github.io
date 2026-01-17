@@ -4,6 +4,13 @@ title: Chương 699: Nhân viên chuẩn bị xong
 chapter_number: 699
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 699: Nhân viên chuẩn bị xong
+
+Tê. . .
+
+Theo Tào Côn cái giờ này đầu động tác, Bàng Hồng Na trong lòng lúc này liền ngã hít một hơi khí lạnh.
+
+Nàng biế...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

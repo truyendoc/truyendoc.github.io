@@ -4,6 +4,9 @@ title: Chương 256: Tiêu diệt
 chapter_number: 256
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đối mặt với cuộc tấn công của những người Thất Sát Lâu, Lục Thanh vẫn bình thản.
+Khi đòn tấn công sắp chạm vào mình, khí tức của hắn bỗng bùng nổ.
+Thân hình ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

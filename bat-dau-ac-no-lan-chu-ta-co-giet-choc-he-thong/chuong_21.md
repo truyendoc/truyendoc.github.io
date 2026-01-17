@@ -4,6 +4,15 @@ title: Chương 21: đính hôn
 chapter_number: 21
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 21 đính hôn
+
+Các loại Thẩm Dục trở lại hắn ở lại trắc viện.
+
+Phát hiện trong viện có chút náo nhiệt.
+
+Không chỉ ba cái muội muội đều tới.
+
+Hai vị di n...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

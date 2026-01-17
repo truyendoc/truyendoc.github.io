@@ -4,6 +4,9 @@ title: Chương 43: Trở thành đệ tử (2)
 chapter_number: 43
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lễ bái sư của Lục Thanh thật ra rất đơn giản.
+Trần lão vốn không thích phô trương, nên mọi thứ đều được tiến hành gọn gàng.
+Lục Thanh chỉ cần làm theo nghi t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

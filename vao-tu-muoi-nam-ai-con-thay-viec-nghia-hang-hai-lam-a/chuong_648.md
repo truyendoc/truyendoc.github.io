@@ -4,6 +4,11 @@ title: Chương 648: Nhất định phải đạt được Bàng Hồng Na
 chapter_number: 648
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 648: Nhất định phải đạt được Bàng Hồng Na
+
+Tiền lương cùng phòng ở đã là Tưởng Trung Vân trong tay hai tấm vương bài.
+
+Tại cái này hai tấm vương bài đ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

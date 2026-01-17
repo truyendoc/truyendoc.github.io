@@ -4,6 +4,11 @@ title: Chương 218: chiếm Dương Thiên Tứ khí vận
 chapter_number: 218
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 218: chiếm Dương Thiên Tứ khí vận
+
+Nhìn thấy chính mình thả ra độc tố chỉ làm cho Dương Thiên Tứ ăn một chút đau khổ.
+
+Thẩm Dục quyết định lại cho hắn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

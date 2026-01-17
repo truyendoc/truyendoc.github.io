@@ -4,6 +4,9 @@ title: Chương 86: Ngân giáp vệ
 chapter_number: 86
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Mã Cố? Là người chi nhánh của Mã gia suýt bị đuổi đi năm trước à?”
+Người đàn ông trung niên râu đen nhận lấy phong thư, vừa mở miệng hỏi.
+“Vâng, chính là ng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

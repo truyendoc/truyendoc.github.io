@@ -4,6 +4,13 @@ title: Chương 39: Tào Côn kinh hỉ
 chapter_number: 39
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 39: Tào Côn kinh hỉ
+
+Qua có một giờ.
+
+Hạ huyện, một nhà tên là lam kỳ khách sạn 1 số 108 gian phòng bên trong, Tào Côn từ bên trong mở cửa.
+
+Nhìn xem ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

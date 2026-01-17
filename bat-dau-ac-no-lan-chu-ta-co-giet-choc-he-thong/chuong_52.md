@@ -4,6 +4,11 @@ title: Chương 52: tiến về bí cảnh
 chapter_number: 52
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 52 tiến về bí cảnh
+
+Cũng may Thẩm Nhã Lan nhỏ tuổi, tâm tư không nặng, Thẩm Dục làm sơ an ủi liền tốt rất nhiều.
+
+Lúc này, có hạ nhân đến báo cáo, Chu...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

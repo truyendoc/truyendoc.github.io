@@ -4,6 +4,9 @@ title: Chương 215
 chapter_number: 215
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Kazaream vẫn chưa nhận ra mình đã dẫm phải đuôi hùm.
+
+Hắn có mạnh lên và tăng tiến thêm nhiều, vậy nên Kazaream chẳng đời nào nghĩ rằng hai ma nhân kia lại c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

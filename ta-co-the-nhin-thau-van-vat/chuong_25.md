@@ -4,6 +4,8 @@ title: Chương 25: Kinh Bách Thảo và cửa sổ hệ thống mở ra
 chapter_number: 25
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh hoàn hồn, trầm mặc một lát rồi gật đầu kiên định:
+“Tặng chứ ạ. So với ơn cứu mạng của Trần lão, trăm lượng bạc có đáng gì đâu. Nếu không có người, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

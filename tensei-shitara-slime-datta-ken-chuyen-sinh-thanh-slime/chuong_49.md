@@ -4,6 +4,9 @@ title: Chương 49
 chapter_number: 49
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Nhóm 3 người Ma vương Milim Nava, Ma nhân Grucius, và Ma nhân Myulan quan sát thị trấn của nhóm Rimuru từ trên cao và thảo luận nhẽng việc tiếp theo.
+
+Ma nhâ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

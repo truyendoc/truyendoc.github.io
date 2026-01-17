@@ -4,6 +4,11 @@ title: Chương 424: Tàn bạo Hạng Nam Nguyệt
 chapter_number: 424
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 424: Tàn bạo Hạng Nam Nguyệt
+
+\"Ai, ngươi đi lần này, cũng không biết lần sau gặp mặt là lúc nào.\"
+
+Trong biệt thự, Dương Nhật Bố một bên không thôi vì...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 297: Hốt hoảng chỉ huy sứ (2)
 chapter_number: 297
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 262: Hốt hoảng chỉ huy sứ (2)
+
+Không thể không nói, cái này bách vạn đại sơn bên trong linh dược cùng bảo dược nhiều lắm.
+
+Phải biết, tại ngoại giới, ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

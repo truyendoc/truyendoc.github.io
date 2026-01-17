@@ -4,6 +4,11 @@ title: Chương 418: Lão Tất Đăng, yếu phát nổ
 chapter_number: 418
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 418: Lão Tất Đăng, yếu phát nổ
+
+La lão sư là Hải Thành chính trị và pháp luật đại học luật học viện luật học giáo sư.
+
+Đồng thời, cũng là Hải Thành mộ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 683: Biệt thự cháy, 11 tên ngoại quốc bạn bè bất 
 chapter_number: 683
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 683: Biệt thự cháy, 11 tên ngoại quốc bạn bè bất hạnh gặp nạn
+
+Kỳ thật, đối với nước ngoài những thứ này nhà tư bản công ty dơ bẩn thủ đoạn, Tào Côn k...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

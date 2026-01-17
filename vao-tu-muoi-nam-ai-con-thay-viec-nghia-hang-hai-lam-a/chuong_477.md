@@ -4,6 +4,11 @@ title: Chương 477: Hạng Nam Nguyệt nhập bọn
 chapter_number: 477
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 477: Hạng Nam Nguyệt nhập bọn
+
+Bị Hạng Nam Nguyệt hỏi như thế một vấn đề, Tào Côn ngậm lấy điếu thuốc chăm chú suy nghĩ một trận, lắc đầu nói:
+
+\"Không...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

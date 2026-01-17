@@ -4,6 +4,11 @@ title: Chương 245: Cho giường nhỏ thăng cái cấp
 chapter_number: 245
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 245: Cho giường nhỏ thăng cái cấp
+
+Sáng sớm ngày thứ hai, bảy giờ rưỡi!
+
+Tài chính chuyên nghiệp lầu dạy học lầu ba cuối cùng, theo một tiếng rất nhỏ ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

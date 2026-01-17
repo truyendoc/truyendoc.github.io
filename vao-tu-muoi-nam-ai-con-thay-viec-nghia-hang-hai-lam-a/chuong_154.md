@@ -4,6 +4,9 @@ title: Chương 154: Cái gì nữ diễn viên, Bồ Tát sống!
 chapter_number: 154
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 154: Cái gì nữ diễn viên, Bồ Tát sống!
+
+Tào Côn sở dĩ cho Lữ Đại Bằng phát như vậy một đầu tin tức, là bởi vì, cái này Lữ Đại Bằng cũng không phải một...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

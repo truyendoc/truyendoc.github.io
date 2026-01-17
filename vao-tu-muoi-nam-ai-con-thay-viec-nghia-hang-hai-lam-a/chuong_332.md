@@ -4,6 +4,11 @@ title: Chương 332: Nam khuê mật cùng bạn trai
 chapter_number: 332
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 332: Nam khuê mật cùng bạn trai
+
+Quách Hữu Lý cùng Quách Hữu Tài c·hết!
+
+Bất quá, hai người đến c·hết đều không có minh bạch, Hạng Nam Nguyệt tại sao ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

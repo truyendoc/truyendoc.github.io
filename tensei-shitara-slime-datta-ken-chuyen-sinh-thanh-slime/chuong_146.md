@@ -4,6 +4,11 @@ title: Chương 146
 chapter_number: 146
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Ba người đứng trong một căn phòng sang trọng, trông họ khá là căng thẳng.
+
+Họ đứng thẳng người và chờ đợi chủ nhân căn phòng xuất hiện....
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

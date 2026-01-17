@@ -4,6 +4,13 @@ title: Chương 205
 chapter_number: 205
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngày thứ hai của trận Đại Chiến.
+
+Tại El Dorado, lãnh địa của Chúa Quỷ Leon Cromwell.
+
+Thiên Tướng Kagali bắt đầu hành động.
+
+Ngay sau Walpurgis, tất cả các ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

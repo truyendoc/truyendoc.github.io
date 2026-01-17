@@ -4,6 +4,13 @@ title: Chương 366: Kế hoạch mới, giết chết Bốc Hạnh Phúc
 chapter_number: 366
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 366: Kế hoạch mới, giết chết Bốc Hạnh Phúc
+
+Bất quá, mặc dù đã bị Liễu Truyền Sĩ thấy ngứa mắt.
+
+Nhưng là, Tào Côn căn bản cũng không quan tâm.
+
+Thậm ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

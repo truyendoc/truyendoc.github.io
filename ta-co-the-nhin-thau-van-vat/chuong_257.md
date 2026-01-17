@@ -4,6 +4,8 @@ title: Chương 257: Tâm tính thay đổi
 chapter_number: 257
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chạy đi, Thiếu gia, chạy mau!”
+Hộ vệ kia ngay khi nghe Lục Thanh nói ra chữ đầu tiên đã cảm thấy không ổn. Đợi đến lúc Lục Thanh nói đến chữ “chết”, hắn gần...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

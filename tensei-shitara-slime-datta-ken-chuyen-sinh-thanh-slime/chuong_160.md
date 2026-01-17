@@ -4,6 +4,11 @@ title: Chương 160
 chapter_number: 160
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------
+
+Một con bọ cánh cứng đen tuyền với những khớp chân bằng vàng hé mắt ra.
+
+Trên đỉnh đầu hắn là một chiếc sừng như một cây kiế...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

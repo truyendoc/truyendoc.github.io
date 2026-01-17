@@ -4,6 +4,13 @@ title: Chương 34: Đoan Mộc Thông
 chapter_number: 34
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 34 Đoan Mộc Thông
+
+Phong Uyển Nhi đưa xong Thẩm Dục sau, liền một lần nữa về tới Tứ Hải Thương Hành trong một gian phòng.
+
+“Dư Bà Bà!”
+
+Phong Uyển Nhi...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 16
 chapter_number: 16
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ‘Aaa… Tại sao mình lại bận rộn đến thế này…’
+
+Kaijin, một người đàn ông Dwarf, than phiền như thế.
+
+‘Đế quốc phía Đông đã có động tĩnh! Đùa sao? Nói gì mà ng...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

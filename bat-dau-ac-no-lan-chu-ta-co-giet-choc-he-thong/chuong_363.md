@@ -4,6 +4,13 @@ title: Chương 363: Lần nữa đánh giết khí vận chi tử (2)
 chapter_number: 363
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 295: Lần nữa đánh giết khí vận chi tử (2)
+
+Nhưng ngay lúc đó lại tiếp tục cuốn lên Tiêu Lâm hướng mặt khác phương hướng bỏ chạy.
+
+“Có ý tứ!”
+
+Thẩm Dục...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

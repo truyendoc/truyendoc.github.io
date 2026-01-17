@@ -4,6 +4,11 @@ title: Chương 340: Ngành giải trí người muốn tới
 chapter_number: 340
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 340: Ngành giải trí người muốn tới
+
+Nhìn thấy Tào Côn từ trong xe taxi ra, Lữ Đại Bằng cơ hồ là chạy chậm chạy vội tới.
+
+\"Ca, ngài, ngài làm sao ngồi ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 238: Pháp tướng cảnh bát trọng (1)
 chapter_number: 238
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 233: Pháp tướng cảnh bát trọng (1)
+
+Thời gian nhoáng một cái, đã đến sáng sớm.
+
+Lên một ngày ca đêm Thẩm Dục, ban ngày không cần đi làm.
+
+Thế là, tại ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

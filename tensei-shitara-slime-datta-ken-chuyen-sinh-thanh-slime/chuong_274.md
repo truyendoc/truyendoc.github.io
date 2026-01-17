@@ -4,6 +4,11 @@ title: Chương 274
 chapter_number: 274
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngày thứ tư sau khi Rimuru tẩu thoát.
+
+Diablo và Souei sửa soạn rời khỏi vương quốc Ingracia.
+
+Họ đang tính điều tra ở các nước phương Tây, nhưng vì đã chọn ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

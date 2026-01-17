@@ -4,6 +4,8 @@ title: Chương 294: Nội tình
 chapter_number: 294
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ, đệ tử thấy thương thế của Tiểu thư Phương Nhụy không hề đơn giản. Vết thương kia rõ ràng là vết đao 
+Hơn nữa, vị Phương Đào kia có tu vi thâm hậu, đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

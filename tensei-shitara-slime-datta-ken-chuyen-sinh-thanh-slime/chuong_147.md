@@ -4,6 +4,13 @@ title: Chương 147
 chapter_number: 147
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Bài báo cáo làm bọn tôi bàng hoàng xem lẫn ngạc nhiên.
+
+Nó nói về việc xuất hiện một nhóm người đã chiếm được tầng thứ 50.
+
+Hiện tại, v...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 577: Cái này tiện nghi để ngươi chiếm
 chapter_number: 577
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 577: Cái này tiện nghi để ngươi chiếm
+
+Tào Côn mặc dù không phải cái gì luật học chuyên nghiệp, cũng chưa từng học qua pháp luật.
+
+Nhưng là, nói đến p...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

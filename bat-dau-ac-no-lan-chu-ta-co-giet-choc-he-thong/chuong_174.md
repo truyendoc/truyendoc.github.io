@@ -4,6 +4,15 @@ title: Chương 174: Đạo Thần
 chapter_number: 174
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 174: Đạo Thần
+
+Đêm đó, Thẩm Gia xếp đặt yến hội, vô cùng náo nhiệt.
+
+Sáng sớm hôm sau.
+
+Thẩm Dục đi tới Trấn Yêu Ti.
+
+Cũng trực tiếp tiến đến bái phỏn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

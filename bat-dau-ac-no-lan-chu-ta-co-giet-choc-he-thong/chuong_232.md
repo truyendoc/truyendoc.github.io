@@ -4,6 +4,11 @@ title: Chương 232: Trần chi đình bắt đầu không may (1)
 chapter_number: 232
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 230: Trần chi đình bắt đầu không may (1)
+
+Cùng này, Thẩm Dục Tổng kỳ công phòng bên trong, ngồi năm cái tiểu kỳ.
+
+Tân nhiệm Tổng kỳ tiền nhiệm, bọn hắ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

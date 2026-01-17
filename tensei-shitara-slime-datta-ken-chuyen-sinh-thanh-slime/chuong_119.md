@@ -4,6 +4,13 @@ title: Chương 119
 chapter_number: 119
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Việc quản lý mê cung diễn ra suôn sẻ.
+
+Trái tim của các khách hàng và các nhà đầu tư bị mê hoặc ngay từ cái nhìn đầu tiên.
+
+Với điều nà...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,9 @@ title: Chương 104: Luyện thần quyết
 chapter_number: 104
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Bộ ‘Luyện Thần Quyết’ này, đệ tử xin dâng lên sư phụ.”
+Lục Thanh hai tay đưa bản công pháp Tiên Thiên vừa chép xong.
+Trần lão y đón lấy, ánh mắt trầm ngâm r...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

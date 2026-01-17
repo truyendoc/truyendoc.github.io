@@ -4,6 +4,11 @@ title: Chương 35: Hiện tại, ta quyết định
 chapter_number: 35
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 35: Hiện tại, ta quyết định
+
+Đối mặt hoàng mao ba mẹ nhãn thần hung ác, Vương San San hiển nhiên có chút kh·iếp đảm.
+
+Nàng nắm lấy Tào Côn tay, cả ngư...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

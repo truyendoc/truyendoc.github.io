@@ -4,6 +4,11 @@ title: Chương 193: luyện thi lão nhân
 chapter_number: 193
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 193: luyện thi lão nhân
+
+Vân Khẩu Huyện, huyện nha hậu trạch.
+
+Một cá thể hình gầy gò, lão giả mặc áo bào đen cầm lấy bút lông hướng trong chén trám x...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

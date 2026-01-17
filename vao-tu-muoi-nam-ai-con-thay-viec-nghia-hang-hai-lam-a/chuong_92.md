@@ -4,6 +4,13 @@ title: Chương 92: 4 ức tới sổ
 chapter_number: 92
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 92: 4 ức tới sổ
+
+Hơn nửa canh giờ!
+
+Hải Thành, Lập Đức phòng đấu giá trước, cửa xe mở ra, Tào Côn cùng gã đeo kính từ đó đi ra.
+
+Nhìn xem trước mặt Lậ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

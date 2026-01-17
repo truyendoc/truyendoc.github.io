@@ -4,6 +4,15 @@ title: Chương 379: Giả mạo lão sư
 chapter_number: 379
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 379: Giả mạo lão sư
+
+Một cái muốn, một cái không cho!
+
+Cái này nếu là gặp được cùng một chỗ, không cần nghĩ, liền một kết quả.
+
+Làm!
+
+Nói cách khác, c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

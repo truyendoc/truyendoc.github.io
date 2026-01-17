@@ -4,6 +4,11 @@ title: Chương 33: Phong Uyển Nhi mời chào
 chapter_number: 33
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 33 Phong Uyển Nhi mời chào
+
+Hai tên thị nữ đem hoa quả điểm tâm rượu đặt lên bàn sau.
+
+Lại cười uyển chuyển nhìn xem Thẩm Dục hỏi: “Thẩm Công Tử, còn ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

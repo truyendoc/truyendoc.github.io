@@ -4,6 +4,9 @@ title: Chương 89: Mượn tiền 4 ức, thông qua
 chapter_number: 89
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 89: Mượn tiền 4 ức, thông qua
+
+Nghe được Tào Côn nói như vậy, chính rút xì gà Hùng Bất Phàm, giống như là bị chọc cười, nguyên bản mặt không thay đổi ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 172: Từ hôm nay lên, Đế Vương quán bar họ Tào
 chapter_number: 172
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 172: Từ hôm nay lên, Đế Vương quán bar họ Tào
+
+Thời gian thoáng một cái đã qua, đảo mắt liền tới năm giờ chiều.
+
+Hải Thành sân bay tiền!
+
+Tào Côn cùng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

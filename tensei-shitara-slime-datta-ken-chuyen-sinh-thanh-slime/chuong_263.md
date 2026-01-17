@@ -4,6 +4,9 @@ title: Chương 263
 chapter_number: 263
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Trên đường về, Marsha đột nhiên thốt lên.
+
+「Khoan! Tớ vô tình kiểm tra lại cái vòng tay thì thấy cái này, lạ thật đấy! Sao tự dưng tớ được 44 điểm rồi này?!」...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

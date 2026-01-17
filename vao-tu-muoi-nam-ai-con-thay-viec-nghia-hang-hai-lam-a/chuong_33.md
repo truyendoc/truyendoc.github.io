@@ -4,6 +4,9 @@ title: Chương 33: Muốn tìm về bản thân Bạch Tĩnh
 chapter_number: 33
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 33: Muốn tìm về bản thân Bạch Tĩnh
+
+Tào Côn lời nói này, cũng không phải là vì an ủi Vương San San, hắn là thật không muốn cho Vương Nhất Phu bị phán ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

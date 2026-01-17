@@ -4,6 +4,9 @@ title: Chương 227: Thuật Dịch Cốt Dịch Nhục
 chapter_number: 227
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Gia chủ Tiền” lại tự chặt đứt tâm mạch của chính mình, khiến tất cả mọi người đều kinh hãi.
+Những lời cuối cùng của hắn càng làm không ít người chấn động.
+K...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

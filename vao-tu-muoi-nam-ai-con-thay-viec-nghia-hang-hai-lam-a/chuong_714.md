@@ -4,6 +4,13 @@ title: Chương 714: Áo Uy quốc tế trả thù
 chapter_number: 714
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 714: Áo Uy quốc tế trả thù
+
+Nghe xong tráng hán da trắng lời nói này, William cực kì không cam lòng hít sâu một hơi.
+
+Mẹ nó!
+
+Cường Mỹ tập đoàn thủ đo...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 254: Giết chóc điểm phá ức (1)
 chapter_number: 254
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 241: Giết chóc điểm phá ức (1)
+
+Trên trời dưới đất.
+
+Mỗi chuôi khí binh tựa như tia chớp, xuyên thẳng qua bay múa không ngừng.
+
+Mà số lượng to lớn ong...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

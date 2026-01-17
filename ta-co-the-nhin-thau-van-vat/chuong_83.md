@@ -4,6 +4,9 @@ title: Chương 83: Nội tâm sáng rõ
 chapter_number: 83
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh đeo thanh chiến đao sau lưng, lặng lẽ bước giữa núi rừng.
+Tiểu Ly yên lặng đứng trên vai cậu, đôi mắt vàng khẽ lóe sáng trong ánh trăng.
+Trong trận...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

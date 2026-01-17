@@ -4,6 +4,13 @@ title: Chương 25
 chapter_number: 25
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Quang cảnh tôi nhớ được, là mưa lửa từ trên không.
+
+Bàn tay của mẹ tôi vẫn nắm chặt, bây giờ nhẹ bỗng.
+
+Tôi rất sợ phải nhìn lên phía trên.
+
+Một quả bom lửa ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

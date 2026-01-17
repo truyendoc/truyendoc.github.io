@@ -4,6 +4,9 @@ title: Chương 227: linh nỏ mất trộm án
 chapter_number: 227
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 227: linh nỏ mất trộm án
+
+Nữ tử thanh tú đọc nhấn rõ từng chữ rõ ràng nói “Tứ thiếu gia, cái kia Thẩm Dục tại Đông Cửu Khu nhậm chức, mà thống lĩnh Đô...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

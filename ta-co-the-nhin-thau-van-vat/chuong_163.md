@@ -4,6 +4,7 @@ title: Chương 163: Giao chiến (2)
 chapter_number: 163
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cổ tay Lục Thanh khẽ xoay, thân hình hòa cùng chiến đao. Đường đao uốn lượn linh hoạt như dòng suối trên núi, vẽ nên một cung huyền ảo quanh thân cây, chém t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

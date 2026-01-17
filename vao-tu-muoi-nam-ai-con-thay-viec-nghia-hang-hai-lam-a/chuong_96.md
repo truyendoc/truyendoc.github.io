@@ -4,6 +4,11 @@ title: Chương 96: Ba vị tình nhân ẩn tình
 chapter_number: 96
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 96: Ba vị tình nhân ẩn tình
+
+Gặp Tào Côn nghe chính mình nói xong, đột nhiên không có phản ứng, Chu Thiến Thiến tựa ở bờ vai của hắn, ôn nhu nói:
+
+\"Là...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

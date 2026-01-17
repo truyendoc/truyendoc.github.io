@@ -4,6 +4,9 @@ title: Chương 124: Mũi tên (3)
 chapter_number: 124
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: May mà phát bắn vừa rồi vẫn mang lại hiệu quả nhất định.
+Thấy Mã Cố bị bắn ngã xuống, trong lòng thiếu niên giáp da trào lên cảm giác thỏa mãn.
+“Thứ hèn hạ, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

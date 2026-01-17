@@ -4,6 +4,9 @@ title: Chương 127: Cuộc chiến (2)
 chapter_number: 127
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thiếu niên mặc giáp da tuyệt đối không phải người độ lượng.
+Ngược lại, hắn cực kỳ nhỏ nhen và đố kỵ.
+Trong tông môn, hắn từng âm thầm tính kế một đồng môn có...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

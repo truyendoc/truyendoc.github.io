@@ -4,6 +4,11 @@ title: Chương 124: online ăn dưa
 chapter_number: 124
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 124: online ăn dưa
+
+Rất nhanh, Lâm Vũ cùng Lâm Mỹ Quân huynh muội liền bị kêu tới.
+
+Lâm Phu Nhân c·ướp lời nói: “Ta cùng lão gia thương nghị chuyển ra...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

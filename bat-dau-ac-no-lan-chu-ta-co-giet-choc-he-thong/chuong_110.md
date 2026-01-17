@@ -4,6 +4,13 @@ title: Chương 110: giải vây
 chapter_number: 110
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 110: giải vây
+
+Sáng sớm hôm sau.
+
+Còn không có phủ lên Thẩm phủ biển cửa phủ đệ đại môn bị người nện đến phanh phanh rung động.
+
+Đồng thời, bên ngoài ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

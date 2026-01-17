@@ -4,6 +4,7 @@ title: Chương 45: Mô phỏng công pháp
 chapter_number: 45
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Bộ quyền pháp ta sắp dạy con là thứ ta tình cờ học được thuở thiếu niên. Nó dễ học nhưng khó tinh thông, nhập môn không khó, song luyện đến chỗ thâm sâu thì...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

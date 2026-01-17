@@ -4,6 +4,13 @@ title: Chương 97: luyện khí
 chapter_number: 97
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 97 luyện khí
+
+“Hệ thống, sử dụng rút thưởng!”
+
+“Đốt, rút thưởng công năng mở ra!”
+
+“Đốt, chúc mừng kí chủ thu hoạch được ngẫu nhiên nghề nghiệp thẻ, x...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

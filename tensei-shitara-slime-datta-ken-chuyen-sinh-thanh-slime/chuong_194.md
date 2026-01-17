@@ -4,6 +4,11 @@ title: Chương 194
 chapter_number: 194
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ------------------------------------------------------------------
+
+Krishna chưa tới thì tôi vẫn chưa về Tempest được.
+
+Mà, trong lúc chờ, tôi cũng không có ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

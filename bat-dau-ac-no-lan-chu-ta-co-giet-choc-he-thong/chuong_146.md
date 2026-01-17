@@ -4,6 +4,13 @@ title: Chương 146: bị người mưu hại
 chapter_number: 146
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 146: bị người mưu hại
+
+Nếu phạm án Yêu tộc đã b·ị b·ắt được.
+
+Đồng thời đối phương còn bàn giao chính là h·ung t·hủ.
+
+Vậy liền không có lưu tại Trấn Y...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

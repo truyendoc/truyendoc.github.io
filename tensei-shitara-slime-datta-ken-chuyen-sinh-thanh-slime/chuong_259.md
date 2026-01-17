@@ -4,6 +4,11 @@ title: Chương 259
 chapter_number: 259
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sau một hồi suy nghĩ, Diablo lập tức lên đường không hề do dự.
+
+Anh vội vàng đến gặp một người chắc chắn biết về hành tung của Rimuru.
+
+Nơi Diablo đến là Bộ ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

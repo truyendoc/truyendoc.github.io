@@ -4,6 +4,10 @@ title: Chương 554: Lông dê xuất hiện ở dê trên thân
 chapter_number: 554
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 554: Lông dê xuất hiện ở dê trên thân
+
+Ô ương ương trong đại sảnh, tới người Trương gia nhóm nguyên bản tất cả đều đang thì thầm nói chuyện giao lưu.
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

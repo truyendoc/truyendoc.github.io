@@ -4,6 +4,11 @@ title: Chương 131
 chapter_number: 131
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Chiến dịch chinh phạt Yuuki kết thúc thất bại.
+
+Nhưng để tận dụng lợi ích từ việc đó, chúng tôi tái tổ chức lại Hiệp hội Tự do theo hướ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

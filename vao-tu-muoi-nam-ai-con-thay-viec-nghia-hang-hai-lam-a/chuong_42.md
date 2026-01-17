@@ -4,6 +4,11 @@ title: Chương 42: Mẫu nữ ân đoạn nghĩa tuyệt
 chapter_number: 42
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 42: Mẫu nữ ân đoạn nghĩa tuyệt
+
+Cùng lúc đó!
+
+Tại Tào Côn nơi ở, Vương San San chính một bên phiền muộn xem tivi, một bên hướng miệng bên trong miệng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

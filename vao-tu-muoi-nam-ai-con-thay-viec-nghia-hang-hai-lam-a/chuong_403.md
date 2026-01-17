@@ -4,6 +4,11 @@ title: Chương 403: Lại muốn 35 ức
 chapter_number: 403
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 403: Lại muốn 35 ức
+
+Bên ngoài gian phòng, ngay tại phó tổng suy nghĩ, muốn hay không lại cho một tổ đi vào thời điểm.
+
+Đột nhiên, cửa gian phòng mở r...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

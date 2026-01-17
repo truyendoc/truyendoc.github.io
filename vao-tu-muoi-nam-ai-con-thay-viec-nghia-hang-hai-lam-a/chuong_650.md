@@ -4,6 +4,11 @@ title: Chương 650: Để Kim Chính Xuân lão bà đến đàm
 chapter_number: 650
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 650: Để Kim Chính Xuân lão bà đến đàm
+
+Tóm lại, kiếp trước Kim Chính Xuân sở dĩ sẽ vào tù, cùng Bàng Hồng Na quả thật có nhất định nhân quả quan hệ.
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

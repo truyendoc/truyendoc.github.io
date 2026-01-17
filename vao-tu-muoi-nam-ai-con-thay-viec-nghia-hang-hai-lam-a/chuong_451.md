@@ -4,6 +4,11 @@ title: Chương 451: Vô tội bảo tiêu huynh đệ
 chapter_number: 451
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 451: Vô tội bảo tiêu huynh đệ
+
+Gặp Tào Côn đem vấn đề này lại đẩy trở về, Liễu Truyền Sĩ cũng không có liền vấn đề này, sốt ruột làm ra đáp lại.
+
+Hắn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

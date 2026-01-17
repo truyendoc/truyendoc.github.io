@@ -4,6 +4,11 @@ title: Chương 196: hỗn loạn
 chapter_number: 196
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 196: hỗn loạn
+
+Thẩm Dục mặc dù hứa hẹn cho Ngô Minh Sơn làm một nhóm chất lượng cao t·hi t·hể.
+
+Nhưng rời đi tiểu thế giới sau, trong lòng thì tại suy...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,13 @@ title: Chương 125: thế cục đột biến
 chapter_number: 125
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 125: thế cục đột biến
+
+Đưa tiễn Ngu Tuyết Oánh sau.
+
+Thẩm Dục liền chuẩn bị đi tàng bảo khố hối đoái đồ vật.
+
+Tàng bảo khố ngoài có một đội nhân mã đó...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

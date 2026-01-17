@@ -4,6 +4,9 @@ title: Chương 376: Gặp lại chó đạo sĩ
 chapter_number: 376
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 376: Gặp lại chó đạo sĩ
+
+Nghe được Lâm Thi Hàm nói, pp đẹp da sản phẩm tại cái này ngắn ngủi hơn mười phút thời gian bên trong, liền bán hơn 20 vạn bộ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 231: Chiếm trần chi đình vận (2)
 chapter_number: 231
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 229: Chiếm trần chi đình vận (2)
+
+Cái này khiến Thẩm Dục âm thầm kỳ quái, vì sao đối phương độ thiện cảm là số âm đâu, mình cũng không có đắc tội hắn?...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 144: Thiếu vay nặng lãi 60 vạn Tôn Vĩ
 chapter_number: 144
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 144: Thiếu vay nặng lãi 60 vạn Tôn Vĩ
+
+Tào Côn đêm qua trong đầu qua một mấy lần, sửng sốt không nghĩ ra đến, Tôn Vĩ đến tột cùng là từ Shane bên tron...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

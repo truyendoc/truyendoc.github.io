@@ -4,6 +4,11 @@ title: Chương 582: Kim bài luật sư tới
 chapter_number: 582
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 582: Kim bài luật sư tới
+
+Mặc dù thực bị Tào Côn hiện tại thân gia cho kh·iếp sợ đến, bất quá, Khương Mẫn thích ứng năng lực cũng không tệ.
+
+Tại một p...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

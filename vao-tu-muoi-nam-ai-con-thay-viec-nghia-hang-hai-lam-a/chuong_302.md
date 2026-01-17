@@ -4,6 +4,11 @@ title: Chương 302: Đắt đỏ nguyên liệu nấu ăn
 chapter_number: 302
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 302: Đắt đỏ nguyên liệu nấu ăn
+
+Sáng sớm hôm sau.
+
+Theo Đông Phương dâng lên mặt trời đỏ, biệt thự đại môn mở ra, Tôn Phỉ Phỉ mở ra mình chiếc kia giá...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

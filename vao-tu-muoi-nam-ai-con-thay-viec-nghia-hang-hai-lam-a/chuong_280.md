@@ -4,6 +4,13 @@ title: Chương 280: Lại là một trận quản lý liên hoan
 chapter_number: 280
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 280: Lại là một trận quản lý liên hoan
+
+Nghe được Cẩu Nhất Vĩ lời nói này, Trương Uyển Thanh quả thực là có nỗi khổ không nói được.
+
+Là!
+
+Đêm nay Tào ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

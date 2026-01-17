@@ -4,6 +4,9 @@ title: Chương 415: Tài hoa hơn người Tào lão bản
 chapter_number: 415
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 415: Tài hoa hơn người Tào lão bản
+
+Sau đó, tại Lý Song mà, Mã Trường Ninh còn có Ngốc Cẩu ba người không thể tưởng tượng nhìn chăm chú, Tào Côn lưu l...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

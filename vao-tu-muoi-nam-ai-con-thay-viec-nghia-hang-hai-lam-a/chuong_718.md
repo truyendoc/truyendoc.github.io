@@ -4,6 +4,13 @@ title: Chương 718: Mũ thúc thúc lại tới
 chapter_number: 718
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 718: Mũ thúc thúc lại tới
+
+Lại qua hơn mười phút!
+
+Tào Côn cửa ban công mở ra, Triệu Xảo Thiến trên mặt nụ cười tựa như gió xuân, cười mỉm rời đi.
+
+Nà...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

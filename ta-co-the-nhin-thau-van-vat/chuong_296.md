@@ -4,6 +4,8 @@ title: Chương 296: Khoảng thời gian an tĩnh
 chapter_number: 296
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trần lão y, nói thẳng ra thì, ta và các đệ tử không phải đang du hành. Thực ra chúng ta đang bị truy sát…”
+Phương Đào liền nói hết mọi chuyện cho Trần lão y...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

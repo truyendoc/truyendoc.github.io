@@ -4,6 +4,11 @@ title: Chương 243: Khải gia, 845 bạo tạc án
 chapter_number: 243
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 243: Khải gia, 845 bạo tạc án
+
+Gian phòng bên trong, theo Tào Côn lời nói này, trực tiếp rơi vào trầm mặc.
+
+Dù là Dương Tam Đao loại này Hải Thành lớn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

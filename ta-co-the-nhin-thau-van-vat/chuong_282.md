@@ -4,6 +4,8 @@ title: Chương 282: Tầm bảo
 chapter_number: 282
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thời gian không còn nhiều, đám lão niên phong nhã kia e rằng chẳng mấy chốc nữa sẽ quay về thành.
+Lục Thanh không đủ thời giờ để dùng dị năng tra xét từng mó...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

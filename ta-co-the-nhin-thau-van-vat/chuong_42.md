@@ -4,6 +4,8 @@ title: Chương 42: Trở thành đệ tử
 chapter_number: 42
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trần lão, con đã gom đủ hết dược thảo rồi ạ!” — Lục Thanh thở hổn hển, vừa nói vừa trình giỏ thuốc trước mặt Trần lão trong tiểu viện sườn núi.
+Sau khi đào ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

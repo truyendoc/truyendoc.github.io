@@ -4,6 +4,11 @@ title: Chương 587: Tiểu tử, ngươi tại làm khó ta trọc người nà
 chapter_number: 587
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 587: Tiểu tử, ngươi tại làm khó ta trọc người nào đó
+
+Nửa giờ sau!
+
+Đợi đến Ngốc Cẩu đem lái xe đến Lục gia hào luật sư chỗ vào ở khách sạn lúc, Lục g...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

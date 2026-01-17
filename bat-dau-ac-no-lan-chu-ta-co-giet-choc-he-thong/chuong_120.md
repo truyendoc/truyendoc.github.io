@@ -4,6 +4,13 @@ title: Chương 120: ăn trộm gà thành công
 chapter_number: 120
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 120: ăn trộm gà thành công
+
+“Bách hộ đại nhân, chúng ta muốn lưu lại cùng ngươi cùng một chỗ đối kháng địch đến!”
+
+Trương Dĩnh biểu trung tâm nói.
+
+“Đ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

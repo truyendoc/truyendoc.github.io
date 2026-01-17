@@ -4,6 +4,13 @@ title: Chương 32: đưa tới cửa Khí Hải cảnh
 chapter_number: 32
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 32 đưa tới cửa Khí Hải cảnh
+
+Đêm khuya, trong Thẩm gia viện.
+
+Một đạo giống như quỷ mị thân ảnh đột nhiên xuất hiện ở trung viện.
+
+Chính là hộ pháp tr...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

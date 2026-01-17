@@ -4,6 +4,11 @@ title: Chương 442: Dương Tam Đao tang lễ
 chapter_number: 442
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 442: Dương Tam Đao tang lễ
+
+Làm Dương Tam Đao lão bà, Tiêu Văn Tĩnh mặc dù biết g·iết người không ít người, hại qua không ít người mệnh.
+
+Nhưng là, Ti...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

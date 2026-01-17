@@ -4,6 +4,13 @@ title: Chương 167: Đúng, hai ngươi đều là nằm mơ
 chapter_number: 167
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 167: Đúng, hai ngươi đều là nằm mơ
+
+\"Đúng rồi Đình Đình, ngươi làm sao sáng sớm liền tắm rửa a?\"
+
+Bảy giờ sáng năm mươi điểm.
+
+Hết thảy trở về bình tĩ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

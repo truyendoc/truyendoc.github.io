@@ -4,6 +4,8 @@ title: Chương 252: Dược điền
 chapter_number: 252
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Dưới sự giải thích của sư phụ, Lục Thanh cuối cùng cũng hiểu rõ.
+Suốt bao năm nghiên cứu bộ “Thanh Nang Y Điển” của Y Thánh, lại thêm việc quen thuộc với rất...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

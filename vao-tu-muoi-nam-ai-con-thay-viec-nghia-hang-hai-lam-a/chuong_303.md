@@ -4,6 +4,11 @@ title: Chương 303: Cẩu Nhất Vĩ tử kỳ đến rồi
 chapter_number: 303
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 303: Cẩu Nhất Vĩ tử kỳ đến rồi
+
+Còn có dê bò thịt!
+
+Quen biết Lam Khả Tâm, Bạch Tĩnh mới biết được, Hải Thành chân chính kẻ có tiền, người ta căn bản ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

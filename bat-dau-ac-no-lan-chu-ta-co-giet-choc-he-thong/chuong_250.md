@@ -4,6 +4,11 @@ title: Chương 250: Thần Tiêu tông (1)
 chapter_number: 250
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 239: Thần Tiêu tông (1)
+
+Hai cái Nguyên Thần cảnh, vì hắn mang đến 30 vạn g·iết chóc điểm.
+
+Phía sau 33 Nguyên Đan Cảnh, mang đến cho hắn 62 vạn g·iết...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 78: Làng hỉ lạc (3)
 chapter_number: 78
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thời gian trôi qua từng chút một, Lục Thanh vẫn lặng lẽ ẩn mình trên cây.
+Còn bên kia, Mã Cố thì đứng ngồi không yên.
+“Đã tìm thấy tung tích của Lục huynh ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

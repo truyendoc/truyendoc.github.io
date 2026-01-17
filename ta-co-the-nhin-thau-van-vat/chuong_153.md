@@ -4,6 +4,8 @@ title: Chương 153: Câu cá
 chapter_number: 153
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đồng thời, trong lòng hắn cũng trở nên nghiêm túc hơn.
+Hai đứa nhỏ có thiên phú càng cao, hắn càng không thể buông lỏng trong việc dạy dỗ về sau. Nếu không, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

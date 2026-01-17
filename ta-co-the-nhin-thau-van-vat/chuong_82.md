@@ -4,6 +4,9 @@ title: Chương 82: Kết cục
 chapter_number: 82
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thấy Lục Thanh chém rụng đầu một người chỉ bằng một nhát đao,
+rồi nhìn quanh — khắp mặt đất là xác người ngổn ngang, máu tràn thành dòng, đầu người lăn lóc,
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

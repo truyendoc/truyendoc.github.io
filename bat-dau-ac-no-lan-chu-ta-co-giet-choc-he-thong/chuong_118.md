@@ -4,6 +4,15 @@ title: Chương 118: hành động độc lập
 chapter_number: 118
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 118: hành động độc lập
+
+“Cái này?”
+
+Trương Dĩnh có chút do dự, vô ý thức nhìn về phía Ngu Tuyết Oánh.
+
+“Liền để hắn hành động độc lập đi!”
+
+Ngu Tuyết ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

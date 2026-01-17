@@ -4,6 +4,11 @@ title: Chương 272
 chapter_number: 272
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Phương pháp hướng dẫn cho các học viên ma thuật đã được thống nhất.
+
+Cùng lúc đó, bọn họ cũng vừa quay trở lại, bộ dạng hết sức mệt mỏi.
+
+Khoảng một giờ đồng...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

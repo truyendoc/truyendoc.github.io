@@ -4,6 +4,13 @@ title: Chương 51
 chapter_number: 51
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sáng ngày hôm sau.
+
+Ngày hôm đó bận rộn từ tảng sáng.
+
+Đầu tiên, đi đánh thức Milim trước nhất.
+
+Tôi bào Milim thay trang phục, bằng bộ trang phục chuẩn bị s...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

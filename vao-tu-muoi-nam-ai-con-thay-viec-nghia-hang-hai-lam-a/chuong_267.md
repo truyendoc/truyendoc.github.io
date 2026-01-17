@@ -4,6 +4,9 @@ title: Chương 267: Bạch Tĩnh cùng Lưu Ngọc Linh nguyện vọng
 chapter_number: 267
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 267: Bạch Tĩnh cùng Lưu Ngọc Linh nguyện vọng
+
+\"Kỳ thật, ta đã để cho người ta hỗ trợ cho biệt thự tìm người hầu, bất quá, khả năng còn phải đợi thêm ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

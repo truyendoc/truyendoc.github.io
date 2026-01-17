@@ -4,6 +4,9 @@ title: Chương 77
 chapter_number: 77
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Khu vực hội nghị náo động 1 lúc, nhưng bằng cách nào đó nó đã lắng xuống.
+
+Team ngất xỉu đã được đưa vào viện, còn những người đang tuyệt vọng hỏi về anh cũn...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

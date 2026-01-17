@@ -4,6 +4,8 @@ title: Chương 133: Chữa thương
 chapter_number: 133
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Còn có sinh vật bí ẩn kia — thứ có thể xuyên qua hư không để ra tay giết người.
+Tuy Mã Cố tận mắt chứng kiến võ giả hậu thiên nội cảnh bị giết chỉ trong chớp...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

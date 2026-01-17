@@ -4,6 +4,11 @@ title: Chương 283: Bị ghét bỏ Lam Khả Tâm
 chapter_number: 283
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 283: Bị ghét bỏ Lam Khả Tâm
+
+Bởi vì là t·ang l·ễ nguyên nhân, toàn bộ quá trình kỳ thật vô cùng buồn tẻ nhàm chán.
+
+Dù sao, cũng không thể tại người k...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

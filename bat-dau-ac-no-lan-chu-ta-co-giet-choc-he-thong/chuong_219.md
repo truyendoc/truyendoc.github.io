@@ -4,6 +4,11 @@ title: Chương 219: Đại Diễm Quốc muốn xong
 chapter_number: 219
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 219: Đại Diễm Quốc muốn xong
+
+Chém g·iết hai nhóm người thực lực cũng không tính là mạnh, dẫn đầu mới Thông Mạch cảnh sơ kỳ.
+
+Đối đầu Trấn Yêu Ti, căn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 213: Thiên tài bị thời đại bỏ rơi
 chapter_number: 213
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh lấy ra cuốn sổ ghi chép của lãng Khách trước tiên.
+Lần này, sau chuyến dạo quanh thành, hắn đã thu được lợi ích khổng lồ.
+Trong đó, hai món quý giá...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,9 @@ title: Chương 76
 chapter_number: 76
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Các ông lớn ở mỗi bộ phận đều tập trung ở hội trường lớn.(cái truyện họp lắm nhất từ trước đến giờ)
+
+Về Ranga, tôi đã quên mất rằng nó đang ngủ trong cái bón...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

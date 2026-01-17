@@ -4,6 +4,11 @@ title: Chương 135: Trở thành toàn lớp nữ sinh tiêu điểm
 chapter_number: 135
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 135: Trở thành toàn lớp nữ sinh tiêu điểm
+
+Đợi đến trong phòng học tiếng vỗ tay biến mất, Tào Côn lúc này mới lên tiếng giới thiệu chính mình.
+
+\"Mọi n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

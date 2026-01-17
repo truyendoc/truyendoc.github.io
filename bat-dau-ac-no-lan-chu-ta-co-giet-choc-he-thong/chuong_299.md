@@ -4,6 +4,13 @@ title: Chương 299: Vu tộc tính toán (2)
 chapter_number: 299
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 263: Vu tộc tính toán (2)
+
+Nếu như là giả, Nam Man Vu Tộc liền sẽ phát binh đến tiến đánh Nam Cương đạo.
+
+Nam Man Vu Tộc lãnh địa.
+
+Vu vương ba cái nh...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

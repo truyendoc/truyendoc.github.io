@@ -4,6 +4,13 @@ title: Chương 145
 chapter_number: 145
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ----------------------------------
+
+Từ rất lâu rồi, tôi đã quên đi tên của mình.
+
+Những mảnh vỡ ký ức...của kiếp trước, lúc tôi còn là con người.
+
+Hình như k...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

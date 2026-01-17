@@ -4,6 +4,11 @@ title: Chương 250: Đến từ mẹ vợ lễ vật
 chapter_number: 250
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 250: Đến từ mẹ vợ lễ vật
+
+Đương nhiên, cười về cười, Tôn Phỉ Phỉ nguyện vọng này, Tào Côn khẳng định vẫn là muốn thỏa mãn.
+
+Dù sao, Lưu Hồng hôm qua l...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

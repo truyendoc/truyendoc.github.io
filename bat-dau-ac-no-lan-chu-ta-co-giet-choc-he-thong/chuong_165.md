@@ -4,6 +4,13 @@ title: Chương 165: pháp tướng cảnh tam trọng
 chapter_number: 165
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 165: pháp tướng cảnh tam trọng
+
+“Mẹ nó, còn có thể để cho ngươi chạy!”
+
+Thẩm Dục thầm mắng, không ngừng thi triển thuấn di thuật đuổi theo.
+
+Nhưng cái...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

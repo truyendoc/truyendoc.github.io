@@ -4,6 +4,11 @@ title: Chương 63: Lưu Ngọc Linh muốn ly hôn
 chapter_number: 63
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 63: Lưu Ngọc Linh muốn ly hôn
+
+\"Tại sao vậy?\"
+
+Nghe được Tào Côn nói, để cho mình về sau không muốn làm bất động sản, Lưu Ngọc Linh mặt mũi tràn đầy h...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 54: Tính tiền Phong Ba
 chapter_number: 54
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 54: Tính tiền Phong Ba
+
+\"Trở về rồi?\"
+
+Nhìn thấy Tào Côn dẫn theo đồ ăn trở về, đang xem TV Bạch Tĩnh, tựa như là đang chờ đợi trượng phu trở về thê t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

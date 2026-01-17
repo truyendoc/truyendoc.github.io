@@ -4,6 +4,9 @@ title: Chương 100: Phủ Thành mua nhà
 chapter_number: 100
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 100: Phủ Thành mua nhà
+
+Phát xong an gia phí sau, Thẩm Dục đối với đám này lưu lại thiếu niên nói: “Hiện tại, các ngươi liền cầm lấy bạc trở về, thông...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 550: Thật coi hắn là người tốt?
 chapter_number: 550
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 550: Thật coi hắn là người tốt?
+
+Cái gì?
+
+Theo Tào Côn câu nói này ra miệng, dưới đài ngồi một đám người Trương gia, trong khoảnh khắc con mắt đều trợ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

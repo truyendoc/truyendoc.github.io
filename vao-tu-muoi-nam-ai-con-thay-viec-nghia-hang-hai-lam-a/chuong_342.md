@@ -4,6 +4,11 @@ title: Chương 342: Liễu Truyền Sĩ tới
 chapter_number: 342
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 342: Liễu Truyền Sĩ tới
+
+Nghe xong Tào Côn lời nói này, Từ Kiều Kiều cùng Tôn Phỉ Phỉ không hẹn mà cùng nhẹ gật đầu.
+
+Vẫn là Tào Côn nói lý do này chu...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

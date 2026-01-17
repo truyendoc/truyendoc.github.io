@@ -4,6 +4,11 @@ title: Chương 128: Thành ăn bám lưu manh
 chapter_number: 128
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 128: Thành ăn bám lưu manh
+
+Lúc này trong quán cà phê, Tôn Phỉ Phỉ chính một thân một mình ngồi ở chỗ gần cửa sổ, trước mặt đặt vào một chén cà phê.
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

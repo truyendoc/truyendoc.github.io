@@ -4,6 +4,13 @@ title: Chương 135
 chapter_number: 135
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Trận chiến của Yuuki và Leon bắt đầu.
+
+Bầu trời lóe sáng, mặt đất bị thổi tung.
+
+Kể cả Chloe dù chưa di chuyển chút nào cũng dính phải ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

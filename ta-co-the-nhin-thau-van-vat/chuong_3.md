@@ -4,6 +4,9 @@ title: Chương 3: Cần câu và người phụ nữ hàng xóm
 chapter_number: 3
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Anh ơi, cái này là gì vậy?”
+Cô bé Tiểu Nhan nãy giờ vẫn ngồi yên quan sát, thấy Lục Thanh bận rộn suốt một lúc lâu, đến khi hắn hoàn thành thì tò mò hỏi.
+“C...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

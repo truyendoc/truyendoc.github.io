@@ -4,6 +4,11 @@ title: Chương 82: Mercedes-Benz G giáo hoa?
 chapter_number: 82
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 82: Mercedes-Benz G giáo hoa?
+
+Cùng trước đó thời điểm, cùng với Tào Côn thời điểm, Tôn Vĩ vào cửa liền điểm quý nhất.
+
+Cũng mặc kệ có ăn ngon hay khô...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 122: Mũi tên
 chapter_number: 122
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhìn Ngụy thiếu gia nuốt miếng thịt sống, Mã Cố khẽ gật đầu.
+Hắn cũng bốc một miếng thịt thỏ bỏ vào miệng.
+Có lẽ vì đói đến mức cùng cực, sau khi nuốt miếng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

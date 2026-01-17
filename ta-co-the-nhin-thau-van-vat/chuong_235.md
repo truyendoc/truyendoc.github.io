@@ -4,6 +4,9 @@ title: Chương 235: Lò Luyện Quán Tưởng pháp
 chapter_number: 235
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Quả nhiên, không đâu bằng nhà.”
+Sáng sớm, Lục Thanh bước ra khỏi nhà, duỗi người một cái, trong lòng vô cùng thư thái.
+Nhớ lại chuyện hôm qua, hắn không nhị...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

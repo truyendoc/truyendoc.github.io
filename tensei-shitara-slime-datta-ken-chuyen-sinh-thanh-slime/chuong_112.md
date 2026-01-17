@@ -4,6 +4,11 @@ title: Chương 112
 chapter_number: 112
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Trời đã hừng sáng báo hiệu ngày thi đấu thứ ba đã tới.
+
+Ông Vua Dwarf mang tôi đi suốt cả ngày hôm qua, nên bọn tôi quẫy tới tận khuya....
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

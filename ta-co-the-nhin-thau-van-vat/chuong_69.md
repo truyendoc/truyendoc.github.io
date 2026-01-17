@@ -4,6 +4,9 @@ title: Chương 69: Lễ vật
 chapter_number: 69
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đa tạ Trần lão y đã tận tâm chăm sóc mấy ngày qua.”
+Trong tiểu viện Bán Sơn, Ngụy công tử được gia nhân đỡ đứng dậy, khẽ cúi người hành lễ cảm tạ.
+“Không cầ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

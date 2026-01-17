@@ -4,6 +4,9 @@ title: Chương 178: Sắp nhìn thấy Trình Dao Dao
 chapter_number: 178
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 178: Sắp nhìn thấy Trình Dao Dao
+
+Làm Tào Côn mang theo Trình Dương trở lại cái kia nhà khách lúc, xinh đẹp quả phụ lão bản nương còn không có nghỉ ng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,8 @@ title: Chương 6: Lòng tốt của dân làng
 chapter_number: 6
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi Lục Thanh trở về nhà, thấy đám nhóc con đang nhìn mình với ánh mắt háo hức, hắn không chần chừ mà bắt đầu chia cá ngay.
+Hắn hái hai tàu lá chuối sau ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

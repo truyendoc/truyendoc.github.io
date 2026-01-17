@@ -4,6 +4,11 @@ title: Chương 341: Lại một cái tang lễ
 chapter_number: 341
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 341: Lại một cái tang lễ
+
+Thời gian nhoáng một cái, đảo mắt chính là ba ngày.
+
+Trải qua Lam Khả Tâm đồng ý cùng gia nhập về sau, ba ngày này thời gian...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

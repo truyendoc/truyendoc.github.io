@@ -4,6 +4,11 @@ title: Chương 172: từ bỏ Thẩm Dục
 chapter_number: 172
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 172: từ bỏ Thẩm Dục
+
+Nghe đến đó, Liễu Tâm Xuyên cũng nhớ tới, Trấn Yêu Ti hoàn toàn chính xác có như thế một cái quy định.
+
+Hắn mặt âm trầm phất phất...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

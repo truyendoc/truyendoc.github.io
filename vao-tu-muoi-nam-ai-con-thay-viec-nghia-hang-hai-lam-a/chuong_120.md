@@ -4,6 +4,11 @@ title: Chương 120: Lưu Hồng, ngươi chó nữ nhân
 chapter_number: 120
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 120: Lưu Hồng, ngươi chó nữ nhân
+
+Không bao lâu!
+
+Lưu Hồng liền mang theo một thân trang phục chính thức Hoàng Đông Mai, đi tới Tào Côn chỗ phòng bên ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

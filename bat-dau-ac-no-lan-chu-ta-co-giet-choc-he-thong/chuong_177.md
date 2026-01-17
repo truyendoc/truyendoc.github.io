@@ -4,6 +4,11 @@ title: Chương 177: thần thụ cành cây
 chapter_number: 177
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 177: thần thụ cành cây
+
+Quả nhiên như là Lâm Tuệ nói tới, sáng ngày thứ hai.
+
+Tứ đại thế gia liền đem một phong Thang Cốc Hoa biết thư mời đưa đến Thẩ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

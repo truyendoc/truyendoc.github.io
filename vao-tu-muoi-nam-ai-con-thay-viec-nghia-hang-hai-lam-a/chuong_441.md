@@ -4,6 +4,11 @@ title: Chương 441: Đường đường chính chính nhà lành
 chapter_number: 441
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 441: Đường đường chính chính nhà lành
+
+Thời gian chầm chậm trôi qua, đảo mắt liền đi tới trong đêm mười hai giờ!
+
+Theo hiện trường điều tra, chứng cứ ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

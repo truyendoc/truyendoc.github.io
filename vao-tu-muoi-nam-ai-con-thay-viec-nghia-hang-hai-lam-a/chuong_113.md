@@ -4,6 +4,11 @@ title: Chương 113: Làm không lớn bụng
 chapter_number: 113
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 113: Làm không lớn bụng
+
+Thấy là Lưu Hồng đánh tới, Tào Côn cũng không có giấu diếm Từ Kiều Kiều, ở trước mặt nàng liền nhận nghe điện thoại.
+
+Dù sao ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,8 @@ title: Chương 230: Trở lại chúc tâm phường
 chapter_number: 230
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lục công tử, ta đã tìm đủ toàn bộ dược liệu ngài yêu cầu rồi.” Ngụy tinh Hà ngày thứ ba sau lễ bái sư, với vẻ vô cùng vui mừng, đi tới nơi ở của Lục Thanh.
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

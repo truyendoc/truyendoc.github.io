@@ -4,6 +4,9 @@ title: Chương 301: Tiêu diệt
 chapter_number: 301
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trưởng lão?!”
+Biến cố xảy ra đột ngột, không ai kịp phản ứng.
+Không ai ngờ lão giả áo xám, người từ nãy đến giờ vẫn đứng quan sát, lại bất ngờ quay đầu bỏ c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

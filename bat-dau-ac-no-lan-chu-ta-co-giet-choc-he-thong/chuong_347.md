@@ -4,6 +4,11 @@ title: Chương 347: Giận dữ lại giận Khai Nguyên đế (2)
 chapter_number: 347
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 287: Giận dữ lại giận Khai Nguyên đế (2)
+
+Nhưng chung vào một chỗ, chính là 20 ức cân, 20 triệu thạch.
+
+Trừ ngoài ra, mỗi người còn có một cân ăn thịt...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

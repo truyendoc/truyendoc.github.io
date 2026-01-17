@@ -4,6 +4,9 @@ title: Chương 105
 chapter_number: 105
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Cùng với những người tộc elve được thả tự do, những con quái vật quý hiếm tiếp tục đổ vào thành phố. Xét về chất lượng cưỡi của chúng, chúng phải được...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

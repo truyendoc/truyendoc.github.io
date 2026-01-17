@@ -4,6 +4,11 @@ title: Chương 266: Trình Dao Dao xuất viện
 chapter_number: 266
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 266: Trình Dao Dao xuất viện
+
+Sáng sớm hôm sau.
+
+Bởi vì là thứ bảy, cho dù là Tôn Phỉ Phỉ cùng Từ Kiều Kiều cũng không cần đi trường học, cho nên chờ ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

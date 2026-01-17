@@ -4,6 +4,9 @@ title: Chương 635: Cho Đích Lý Bá rồi sáng ý
 chapter_number: 635
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 635: Cho Đích Lý Bá rồi sáng ý
+
+Đón Dương Nhật Bố cái kia không dám tin ánh mắt, Tào Côn cũng không có giải thích, chỉ là cười một tiếng, sau đó liền ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

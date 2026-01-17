@@ -4,6 +4,8 @@ title: Chương 212: Hoàng tộc
 chapter_number: 212
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Nghiêm xương Hải bái kiến Lục công tử.”
+Người trung niên có đôi mắt phượng mỉm cười bước đến gần Lục Thanh, miệng cất lời, trực tiếp xưng ra thân phận của h...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

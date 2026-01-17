@@ -4,6 +4,13 @@ title: Chương 307: Tuyệt hậu mắc (2)
 chapter_number: 307
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 267: Tuyệt hậu mắc (2)
+
+Nhưng ở đủ khả năng tình huống hạ, trợ giúp hạ bọn hắn vẫn là không có vấn đề.
+
+Huống chi.
+
+Giết c·hết những này Nam Man Vu Tộ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

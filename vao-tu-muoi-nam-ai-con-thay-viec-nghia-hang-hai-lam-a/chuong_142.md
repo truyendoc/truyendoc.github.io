@@ -4,6 +4,9 @@ title: Chương 142: Vay tiền lớn ngu xuẩn
 chapter_number: 142
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 142: Vay tiền lớn ngu xuẩn
+
+Bởi vì có Trương Vân Vân một mực tại cho Tào Côn báo cáo, cho nên, Tào Côn vẫn luôn nắm giữ lấy Tôn Vĩ tình huống bên kia....
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

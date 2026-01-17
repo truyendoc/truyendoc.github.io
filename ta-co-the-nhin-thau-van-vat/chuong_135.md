@@ -4,6 +4,9 @@ title: Chương 135: Cứu người (2)
 chapter_number: 135
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mã Cố dĩ nhiên không phản đối.
+Hắn biết Lục Thanh thường xuyên vào núi hái thuốc, quen thuộc địa hình hơn hắn rất nhiều.
+Nếu Lục Thanh muốn chọn đường đi, ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

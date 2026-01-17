@@ -4,6 +4,11 @@ title: Chương 88
 chapter_number: 88
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Một thành phố thanh bình chan hòa ánh sáng.
+
+Một thành phố thánh bao quanh nó là 1 kết giới thánh.
+
+Đây là một kết giới quốc phòng cấp cao dc phát triển tron...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

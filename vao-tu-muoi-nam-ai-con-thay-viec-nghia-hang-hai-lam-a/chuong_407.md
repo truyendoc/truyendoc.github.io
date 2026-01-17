@@ -4,6 +4,13 @@ title: Chương 407: Ép khô Liễu gia
 chapter_number: 407
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 407: Ép khô Liễu gia
+
+Mười hai giờ trưa!
+
+Hải Thành bệnh viện nhân dân, Tào Côn cầm một chồng kiểm tra báo cáo cùng kiểm nghiệm báo cáo, đi ra.
+
+Có mộ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

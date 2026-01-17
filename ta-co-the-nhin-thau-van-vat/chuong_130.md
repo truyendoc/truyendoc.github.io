@@ -4,6 +4,8 @@ title: Chương 130: Tiểu ly ra tay
 chapter_number: 130
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thấy nếu không né tránh, lòng bàn tay hắn sẽ bị chém đứt.
+Dù là võ giả hậu thiên nội cảnh, hắn cũng vẫn là thân xác bằng thịt, không thể chịu nổi đao chém và...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

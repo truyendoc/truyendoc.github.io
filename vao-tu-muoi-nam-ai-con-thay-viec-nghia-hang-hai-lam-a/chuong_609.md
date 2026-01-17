@@ -4,6 +4,11 @@ title: Chương 609: Sợ bức Lý Nguyên Hà
 chapter_number: 609
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 609: Sợ bức Lý Nguyên Hà
+
+\"Tào lão bản, ngài ngồi trước, ta đi cấp ngài pha chén trà.\"
+
+Kim Ngọc Bình ở một bên thận trọng hầu hạ Tào Côn, giống như s...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

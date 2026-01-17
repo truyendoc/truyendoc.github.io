@@ -4,6 +4,11 @@ title: Chương 97
 chapter_number: 97
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Tôi gọi Gerudo lại để giúp xắp sếp mọi thứ về lại đúng trật tự vốn có.
+
+Khả năng chế tạo của Yellow Number * cao đến mức ngạc nhiên. { Đội vàng, bao g...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

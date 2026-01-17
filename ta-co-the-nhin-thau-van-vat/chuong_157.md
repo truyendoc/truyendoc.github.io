@@ -4,6 +4,9 @@ title: Chương 157: Lục soát
 chapter_number: 157
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Quả nhiên, đó chính là bang Hắc Lang!
+Lục Thanh đảo mắt nhìn quanh, phát hiện tất cả những kẻ có mặt đều là người của bang Hắc Lang.
+Không chỉ có bang chủ Hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

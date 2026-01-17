@@ -4,6 +4,11 @@ title: Chương 90: Thẩm Dục bị kích thích
 chapter_number: 90
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 90 Thẩm Dục bị kích thích
+
+“Các ngươi đi vào tìm kiếm!”
+
+Thẩm Đào phất phất tay, Ninh Viễn liền cùng mặt khác hai cái trấn yêu vệ xông vào gian phòng....
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

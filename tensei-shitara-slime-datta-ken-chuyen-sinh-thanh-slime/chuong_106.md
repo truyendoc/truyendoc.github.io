@@ -4,6 +4,9 @@ title: Chương 106
 chapter_number: 106
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Tiếp sau đoàn tiếp kiến là quái thú đến từ rừng đại ngàn Jura, màn chào hỏi với các vị đại sứ từ các quốc gia láng giềng được diễn ra ê...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

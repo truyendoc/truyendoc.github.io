@@ -4,6 +4,9 @@ title: Chương 593: Trạm thứ hai, Lý Song Nhi
 chapter_number: 593
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 593: Trạm thứ hai, Lý Song Nhi
+
+Kiếp trước, Bàng Hồng Na dẫn đầu nghiên cứu phát minh đoàn đội, vừa nghiên cứu ra cái kia khoản trị liệu bệnh tiểu đườ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

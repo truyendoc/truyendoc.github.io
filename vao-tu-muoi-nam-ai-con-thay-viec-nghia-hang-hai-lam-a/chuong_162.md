@@ -4,6 +4,9 @@ title: Chương 162: Nhỏ cái vị hôn phu ăn dấm
 chapter_number: 162
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 162: Nhỏ cái vị hôn phu ăn dấm
+
+Không nghĩ tới, mình chỉ là bỏ một cái buổi chiều khóa cùng một buổi sáng khóa, vậy mà cho Cao Đình Đình mang đến dạng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

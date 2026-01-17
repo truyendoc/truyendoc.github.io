@@ -4,6 +4,11 @@ title: Chương 149: Nguyện Thiên Đường không có du thuyền cùng Đ�
 chapter_number: 149
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 149: Nguyện Thiên Đường không có du thuyền cùng Đại Hải
+
+\"Cười ngây ngô cái gì đâu, cái gì chuyện vui a?\"
+
+Ngay tại Tào Côn ngồi ở trên ghế sa lon, ti...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

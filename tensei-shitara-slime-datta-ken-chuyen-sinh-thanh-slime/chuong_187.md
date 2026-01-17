@@ -4,6 +4,11 @@ title: Chương 187
 chapter_number: 187
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ----------------------------------------------------
+
+Sau khi tôi hấp thu Velgrynd, Cơ thể tôi lại được tái cấu trúc.
+
+Rồi tôi để Raphael-sensei gánh hết chỗ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,13 @@ title: Chương 689: Kế hoạch thành công
 chapter_number: 689
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 689: Kế hoạch thành công
+
+Nghe được Mã Vũ Thiến nói như vậy, Okamoto ba tấc kém chút cao hứng khoa tay múa chân bắt đầu.
+
+Đúng đúng đúng!
+
+Là cái này ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

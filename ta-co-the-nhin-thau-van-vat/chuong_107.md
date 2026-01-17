@@ -4,6 +4,8 @@ title: Chương 107: Học chữ
 chapter_number: 107
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhưng giờ đây, khi Tiểu Nhan đã thức tỉnh một thiên phú hiếm có như thế, nếu không tận dụng thì thật quá lãng phí.
+Trong thế giới này, nơi võ giả được tôn sù...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

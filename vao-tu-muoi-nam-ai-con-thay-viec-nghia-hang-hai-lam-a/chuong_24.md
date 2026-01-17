@@ -4,6 +4,9 @@ title: Chương 24: Lửa cháy đổ thêm dầu
 chapter_number: 24
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 24: Lửa cháy đổ thêm dầu
+
+Bởi vì Vương Nhất Phu cái này thông điện thoại, nguyên bản hài hòa bữa sáng, cuối cùng lấy qua loa kết thúc kết thúc công vi...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

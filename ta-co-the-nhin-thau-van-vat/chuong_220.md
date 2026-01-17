@@ -4,6 +4,9 @@ title: Chương 220: Thanh vân kiếm các
 chapter_number: 220
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Hạo Nhi trở về rồi sao?”
+Nghe được tin này, Ngụy Tinh Hà cũng hết sức kinh ngạc.
+“Không chỉ vậy, đại công tử còn mang theo mấy đồng môn cùng trở về, hơn nữa...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

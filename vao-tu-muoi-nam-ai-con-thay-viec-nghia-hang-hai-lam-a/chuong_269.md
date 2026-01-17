@@ -4,6 +4,11 @@ title: Chương 269: Cẩu Nhất Vĩ nữ nhân
 chapter_number: 269
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 269: Cẩu Nhất Vĩ nữ nhân
+
+Lại là Tào Côn!
+
+Nghe được Tào Côn cái tên này từ Cẩu Nhất Vĩ miệng bên trong ra, nhan trị cùng dáng người đồng đều thượng đ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

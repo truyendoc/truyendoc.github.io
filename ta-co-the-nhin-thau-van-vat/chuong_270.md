@@ -4,6 +4,9 @@ title: Chương 270: Viếng thăm
 chapter_number: 270
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Quả thật không tệ.”
+Nhìn cảnh nhộn nhịp trước mắt, xe ngựa tấp nập, Lục Thanh không khỏi thốt lên thêm một lần nữa.
+Nơi này thịnh vượng gấp mười lần so với ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

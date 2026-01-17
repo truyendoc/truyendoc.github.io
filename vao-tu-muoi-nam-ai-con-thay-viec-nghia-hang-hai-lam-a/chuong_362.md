@@ -4,6 +4,9 @@ title: Chương 362: Cho Tào Côn chỗ tốt
 chapter_number: 362
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 362: Cho Tào Côn chỗ tốt
+
+Dương Nhật Bố một mặt không thể tưởng tượng nổi nhìn xem Tào Côn, tuyệt đối không ngờ rằng, nàng cùng Tào Côn ở giữa gặp mặt...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

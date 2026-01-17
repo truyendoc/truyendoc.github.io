@@ -4,6 +4,11 @@ title: Chương 180: Trình Dao Dao hiểu lầm, nghĩ vừa em ta?
 chapter_number: 180
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 180: Trình Dao Dao hiểu lầm, nghĩ vừa em ta?
+
+Đối mặt Trình Dao Dao chất vấn, Trình Dương là khẳng định không dám nói mình đêm qua đi c·ướp đoạt.
+
+Hắn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 244
 chapter_number: 244
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ==========================
+
+Milim đã nổi giận.
+
+Cô quyết định rằng cô chắc chắn phải loại bỏ Velda, nguồn gốc của mọi tội ác.
+
+Milim mở cửa và tiến vào thron...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

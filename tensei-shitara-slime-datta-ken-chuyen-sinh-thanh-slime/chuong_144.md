@@ -4,6 +4,9 @@ title: Chương 144
 chapter_number: 144
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ------------------------------------------
+
+Sau khi tổng hợp trận hình quân sự, tôi đi tới phòng của Benimaru để đưa cho cậu ta biểu đồ tổ chức tôi vừa hoàn ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

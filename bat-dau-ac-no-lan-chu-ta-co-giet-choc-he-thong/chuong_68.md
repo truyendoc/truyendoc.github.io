@@ -4,6 +4,9 @@ title: Chương 68: thúc thu làm
 chapter_number: 68
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 68 thúc thu làm
+
+Thẩm Dục làm sơ trầm ngâm, đối với quản gia nói “Dạng này, ngươi phái người đi bảy cái điền trang truyền đạt bên dưới mệnh lệnh của t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

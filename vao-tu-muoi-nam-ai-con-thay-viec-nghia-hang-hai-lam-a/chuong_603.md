@@ -4,6 +4,11 @@ title: Chương 603: Ta nhưng là huynh đệ a
 chapter_number: 603
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 603: Ta nhưng là huynh đệ a
+
+Mặc dù Tào Côn một chút cho mình 49 cá nhân tư liệu.
+
+Để cho mình điều tra cái này 49 cá nhân tình huống, xem bọn hắn tự ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

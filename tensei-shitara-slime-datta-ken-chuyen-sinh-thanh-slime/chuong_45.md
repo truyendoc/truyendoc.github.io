@@ -4,6 +4,11 @@ title: Chương 45
 chapter_number: 45
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Giờ chiến tranh đã kết thúc, chúng tôi cũng nhanh chóng quay về thị trấn.
+
+Thực tình, quay về với một quân đoàn 2000 người thì mệt quá.
+
+Thế nên tôi để việc ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

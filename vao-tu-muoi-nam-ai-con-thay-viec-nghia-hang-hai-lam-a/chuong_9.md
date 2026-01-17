@@ -4,6 +4,11 @@ title: Chương 9: Thùng cơm 72 thức
 chapter_number: 9
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 09: Thùng cơm 72 thức
+
+Ngoại trừ gặp tà, Tào Côn nghĩ tới loại thứ hai khả năng, chính là mình người trùng sinh thân phận đưa đến.
+
+Dù sao, ngoại trừ ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 591: Lão bản bề bộn nhiều việc
 chapter_number: 591
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 591: Lão bản bề bộn nhiều việc
+
+Theo cỗ xe tiến vào biệt thự cư xá, Khương Mẫn nhìn về phía ngoài cửa sổ xe hai mắt, liền không có thu hồi qua.
+
+Không...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

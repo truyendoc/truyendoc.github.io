@@ -4,6 +4,7 @@ title: Chương 87: Cảnh cáo
 chapter_number: 87
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Bên ngoài Lầu Xuân Nguyệt, đám gián điệp của các thế lực khác nhau chờ một lúc lâu mà vẫn không thấy người của Hắc Lang bang ra mặt, trên gương mặt ai nấy đề...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 5: Hoàng kim tới tay
 chapter_number: 5
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 05: Hoàng kim tới tay
+
+Rạng sáng hai giờ!
+
+Làm một tòa sống về đêm sinh cũng không quá phong phú tam tuyến thành thị, lúc này Bạch Hà thành phố, đã sớ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

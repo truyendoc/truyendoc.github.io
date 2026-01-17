@@ -4,6 +4,13 @@ title: Chương 452: Ẩn tàng Boss, Hải Đông chế dược
 chapter_number: 452
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 452: Ẩn tàng Boss, Hải Đông chế dược
+
+\"Liễu Truyền Sĩ nói, hắn bị Dương Tam Đao cho giang qua?\"
+
+Sáu giờ tối nửa!
+
+Buổi trưa ngôi biệt thự kia bên tro...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

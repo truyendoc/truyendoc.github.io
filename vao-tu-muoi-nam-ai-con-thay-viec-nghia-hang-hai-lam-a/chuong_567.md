@@ -4,6 +4,11 @@ title: Chương 567: Hai đầu chửi bới
 chapter_number: 567
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 567: Hai đầu chửi bới
+
+Tôn Vĩ một nhà ba người mộ phần trước, chính như Tào Côn dự liệu.
+
+Đang nhìn đưa Tào Côn rời đi về sau, Trương Cương lập tức li...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

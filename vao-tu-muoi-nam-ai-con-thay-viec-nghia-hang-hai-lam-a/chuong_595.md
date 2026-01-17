@@ -4,6 +4,13 @@ title: Chương 595: Thứ ba trạm, chó nữ nhân
 chapter_number: 595
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 595: Thứ ba trạm, chó nữ nhân
+
+Đương nhiên!
+
+Đây hết thảy điều kiện tiên quyết là, ngươi là một cái không có bối cảnh gì người mới.
+
+Nếu như ngươi là ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

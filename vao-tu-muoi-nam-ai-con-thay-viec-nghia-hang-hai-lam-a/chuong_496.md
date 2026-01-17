@@ -4,6 +4,9 @@ title: Chương 496: Tin tức tốt, chân gãy
 chapter_number: 496
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 496: Tin tức tốt, chân gãy
+
+Trong rừng cây, Đoàn Minh nghe xong Khải thúc những thứ này báo cáo về sau, cả người đầu óc đều loạn thành một bầy bột nhã...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

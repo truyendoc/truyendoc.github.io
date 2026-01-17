@@ -4,6 +4,11 @@ title: Chương 151
 chapter_number: 151
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ---------------------------------------------
+
+Cuộc hội nghị thượng cấp sắp sửa mở màn trước mặt Hoàng Đế.
+
+Hiện tại không còn là thời bình nữa rồi. Không ch...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,13 @@ title: Chương 633: Chuyện xưa nhắc lại
 chapter_number: 633
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 633: Chuyện xưa nhắc lại
+
+Khá lắm!
+
+Lại bị tính kế!
+
+Tào Côn còn tưởng rằng Dương Nhật Bố là thật còn nhớ vài ngày trước cái kia thông điện thoại đâu,...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

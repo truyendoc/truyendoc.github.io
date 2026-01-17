@@ -4,6 +4,11 @@ title: Chương 98: Thẩm Dục muốn chạy trốn
 chapter_number: 98
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 98 Thẩm Dục muốn chạy trốn
+
+Rất nhanh, Thẩm Dục liền dùng Khí Hải cảnh yêu thú da chế tạo ra vỏ kiếm.
+
+Đem chuôi này cực phẩm Linh binh trường kiếm cắ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

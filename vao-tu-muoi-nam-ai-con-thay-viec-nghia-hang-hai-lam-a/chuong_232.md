@@ -4,6 +4,11 @@ title: Chương 232: Phát hiện Lưu Giai Mẫn bí mật
 chapter_number: 232
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 232: Phát hiện Lưu Giai Mẫn bí mật
+
+Mà cùng lúc đó!
+
+Đang bị Tiêu Văn Tĩnh hài lòng nam nhân, giờ phút này ngay tại tiến về Lưu Giai Mẫn phòng trọ trê...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

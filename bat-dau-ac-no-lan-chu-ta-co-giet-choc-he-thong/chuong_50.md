@@ -4,6 +4,13 @@ title: Chương 50: luyện đan
 chapter_number: 50
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 50 luyện đan
+
+Thẩm Gia, trung viện.
+
+Thẩm Dục đối với Lý Linh Nhi cùng Ngũ Tiểu chỉ vẫy tay: “Các ngươi đều tới.”
+
+“Phu quân, ngươi gọi chúng ta đến c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

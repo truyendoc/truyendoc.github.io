@@ -4,6 +4,9 @@ title: Chương 345: Thu hoạch lớn, lại lên đường
 chapter_number: 345
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh bước ra khỏi Tàng Bảo Các, trên mặt hắn nở một nụ cười nhạt.
+Thu hoạch lần này quả thực quá mức phong phú.
+Hầu như toàn bộ tích lũy mấy trăm nă...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

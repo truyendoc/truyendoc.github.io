@@ -4,6 +4,9 @@ title: Chương 68: Tiểu ly
 chapter_number: 68
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đặt tên á?”
+Lục Thanh vừa lau tay vừa hỏi lại.
+“Vâng! Giờ tiểu thú là bạn của chúng ta rồi, mà bạn của em ai cũng có tên hết — như Đại Nha, Tiểu Hầu Đầu đó....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

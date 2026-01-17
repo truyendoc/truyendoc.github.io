@@ -4,6 +4,11 @@ title: Chương 328: Báo ứng tới (1)
 chapter_number: 328
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 278: Báo ứng tới (1)
+
+Rất nhanh, thổ huyết sau Tam hoàng tử liền bị người mang đến cứu chữa.
+
+Tiếp lấy, Hoàng đế khoát khoát tay, đối Thái tử nói: “Tr...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

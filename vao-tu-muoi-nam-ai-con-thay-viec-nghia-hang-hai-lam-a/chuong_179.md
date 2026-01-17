@@ -4,6 +4,11 @@ title: Chương 179: Cực phẩm lê lớn, Trình Dao Dao
 chapter_number: 179
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 179: Cực phẩm lê lớn, Trình Dao Dao
+
+Bệnh bạch huyết chia làm thật nhiều loại khác biệt loại hình.
+
+Có thể đại khái chia làm cấp tính bệnh bạch huyết ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

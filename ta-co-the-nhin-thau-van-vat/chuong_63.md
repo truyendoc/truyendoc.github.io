@@ -4,6 +4,10 @@ title: Chương 63: Qua cơn nguy kịch
 chapter_number: 63
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cách gì? Là cách gì thế?”
+Lý hộ vệ ban đầu hơi ngẩn người, rồi nhanh chóng hỏi dồn.
+Những hộ vệ khác cũng đồng loạt nhìn về phía Mã gia.
+“Ở ngôi làng gần đâ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

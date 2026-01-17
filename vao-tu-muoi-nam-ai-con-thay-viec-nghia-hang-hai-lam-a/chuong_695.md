@@ -4,6 +4,13 @@ title: Chương 695: Có mệnh hoa trọng yếu nhất
 chapter_number: 695
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 695: Có mệnh hoa trọng yếu nhất
+
+Mike là biết chi phí.
+
+Bởi vì hắn chuyên môn hỏi Tào Côn.
+
+Mà phòng thí nghiệm giai đoạn chế tạo chi phí, kỳ thật còn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 45: Vân Đông đặc khu thành lập, thân gia gấp bội
 chapter_number: 45
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 45: Vân Đông đặc khu thành lập, thân gia gấp bội
+
+Sáng sớm ngày thứ hai.
+
+Vườn hoa cư xá, Tào Côn nện bước nhẹ nhõm thêm vui sướng bộ pháp, khẽ hát, đ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

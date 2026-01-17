@@ -4,6 +4,13 @@ title: Chương 39
 chapter_number: 39
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Căn phòng hội nghị lớn.
+
+Nơi đó hoàn toàn yên lặng.
+
+Những bóng người nam và nữ ngồi quanh cái bàn tròn lớn trong căn phòng đó.
+
+Ở ngay giữa cái bàn là một T...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

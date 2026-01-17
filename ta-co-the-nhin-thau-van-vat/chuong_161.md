@@ -4,6 +4,9 @@ title: Chương 161: Bạch ngọc hoa
 chapter_number: 161
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Mã Cố nhìn thấy thiếu niên áo trắng, toàn thân hắn chấn động dữ dội.
+Không chỉ vì trước đó hắn hoàn toàn không phát hiện được tung tích đối phương,
+mà cò...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

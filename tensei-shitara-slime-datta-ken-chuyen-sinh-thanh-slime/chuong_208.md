@@ -4,6 +4,9 @@ title: Chương 208
 chapter_number: 208
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngày thứ 3 của trận Đại Chiến, thủ đô của Thánh Quốc Ruberius.
+
+Shion nhìn đạo quân của Dagruel đang từ đằng xa bước đến, cô nở một nụ cười lạnh lùng và tăm ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,13 @@ title: Chương 113: Trấn Yêu Ti tình huống
 chapter_number: 113
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 113: Trấn Yêu Ti tình huống
+
+Không đến nửa khắc đồng hồ.
+
+Thẩm Dục liền đem cái này hơn 300 phần t·ội p·hạm truy nã tư liệu cho xem hết.
+
+Chủ yếu là l...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

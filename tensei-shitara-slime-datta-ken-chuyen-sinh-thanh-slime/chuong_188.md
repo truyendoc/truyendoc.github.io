@@ -4,6 +4,12 @@ title: Chương 188
 chapter_number: 188
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ----------------------------------------------------
+
+Tôi đứng đối mặt Yuuki, hai bên bắt đầu thăm dò lẫn nhau.
+
+Rồi trong bầu không khí căng thẳng như thế,
+...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

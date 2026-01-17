@@ -4,6 +4,13 @@ title: Chương 65: tạo phản hộ chuyên nghiệp Thần Liên Đạo
 chapter_number: 65
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 65 tạo phản hộ chuyên nghiệp Thần Liên Đạo
+
+Một bên khác.
+
+Liên tục đổi mấy cái phương hướng truy tung Lôi Thái rốt cục từ bỏ.
+
+Sau đó đạt được Thánh ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

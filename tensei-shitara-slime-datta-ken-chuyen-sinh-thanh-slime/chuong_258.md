@@ -4,6 +4,11 @@ title: Chương 258
 chapter_number: 258
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tôi ngó nghiêng xung quanh một chút vì bây giờ có thể thư giãn được rồi.
+
+Đúng như anh soát vé đã nói quanh đây có khá nhiều học viên.
+
+Học viên chiếm khoảng...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

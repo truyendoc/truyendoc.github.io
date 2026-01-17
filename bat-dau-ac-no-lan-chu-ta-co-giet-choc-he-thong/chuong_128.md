@@ -4,6 +4,15 @@ title: Chương 128: yêu thú dẫn
 chapter_number: 128
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 128: yêu thú dẫn
+
+Hiểu rõ xong thần thức tác dụng mới sau.
+
+Thẩm Dục ánh mắt rơi vào còn lại điểm g·iết chóc phía trên.
+
+Còn lại 5086 điểm.
+
+Có thể ti...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

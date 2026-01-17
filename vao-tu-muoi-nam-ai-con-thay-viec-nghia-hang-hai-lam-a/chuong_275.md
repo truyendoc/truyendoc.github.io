@@ -4,6 +4,11 @@ title: Chương 275: Đại hiếu nữ vương San San
 chapter_number: 275
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 275: Đại hiếu nữ vương San San
+
+Ba cái?
+
+Biết Cẩu Nhất Vĩ nơi này nói ba cái, là ba ức ý tứ, bất quá, Trương Uyển Thanh nghe, lại tuyệt không kinh ngạ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

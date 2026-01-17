@@ -4,6 +4,9 @@ title: Chương 52: Cùng Vương San San cuối cùng giao dịch
 chapter_number: 52
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 52: Cùng Vương San San cuối cùng giao dịch
+
+Cùng Tào Côn đàm tốt giá cả về sau, Vương San San ngay sau đó liền đem chủ đề dẫn hướng xuống một cái giai...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

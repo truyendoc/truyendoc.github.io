@@ -4,6 +4,11 @@ title: Chương 193: Cả hai cùng có lợi? Không, ta muốn độc thắng!
 chapter_number: 193
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 193: Cả hai cùng có lợi? Không, ta muốn độc thắng!
+
+\"Lão bản, nàng chính là Chu Lôi lão bà, Lưu Nguyệt.\"
+
+Tào Côn ngậm xi gà trên dưới quan sát một ch...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

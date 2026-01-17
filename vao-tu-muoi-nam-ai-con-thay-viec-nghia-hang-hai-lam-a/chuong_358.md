@@ -4,6 +4,11 @@ title: Chương 358: Dương Nhật Bố lại trở về
 chapter_number: 358
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 358: Dương Nhật Bố lại trở về
+
+Kỳ thật, nói đến đây, Mã Trường Ninh trong lòng vẫn là thật bất đắc dĩ.
+
+Ngay từ đầu, Tào Côn hứa hẹn hắn làm Tào thị t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

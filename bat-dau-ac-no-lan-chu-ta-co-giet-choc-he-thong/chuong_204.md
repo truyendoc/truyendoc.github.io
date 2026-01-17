@@ -4,6 +4,13 @@ title: Chương 204: Yêu tộc tính toán
 chapter_number: 204
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 204: Yêu tộc tính toán
+
+“Đại nhân, muốn hay không quản quản?”
+
+Thấy cảnh này, tiểu kỳ Lâm Tuệ cũng bị ác tâm không được, mở miệng dò hỏi.
+
+“Quản cái g...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

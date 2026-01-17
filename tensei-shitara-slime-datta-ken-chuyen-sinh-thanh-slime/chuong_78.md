@@ -4,6 +4,13 @@ title: Chương 78
 chapter_number: 78
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Đột nhiên cô xông vào hét lên một điều gì đó ...
+
+Và những lời đó !!! ... Tôi có nên đáp lại?
+
+Ramiris thì cứ xồng xộc chạy vào.
+
+Phía sau cô, Beretta đang l...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 13: ra mắt
 chapter_number: 13
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 13 ra mắt
+
+Nhìn thấy hai nữ căn cốt đều đạt đến trung phẩm, Thẩm Dục vẫn còn có chút kinh ngạc.
+
+Phải biết, tiền thân nguyên bản căn cốt mới hạ phẩm đ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

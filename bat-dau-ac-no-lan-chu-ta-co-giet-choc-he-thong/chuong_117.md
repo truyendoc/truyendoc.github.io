@@ -4,6 +4,13 @@ title: Chương 117: Thẩm Dục đoạt đầu người
 chapter_number: 117
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 117: Thẩm Dục đoạt đầu người
+
+Một phen thương lượng sau.
+
+Một đoàn người thương lượng ra hai cái kế hoạch.
+
+Đầu tiên mọi người chui vào Kỳ Sơn Huyện s...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

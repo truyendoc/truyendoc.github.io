@@ -4,6 +4,11 @@ title: Chương 216: ngươi đã có đường đến chỗ chết
 chapter_number: 216
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 216: ngươi đã có đường đến chỗ chết
+
+Rất nhanh, mặt khác chín cái vào núi tìm kiếm bách hộ đội đều lần lượt trở về.
+
+Bất quá, cũng không có phát hiện ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

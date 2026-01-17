@@ -4,6 +4,11 @@ title: Chương 85: tan tác
 chapter_number: 85
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 85 tan tác
+
+Đối với Ma Vân Giáo, Thẩm Dục nhưng không có ấn tượng tốt gì.
+
+Đào lấy tiểu hài trái tim cùng rút người máu tươi luyện đan chuyện như vậy,...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

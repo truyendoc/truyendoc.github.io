@@ -4,6 +4,13 @@ title: Chương 59
 chapter_number: 59
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Đám trẻ nhìn trừng trừng đầy thù địch vào tôi.
+
+Đơn thuần là thù địch.
+
+Đột nhiên tôi có cảm giác không hợp ở đây.
+
+Với một Giáo sư mới được bổ nhiệm, sao lạ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

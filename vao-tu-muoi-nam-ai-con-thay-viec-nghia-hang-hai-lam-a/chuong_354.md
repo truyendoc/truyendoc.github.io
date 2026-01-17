@@ -4,6 +4,11 @@ title: Chương 354: 2 số 828 trả phòng
 chapter_number: 354
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 354: 2 số 828 trả phòng
+
+Lam Kỳ khách sạn trong đại đường.
+
+Trình Dao Dao gặp Lam Khả Tâm nói lại hưng phấn lại kích động, còn cảnh giác, toàn bộ trên...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

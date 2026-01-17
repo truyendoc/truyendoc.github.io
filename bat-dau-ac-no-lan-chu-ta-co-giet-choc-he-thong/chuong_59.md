@@ -4,6 +4,13 @@ title: Chương 59: lại vào bí cảnh
 chapter_number: 59
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 59 lại vào bí cảnh
+
+“Nhị thiếu gia, Nhị thiếu gia tin tức quan trọng!”
+
+Đúng lúc này, Nhị Hổ một bên hô hào một bên chạy vào sân nhỏ.
+
+Trở thành Thẩm ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

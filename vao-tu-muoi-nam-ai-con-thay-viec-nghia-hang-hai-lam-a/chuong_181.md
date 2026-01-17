@@ -4,6 +4,11 @@ title: Chương 181: Tỷ ngươi bị ta làm xong
 chapter_number: 181
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 181: Tỷ ngươi bị ta làm xong
+
+Cứ việc Trình Dương đã nói, Tào Côn căn bản cũng không có sờ qua chính mình.
+
+Nhưng là, cái này vẫn như cũ không thể tại...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

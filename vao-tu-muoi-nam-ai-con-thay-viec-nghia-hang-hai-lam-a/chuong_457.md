@@ -4,6 +4,11 @@ title: Chương 457: Cứu vớt bảo tiêu huynh đệ
 chapter_number: 457
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 457: Cứu vớt bảo tiêu huynh đệ
+
+Nghe được Tiêu Văn Tĩnh nói như vậy, Tào Côn chậm rãi nhẹ gật đầu.
+
+\"Kỳ thật, ta ý nghĩ cùng ngươi không sai biệt lắm....
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

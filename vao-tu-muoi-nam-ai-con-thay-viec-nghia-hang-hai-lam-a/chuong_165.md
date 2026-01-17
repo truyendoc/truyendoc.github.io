@@ -4,6 +4,13 @@ title: Chương 165: Tào Côn nan ngôn chi ẩn
 chapter_number: 165
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 165: Tào Côn nan ngôn chi ẩn
+
+Thế nhưng là, Cao Đình Đình còn không thể nói cái gì.
+
+Cũng không thể không cho Tào Côn uống rượu a?
+
+Hàn Bằng vốn là lò...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

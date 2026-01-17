@@ -4,6 +4,15 @@ title: Chương 126
 chapter_number: 126
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+\"Anh hùng Chân chính\" Chloe O\"Bell được khai sinh.
+
+Đáng nhẽ việc này phải xảy ra cùng lúc với cái chết của Hinata.
+
+Tuy nhiên,
+
+Định m...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

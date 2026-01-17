@@ -4,6 +4,11 @@ title: Chương 170
 chapter_number: 170
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------------
+
+Trên con đường mòn trong khu rừng ở ngoại ô thủ đô Đế Quốc, 100.000 người đang tụ tập lại đó.
+
+Mặc cho con số kinh ngư...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

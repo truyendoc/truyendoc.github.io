@@ -4,6 +4,13 @@ title: Chương 73
 chapter_number: 73
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Một ngày mới lại đến!
+
+Một cái gì đó hoài cổ xuất hiện trong tâm trí tôi.
+
+Lâu rồi tôi mới có cái cảm giác này.
+
+Ý tôi là, vì tôi không cần phải ngủ ở thế gi...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

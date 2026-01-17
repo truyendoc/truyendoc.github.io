@@ -4,6 +4,11 @@ title: Chương 103: Xã chết Từ Kiều Kiều
 chapter_number: 103
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 103: Xã chết Từ Kiều Kiều
+
+Đối nam nhân khác tới nói, ngầm trải qua khả năng thuộc về ác mộng.
+
+Lúc đầu một tháng còn có thể có một tuần lễ thời gian ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 316: Mỹ vị
 chapter_number: 316
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cái mùi gì vậy, thơm quá!”
+Khi hương thơm lan ra, vị trung niên viên tráng khịt mũi hai cái, kinh ngạc kêu lên.
+“Chắc là do đồ nhi của ta đang chuẩn bị bữa ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

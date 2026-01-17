@@ -4,6 +4,13 @@ title: Chương 688: Dẫn vào mạnh đẹp tập đoàn
 chapter_number: 688
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 688: Dẫn vào mạnh đẹp tập đoàn
+
+Nghe xong Okamoto ba tấc lời nói này, Mã Vũ Thiến nhẹ gật đầu.
+
+Xác thực!
+
+Okamoto ba tấc nói rất đúng, hắn muốn trước...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 75: Tin tức
 chapter_number: 75
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh đang trên đường tới chợ lớn.
+Quả thật, người cậu muốn gặp chính là Mã Cố, kẻ phụ trách toàn bộ khu chợ ấy.
+Mã Cố có quan hệ rộng, thậm chí còn quen...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

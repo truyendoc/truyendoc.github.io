@@ -4,6 +4,11 @@ title: Chương 45: Ma Trận Sư Bàng Bàn
 chapter_number: 45
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 45 Ma Trận Sư Bàng Bàn
+
+Giờ phút này, cách Nguyên Hà Thôn ngoài mười dặm một đỉnh núi nhỏ bên trên, có một đám người.
+
+Trên đỉnh núi còn trưng bày một...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

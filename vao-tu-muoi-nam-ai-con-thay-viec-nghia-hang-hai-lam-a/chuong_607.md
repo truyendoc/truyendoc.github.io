@@ -4,6 +4,11 @@ title: Chương 607: Hai trong đó gian
 chapter_number: 607
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 607: Hai trong đó gian
+
+Nhìn xem Đào Băng Băng đưa về phía mình cái này hai tấm tư liệu, Tào Côn đưa tay liền nhận lấy.
+
+Còn tưởng rằng là thứ gì đâu,...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

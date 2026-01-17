@@ -4,6 +4,11 @@ title: Chương 649: Lại một cái lão bạn tù
 chapter_number: 649
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 649: Lại một cái lão bạn tù
+
+Không biết nhà mình lão bản, vì cái gì coi trọng như vậy Bàng Hồng Na.
+
+Bất quá, đã lão bản đã lên tiếng, hắn cũng chỉ có...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

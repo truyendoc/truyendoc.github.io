@@ -4,6 +4,11 @@ title: Chương 502: Mẫu nữ hoà giải
 chapter_number: 502
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 502: Mẫu nữ hoà giải
+
+Nhìn xem Vương San San quỳ trên mặt đất ôm mình đùi, ô ô nghẹn ngào, Bạch Tĩnh là càng xem càng buồn nôn.
+
+Nàng mấy lần kiếm đều...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

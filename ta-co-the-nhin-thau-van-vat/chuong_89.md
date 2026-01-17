@@ -4,6 +4,8 @@ title: Chương 89: Chia bạc
 chapter_number: 89
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trương gia gia, ông định chia hai trăm lượng bạc này thế nào?” Lục Thanh hỏi.
+“Tất nhiên là chia đều — mỗi hộ trong thôn đều nhận phần như nhau,” Trương gia...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

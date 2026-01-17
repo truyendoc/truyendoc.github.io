@@ -4,6 +4,11 @@ title: Chương 37
 chapter_number: 37
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Kể từ khi xuất phát, đã 3 ngày trôi qua.
+
+Chúng tôi đã có thể đến vùng thấp địa.
+
+Do không thể lấy thêm nước trên đường đi, nên tôi dùng số nước trữ trong Ba...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

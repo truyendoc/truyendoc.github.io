@@ -4,6 +4,11 @@ title: Chương 513: Phương pháp phá giải, thí mẫu
 chapter_number: 513
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 513: Phương pháp phá giải, thí mẫu
+
+Năm thành?
+
+Nghe được Tào Côn muốn phân đi mình một nửa đoạt được, Trương Bách Mộ lông mày một chút liền nhíu lại....
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

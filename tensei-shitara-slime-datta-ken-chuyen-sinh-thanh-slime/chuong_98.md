@@ -4,6 +4,11 @@ title: Chương 98
 chapter_number: 98
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Well, nhiều thứ đã xảy ra, giờ đây, vì lý do nào đó, nó đã trở thành một bữa yến tiệc linh đình.
+
+Một số lượng lớn thức uống có cồn đã được mang ra, k...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

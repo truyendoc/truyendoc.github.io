@@ -4,6 +4,8 @@ title: Chương 268: Hơi Chiếm Thế Thượng Phong
 chapter_number: 268
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong Vô Danh Cốc, Lục Thanh và Ngụy Sơn Hải đang giao thủ kịch liệt, thế trận khó phân cao thấp.
+Kiếm khí b*n r* tứ phía cùng sóng lực mạnh mẽ đã khắc lên l...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

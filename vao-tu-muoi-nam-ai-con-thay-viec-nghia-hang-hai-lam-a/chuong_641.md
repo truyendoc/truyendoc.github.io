@@ -4,6 +4,11 @@ title: Chương 641: Bị tốt ngồi cùng bàn phát hiện
 chapter_number: 641
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 641: Bị tốt ngồi cùng bàn phát hiện
+
+Thời gian thoáng một cái đã qua, đảo mắt chính là đi qua hai ngày.
+
+Vui sướng thứ bảy Chu Thiên cứ như vậy đi qua...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

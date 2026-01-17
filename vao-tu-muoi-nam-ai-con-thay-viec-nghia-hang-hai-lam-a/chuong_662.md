@@ -4,6 +4,11 @@ title: Chương 662: Trương Uyển Thanh trở về
 chapter_number: 662
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 662: Trương Uyển Thanh trở về
+
+Bất quá, cũng chính bởi vì vậy, có một vấn đề Bàng Hồng Na không nghĩ rõ ràng.
+
+Đó chính là, Tào Côn là thế nào biết nh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

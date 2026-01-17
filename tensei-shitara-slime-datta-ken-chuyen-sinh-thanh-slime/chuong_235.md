@@ -4,6 +4,9 @@ title: Chương 235
 chapter_number: 235
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Beretta và Apito, đang chiến đấu với Dino, đột nhiên biến mất ngay trước mắt gã.
+
+Vì chân của gã bị mắc kẹt trong mặt đất, nên gã chỉ có thể tiếp tục chịu đự...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

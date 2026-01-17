@@ -4,6 +4,13 @@ title: Chương 86
 chapter_number: 86
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Bão Rồng Veldora đã tái sinh.
+
+Báo cáo này khiến giáo hội dc 1 phen hoảng loạn.
+
+Và việc đội quan chinh phạt biến mất cũng nhanh chóng dc phát hiện ra.
+
+Họ đ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

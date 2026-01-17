@@ -4,6 +4,11 @@ title: Chương 264
 chapter_number: 264
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sáng hôm sau, tôi bị đau nhức khắp người.
+
+Thoạt đầu, chân và lưng tôi cứ có gì đó không ổn.
+
+Chỉ là tưởng tượng thôi hay là...? Tôi còn đang bận suy nghĩ, t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

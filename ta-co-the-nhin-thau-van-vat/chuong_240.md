@@ -4,6 +4,7 @@ title: Chương 240: Danh Tính Kinh Động Thiên Hạ (2)
 chapter_number: 240
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đáng tiếc là Minh Kiếm và những người khác vẫn chưa trở về từ chuyến lịch luyện; nếu không, chúng ta còn có thể hỏi họ cho rõ ràng hơn về tình huống lúc ấy....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

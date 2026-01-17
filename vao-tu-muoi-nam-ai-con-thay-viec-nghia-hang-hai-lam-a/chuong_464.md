@@ -4,6 +4,11 @@ title: Chương 464: Đêm giáng sinh cứu người
 chapter_number: 464
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 464: Đêm giáng sinh cứu người
+
+Tào Côn lời nói này bản ý là, nghĩ nổi bật ra bản thân là một cái coi trọng nghiên cứu khoa học người.
+
+Tiếp theo, hắn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 257
 chapter_number: 257
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ※ Tác giả: Vì đây là phần ngoại truyện sau khi chính truyện đã kết thúc nên những ai không thích thì xin lưu ý.
+
+-------
+
+Diablo luôn bắt đầu ngày mới từ rất...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

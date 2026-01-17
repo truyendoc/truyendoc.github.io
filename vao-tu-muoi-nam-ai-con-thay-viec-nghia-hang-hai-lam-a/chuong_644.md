@@ -4,6 +4,9 @@ title: Chương 644: Dương Bình xuống núi
 chapter_number: 644
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 644: Dương Bình xuống núi
+
+Bởi vì hôm nay cũng không có chuyện gì, cũng gặp phải Đích Lý Bá rồi hôm nay muốn phát video, Tào Côn liền nghĩ trong nhà đ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

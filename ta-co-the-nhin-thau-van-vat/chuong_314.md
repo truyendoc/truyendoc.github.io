@@ -4,6 +4,8 @@ title: Chương 314: Dị bảo
 chapter_number: 314
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đám khách giang hồ ở chiếc bàn bên cạnh ồn ào bàn tán thêm một lúc rồi đứng dậy thanh toán, rời khỏi trà lâu.
+Có vẻ như bọn họ muốn lên đường thật nhanh, kẻo...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 71: Lưu Ngọc Linh ly hôn khó khăn
 chapter_number: 71
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 71: Lưu Ngọc Linh ly hôn khó khăn
+
+Kinh ngạc nhìn Tào Côn bóng lưng rời đi, Vương San San trong lòng còn ôm cuối cùng vẻ mong đợi.
+
+Nhưng mà, làm Tào ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

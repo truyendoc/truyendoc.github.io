@@ -4,6 +4,10 @@ title: Chương 73: Trừng phạt
 chapter_number: 73
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “A Thanh?!”
+Dân làng Cửu Lý đều tưởng rằng Đại An sắp bị tên mặt nốt ruồi kia tát cho nát mặt,
+nào ngờ giữa lúc ấy, có người bước ra chắn đòn.
+Điều khiến họ ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

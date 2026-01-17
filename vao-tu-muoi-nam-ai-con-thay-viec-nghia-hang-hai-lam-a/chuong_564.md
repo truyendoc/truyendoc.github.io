@@ -4,6 +4,11 @@ title: Chương 564: Đi nhà ta ăn tết
 chapter_number: 564
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 564: Đi nhà ta ăn tết
+
+Tào Côn đối diện, Khương Mẫn ánh mắt phức tạp nhìn xem hắn, trong lúc nhất thời cũng không biết nên nói cái gì.
+
+Nàng vốn cho r...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

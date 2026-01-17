@@ -4,6 +4,11 @@ title: Chương 466: Làm nữ nhân cũng không tệ
 chapter_number: 466
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 466: Làm nữ nhân cũng không tệ
+
+Bị Hạng Nam Nguyệt nói như vậy, Thôi Minh cũng rất ủy khuất.
+
+Hắn cũng nghĩ đứng thẳng a, hắn cũng không muốn tốn sức ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

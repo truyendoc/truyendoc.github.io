@@ -4,6 +4,8 @@ title: Chương 320: Đại Nguy
 chapter_number: 320
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đợi đến khi Mã Cố và Ngụy Tử An xử lý xong đám sơn tặc còn sót lại, vị trung niên viên tráng cùng các đệ tử của ông ta mới từ từ lấy lại tinh thần.
+Nhìn sân ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

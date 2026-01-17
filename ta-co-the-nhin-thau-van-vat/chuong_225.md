@@ -4,6 +4,8 @@ title: Chương 225: Tam Thập Lục Thiên Bang
 chapter_number: 225
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Gia chủ họ Tiền” nằm ngửa trên mặt đất, nhìn Lục Thanh với ánh mắt đầy kinh ngạc.
+Hắn không thể tin rằng mình, sát thủ hàng đầu của Thất Sát Lâu, lại bị một...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

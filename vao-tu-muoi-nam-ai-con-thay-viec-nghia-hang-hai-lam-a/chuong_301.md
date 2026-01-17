@@ -4,6 +4,11 @@ title: Chương 301: Chính thức vào ở số tám biệt thự
 chapter_number: 301
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 301: Chính thức vào ở số tám biệt thự
+
+Tại Tào Côn khuyên bảo, Lâm Thi Hàm cuối cùng bỏ đi cùng Cẩu Nhất Vĩ l·y h·ôn suy nghĩ.
+
+Bởi vì, Tào Côn nói rấ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 95: thần thức vượt qua Nguyên Thần cực hạn
 chapter_number: 95
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 95 thần thức vượt qua Nguyên Thần cực hạn
+
+Đem bắn ngược phù thu nhập nhẫn trữ vật.
+
+Thẩm Dục ánh mắt rơi vào bảng hệ thống bên trên.
+
+Điểm g·iết chóc...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

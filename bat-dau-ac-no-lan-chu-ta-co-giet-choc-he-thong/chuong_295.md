@@ -4,6 +4,11 @@ title: Chương 295: Đại nhân cần thuộc hạ dìu ngươi sao (2)
 chapter_number: 295
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 261: Đại nhân cần thuộc hạ dìu ngươi sao (2)
+
+Hơi có chút kiến thức đều biết, cái chỗ kia nguy cơ tứ phía.
+
+Hiện tại để bọn hắn lên núi bắt Yêu Tộc, c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

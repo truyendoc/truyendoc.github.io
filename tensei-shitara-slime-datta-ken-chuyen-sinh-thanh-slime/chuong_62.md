@@ -4,6 +4,9 @@ title: Chương 62
 chapter_number: 62
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: À, hiện tại chúng tôi đang đến Công viên Tự nhiên Ulg ở nước Cộng hòa Ulgracia, nơi có 『Nơi trú của Tinh linh』.
+
+Đã hơn 1 tháng rưỡi kể từ khi tôi \"nhậm chức...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

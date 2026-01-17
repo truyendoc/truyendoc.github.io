@@ -4,6 +4,9 @@ title: Chương 325: Biến cố kinh thiên (2)
 chapter_number: 325
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sức chiến đấu hùng hậu như vậy, ngay cả Lưu Vân Tông bọn họ cũng không thể tập hợp được.
+“Chư vị, xin hãy bình tĩnh.”
+Đối diện với khí thế cường đại đủ khiến...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

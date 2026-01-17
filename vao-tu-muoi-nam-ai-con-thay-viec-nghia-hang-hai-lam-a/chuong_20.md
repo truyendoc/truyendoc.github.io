@@ -4,6 +4,13 @@ title: Chương 20: Hai nữ một nam, gà bay chó chạy
 chapter_number: 20
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 20: Hai nữ một nam, gà bay chó chạy
+
+Quả nhiên!
+
+Tào Côn cái tin tức này vừa gửi tới, Vương Nhất Phu lập tức liền trở về tới.
+
+Vương Nhất Phu: 【 ngươi...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

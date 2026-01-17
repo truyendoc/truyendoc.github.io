@@ -4,6 +4,9 @@ title: Chương 101: Dược liệu quý và bí mật trong núi
 chapter_number: 101
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Anh về rồi!”
+Vừa bước vào Tiểu viện Bán Sơn, Lục Thanh liền thấy một bóng nhỏ lao thẳng từ trong sân ra, nhào ngay vào lòng hắn.
+Hắn mỉm cười, đưa tay đỡ lấ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

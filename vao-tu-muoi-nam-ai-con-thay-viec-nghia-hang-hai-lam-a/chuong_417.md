@@ -4,6 +4,13 @@ title: Chương 417: 80 ức tới tay
 chapter_number: 417
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 417: 80 ức tới tay
+
+Liễu Truyền Sĩ là một cái rất đúng giờ người.
+
+Nói cần hai ngày thời gian trù tiền, liền thật chỉ dùng hai ngày thời gian.
+
+Sáng n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

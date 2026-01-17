@@ -4,6 +4,11 @@ title: Chương 72
 chapter_number: 72
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Họ bỏ chạy với tất cả sức lực của mình.
+
+Những đôi chân đó, được rèn luyện để săn đuổi demon, giờ đang cố hết sức chạy trốn.
+
+1 cảnh tượng không thể tin được...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

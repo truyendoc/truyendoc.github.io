@@ -4,6 +4,9 @@ title: Chương 48: Kiếp trước chân tướng
 chapter_number: 48
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 48: Kiếp trước chân tướng
+
+Sở dĩ nói như vậy, còn muốn đem thời gian quay lại đến ở kiếp trước mười năm trước, trở lại Tào Côn thấy việc nghĩa hăng há...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

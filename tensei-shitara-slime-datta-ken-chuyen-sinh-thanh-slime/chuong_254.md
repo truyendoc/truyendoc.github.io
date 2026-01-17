@@ -4,6 +4,13 @@ title: Chương 254
 chapter_number: 254
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Một năm đã trôi qua sau trận chiến với Yuuki.
+
+Rất nhiều chuyện đã xảy ra trong khoảng thời gian đó.
+
+Thật đấy, không đùa đâu.
+
+Mỗi lần hồi tưởng lại là tôi ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

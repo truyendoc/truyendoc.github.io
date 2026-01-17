@@ -4,6 +4,11 @@ title: Chương 158
 chapter_number: 158
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Thống lĩnh Quân cơ Quân đoàn Calgurio tiến quân trong khí thế ngút trời.
+
+Sau khi thảo luận với các cố vẫn, hắn cho các xe thiết giáp m...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

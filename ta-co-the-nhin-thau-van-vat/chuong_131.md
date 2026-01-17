@@ -4,6 +4,9 @@ title: Chương 131: Tiểu ly ra tay (2)
 chapter_number: 131
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong khoảnh khắc, hai bàn tay của hắn đã hoàn toàn vô dụng.
+Mồ hôi lạnh chảy khắp người đại hán trung niên, trái tim như bị nỗi sợ tột độ siết chặt.
+Hắn chư...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

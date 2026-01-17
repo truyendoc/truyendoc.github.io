@@ -4,6 +4,13 @@ title: Chương 401: Phẫn nộ Vương Nhất Phu
 chapter_number: 401
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 401: Phẫn nộ Vương Nhất Phu
+
+Sở dĩ nói như vậy, là bởi vì Tào Côn trải qua.
+
+Kiếp trước, Tào Côn bị oan uổng vào tù, trong tù ở lại mười năm.
+
+Cho nên...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

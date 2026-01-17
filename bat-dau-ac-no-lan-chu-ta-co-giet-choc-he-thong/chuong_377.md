@@ -4,6 +4,9 @@ title: Chương 377: Ta muốn khiêu chiến ngươi (2)
 chapter_number: 377
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 302: Ta muốn khiêu chiến ngươi (2)
+
+Nghe vậy, Tần nghiệp lại là trong lòng căng thẳng, hắn mặc dù là pháp tướng cửu trọng cường giả, nhưng ở Thẩm Dục ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

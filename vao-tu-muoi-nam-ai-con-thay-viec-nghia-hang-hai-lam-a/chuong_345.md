@@ -4,6 +4,11 @@ title: Chương 345: 2 số 828 phòng tổng thống bị đặt trước đi
 chapter_number: 345
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 345: 2 số 828 phòng tổng thống bị đặt trước đi
+
+Lam Khả Tâm phụ mẫu, khẳng định được cho Hải Thành đời trước kẻ có tiền.
+
+Dù sao, lúc ấy liền có thể c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

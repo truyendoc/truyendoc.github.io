@@ -4,6 +4,9 @@ title: Chương 265: Jesus tới, hắn cũng là nam nhân tốt
 chapter_number: 265
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 265: Jesus tới, hắn cũng là nam nhân tốt
+
+Tại tháng mười một ngày nghỉ bắt đầu, cũng chính là đưa Từ Kiều Kiều đi xe lửa trạm ngày ấy, Tào Côn liền để...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 252
 chapter_number: 252
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Yuuki nhìn thấy khung cảnh đóng băng này và thưởng thức niềm vui mà hắn cảm nhận được trong lòng.
+
+Bây giờ hắn đã mạnh đến mức này rồi, đã rất gần với việc h...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,13 @@ title: Chương 108: đem Thẩm Dục coi như quả hồng mềm
 chapter_number: 108
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 108: đem Thẩm Dục coi như quả hồng mềm
+
+Cùng lúc đó.
+
+Cách Vân Thủy Phủ hơn mười dặm trong một tòa thôn trang trong trạch viện.
+
+Một cái trung niên đạ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

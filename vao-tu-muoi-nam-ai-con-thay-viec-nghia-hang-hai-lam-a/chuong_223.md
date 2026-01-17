@@ -4,6 +4,9 @@ title: Chương 223: Tiêu Văn Tĩnh cùng nữ nhi ân nhân cứu mạng
 chapter_number: 223
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 223: Tiêu Văn Tĩnh cùng nữ nhi ân nhân cứu mạng
+
+Mặc dù Dương Tam Đao không phải quá yên tâm Tiêu Văn Tĩnh tự mình đi tìm Tào Côn, thế nhưng là, hắn c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

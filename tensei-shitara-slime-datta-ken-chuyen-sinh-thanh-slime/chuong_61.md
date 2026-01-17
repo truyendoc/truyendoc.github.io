@@ -4,6 +4,13 @@ title: Chương 61
 chapter_number: 61
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Bên trong phòng học đã yên lặng lại.
+
+Yên lặng đến mức nghe được cả tiếng nuốt nước bọt cái ực.
+
+Ranga ve vẩy đuôi chạy đến chỗ tôi.
+
+“Rồi rồi, mọi người đã ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

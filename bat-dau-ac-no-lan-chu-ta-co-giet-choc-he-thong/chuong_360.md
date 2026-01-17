@@ -4,6 +4,13 @@ title: Chương 360: Gặp lại Tiêu Lâm (1)
 chapter_number: 360
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 294: Gặp lại Tiêu Lâm (1)
+
+Đảo mắt, lại là hai ngày đã qua.
+
+Đi vào Nam Cương đạo người tu hành càng ngày càng nhiều.
+
+Cũng cho nói thành trị an tạo t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

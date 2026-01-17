@@ -4,6 +4,11 @@ title: Chương 19: đưa tang
 chapter_number: 19
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 19 đưa tang
+
+Liên tưởng đến trấn yêu vệ xuất hiện tại Vân Mộc Huyện.
+
+Thẩm Dục đại khái đoán được, cái kia Tiêu Huyền Không t·hi t·hể hơn phân nửa sin...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

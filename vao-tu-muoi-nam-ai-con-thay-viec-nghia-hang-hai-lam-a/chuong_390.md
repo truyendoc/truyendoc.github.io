@@ -4,6 +4,9 @@ title: Chương 390: Ngươi nghe ta
 chapter_number: 390
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 390: Ngươi nghe ta
+
+Làm một trước kia làm b·uôn l·ậu, hiện tại lại hỗn thế lực vũ trang người, Tào Côn bên này để lộ ra tới ý tứ, một chút liền bị Lý ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

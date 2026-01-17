@@ -4,6 +4,11 @@ title: Chương 75
 chapter_number: 75
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Lúc tôi ra lệnh [Raphael] thả Veldora ra, tôi cảm thấy năng lượng như 1 cơn bão điêncuồng trong mình.
+
+1 linh hồn có sức mạnh áp đảo.
+
+“Anh đã trở lại và lợi...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 109
 chapter_number: 109
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Sau các trận vòng loại, ngày đầu tiên của trận chung kết đã kết thúc trong an toàn.
+
+Gabil đã cố gắng hết sức. Với tinh thần bất khuất,...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

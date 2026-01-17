@@ -4,6 +4,9 @@ title: Chương 353: Quả nhiên là Dương Nhật Bố
 chapter_number: 353
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 353: Quả nhiên là Dương Nhật Bố
+
+Nghe được Tào Côn nói, ngành giải trí một cái phi thường có phân lượng lớn diễn viên, muốn vì pp đẹp da sản phẩm làm ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

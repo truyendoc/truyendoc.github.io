@@ -4,6 +4,11 @@ title: Chương 162
 chapter_number: 162
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ---------------------------
+
+Calgurio đã nhận phải quá nhiều báo cáo thảm hại từ thuộc cấp của gã.
+
+Tình hình quá ác nghiệt, cuộc chiến này hoàn toàn thất bạ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

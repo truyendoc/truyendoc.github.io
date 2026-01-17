@@ -4,6 +4,9 @@ title: Chương 372: Không được chọn Cốc Thượng Minh
 chapter_number: 372
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 372: Không được chọn Cốc Thượng Minh
+
+Gặp Tào Côn chỉ là để cho mình phân tích phân tích trong video nữ nhân, Cốc Thượng Minh một chút liền đến tinh t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

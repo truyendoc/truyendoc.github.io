@@ -4,6 +4,9 @@ title: Chương 215: Ta chỉ là một đầu nghe lời chó
 chapter_number: 215
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 215: Ta chỉ là một đầu nghe lời chó
+
+Quán bar cự màn bên trên, cái kia 5 ức nạp tiền tin tức, tựa như là một châm thuốc kích thích, một chút liền đốt ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

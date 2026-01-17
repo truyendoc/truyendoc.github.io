@@ -4,6 +4,9 @@ title: Chương 36
 chapter_number: 36
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sau khi cho Souei đi, tôi ra lệnh cho những người còn lại chuẩn cho chiến tranh.
+
+Tuy thế, cũng chẳng phải là tất cả chúng tôi sẽ đi. Vì năng lực của địch th...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

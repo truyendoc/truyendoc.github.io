@@ -4,6 +4,8 @@ title: Chương 339: Kén máu
 chapter_number: 339
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong tửu quán, có vô số thi thể nằm la liệt, tất cả đều chết trong tình trạng vô cùng thê thảm.
+Tuy gần đây Tiểu Nhan đã nhìn thấy không ít người chết, Lục ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

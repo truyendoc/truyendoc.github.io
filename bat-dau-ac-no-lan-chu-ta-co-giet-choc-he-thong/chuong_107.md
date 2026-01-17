@@ -4,6 +4,13 @@ title: Chương 107: Ngu Tuyết Oánh hoài nghi
 chapter_number: 107
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 107: Ngu Tuyết Oánh hoài nghi
+
+“Những vàng bạc này các ngươi ba nhà phân!”
+
+Thẩm Dục chỉ vào trong rương vàng bạc nói.
+
+Những vật này đều là từ Hắc Lo...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

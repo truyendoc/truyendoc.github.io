@@ -4,6 +4,11 @@ title: Chương 495: Chân ái là cái tâm cơ trà xanh biểu?
 chapter_number: 495
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 495: Chân ái là cái tâm cơ trà xanh biểu?
+
+Nhàn nhã thời gian, luôn luôn qua nhanh chóng.
+
+Bất tri bất giác, buổi chiều thứ hai đếm ngược tiết khóa li...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

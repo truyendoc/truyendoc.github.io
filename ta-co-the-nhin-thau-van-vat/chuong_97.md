@@ -4,6 +4,8 @@ title: Chương 97: Phù văn (2)
 chapter_number: 97
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh chọn “Học tập”, một luồng thông tin và cảm ngộ cuồn cuộn lại tràn ngập trong đầu hắn.
+Và lần này, dòng tri thức ấy mạnh mẽ hơn hẳn những lần tr...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

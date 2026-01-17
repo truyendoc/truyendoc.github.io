@@ -4,6 +4,8 @@ title: Chương 288: Dư chấn (2)
 chapter_number: 288
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi luận bàn chiêu thức với hắn, Lục Thanh nói rằng mình có chút lĩnh ngộ nên muốn bế quan. Ai ngờ lần bế quan này lại kéo dài suốt bảy ngày.
+Lục Thanh v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

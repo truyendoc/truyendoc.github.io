@@ -4,6 +4,8 @@ title: Chương 278: Đào mộ
 chapter_number: 278
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chỉ bằng các ngươi, không xứng biết tên ta.”
+Lục Thanh không dừng lại thêm một khắc nào. Hắn khẽ điểm chân vài lần, thân hình lập tức biến mất giữa rừng cây...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

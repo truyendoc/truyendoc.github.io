@@ -4,6 +4,13 @@ title: Chương 361: Gặp lại Tiêu Lâm (2)
 chapter_number: 361
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 294: Gặp lại Tiêu Lâm (2)
+
+Thậm chí trong đó còn có mấy cái Nguyên Thần cảnh.
+
+Trấn yêu tư thủ đoạn tàn nhẫn, xác thực trấn trụ không ít người.
+
+Khiến...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

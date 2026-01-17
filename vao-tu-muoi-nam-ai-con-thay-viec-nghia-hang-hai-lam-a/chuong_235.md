@@ -4,6 +4,11 @@ title: Chương 235: Mẫu nữ lần nữa đối tuyến, huyết mạch áp c
 chapter_number: 235
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 235: Mẫu nữ lần nữa đối tuyến, huyết mạch áp chế
+
+Đừng nói thầy thuốc, liền liền đi theo Tào Côn cùng đi Bạch Tĩnh, cũng có chút mộng.
+
+Cái này tình h...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

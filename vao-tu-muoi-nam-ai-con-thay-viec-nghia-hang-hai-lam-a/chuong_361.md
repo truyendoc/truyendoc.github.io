@@ -4,6 +4,13 @@ title: Chương 361: Không phải ta chụp lén
 chapter_number: 361
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 361: Không phải ta chụp lén
+
+Hiện tại xảy ra vấn đề chính là Dương Nhật Bố, cũng không phải Tào Côn.
+
+Sợ tin tức tiết lộ cũng là Dương Nhật Bố.
+
+Lại n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

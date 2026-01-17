@@ -4,6 +4,8 @@ title: Chương 190: Chiến đấu
 chapter_number: 190
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lúc này, gần cổng thành, không chỉ có đệ tử của Thanh lam tông mà còn có vô số võ giả đến từ các thế lực lớn nhỏ trong thành.
+Tất cả đều là những cao thủ hàn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

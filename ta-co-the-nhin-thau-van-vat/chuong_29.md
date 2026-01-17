@@ -4,6 +4,9 @@ title: Chương 29: Cơ hội học y chính thức
 chapter_number: 29
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Hả?”
+Lục Thanh nhìn Trần lão đầy kinh ngạc, trong lòng còn hoài nghi không biết mình có nghe nhầm không.
+“Trần lão, người vừa nói… muốn thu con làm đệ tử họ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

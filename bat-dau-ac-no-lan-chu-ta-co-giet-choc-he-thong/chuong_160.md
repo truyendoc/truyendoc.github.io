@@ -4,6 +4,13 @@ title: Chương 160: Thẩm Huy đột phá
 chapter_number: 160
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 160: Thẩm Huy đột phá
+
+Rất nhanh.
+
+Phụ cận yêu thú liền nhận yêu thú dẫn hấp dẫn, đỏ ngầu mắt, liều lĩnh hướng yêu thú dẫn vị trí lao nhanh mà đến.
+
+T...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

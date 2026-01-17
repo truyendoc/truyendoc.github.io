@@ -4,6 +4,10 @@ title: Chương 168: Nhất Tức Côn Pháp
 chapter_number: 168
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Hự!”
+Nghe vậy, Tử An không thể trụ vững nữa, toàn thân run rẩy rồi ngã phịch xuống đất, thở hổn hển.
+Thấy thế, Mã Cố khẽ gật đầu hài lòng.
+Trong mấy ngày qu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 520: Cho Trương đồng chí phong thư thứ hai
 chapter_number: 520
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 520: Cho Trương đồng chí phong thư thứ hai
+
+Nghe được Tào Côn lần này ngôn luận, Trương Bách Mộ tâm tình trong nháy mắt đã khá nhiều.
+
+Nguyên lai, tất...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

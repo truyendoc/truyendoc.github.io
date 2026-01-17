@@ -4,6 +4,9 @@ title: Chương 227
 chapter_number: 227
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Phía sau Venom đang giao chiến với Arios, đám trẻ, cầm đầu là Kenya, cũng đã giương cao vũ khí.
+
+Dẫu vậy, Venom vẫn điềm nhiên tấn công Arios mà chẳng màng đ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

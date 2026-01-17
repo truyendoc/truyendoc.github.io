@@ -4,6 +4,13 @@ title: Chương 167
 chapter_number: 167
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ---------------------------------------
+
+Giờ thì đến nhóm Adalman nào, nốt là xong hội Mê Cung này.
+
+Adalman am hiểu ma pháp, nhưng cận chiến lại cùi bắp.
+
+T...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

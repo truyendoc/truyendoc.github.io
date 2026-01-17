@@ -4,6 +4,11 @@ title: Chương 13: Ngục giam, đại học, nữ nhân
 chapter_number: 13
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 13: Ngục giam, đại học, nữ nhân
+
+Sau đó, Tào Côn cùng Lưu Ngọc Linh lại tại mua nhà sự tình bên trên, hàn huyên một chút chi tiết vấn đề nhỏ.
+
+Mà đợi ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

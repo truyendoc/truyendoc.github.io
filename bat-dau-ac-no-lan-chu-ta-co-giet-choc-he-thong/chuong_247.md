@@ -4,6 +4,13 @@ title: Chương 247: Trên đường gặp sát thủ (2)
 chapter_number: 247
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 237: Trên đường gặp sát thủ (2)
+
+Nhưng Tham Lang các lại không giống, ít nhất phải phái Khí Hải cảnh.
+
+Thậm chí phái Nguyên Đan Cảnh cũng có thể.
+
+Cho...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

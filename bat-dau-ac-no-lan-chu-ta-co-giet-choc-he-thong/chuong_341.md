@@ -4,6 +4,12 @@ title: Chương 341: Tự nhận cao minh mở ra Nguyên Đế (2)
 chapter_number: 341
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 284: Tự nhận cao minh mở ra Nguyên Đế (2)
+
+Bây giờ, hội tụ tại Kinh thành tứ đại ngoài cửa thành nạn dân đã vượt qua ba trăm triệu.
+
+Dù sao mưa tạnh.
+...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

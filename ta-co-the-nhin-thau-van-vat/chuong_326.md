@@ -4,6 +4,8 @@ title: Chương 326: Địa ngục nhân gian (1),Huyết Nhục Luyện Hồn T
 chapter_number: 326
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi lão giả mũi ưng phất lá cờ huyết hồng trong tay, một luồng lực lượng cổ quái lan tràn khắp không gian.
+Nó trực tiếp khiến Tông Chủ Ngân Nguyệt tông cùng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

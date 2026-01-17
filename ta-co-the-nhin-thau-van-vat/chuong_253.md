@@ -4,6 +4,9 @@ title: Chương 253: Địa hành phù
 chapter_number: 253
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đêm đó, Lục Thanh ngồi xếp bằng trên giường.
+Tinh thần tập trung, vẻ mặt trầm tĩnh.
+Hai tay hắn kết một đạo pháp ấn kỳ dị; từ mi tâm khẽ dấy lên từng tầng da...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

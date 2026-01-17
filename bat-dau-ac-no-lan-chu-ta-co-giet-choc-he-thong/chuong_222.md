@@ -4,6 +4,11 @@ title: Chương 222: Nhân Quả Phi Đao tái hiện
 chapter_number: 222
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 222: Nhân Quả Phi Đao tái hiện
+
+Nương theo Thẩm Dục tiếng quát, trong khách sạn tất cả mọi người bị kinh động.
+
+Trên thực tế, đám người kia vẫn đang đ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

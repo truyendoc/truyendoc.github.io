@@ -4,6 +4,9 @@ title: Chương 260: Liễu gia hiệu ăn bạo tạc án cáo phá
 chapter_number: 260
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 260: Liễu gia hiệu ăn bạo tạc án cáo phá
+
+Lưu Hồng trước mấy ngày thời điểm, ngược lại là nghe qua Tào Côn nói qua, muốn cùng Dương Tam Đao lại muốn m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

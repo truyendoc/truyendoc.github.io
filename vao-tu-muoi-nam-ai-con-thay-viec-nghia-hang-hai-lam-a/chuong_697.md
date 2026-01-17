@@ -4,6 +4,11 @@ title: Chương 697: Tận tụy nội gian
 chapter_number: 697
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 697: Tận tụy nội gian
+
+Kỳ thật, Tào Côn biết Tiêu Văn Bân tình huống bên kia.
+
+Mặc dù tại Tiêu Văn Bân bị nàng nàng dâu mãnh liệt yêu cầu đình chỉ trị...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

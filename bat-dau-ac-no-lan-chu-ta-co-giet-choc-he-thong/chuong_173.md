@@ -4,6 +4,13 @@ title: Chương 173: điều lệnh vừa đi vừa về vân thủy
 chapter_number: 173
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 173: điều lệnh vừa đi vừa về vân thủy
+
+Mà tại trong mười ngày này.
+
+Liễu Tâm Xuyên thời gian cũng không dễ vượt qua.
+
+Đầu tiên là tẩu hỏa nhập ma, sau...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

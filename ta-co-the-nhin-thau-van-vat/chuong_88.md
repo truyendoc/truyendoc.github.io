@@ -4,6 +4,9 @@ title: Chương 88: Lời cảm ơn
 chapter_number: 88
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi tiễn Mã Cố rời đi, Lục Thanh nhìn hai quyển bí tịch trong tay, trầm ngâm suy nghĩ.
+Không lâu trước đó, Mã Cố đã đến thăm.
+Ông mang theo một phần chiến lợ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

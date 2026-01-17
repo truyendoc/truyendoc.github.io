@@ -4,6 +4,9 @@ title: Chương 56: Xe lửa khắc ta
 chapter_number: 56
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 56: Xe lửa khắc ta
+
+Bởi vì có Tào Côn tại, mặc dù Bạch Tĩnh cùng Vương San San qua lại nhìn đối phương đều khó chịu, nhưng là, cuối cùng cũng chỉ là n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

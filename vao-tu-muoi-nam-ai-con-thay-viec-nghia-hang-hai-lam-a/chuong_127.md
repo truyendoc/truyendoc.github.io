@@ -4,6 +4,15 @@ title: Chương 127: Gặp quỷ thứ tư ngăn
 chapter_number: 127
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 127: Gặp quỷ thứ tư ngăn
+
+Hoắc!
+
+Ác độc như vậy!
+
+Gặp Lưu Hồng đều phát dạng này thề độc, Tào Côn tự nhiên cũng không thể lại che giấu.
+
+Hắn cười cười...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

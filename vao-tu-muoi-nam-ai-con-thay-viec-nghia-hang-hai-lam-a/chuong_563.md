@@ -4,6 +4,11 @@ title: Chương 563: Thật hoa tâm đại củ cải
 chapter_number: 563
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 563: Thật hoa tâm đại củ cải
+
+Tào Côn liền biết, Khương Mẫn khẳng định vẫn là đối với mình có ý tứ.
+
+Dù sao, hắn kiếp trước đều bị giam trong tù, Khươ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

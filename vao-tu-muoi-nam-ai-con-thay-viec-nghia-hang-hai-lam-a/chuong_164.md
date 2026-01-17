@@ -4,6 +4,13 @@ title: Chương 164: Tịnh thân cao, 153cm
 chapter_number: 164
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 164: Tịnh thân cao, 153cm
+
+Sáu giờ tối!
+
+Đông Phương khách sạn trước, một chiếc xe taxi ngừng lại.
+
+Tào Côn mới từ trong xe ra, liền thấy thân dưới mặ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

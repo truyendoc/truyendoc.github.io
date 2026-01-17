@@ -4,6 +4,9 @@ title: Chương 570: Tiếp tục làm Tào Côn tiền
 chapter_number: 570
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 570: Tiếp tục làm Tào Côn tiền
+
+Th·iếp câu đối xuân cũng không phải cái gì đại nhiệm vụ, Tào Côn cầm tới câu đối xuân về sau, vừa cùng tứ nữ trò chuyệ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

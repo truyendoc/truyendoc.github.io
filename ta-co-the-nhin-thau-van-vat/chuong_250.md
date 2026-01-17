@@ -4,6 +4,9 @@ title: Chương 250: Sinh linh trí
 chapter_number: 250
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Khả năng cảm ứng Thần Hồn của ta đã tăng mạnh.”
+Bên trong Ngọc Động, nơi trận pháp che giấu mọi thứ, Lục Thanh không cảm thấy rõ rệt lắm.
+Nhưng sau khi bước...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

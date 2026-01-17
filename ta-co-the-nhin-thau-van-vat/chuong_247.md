@@ -4,6 +4,10 @@ title: Chương 247: Ăn chực
 chapter_number: 247
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mã Cố chỉ mỉm cười khẽ, ra vẻ thần thần bí bí.
+Lục Thanh: …
+Ngay khi Lục Thanh còn chưa biết nên nói gì, Mã Cố đã tháo thanh trường kiếm bên hông xuống.
+“Đún...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

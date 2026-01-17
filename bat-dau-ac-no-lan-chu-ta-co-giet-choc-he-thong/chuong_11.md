@@ -4,6 +4,11 @@ title: Chương 11: nhập Tây Sơn
 chapter_number: 11
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 11 nhập Tây Sơn
+
+Kiếp trước, bởi vì Thẩm Dục không có biểu hiện ra Ngưng Khí lục trọng tu vi.
+
+Chung Gia cùng Thẩm gia thông gia tự nhiên là không thể...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

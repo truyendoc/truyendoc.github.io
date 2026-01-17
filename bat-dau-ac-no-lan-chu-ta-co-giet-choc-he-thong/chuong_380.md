@@ -4,6 +4,13 @@ title: Chương 380: Xuất phát bí cảnh (1)
 chapter_number: 380
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 304: Xuất phát bí cảnh (1)
+
+“Đúng rồi, còn có Đặng Lăng Giang Uyên cùng Tổng đốc đều dự định đầu nhập vào ngươi!”
+
+Thẩm Dục lại nói.
+
+Tin tức này nhườ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

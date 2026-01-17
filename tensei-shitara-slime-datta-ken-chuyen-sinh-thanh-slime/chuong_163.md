@@ -4,6 +4,13 @@ title: Chương 163
 chapter_number: 163
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------
+
+Cảm nhận được bầu không gian ấm áp nhẹ nhàng đang bao trùm, Calgurio tỉnh dậy.
+
+(Đây, đây là đâu?)
+
+Calgurio đột nhiên không...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

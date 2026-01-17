@@ -4,6 +4,13 @@ title: Chương 14: cùng Chung Nguyên Tình giao dịch
 chapter_number: 14
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 14 cùng Chung Nguyên Tình giao dịch
+
+“Ngươi muốn làm sao giao dịch?”
+
+Thẩm Dục hỏi.
+
+“Chỉ cần trong tương lai một năm, ngươi có thể bảo vệ chúng ta Ch...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

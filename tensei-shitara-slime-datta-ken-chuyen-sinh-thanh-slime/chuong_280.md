@@ -4,6 +4,13 @@ title: Chương 280
 chapter_number: 280
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sau đó.
+
+Các học viên lên tàu mà hội Diablo đã dùng để đến đây, và khởi hành tới vương quốc Ingracia.
+
+Tiếc ghê, cuộc huấn luyện sinh tồn hết mất rồi.
+
+Lapla...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

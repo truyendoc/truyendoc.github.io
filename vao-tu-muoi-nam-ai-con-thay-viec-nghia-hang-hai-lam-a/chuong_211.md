@@ -4,6 +4,13 @@ title: Chương 211: Ở trước mặt đùa giỡn ngươi lão bà
 chapter_number: 211
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 211: Ở trước mặt đùa giỡn ngươi lão bà
+
+Tê. . . .
+
+So với mình đều giải mình?
+
+Nghe được Tào Côn nói ra một câu nói như vậy, Dương Tam Đao trong lòng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

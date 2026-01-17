@@ -4,6 +4,13 @@ title: Chương 58: Lý Linh Nhi Tú cảm giác ưu việt
 chapter_number: 58
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 58 Lý Linh Nhi Tú cảm giác ưu việt
+
+Sáng ngày hôm sau.
+
+Thẩm Dục để ba cái muội muội cùng hai cái nha hoàn tự mình tu luyện.
+
+Hắn thì mang theo Lý Lin...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

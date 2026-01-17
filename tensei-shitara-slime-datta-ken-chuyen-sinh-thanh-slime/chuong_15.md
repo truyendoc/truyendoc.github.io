@@ -4,6 +4,11 @@ title: Chương 15
 chapter_number: 15
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: “Tôi thành thực xin lỗi— — — !!!”
+
+Tôi cúi đầu thật thấp (ít nhất đó là ý định của tôi!).
+
+Chúng tôi đang bị giam giữ trong trạm gác của những người gác cổng...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

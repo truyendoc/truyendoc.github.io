@@ -4,6 +4,9 @@ title: Chương 172: Đại chiến (2)
 chapter_number: 172
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Tại huyện Thương, phủ Ngụy.
+Phủ Ngụy từng oai danh lẫy lừng, người người kính sợ, nay đã biến thành một mảnh hỗn loạn, máu me loang lổ khắp nơi.
+Thi thể nằm ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

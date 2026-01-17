@@ -4,6 +4,8 @@ title: Chương 286: Phản ứng của các phương
 chapter_number: 286
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ta cảm nhận được rồi… cảnh giới đang nới lỏng.”
+Tại Trung Châu, trong một Đại Tông cường thịnh, một trung niên nam tử khoác tử bào đứng trên đỉnh núi, hai m...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

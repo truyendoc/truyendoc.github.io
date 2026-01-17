@@ -4,6 +4,13 @@ title: Chương 220
 chapter_number: 220
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ‘Quá sức hoang đường――’
+
+Ý nghĩ ấy nổi lên từ tận đáy lòng Ma Vương Ruminas Valentine.
+
+Kế hoạch gϊếŧ Dagruel bằng một chiêu mạnh nhất đã đổ bể.
+
+Với quyền n...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

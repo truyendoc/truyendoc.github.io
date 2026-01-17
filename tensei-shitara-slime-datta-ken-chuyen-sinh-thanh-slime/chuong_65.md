@@ -4,6 +4,9 @@ title: Chương 65
 chapter_number: 65
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Khi đã thành công nhờ Tinh linh ngăn chặn sự bạo phát của đám trẻ, tôi cảm thấy nhẹ nhõm và quyết định quay về học viện.
+
+Tôi nói lời từ biệt với Ramiris, và...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

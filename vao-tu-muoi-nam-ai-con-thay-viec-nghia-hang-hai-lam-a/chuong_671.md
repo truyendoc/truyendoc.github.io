@@ -4,6 +4,11 @@ title: Chương 671: Nước ngoài thế lực?
 chapter_number: 671
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 671: Nước ngoài thế lực?
+
+Ba giờ sau!
+
+Phòng tổng thống bên trong, Tào Côn ngậm một cây vừa nhóm lửa mới khói, một bên chỉnh lý quần áo, vừa đi về phí...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

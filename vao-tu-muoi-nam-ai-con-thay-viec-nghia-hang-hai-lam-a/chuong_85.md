@@ -4,6 +4,11 @@ title: Chương 85: Một cái không hiểu chuyện thối đệ đệ
 chapter_number: 85
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 85: Một cái không hiểu chuyện thối đệ đệ
+
+Mặc dù tại trong lời nói, Từ Kiều Kiều đối với Tào Côn xuất hiện, rất mâu thuẫn.
+
+Thế nhưng là, từ khi nhìn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

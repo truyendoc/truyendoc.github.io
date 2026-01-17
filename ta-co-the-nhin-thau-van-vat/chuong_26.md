@@ -4,6 +4,10 @@ title: Chương 26: Tải xuống Kinh Bách Thảo
 chapter_number: 26
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: [Có muốn tải xuống không?]
+Khi dòng chữ ấy hiện lên, Lục Thanh sững người.
+Rồi hắn khẽ mỉm cười.
+Đôi mắt kỳ dị kia của hắn, đúng là thích tạo bất ngờ vào nhữ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

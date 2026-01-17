@@ -4,6 +4,11 @@ title: Chương 2
 chapter_number: 2
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tính đến lúc này. tôi chuyển sinh thành Slime đã được 90 ngày.
+
+Chính xác thì, 90 ngày, 7 giờ, 34 phút và 52 giây.
+
+Vì sao tôi có thể nói chắc như vậy? Đơn g...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

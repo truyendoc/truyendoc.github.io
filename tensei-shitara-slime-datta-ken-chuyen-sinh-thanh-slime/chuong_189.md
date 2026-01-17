@@ -4,6 +4,11 @@ title: Chương 189
 chapter_number: 189
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: --------------------------------------------------
+
+Ngày hắn xuất thế cũng đã lâu lắm rồi.
+
+Từ khi sinh ra đã là một tồn tại tuyệt đối, thừa sức khiến những ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

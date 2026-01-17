@@ -4,6 +4,9 @@ title: Chương 125: Bất ngờ
 chapter_number: 125
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Giọng nói bất ngờ vang lên khiến cả Mã Cố lẫn thiếu niên giáp da đều giật mình.
+Cả hai đều không nhận ra trong khe núi còn có người khác.
+Họ đồng thời quay đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

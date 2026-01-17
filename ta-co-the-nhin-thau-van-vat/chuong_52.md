@@ -4,6 +4,8 @@ title: Chương 52: Đạt được thỏa thuận
 chapter_number: 52
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Nhỏ kia, đừng nói là ngươi nhắm tới hai con cá chạch hoàng kim của ta đấy chứ?”
+Thấy con thú đen cứ nhìn chằm chằm về hướng nhà bếp, Lục Thanh bất giác đưa ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

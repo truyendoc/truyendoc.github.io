@@ -4,6 +4,11 @@ title: Chương 374: Thông Thiên cảnh cũng phải quỳ (1)
 chapter_number: 374
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 301: Thông Thiên cảnh cũng phải quỳ (1)
+
+Trấn yêu trong Ti.
+
+Đặng Lăng đã biết được Thẩm Dục đem Ngô Quốc Ngũ hoàng tử trấn áp quỳ gối trên lôi đài ti...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,13 @@ title: Chương 118
 chapter_number: 118
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Sau khi chỉnh lại dungeon, chúng tôi lại mở cửa.
+
+Cá nhân tôi nghĩ làm theo đề nghị của Masayuki khiến nó quá dễ.
+
+Thế phản ứng của mọi...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

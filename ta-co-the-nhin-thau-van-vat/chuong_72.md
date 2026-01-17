@@ -4,6 +4,8 @@ title: Chương 72: Hắc lang bang
 chapter_number: 72
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Bảy tám tên đại hán lực lưỡng kia, đối mặt với đám dân làng Cửu Lý đang phẫn nộ sục sôi, vẫn ung dung như không, thần sắc nhàn nhã, chẳng thèm coi ai ra gì.
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

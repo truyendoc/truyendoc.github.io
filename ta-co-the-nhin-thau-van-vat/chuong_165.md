@@ -4,6 +4,9 @@ title: Chương 165: Chỗ tạm trú mới
 chapter_number: 165
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lục Thanh huynh, huynh về rồi sao?”
+Khi Lục Thanh quay lại khu chợ, Mã Cố lập tức bước ra đón, gương mặt đầy vẻ kinh ngạc và mừng rỡ.
+Cùng lúc ấy, trái tim ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

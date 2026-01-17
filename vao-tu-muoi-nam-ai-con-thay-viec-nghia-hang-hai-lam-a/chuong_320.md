@@ -4,6 +4,9 @@ title: Chương 320: Diệt trừ Tào Côn
 chapter_number: 320
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 320: Diệt trừ Tào Côn
+
+Theo Tào Côn chiếc này chống đạn bản Phổ Nhĩ Mạn rời đi, toàn bộ địa phương cũng chỉ còn lại có một chút tại thu thập hiện trườ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

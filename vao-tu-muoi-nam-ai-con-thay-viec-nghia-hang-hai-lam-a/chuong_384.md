@@ -4,6 +4,11 @@ title: Chương 384: Chủ động Phan Dĩnh
 chapter_number: 384
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 384: Chủ động Phan Dĩnh
+
+Phan Dĩnh càng nghĩ càng kích động, càng nghĩ càng nhịp tim càng nhanh.
+
+Rốt cục, tại ước mơ sau một lúc, Phan Dĩnh hô hấp có...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

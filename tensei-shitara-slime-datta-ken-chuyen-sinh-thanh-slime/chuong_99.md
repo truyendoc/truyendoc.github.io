@@ -4,6 +4,13 @@ title: Chương 99
 chapter_number: 99
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Thánh Hiệp Sĩ, đã bị đánh bại!
+
+Mỗi quốc gia nằm tiếp giáp với Rừng Jura nhanh chóng nắm bắt được tin tức.
+
+Cũng thật là phi lý khi nghĩ rằng bọn họ c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,8 @@ title: Chương 167: Dạy dỗ
 chapter_number: 167
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh không hề biết rằng sau khi hắn rời đi, Mã Cố đã trở thành sư phụ của Ngụy công tử.
+Trở về nhà, hắn vẫn âm thầm quan sát quanh thôn suốt mấy ngày, k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

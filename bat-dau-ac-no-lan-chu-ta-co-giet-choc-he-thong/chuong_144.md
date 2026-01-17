@@ -4,6 +4,11 @@ title: Chương 144: Yêu tộc phạm án
 chapter_number: 144
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 144: Yêu tộc phạm án
+
+Thậm chí có Ninh gia cao tầng muốn ngấp nghé Ninh Bắc Huyền đạt được cơ duyên.
+
+Cuối cùng dẫn đến Ninh Bắc Huyền mưu phản Ninh g...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

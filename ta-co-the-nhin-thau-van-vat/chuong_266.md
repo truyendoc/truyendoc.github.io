@@ -4,6 +4,9 @@ title: Chương 266: Đao Ý viên mãn
 chapter_number: 266
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong dãy núi sâu, một thung lũng hẻo lánh.
+Lục Thanh và Ngụy Sơn Hải đứng đối diện nhau, trường đao nắm trong tay.
+Dĩ nhiên, binh khí họ dùng chỉ là Bách lu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

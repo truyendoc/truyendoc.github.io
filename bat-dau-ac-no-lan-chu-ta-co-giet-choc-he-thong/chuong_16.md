@@ -4,6 +4,13 @@ title: Chương 16: nửa đường gặp nhau
 chapter_number: 16
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 16 nửa đường gặp nhau
+
+Các loại Thẩm Dục trở lại Thẩm Gia.
+
+Lại phát hiện Thẩm Lâm Thị nha hoàn Tiểu Điệp phía trước tiến viện chờ lấy hắn.
+
+Hiển nhiê...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

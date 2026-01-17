@@ -4,6 +4,13 @@ title: Chương 383: Trên trời rơi xuống thần tài
 chapter_number: 383
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 383: Trên trời rơi xuống thần tài
+
+Mặc dù sở học chuyên nghiệp tiền cảnh rất xa vời.
+
+Mặc dù thật rất muốn rất nhiều rất nhiều tiền.
+
+Bất quá, bởi vì ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

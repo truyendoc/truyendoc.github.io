@@ -4,6 +4,11 @@ title: Chương 347: Ba ba là oan uổng
 chapter_number: 347
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 347: Ba ba là oan uổng
+
+Hai giờ rưỡi xế chiều!
+
+Hải Thành thứ hai ngục giam trước, đợi đến Tào Côn từ trong xe taxi lúc đi ra, Vương San San đã đang c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

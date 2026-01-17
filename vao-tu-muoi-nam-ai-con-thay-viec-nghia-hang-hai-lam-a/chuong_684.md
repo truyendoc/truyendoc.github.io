@@ -4,6 +4,11 @@ title: Chương 684: Mũ thúc thúc tới cửa
 chapter_number: 684
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 684: Mũ thúc thúc tới cửa
+
+Nhìn xem trên màn hình điện thoại di động cái tin tức này, thẳng đến đem nó xem hết, Hạng Nam Nguyệt mới nỉ non mở miệng.
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

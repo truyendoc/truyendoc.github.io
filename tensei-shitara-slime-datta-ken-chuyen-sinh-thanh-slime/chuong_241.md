@@ -4,6 +4,11 @@ title: Chương 241
 chapter_number: 241
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Một tiếng cười vui vẻ vang vọng khắp đại sảnh.
+
+Khi nghe thấy nó, Velgrynd lấy lại bình tĩnh.
+
+Cô không còn cảm thấy lo lắng về cơ thể đang bị kiểm soát và k...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

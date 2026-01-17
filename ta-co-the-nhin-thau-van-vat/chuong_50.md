@@ -4,6 +4,9 @@ title: Chương 50: Bắt được Dị ngư mới
 chapter_number: 50
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trần lão nhìn Lục Thanh như nhìn thấy một báu vật vô giá, trong mắt tràn đầy kích động lẫn kinh ngạc.
+“Sư phụ?”
+Bị ánh nhìn đầy nhiệt độ ấy làm bối rối, Lục ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 210
 chapter_number: 210
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Adalman đứng từ trên lưng Tử long Wenti nhìn xuống.
+
+Wenti đang dùng long hình nguyên bản của mình lượn trên không, rải tử khí khắp xung quanh.
+
+Những ai khô...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

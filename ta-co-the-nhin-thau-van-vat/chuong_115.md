@@ -4,6 +4,8 @@ title: Chương 115: Đột phá
 chapter_number: 115
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Các võ giả trong thành cuối cùng đã hình thành thế giằng co với Ngụy phủ, điều này nằm ngoài dự liệu của Lục Thanh.
+Ban đầu hắn tưởng hai phe sẽ sớm giao chi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

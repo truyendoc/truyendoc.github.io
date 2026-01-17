@@ -4,6 +4,9 @@ title: Chương 356: Nhà ta lão bản muốn gặp ngươi
 chapter_number: 356
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 356: Nhà ta lão bản muốn gặp ngươi
+
+\"Ông trời của ta, mặc dù ta trước đó liền nghe nói qua ngành giải trí rất loạn, nhưng là, ta làm sao cũng không ng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

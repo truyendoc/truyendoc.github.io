@@ -4,6 +4,8 @@ title: Chương 99: Uống địa mạch linh dịch
 chapter_number: 99
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhìn thấy Tiểu Ly biến mất ngay trước mắt, Lục Thanh kinh ngạc tột độ.
+Không chỉ thân thể nó hoàn toàn ẩn đi — mà khí huyết của nó cũng biến mất sạch sẽ, như...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

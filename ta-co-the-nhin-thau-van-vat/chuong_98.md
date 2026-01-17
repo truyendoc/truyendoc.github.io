@@ -4,6 +4,9 @@ title: Chương 98: Tiểu ly biến hình
 chapter_number: 98
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: 【Hắc Dạ Linh Hồ: Linh thú núi sâu, giống cái, tuổi non.】
+【Tốc độ cực nhanh, vuốt sắc có thể nghiền đá, chém vàng.】
+【Tương truyền Hắc Dạ Linh Hồ rất thích cá ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

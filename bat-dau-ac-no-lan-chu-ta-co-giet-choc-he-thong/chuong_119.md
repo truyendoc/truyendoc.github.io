@@ -4,6 +4,15 @@ title: Chương 119: Hắc Bạch Song Sát
 chapter_number: 119
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 119: Hắc Bạch Song Sát
+
+Cùng lúc đó.
+
+Ô Lâm Huyện.
+
+Một tòa phổ thông phú hào trong trạch viện trong mật thất.
+
+Một người mặc Huyền Kim hắc bào nam tử...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 596: Làm giải phẫu tuyển phủ điền hệ
 chapter_number: 596
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 596: Làm giải phẫu tuyển phủ điền hệ
+
+Hai giờ chiều!
+
+Phòng chứa đồ bên trong, Vương San San một bên giải khai trên đầu ghim song đuôi ngựa, một bên d...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

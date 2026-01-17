@@ -4,6 +4,11 @@ title: Chương 228
 chapter_number: 228
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Trận chiến giữa Venom với Arios vẫn tiếp diễn tại quảng trường bên ngoài nhà thờ.
+
+Tình hình của Venom đang rất căng.
+
+Chỉ may mắn thôi là không đủ san bằng ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

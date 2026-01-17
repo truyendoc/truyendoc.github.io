@@ -4,6 +4,13 @@ title: Chương 326: Thẩm Dục trừ tam hại (1)
 chapter_number: 326
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 277: Thẩm Dục trừ tam hại (1)
+
+Bất tri bất giác, thời gian đã bình minh.
+
+Thẩm Dục đưa tiễn Ngao Thanh Sương.
+
+Theo trong miệng nàng, Thẩm Dục hiểu đư...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

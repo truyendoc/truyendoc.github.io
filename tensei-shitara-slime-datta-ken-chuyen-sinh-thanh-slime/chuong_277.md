@@ -4,6 +4,11 @@ title: Chương 277
 chapter_number: 277
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngày hẹn cuối cùng đã đến.
+
+Chúng tôi đã chuẩn bị đầy đủ.
+
+Đến cả Độc Hổ cũng rất phấn khích. Và nếu mọi chuyện đều theo đúng kế hoạch thì chiến thắng hoàn t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

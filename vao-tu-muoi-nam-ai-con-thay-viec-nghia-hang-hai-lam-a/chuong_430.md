@@ -4,6 +4,11 @@ title: Chương 430: Đáng tin nhất khâu xảy ra chuyện
 chapter_number: 430
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 430: Đáng tin nhất khâu xảy ra chuyện
+
+Hai giờ chiều!
+
+Bát Quốc Công quán lầu ba, Tào Côn chuyên môn trước gian phòng, Tiêu Văn Tĩnh dẫn theo bao, trê...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

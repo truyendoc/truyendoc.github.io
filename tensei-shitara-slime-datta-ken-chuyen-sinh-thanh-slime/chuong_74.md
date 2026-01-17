@@ -4,6 +4,11 @@ title: Chương 74
 chapter_number: 74
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chẳng phải việc hồi sinh đã thành công sao? Vậy, hãy lấy tên là “Lễ hội mừng Tempest hồi sinh”.
+
+Và dự định sẽ làm lễ kỉ niệm hàng năm luôn.
+
+Hai ngày đã trô...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

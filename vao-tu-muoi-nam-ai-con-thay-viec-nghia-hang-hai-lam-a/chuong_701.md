@@ -4,6 +4,11 @@ title: Chương 701: Đề nghị dát rơi cha ngươi
 chapter_number: 701
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 701: Đề nghị dát rơi cha ngươi
+
+Tào Côn tự nhiên biết Vương San San ý tứ, chỉ bất quá cùng nàng chỉ đùa một chút mà thôi.
+
+Đơn giản trong vấn đề này v...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

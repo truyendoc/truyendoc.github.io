@@ -4,6 +4,9 @@ title: Chương 548: Thừa dịp tang lễ chạy trốn
 chapter_number: 548
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 548: Thừa dịp tang lễ chạy trốn
+
+Theo thời gian chầm chậm trôi qua, tới tham gia khuôn mặt xinh đẹp còn có nàng ba cái nữ nhi t·ang l·ễ thân bằng hảo ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

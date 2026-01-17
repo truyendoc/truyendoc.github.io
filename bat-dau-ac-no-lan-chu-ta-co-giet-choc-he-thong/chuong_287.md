@@ -4,6 +4,13 @@ title: Chương 287: Hôm nay Âu hoàng (2)
 chapter_number: 287
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 257: Hôm nay Âu hoàng (2)
+
+Hắn đem Minh Vương phủ đều vơ vét không còn gì, đường đường Minh Vương hẳn là có không ít Nguyên thạch a?
+
+Nghĩ tới đây.
+
+T...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

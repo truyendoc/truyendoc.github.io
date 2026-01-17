@@ -4,6 +4,11 @@ title: Chương 112: Hắn thật đúng là đủ chó
 chapter_number: 112
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 112: Hắn thật đúng là đủ chó
+
+Vậy mà thật là hắn!
+
+Lưu Hồng mang theo khẩu trang, đứng tại cách đó không xa kinh ngạc nhìn cái này nam nhân, cảm giác ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

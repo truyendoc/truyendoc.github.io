@@ -4,6 +4,9 @@ title: Chương 236
 chapter_number: 236
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Dino và Zegion. Hai người họ đang bình tĩnh chống lại \"Tà Nộ Long\" Zero và đẩy lùi các đòn tấn công của hắn.
+
+Mục tiêu của họ là thoát khỏi Mê Cung, nói cách...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

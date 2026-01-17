@@ -4,6 +4,11 @@ title: Chương 183: Đã bỏ lỡ tốt nhất trị liệu thời gian
 chapter_number: 183
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 183: Đã bỏ lỡ tốt nhất trị liệu thời gian
+
+Hai giờ chiều!
+
+Trịnh thành phố sân bay trên đường chạy, một khung thẳng tới Hải Thành máy bay tốc độ càng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

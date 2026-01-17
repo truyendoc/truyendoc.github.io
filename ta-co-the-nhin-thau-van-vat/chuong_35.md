@@ -4,6 +4,10 @@ title: Chương 35: Nồi sắt
 chapter_number: 35
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong gian bếp nhà họ Lục,
+Lục Thanh đang nhóm lửa, trên bếp là chiếc nồi sắt lớn mới tinh.
+Ban đầu hắn định đợi tối xuống mới lén mang nồi về,
+nhưng nghĩ lạ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

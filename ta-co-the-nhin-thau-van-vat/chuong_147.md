@@ -4,6 +4,10 @@ title: Chương 147: Tiên thiên
 chapter_number: 147
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ Trần!”
+Sáng sớm, trước Tiểu Viện Bán Sơn.
+Lục Thanh dắt tay tiểu Nhan, tiểu Ly đứng trên vai, cùng nhau đi từ chân núi lên.
+Thấy Trần lão y đang luyệ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

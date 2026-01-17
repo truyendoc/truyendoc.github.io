@@ -4,6 +4,13 @@ title: Chương 185: đồ ăn có độc
 chapter_number: 185
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 185: đồ ăn có độc
+
+Thẩm Dục cũng cảm nhận được hai người ánh mắt.
+
+Bất quá hắn không khẩn trương chút nào, ngược lại xông hai người cười cười.
+
+Thẩm D...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

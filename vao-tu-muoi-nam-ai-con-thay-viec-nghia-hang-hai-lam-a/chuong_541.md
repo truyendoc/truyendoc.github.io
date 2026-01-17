@@ -4,6 +4,13 @@ title: Chương 541: Chó so thân thích
 chapter_number: 541
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 541: Chó so thân thích
+
+Nghe được Lý Song Nhi nói như vậy, Tào Côn một chút liền ha ha nở nụ cười.
+
+Tốt một cái tế thủy trường lưu!
+
+Hắn không nghĩ tớ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

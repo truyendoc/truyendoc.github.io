@@ -4,6 +4,11 @@ title: Chương 223: Sở Vương
 chapter_number: 223
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 223: Sở Vương
+
+Cảm nhận được Thẩm Dục phóng thích ra Nguyên Đan Cảnh khí tức.
+
+Ngu Tuyết Oánh cảm xúc rất là phức tạp, có chút u oán nói “Thẩm Dục a, ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

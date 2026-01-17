@@ -4,6 +4,13 @@ title: Chương 44
 chapter_number: 44
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngày Liên minh được thành lập sẽ trở thành ngày đáng nhớ cho tất cả các Ma vật.
+
+Bởi vì từng người từng người đều được nhận tên.
+
+Đùa thôi.
+
+Nghe thì ‘đã’ lắ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

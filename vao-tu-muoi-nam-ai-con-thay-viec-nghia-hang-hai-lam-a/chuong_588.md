@@ -4,6 +4,9 @@ title: Chương 588: Ranh giới cuối cùng, 120 vạn
 chapter_number: 588
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 588: Ranh giới cuối cùng, 120 vạn
+
+Ngốc Cẩu nói rất trực tiếp, cũng rất không khách khí, để nguyên bản còn muốn muốn há mồm phản bác Lưu Kim soái, một...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

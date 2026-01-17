@@ -4,6 +4,11 @@ title: Chương 349: Phòng cho thuê muốn tới thành viên mới
 chapter_number: 349
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 349: Phòng cho thuê muốn tới thành viên mới
+
+Vương San San là cái dạng gì kỹ nữ, Tào Côn đã sớm biết.
+
+Cho nên, đối với nàng lần này đại hiếu nữ ngôn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

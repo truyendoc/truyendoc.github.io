@@ -4,6 +4,13 @@ title: Chương 27: Ma Vân Giáo
 chapter_number: 27
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 27 Ma Vân Giáo
+
+Đêm đó.
+
+Trong Thẩm gia viện, trong phòng luyện công.
+
+Thẩm Dục cầm trong tay chân thủy chín kiếm, ngay tại diễn luyện vô danh kiếm qu...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

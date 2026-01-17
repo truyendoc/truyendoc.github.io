@@ -4,6 +4,8 @@ title: Chương 195: Vào thành
 chapter_number: 195
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không lâu trước đó, cách cổng thành một đoạn, trên tường thành—
+Chính tại nơi ấy, có hai người đang âm thầm quan sát tình hình phía cổng thành. Đó là Ngụy Sơ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

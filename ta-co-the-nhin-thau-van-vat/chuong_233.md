@@ -4,6 +4,8 @@ title: Chương 233: Ra Đi
 chapter_number: 233
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lục đại phu, Trần lão y, thật sự các người định rời đi sao?”
+Trong phủ Ngụy, Ngụy Tử An nghe tin Lục Thanh cùng nhóm dự định ra đi liền vội chạy tới Hữu Trú...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

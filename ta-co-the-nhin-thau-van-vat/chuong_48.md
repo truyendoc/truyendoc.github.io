@@ -4,6 +4,9 @@ title: Chương 48: Nhân sâm (2)
 chapter_number: 48
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhân sâm trăm năm!
+Khi đọc xong dòng thông tin hiện lên trong tầm nhìn siêu năng, Lục Thanh không khỏi kinh hãi.
+Thì ra thứ rễ cây trong tay cậu chính là nhâ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

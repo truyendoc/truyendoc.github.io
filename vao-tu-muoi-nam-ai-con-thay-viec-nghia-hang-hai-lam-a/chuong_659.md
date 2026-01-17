@@ -4,6 +4,9 @@ title: Chương 659: Đêm nay thật không tiện
 chapter_number: 659
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 659: Đêm nay thật không tiện
+
+Theo Tào Côn cuối cùng câu này vì cái gì vừa ra khỏi miệng, Dương Ngọc Đình cũng không còn cách nào bảo trì hiện tại trấ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

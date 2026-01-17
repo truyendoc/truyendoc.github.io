@@ -4,6 +4,11 @@ title: Chương 646: Ngành nghề long đầu tới
 chapter_number: 646
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 646: Ngành nghề long đầu tới
+
+Không bao lâu, Bàng Hồng Na đi theo Vương Phượng Quyên đi tới khách sạn lầu hai phòng.
+
+Lúc đầu Bàng Hồng Na coi là, chỉ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

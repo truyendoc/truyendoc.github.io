@@ -4,6 +4,9 @@ title: Chương 144: Sư phụ đột phá
 chapter_number: 144
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Như ngươi nói, chưa bao lâu sau khi tách khỏi Tam sư huynh, đã có người dễ dàng giết bọn họ.”
+“Rõ ràng, kẻ ra tay phải mạnh hơn Tam sư huynh rất nhiều.”
+Thi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

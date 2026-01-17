@@ -4,6 +4,11 @@ title: Chương 222
 chapter_number: 222
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Thần hủy diệt, Dagruel và Vua bão tố, Veldora.
+
+Điểm tương đồng về sức mạnh giữa hai bên chính là, sấm sét.
+
+Bằng quyền năng siêu việt của mình, Dagruel có t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

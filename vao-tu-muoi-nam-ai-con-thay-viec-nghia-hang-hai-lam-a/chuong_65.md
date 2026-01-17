@@ -4,6 +4,13 @@ title: Chương 65: Hôn ta một cái
 chapter_number: 65
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 65: Hôn ta một cái
+
+Không sai!
+
+Ở kiếp trước thời điểm, Chu Cường chính là c·hết tại trong tay Tào Côn!
+
+Cũng không phải Tào Côn chủ động g·iết hắn, m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

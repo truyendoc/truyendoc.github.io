@@ -4,6 +4,9 @@ title: Chương 504: Phản đồ Trương Khiết xuất động
 chapter_number: 504
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 504: Phản đồ Trương Khiết xuất động
+
+Trong hành lang, Tào Côn đưa mắt nhìn Bạch Tĩnh ngồi thang máy đi trên lầu, lập tức liền rời đi khách sạn, đi Bát...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

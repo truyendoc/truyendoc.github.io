@@ -4,6 +4,11 @@ title: Chương 680: 30 ức, đô la mỹ!
 chapter_number: 680
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 680: 30 ức, đô la mỹ!
+
+Áo Uy quốc tế người đến.
+
+Mã Vũ Thiến rời phòng làm việc không bao lâu, Tào Côn ngay tại phía trước cửa sổ thấy được hai chiếc ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

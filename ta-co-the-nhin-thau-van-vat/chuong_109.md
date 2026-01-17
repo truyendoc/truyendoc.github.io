@@ -4,6 +4,8 @@ title: Chương 109: Khí huyết viên mãn
 chapter_number: 109
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Hai loại di sản mà hắn nhận được tuy không trực tiếp nâng cao thực lực, nhưng lại mở rộng tầm mắt của hắn vô cùng.
+Chúng mang đến cho Lục Thanh một nhận thức...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

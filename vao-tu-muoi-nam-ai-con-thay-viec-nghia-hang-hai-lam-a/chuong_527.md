@@ -4,6 +4,9 @@ title: Chương 527: Tử hình lập tức chấp hành
 chapter_number: 527
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 527: Tử hình lập tức chấp hành
+
+Liên quan tới đi Hạ huyện câu dẫn Lý Tố Linh vấn đề này, Lưu Kim Thành cuối cùng lại cùng Tào Côn tham khảo một hồi ch...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

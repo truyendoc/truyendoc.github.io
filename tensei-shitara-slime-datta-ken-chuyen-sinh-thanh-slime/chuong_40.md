@@ -4,6 +4,9 @@ title: Chương 40
 chapter_number: 40
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Gã… đàn ông mặc đồ hề đó ở đâu nhảy đến, mà lại hò hét cái gì như kế hoạch bị thất bại.
+
+Tôi, Ping! hiểu rồi. Tên này chính là tội phạm. Không nhầm lẫn gì nữ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

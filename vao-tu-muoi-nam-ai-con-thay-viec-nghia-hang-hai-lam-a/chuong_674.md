@@ -4,6 +4,11 @@ title: Chương 674: Thế giới y dược cự đầu tới
 chapter_number: 674
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 674: Thế giới y dược cự đầu tới
+
+Lúc đầu Bàng Hồng Na còn muốn lấy cho Tiêu Văn Bân quyên ít tiền đâu.
+
+Dù sao, cùng một chỗ công tác nhiều năm như vậ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

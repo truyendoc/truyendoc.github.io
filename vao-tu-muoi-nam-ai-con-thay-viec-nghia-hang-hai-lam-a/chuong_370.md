@@ -4,6 +4,11 @@ title: Chương 370: Huấn chó sư Cốc Thượng Minh
 chapter_number: 370
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 370: Huấn chó sư Cốc Thượng Minh
+
+Một giờ chiều!
+
+Hải Thành Thành Tây, đều đã xem như biên giới thành thị khu vực, Ngốc Cẩu mở ra Tào Côn chiếc kia ch...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

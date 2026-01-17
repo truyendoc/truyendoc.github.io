@@ -4,6 +4,15 @@ title: Chương 254: Một lần cuối cùng tụ hội
 chapter_number: 254
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 254: Một lần cuối cùng tụ hội
+
+\"Đại ca!\"
+
+\"Đại ca!\"
+
+\"Đại ca!\"
+
+Theo cửa phòng mở ra, Dương Tam Đao mới từ bên trong đi tới, từng tiếng đại ca, ngay t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 27: Người ngã sông tỉnh lại
 chapter_number: 27
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ta… đang ở đâu vậy?”
+Lão Triệu mở mắt, ngơ ngác nhìn quanh rồi hỏi.
+“Lão Triệu, ông quên rồi à? Ông ngã xuống sông, suýt chết đuối, may mà bọn tôi kéo lên k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

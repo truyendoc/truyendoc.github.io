@@ -4,6 +4,11 @@ title: Chương 134
 chapter_number: 134
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Tối Thượng Năng 『Cường Dục Vương Mammon』có năng lực chuyên để cướp đoạt.
+
+Đúng như mong đợi, nhân cách méo mó nhất được ban cho năng lự...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

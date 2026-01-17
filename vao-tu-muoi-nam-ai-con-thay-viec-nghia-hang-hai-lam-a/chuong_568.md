@@ -4,6 +4,11 @@ title: Chương 568: Người ngốc nhiều tiền
 chapter_number: 568
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 568: Người ngốc nhiều tiền
+
+Điện thoại đối diện, Lưu Kim Thành tại nghe xong Tào Côn lần này về sau, hô hấp đều tùy theo trở nên dồn dập.
+
+Mặc dù hắn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

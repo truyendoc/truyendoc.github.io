@@ -4,6 +4,11 @@ title: Chương 121
 chapter_number: 121
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Hinata trở lại sau cuộc tấn công Tempest - sau này được gọi với cái tên \"Cuộc nổi loạn của chỉ huy thánh kỵ sĩ\" - hoàn toàn thảm bại.
+
+...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

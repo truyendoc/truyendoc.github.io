@@ -4,6 +4,8 @@ title: Chương 5: Mẻ cá đầu tiên
 chapter_number: 5
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh đến chỗ câu, dùng chân giẫm phẳng đám cỏ rậm ven sông, rồi nhặt lại cho vào thùng gỗ. Sau đó, hắn lấy ống tre đựng giun đất ra.
+Hắn gỡ lớp bùn bịt ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

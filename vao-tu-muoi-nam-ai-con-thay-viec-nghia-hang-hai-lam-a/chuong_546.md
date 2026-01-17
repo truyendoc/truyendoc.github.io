@@ -4,6 +4,13 @@ title: Chương 546: Năm trước một lần cuối cùng tang lễ
 chapter_number: 546
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 546: Năm trước một lần cuối cùng tang lễ
+
+Dù sao, thời gian là thật không nhiều lắm.
+
+Hôm nay đã là số 25.
+
+Số 26 hắn muốn đi đảm nhiệm Trương Bách Mộ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

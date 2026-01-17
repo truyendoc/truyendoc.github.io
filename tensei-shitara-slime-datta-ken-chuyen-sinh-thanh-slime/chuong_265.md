@@ -4,6 +4,11 @@ title: Chương 265
 chapter_number: 265
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Diablo và Souei được dẫn đến phòng hiệu trưởng.
+
+Diablo chìm vào suy tư, đến mức còn chẳng thèm liếc người đã dẫn đường cho họ lấy một cái.
+
+Anh hiểu rõ lý l...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

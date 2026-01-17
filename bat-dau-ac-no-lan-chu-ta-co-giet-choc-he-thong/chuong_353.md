@@ -4,6 +4,11 @@ title: Chương 353: Lục Loan Loan thăm dò (2)
 chapter_number: 353
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 290: Lục Loan Loan thăm dò (2)
+
+Thời gian nhoáng một cái mấy ngày.
+
+Thẩm Dục bổ nhiệm cũng xuống, sau đó hắn trực tiếp tiến về trấn yêu tư tiền nhiệm....
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

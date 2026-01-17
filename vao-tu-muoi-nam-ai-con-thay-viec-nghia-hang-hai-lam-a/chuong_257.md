@@ -4,6 +4,11 @@ title: Chương 257: Cái này an bài không hợp lý a
 chapter_number: 257
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 257: Cái này an bài không hợp lý a
+
+\"Nhan sắc ngược lại là rất đẹp, nhưng là uống, giống như cũng không có tốt như vậy uống.\"
+
+Quầy rượu trong quầy ba...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

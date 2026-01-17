@@ -4,6 +4,9 @@ title: Chương 614: Dùng Dương Bình đánh ổ
 chapter_number: 614
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 614: Dùng Dương Bình đánh ổ
+
+Không biết có phải hay không là tu luyện quyển kia vô danh trên sách nội dung đưa đến, Tào Côn trên người có một loại bị ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

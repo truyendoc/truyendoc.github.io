@@ -4,6 +4,10 @@ title: Chương 170: 9000 vạn, không bán cũng phải bán
 chapter_number: 170
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 170: 9000 vạn, không bán cũng phải bán
+
+Tào Côn lời nói này, tựa như là một khối vô hình Đại Thạch Đầu, đem Tư Đồ Oánh Oánh ép có chút thở không nổi.
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

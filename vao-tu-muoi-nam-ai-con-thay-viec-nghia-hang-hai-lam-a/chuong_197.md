@@ -4,6 +4,11 @@ title: Chương 197: Người mất tích trở về
 chapter_number: 197
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 197: Người mất tích trở về
+
+Châu Á đại dương ngựa cái tên hiệu này, là Tào Côn đầu tuần sáu lúc buổi tối, cho Cao Đình Đình lên.
+
+Đầu tuần sáu ban đêm...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

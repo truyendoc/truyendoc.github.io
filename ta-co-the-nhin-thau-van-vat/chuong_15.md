@@ -4,6 +4,9 @@ title: Chương 15: Cần mới, bãi câu mới
 chapter_number: 15
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh khẽ vung cần, khuôn mặt đầy vẻ tự hào.
+Tuy được làm vội, nhưng chất lượng của cần câu mới quả thật không tồi chút nào.
+Trong mắt hắn lúc này, cần c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

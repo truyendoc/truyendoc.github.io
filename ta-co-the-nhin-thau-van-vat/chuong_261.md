@@ -4,6 +4,7 @@ title: Chương 261: Cuồng Loạn (2)
 chapter_number: 261
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trịnh lão thái biết tin liền hóa điên, lập tức đuổi theo kẻ sát nhân. Bà truy đuổi tên đó hơn ba trăm dặm, rồi dùng một chiêu liều mạng đồng quy vu tận, cuối...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 64: Xe lửa gặp bạn tù
 chapter_number: 64
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 64: Xe lửa gặp bạn tù
+
+Rốt cục, theo xe lửa chuyến xuất phát thời gian từng bước một tới gần.
+
+Tào Côn đứng tại xe lửa trạm bên ngoài cùng Bạch Tĩnh c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

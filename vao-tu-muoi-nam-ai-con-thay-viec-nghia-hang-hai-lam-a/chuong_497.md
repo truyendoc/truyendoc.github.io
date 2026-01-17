@@ -4,6 +4,13 @@ title: Chương 497: Hắn thích chính là mẹ ta
 chapter_number: 497
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 497: Hắn thích chính là mẹ ta
+
+Hả?
+
+Nơi này cùng Khải thúc điều tra có xuất nhập a!
+
+Nghe được Vương San San nói, mình cao trung ba năm đều không ai t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

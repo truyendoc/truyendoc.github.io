@@ -4,6 +4,9 @@ title: Chương 209: Đế Vương quán bar bị phong
 chapter_number: 209
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 209: Đế Vương quán bar bị phong
+
+Tào Côn miệng thảo luận lão bằng hữu không phải người khác, chính là Hải Thành lớn lưu manh một trong, kiếp trước hắn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

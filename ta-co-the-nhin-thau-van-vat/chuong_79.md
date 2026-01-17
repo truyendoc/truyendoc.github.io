@@ -4,6 +4,7 @@ title: Chương 79: Làng Hỉ lạc (4)
 chapter_number: 79
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Dì Giao, nhốt bọn chúng thế này có khi chết đói mất thôi. Đám cô nương này tốn không ít bạc để mua về, nếu chết một người, mấy vị chủ trên kia chắc chắn khô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

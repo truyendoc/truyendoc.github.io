@@ -4,6 +4,10 @@ title: Chương 120: Mã cố xui xẻo (2)
 chapter_number: 120
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mã Cố – người trước giờ luôn tỏ ra thật thà – nghe vậy thì tim đập thình thịch.
+Hắn cố nặn ra một nụ cười:
+“Ngài muốn tôi… giúp chuyện gì?”
+Vệ trưởng Phan nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

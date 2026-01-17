@@ -4,6 +4,11 @@ title: Chương 291: Điều (2)
 chapter_number: 291
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 259: Điều (2)
+
+Ngựa gây nên cùng vội vàng khuyên: “Điện hạ, vô dụng, chỉ cần Nhị hoàng tử không thừa nhận, ngươi liền không làm gì được hắn.
+
+Thậm chí...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

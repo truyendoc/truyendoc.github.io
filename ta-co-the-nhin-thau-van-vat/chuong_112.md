@@ -4,6 +4,8 @@ title: Chương 112: Tiểu thiên (2)
 chapter_number: 112
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhát đao bất ngờ của Lục Thanh khiến Tiểu Thiên hoàn toàn không kịp phản ứng.
+Hắn chưa bao giờ nghĩ rằng Lục Thanh lại đột nhiên ra tay với sát ý nặng nề như...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

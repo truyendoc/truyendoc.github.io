@@ -4,6 +4,11 @@ title: Chương 125
 chapter_number: 125
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Khi Nicholas bình tĩnh lại, phần còn lại của câu truyện đã được sáng tỏ.
+
+Fritz lấy lại bình tĩnh và giải thích chi tiết những việc đã ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

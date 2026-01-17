@@ -4,6 +4,13 @@ title: Chương 129: 50 vạn thêm mười muộn
 chapter_number: 129
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 129: 50 vạn thêm mười muộn
+
+Trong quán cà phê.
+
+Nghe xong Tào Côn một trận này tính toán, ngồi đối diện hắn Tôn Phỉ Phỉ, đỏ ngầu cả mắt.
+
+Nàng nghiến ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

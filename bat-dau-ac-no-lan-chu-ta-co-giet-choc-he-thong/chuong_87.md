@@ -4,6 +4,13 @@ title: Chương 87: tầm bảo
 chapter_number: 87
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 87 tầm bảo
+
+Chiều hôm ấy, Thẩm Gia.
+
+Thẩm Dục đột nhiên trở nên có chút không có việc gì đứng lên.
+
+Đột nhiên, trong lòng của hắn khẽ động: “Không bằn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

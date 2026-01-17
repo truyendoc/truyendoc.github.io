@@ -4,6 +4,11 @@ title: Chương 435: Cùng ta phản loạn các ngươi Trương gia a
 chapter_number: 435
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 435: Cùng ta phản loạn các ngươi Trương gia a
+
+Theo trong đầu ý nghĩ này toát ra, Tào Côn càng nghĩ càng thấy đến có thể thực hiện!
+
+Mặc dù hắn đối Hả...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

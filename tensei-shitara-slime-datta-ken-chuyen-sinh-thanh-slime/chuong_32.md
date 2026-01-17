@@ -4,6 +4,13 @@ title: Chương 32
 chapter_number: 32
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Giờ, sau khi tên ngốc rời đi, chúng tôi thực hiện ngay.
+
+Ngay lúc ấy, Souei cũng vừa mới đi trinh sát trở về.
+
+Thật tốt quá.
+
+Tôi tập trung mọi người lại, và...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

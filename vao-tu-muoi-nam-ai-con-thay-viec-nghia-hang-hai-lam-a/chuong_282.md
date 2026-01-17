@@ -4,6 +4,9 @@ title: Chương 282: Hôm nay đi nhà ngươi uống rượu
 chapter_number: 282
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 282: Hôm nay đi nhà ngươi uống rượu
+
+Không nghĩ tới, vậy mà tại nơi này gặp Lam Khả Tâm, Tào Côn cũng cười tủm tỉm đưa tay cùng nàng giữ tại cùng một ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

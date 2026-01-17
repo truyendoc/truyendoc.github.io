@@ -4,6 +4,13 @@ title: Chương 61: Thần Liên Đạo
 chapter_number: 61
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 61 Thần Liên Đạo
+
+Tại tửu lâu ăn xong cơm tối.
+
+Thẩm Dục liền mang theo chúng nữ trở về Thẩm Gia.
+
+“Hôm nay cảm giác thế nào, có muốn hay không lần sa...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

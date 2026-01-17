@@ -4,6 +4,11 @@ title: Chương 13
 chapter_number: 13
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Như Rigurdo đã tuyên bố, việc chuẩn bị hoàn tất vào giữa trưa.
+
+Việc chọn những người sẽ đi đến Vương quốc Dwarf cũng ổn thỏa.
+
+Con trai của Rigurdo, Rigur, ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

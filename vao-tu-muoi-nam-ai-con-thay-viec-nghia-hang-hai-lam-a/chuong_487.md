@@ -4,6 +4,9 @@ title: Chương 487: Là cái người sói
 chapter_number: 487
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 487: Là cái người sói
+
+Tào Côn nhìn chằm chằm Dương Dung Dung mặt đánh giá như vậy một chút, sau đó liền hướng về phía một bên ghế sô pha ra hiệu một ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

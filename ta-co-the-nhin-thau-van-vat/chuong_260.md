@@ -4,6 +4,9 @@ title: Chương 260: Cuồng Loạn
 chapter_number: 260
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Còn nữa, ta muốn ngươi dùng mọi thủ đoạn có thể để tìm ra kẻ đã g**t ch*t Nghiêu nhi.”
+“Không băm thây hắn vạn đoạn, ta thề không bỏ qua!”
+Lão thái quân ngh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

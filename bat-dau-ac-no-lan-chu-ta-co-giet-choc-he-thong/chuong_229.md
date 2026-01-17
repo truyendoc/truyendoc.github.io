@@ -4,6 +4,11 @@ title: Chương 229: Mạnh mời (2)
 chapter_number: 229
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 228: Mạnh mời (2)
+
+Hơn nữa, Ngu Tuyết Oánh năm cái bằng hữu cũng không có đem Thẩm Dục làm ngoại nhân.
+
+Quen thuộc về sau, bầu không khí thì càng hòa ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

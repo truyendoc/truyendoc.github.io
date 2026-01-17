@@ -4,6 +4,11 @@ title: Chương 299: Quyển nhật ký bên trong chân tướng
 chapter_number: 299
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 299: Quyển nhật ký bên trong chân tướng
+
+Laptop rất dày, rất lớn.
+
+Nhưng là, bởi vì bên trong ghi chép chỉ là Cẩu Thiên Hạo cá nhân viết nhật ký, cho ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

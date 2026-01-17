@@ -4,6 +4,9 @@ title: Chương 359: Thái Thượng Hoàng đến (2)
 chapter_number: 359
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 293: Thái Thượng Hoàng đến (2)
+
+Cũng không thấy Ngao Thanh Sương cùng Thẩm Dục có bất kỳ động tác, liền xua tán đi một cái pháp tướng cảnh thất trọng ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

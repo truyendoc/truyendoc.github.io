@@ -4,6 +4,11 @@ title: Chương 231: Lại đồ ăn nghiện lại lớn
 chapter_number: 231
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 231: Lại đồ ăn nghiện lại lớn
+
+Thời gian nhoáng một cái, đảo mắt liền đi tới tám giờ rưỡi đêm!
+
+Cho tới giờ khắc này, ngủ một giấc sáu giờ Dương Tam Đ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

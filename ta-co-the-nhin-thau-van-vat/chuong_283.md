@@ -4,6 +4,10 @@ title: Chương 283: Địa linh châu
 chapter_number: 283
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đây là gì vậy?”
+Trong mật thất, vật phẩm không nhiều, chỉ có mấy giá gỗ đơn sơ.
+Trên đó đặt binh khí, linh dược, thư tịch, cùng các loại bình bình lọ lọ.
+Nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

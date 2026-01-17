@@ -4,6 +4,9 @@ title: Chương 245
 chapter_number: 245
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngay cả khi họ chỉ là người giả, nhưng Damrada và Kondou đều vô cùng bình tĩnh - họ thậm chí còn không nhíu mày.
+
+Họ nhìn Ultima và Carrera mà không để cho c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

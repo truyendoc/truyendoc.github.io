@@ -4,6 +4,12 @@ title: Chương 308: Hủy diệt Nam Man Vu tộc (1)
 chapter_number: 308
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 268: Hủy diệt Nam Man Vu tộc (1)
+
+Lách mình rời đi toà này động quật.
+
+Thẩm Dục đứng ở một gốc cổ thụ phía trên, nhìn lấp lóe đèn đuốc Vu Tộc bộ lạc.
+...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 123: về vân thủy phủ
 chapter_number: 123
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 123: về vân thủy phủ
+
+Sau đó, Thẩm Dục ở trong bí cảnh đào cái hố to, đem trong nhẫn trữ vật t·hi t·hể ném vào hố to vùi lấp sau.
+
+Liền mang theo thớt...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 198
 chapter_number: 198
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: --------------------------------------------------------
+
+Ngày hôm đó, thông báo phát động chiến tranh được gửi ra toàn thế giới.
+
+Một hình ảnh khổng lồ hiện...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

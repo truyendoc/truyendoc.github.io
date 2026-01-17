@@ -4,6 +4,9 @@ title: Chương 18: Cá chép Huyết Nguyệt
 chapter_number: 18
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cú giật mạnh đến bất ngờ khiến Lục Thanh suýt đánh rơi cần.
+May mà nhiều năm kinh nghiệm giúp hắn phản ứng kịp:
+trong nháy mắt, hai tay đã siết chặt cần, thâ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,9 @@ title: Chương 363: Phục khắc kiếp trước quảng cáo
 chapter_number: 363
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 363: Phục khắc kiếp trước quảng cáo
+
+Gặp Tào Côn bên này nói, vẫn luôn là chút lông gà vỏ tỏi việc nhỏ, Dương Nhật Bố dứt khoát cũng không còn quanh c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

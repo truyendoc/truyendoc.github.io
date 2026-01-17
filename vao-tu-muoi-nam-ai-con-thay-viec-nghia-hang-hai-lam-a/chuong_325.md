@@ -4,6 +4,11 @@ title: Chương 325: Nam nghiệm tư, nữ nghiệm mặt
 chapter_number: 325
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 325: Nam nghiệm tư, nữ nghiệm mặt
+
+Nhìn xem Lưu Hồng nói đến đây, cái kia đã hưng phấn lại thấp thỏm bộ dáng, Tào Côn đều muốn cười.
+
+Hắn uống một ngụ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

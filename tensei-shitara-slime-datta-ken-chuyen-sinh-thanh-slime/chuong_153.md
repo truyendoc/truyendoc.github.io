@@ -4,6 +4,9 @@ title: Chương 153
 chapter_number: 153
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------------------------
+
+Chà, tôi đã nghe chi tiết từ nhóm mới đến đây hôm bữa của Gadra-jiisan và Shinji, và chắc chắn là Đế Quốc ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,13 @@ title: Chương 17
 chapter_number: 17
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Bình minh ngày hôm sau.
+
+Tất cả chúng tôi tập trung lại phòng làm việc.
+
+Hôm qua, chúng tôi đã mượn một phòng trống cho các thợ học việc để nghỉ ngơi.
+
+Khi c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 105: Hắc Long Bang đột kích
 chapter_number: 105
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 105: Hắc Long Bang đột kích
+
+Thời gian đảo mắt liền tới sáng sớm ngày thứ hai.
+
+Tối hôm qua tương đối thuận lợi, đã không có gặp được địch nhân, cũng ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

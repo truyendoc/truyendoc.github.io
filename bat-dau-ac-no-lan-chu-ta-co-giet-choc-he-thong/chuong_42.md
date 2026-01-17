@@ -4,6 +4,11 @@ title: Chương 42: nạp thiếp
 chapter_number: 42
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 42 nạp thiếp
+
+“Không muốn nghe!”
+
+Phong Uyển Nhi hừ lạnh nói, nàng cũng là có tính tình, trước đó chỉ nói bằng miệng mời chào ngươi, ngươi cự tuyệt th...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

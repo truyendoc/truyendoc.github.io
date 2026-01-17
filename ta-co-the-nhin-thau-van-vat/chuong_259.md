@@ -4,6 +4,7 @@ title: Chương 259: Phẫn nộ, Oán hận
 chapter_number: 259
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ngươi nói đi, A Nghiêu chết ở đâu, chết như thế nào? Từng chi tiết một ngươi phải nói rõ cho ta; nếu không, ta sẽ chôn sống toàn bộ các ngươi theo A Nghiêu!...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

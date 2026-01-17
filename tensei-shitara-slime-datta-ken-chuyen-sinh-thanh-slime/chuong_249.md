@@ -4,6 +4,11 @@ title: Chương 249
 chapter_number: 249
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Và mọi chuyện đều ổn cả, tóm tắt xong rồi đấy.
+
+Tôi chắc chắn rằng bây giờ tất cả các bạn đều hiểu rằng nó không có nghĩa là chưa xong.
+
+Velda ngạc nhiên trư...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

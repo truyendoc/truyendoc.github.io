@@ -4,6 +4,11 @@ title: Chương 218
 chapter_number: 218
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: “Kufufufu”, liếc nhìn sang Diablo đang cười, tôi thở dài.
+
+Tên này lại quá tay rồi. Coi chừng có vẻ đang biết ơn cơ hội này lắm đây.
+
+Đối thủ của cậu ta, gã ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

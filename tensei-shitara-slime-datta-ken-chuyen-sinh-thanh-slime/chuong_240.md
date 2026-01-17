@@ -4,6 +4,11 @@ title: Chương 240
 chapter_number: 240
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: : Quyền năng của Tổng lãnh thiên sứ
+
+Tôi có thể hồi phục tương đối dễ dàng khi ở trong sleep mode vào lần này.
+
+Hay đúng hơn, là kết nối với bản sao của tôi ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

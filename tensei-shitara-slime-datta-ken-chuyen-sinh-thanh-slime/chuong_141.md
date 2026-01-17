@@ -4,6 +4,11 @@ title: Chương 141
 chapter_number: 141
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Chế độ ăn uống của tôi đã trở nên phong phú hơn.
+
+Trước đây, với mỗi bữa ăn, các món tráng miệng có trái cây, nhưng bây giờ cũng có thê...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

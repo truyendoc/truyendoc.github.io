@@ -4,6 +4,8 @@ title: Chương 284: Luyện hoá địa linh châu
 chapter_number: 284
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhìn sinh cơ của trung niên mỹ phụ dần dần tán đi, Lục Thanh sắc mặt không hề thay đổi.
+Ngay khoảnh khắc đọc được tin tức liên quan đến trung niên mỹ phụ, hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

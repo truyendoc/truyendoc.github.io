@@ -4,6 +4,11 @@ title: Chương 138: tiểu thế giới cùng Linh giới lệnh thông hành
 chapter_number: 138
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 138: tiểu thế giới cùng Linh giới lệnh thông hành
+
+Nhìn thấy cao tầng đều chạy trốn.
+
+Tăng thêm Thẩm Dục còn điên cuồng thu gặt lấy bọn hắn đồng bạn t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

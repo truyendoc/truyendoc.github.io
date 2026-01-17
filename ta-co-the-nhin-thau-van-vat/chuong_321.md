@@ -4,6 +4,8 @@ title: Chương 321: Đại nguy (2)
 chapter_number: 321
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khó trách trước đó bọn họ lại nói: “Chúng ta lại phải xử lý thi thể nữa rồi.”
+Lục Thanh cùng mọi người, ai nấy đều có thực lực xuất chúng, hợp lực khiêng toà...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

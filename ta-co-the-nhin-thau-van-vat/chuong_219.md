@@ -4,6 +4,9 @@ title: Chương 219: Trước lễ bái sư
 chapter_number: 219
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh và Ngụy đại quản gia rời khỏi Chúc Tâm Phường,
+Lâm đại sư đích thân dẫn theo đệ tử ra tiễn, vô cùng cung kính.
+Cảnh tượng ấy khiến viên chưởng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,9 @@ title: Chương 53: Đối Bạch Tĩnh an bài
 chapter_number: 53
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 53: Đối Bạch Tĩnh an bài
+
+\"Thật sao, đã lật ra gấp năm lần rồi?\" Tào Côn ngữ khí hơi kinh ngạc nói, \"Không sai không sai, xem ra ta lần này xác thực m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

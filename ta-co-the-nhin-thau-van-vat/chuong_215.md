@@ -4,6 +4,9 @@ title: Chương 215: Thiên Ngoại Tinh Thiết
 chapter_number: 215
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chẳng lẽ đây là Thiên Ngoại Tinh Thiết?”
+Lục Thanh vô cùng phấn khích.
+Trong truyền thừa của Ly Hỏa Tông, loại linh tài hiếm có này từng được nhắc đến và tô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

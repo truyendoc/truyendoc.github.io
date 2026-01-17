@@ -4,6 +4,11 @@ title: Chương 261: Đoan vương tặng lễ (2)
 chapter_number: 261
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 244: Đoan vương tặng lễ (2)
+
+Trương Dĩnh kinh ngạc nói.
+
+Thẩm Dục cười nói: “Đương nhiên phải đưa, ngươi quên, chúng ta trên đường tao ngộ lần thứ nhấ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

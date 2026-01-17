@@ -4,6 +4,11 @@ title: Chương 253: A Thành cũng phải chết
 chapter_number: 253
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 253: A Thành cũng phải chết
+
+Nhìn xem Từ Kiều Kiều nói đến đây, miệng một phát, oa oa liền khóc rống lên.
+
+Mặc kệ là Tào Côn vẫn là Lưu Hồng cùng Tôn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

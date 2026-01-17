@@ -4,6 +4,13 @@ title: Chương 226: Cứu mạng biệt thự
 chapter_number: 226
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 226: Cứu mạng biệt thự
+
+Trời vừa rạng sáng nửa!
+
+Hải Thành từ biệt thự bên trong, nương theo lấy cỗ xe dừng hẳn, Tiêu Văn Tĩnh mở cửa xe đi ra.
+
+Nhìn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

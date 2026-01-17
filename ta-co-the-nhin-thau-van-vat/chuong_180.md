@@ -4,6 +4,8 @@ title: Chương 180: Tin tức (2)
 chapter_number: 180
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh không ngạc nhiên khi nghe rằng sư phụ mình chưa từng nghe đến hai thế lực bí ẩn kia.
+Dù trước đây sư phụ từng đạt tới Đại Thành hậu thiên nội cảnh,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

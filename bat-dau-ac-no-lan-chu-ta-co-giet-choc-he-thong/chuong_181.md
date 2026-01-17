@@ -4,6 +4,11 @@ title: Chương 181: mới tới thiên hộ là thiểm cẩu
 chapter_number: 181
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 181: mới tới thiên hộ là thiểm cẩu
+
+“Có đúng không, vậy thì thật là quá...... Bất hạnh!” Thẩm Dục nín cười nói ra.
+
+“Đúng vậy a, quá bất hạnh!” Trương...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

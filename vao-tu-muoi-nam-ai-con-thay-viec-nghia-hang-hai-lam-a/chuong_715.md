@@ -4,6 +4,13 @@ title: Chương 715: Thật động đất!
 chapter_number: 715
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 715: Thật động đất!
+
+Nghe được Lưu Bản Xương nói như vậy, đang ngồi mấy cái công ty cao tầng, từng cái tất cả đều tinh thần.
+
+Đúng thế!
+
+Cái gì gặp đồ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

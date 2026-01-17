@@ -4,6 +4,13 @@ title: Chương 170: xuất hàng
 chapter_number: 170
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 170: xuất hàng
+
+“Chậc chậc, chức năng này ngưu bức!”
+
+Thẩm Dục thầm nghĩ.
+
+Có ký ức trộm lấy công năng, chỉ cần hắn muốn, liền có thể nắm giữ người kh...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

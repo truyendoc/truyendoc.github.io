@@ -4,6 +4,11 @@ title: Chương 572: Phụ tử liên thủ đánh gian phu
 chapter_number: 572
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 572: Phụ tử liên thủ đánh gian phu
+
+Quỳ một chân trên đất Lưu Kim Thành, tay nâng 99 đóa hoa hồng, ngay tại thâm tình hướng Lý Tố Linh thổ lộ.
+
+Kết qu...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

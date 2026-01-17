@@ -4,6 +4,11 @@ title: Chương 304: Mất tích tám năm nữ nhi
 chapter_number: 304
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 304: Mất tích tám năm nữ nhi
+
+Thấy là Cẩu Nhất Vĩ cho mình gọi điện thoại tới, Tào Côn khóe miệng một chút liền giương lên.
+
+\"Xem ra, không cần chờ mấ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

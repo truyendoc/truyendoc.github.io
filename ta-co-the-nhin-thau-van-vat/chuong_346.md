@@ -4,6 +4,10 @@ title: Chương 346: Thu hoạch lớn, lại lên đường (2)
 chapter_number: 346
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Từ Tiền bối , mọi người, mong rằng sau này còn gặp lại.”
+Lục Thanh chắp tay thi lễ với những người khác.
+“Lên đường!”
+Đợi mọi người đều đã lên xe ngựa, Mã ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

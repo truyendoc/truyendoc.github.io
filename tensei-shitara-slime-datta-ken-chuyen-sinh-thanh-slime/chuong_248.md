@@ -4,6 +4,9 @@ title: Chương 248
 chapter_number: 248
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tôi ăn khối lượng năng lượng trong tay bằng『Tiêu thụ Linh hồn』(Soul Consumption), rồi lén cô lập nó vào trong『Không gian ảo』.
+
+Trông có vẻ giống như là tôi đ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

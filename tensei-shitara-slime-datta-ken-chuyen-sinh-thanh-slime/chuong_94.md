@@ -4,6 +4,9 @@ title: Chương 94
 chapter_number: 94
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Shion từ trên trời cao, quan sát chiến trường bên dưới. Như vị vua đi săn con mồi của mình, với nụ cười trên gương mặt xinh xắn, cô phát hiện một nhóm...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

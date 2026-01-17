@@ -4,6 +4,11 @@ title: Chương 637: Đặc hiệu thuốc phối phương
 chapter_number: 637
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 637: Đặc hiệu thuốc phối phương
+
+Tại Bàng Hồng Na vấn đề này, Tào Côn cũng không có cùng Hạng Nam Nguyệt trò chuyện quá nhiều.
+
+Bởi vì, mặc kệ là Bàng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

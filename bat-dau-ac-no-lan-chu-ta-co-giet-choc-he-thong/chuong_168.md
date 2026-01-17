@@ -4,6 +4,11 @@ title: Chương 168: một góc của băng sơn
 chapter_number: 168
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 168: một góc của băng sơn
+
+Sau đó, Thẩm Dục đem Sở Khuynh Thành bỏ vào một tòa gian phòng.
+
+Linh hồn của nàng chịu Thẩm Dục một quyền, trong thời gian...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

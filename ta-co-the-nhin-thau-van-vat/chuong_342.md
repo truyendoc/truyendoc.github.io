@@ -4,6 +4,8 @@ title: Chương 342: Diệt môn, tìm bảo
 chapter_number: 342
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ầm!
+Bị một quyền đánh trúng ngực, quyền kình mãnh liệt bộc phát, ngực của Mặc Chấn sụp xuống hoàn toàn, thân thể hắn bị đánh bay ra ngoài không thể khống chế...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

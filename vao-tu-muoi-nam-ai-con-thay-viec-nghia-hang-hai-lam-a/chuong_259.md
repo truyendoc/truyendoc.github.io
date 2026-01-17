@@ -4,6 +4,11 @@ title: Chương 259: Hắn nhất định phải cho, ta cũng không có cách 
 chapter_number: 259
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 259: Hắn nhất định phải cho, ta cũng không có cách nào
+
+Tào Côn lời nói nói, thật không khách khí.
+
+Bất quá, càng là như thế, Dương Tam Đao ngược lại ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

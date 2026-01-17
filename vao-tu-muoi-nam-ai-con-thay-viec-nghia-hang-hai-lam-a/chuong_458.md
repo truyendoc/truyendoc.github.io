@@ -4,6 +4,11 @@ title: Chương 458: Chó nữ nhân yêu đương?
 chapter_number: 458
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 458: Chó nữ nhân yêu đương?
+
+Để Hạng Nam Nguyệt làm việc cần thanh toán thù lao, Tào Côn đều đã quen thuộc.
+
+Hắn cũng không làm phiền, hai trăm vạn tr...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

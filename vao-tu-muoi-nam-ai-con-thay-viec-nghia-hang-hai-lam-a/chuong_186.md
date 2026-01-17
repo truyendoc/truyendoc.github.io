@@ -4,6 +4,11 @@ title: Chương 186: Quán bar nội bộ thanh lý
 chapter_number: 186
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 186: Quán bar nội bộ thanh lý
+
+\"Trên đường chú ý an toàn, về nhà sớm nghỉ ngơi một chút.\"
+
+Tinh Hà khách sạn dưới lầu, Tào Côn cùng Lưu Hồng cười phất...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

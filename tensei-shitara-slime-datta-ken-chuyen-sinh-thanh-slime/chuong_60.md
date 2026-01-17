@@ -4,6 +4,11 @@ title: Chương 60
 chapter_number: 60
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Đang tuần tra quanh rừng, Ma nhân Grucius đột nhiên nhận được lời nhắn bằng thần giao cách cảm (niệm thoại) nên bối rối.
+
+“Hửm? Có gì sao?”
+
+Các đồng hành, n...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

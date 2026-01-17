@@ -4,6 +4,13 @@ title: Chương 318: Thần cảnh cường giả (1)
 chapter_number: 318
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 273: Thần cảnh cường giả (1)
+
+Mưa to đã hạ ba ngày ba đêm.
+
+Kinh thành địa thế hơi cao, tạm thời không có l·ũ l·ụt chi lo.
+
+Nhưng Kinh thành phương na...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 150
 chapter_number: 150
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ------------------------------------------------
+
+Trong một căn phòng tiện nghi, sáng sủa.
+
+Một người đàn ông già ―― Ma pháp sư Hoàng gia Gadra mời ba vị khá...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

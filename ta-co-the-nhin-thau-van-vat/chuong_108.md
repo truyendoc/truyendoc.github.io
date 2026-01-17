@@ -4,6 +4,9 @@ title: Chương 108: Học chữ (2)
 chapter_number: 108
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi ăn sáng xong, Lục Thanh bắt đầu dạy hai “học trò nhỏ” nhận mặt chữ.
+“Trời đất huyền diệu, vũ trụ bao la…”
+Tay cầm một cành nhỏ, hắn viết từng nét lên...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

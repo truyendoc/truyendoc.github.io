@@ -4,6 +4,13 @@ title: Chương 1
 chapter_number: 1
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tối quá.
+
+Tối mịt đến mức không thấy gì cả.
+
+Đây là đâu? Và, chuyện gì đã xảy ra vậy?
+
+Hình như có ai đó vừa gọi tôi là Hiền Giả, à không, là Đại Hiền Giả th...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

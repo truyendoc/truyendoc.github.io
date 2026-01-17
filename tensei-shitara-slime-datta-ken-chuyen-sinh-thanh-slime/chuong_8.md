@@ -4,6 +4,11 @@ title: Chương 8
 chapter_number: 8
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Cũng khá lâu rồi tôi mới được đi dưới ánh mặt trời.
+
+Chẳng phải vì tôi là một con Quỷ hút máu sẽ bị tan chảy hay thiêu cháy nếu đi dưới mặt trời đâu nhé.
+
+Th...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,9 @@ title: Chương 278: Chỉ cần ngươi cố gắng, vận khí cũng sẽ tố
 chapter_number: 278
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 278: Chỉ cần ngươi cố gắng, vận khí cũng sẽ tốt
+
+Trong lòng quyết định cái chủ ý này về sau, Cẩu Nhất Vĩ tiếp tục cùng Tào Côn sát có việc nóng hàn hu...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

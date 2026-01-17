@@ -4,6 +4,9 @@ title: Chương 19
 chapter_number: 19
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Xin chào, Gobuta đây!
+
+Hiện tại, tôi đang chịu hình phạt mang tên “Thoa trùng Địa ngục” của Rimuru-sama, được thực hiện bởi quấn tơ nhện quanh người và treo ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

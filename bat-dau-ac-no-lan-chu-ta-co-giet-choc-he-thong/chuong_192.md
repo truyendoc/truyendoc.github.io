@@ -4,6 +4,9 @@ title: Chương 192: giằng co
 chapter_number: 192
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 192: giằng co
+
+“Đi, đừng xem, chúng ta cũng bắt đầu động thủ đi!” lúc này, Ngu Tuyết Oánh thanh âm vang lên: “Lấy tiểu Kỳ sứ đơn vị, tiến vào trong ki...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

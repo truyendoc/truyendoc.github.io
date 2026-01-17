@@ -4,6 +4,13 @@ title: Chương 8: chặn giết
 chapter_number: 8
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 8 chặn giết
+
+Vân Mộc Huyện, thành bắc.
+
+Tại Vân Mộc Huyện có đông giàu tây quý thuyết pháp.
+
+Đông Thành ở lại đều là trong thành đại gia tộc phú hộ, m...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,13 @@ title: Chương 194: Một phần bồi thường không có, còn lấy lại
 chapter_number: 194
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 194: Một phần bồi thường không có, còn lấy lại
+
+Hoặc là Tào Côn mình độc thắng, hoặc là mọi người cá c·hết lưới rách!
+
+Đây là Tào Côn cho ra đáp án.
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

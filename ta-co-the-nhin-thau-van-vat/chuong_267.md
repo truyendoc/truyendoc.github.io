@@ -4,6 +4,8 @@ title: Chương 267: Trận chiến đầu tiên với Tiên Thiên
 chapter_number: 267
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không ai ngờ rằng vừa mới giao thủ, hai người đã đấu đến mức độ này.
+Cứ thế, Lục Thanh và Ngụy Sơn Hải dùng đao pháp cực nhanh chém giết lẫn nhau liên tục hơ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

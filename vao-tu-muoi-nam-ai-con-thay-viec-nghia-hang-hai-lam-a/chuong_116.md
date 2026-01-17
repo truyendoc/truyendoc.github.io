@@ -4,6 +4,9 @@ title: Chương 116: Đời này đều đi theo ngươi
 chapter_number: 116
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 116: Đời này đều đi theo ngươi
+
+Cũng không phải Tào Côn tự phụ, liền hắn hiện tại cái này mày kiếm mắt sáng, mũi cao thẳng soái bức nhan trị, lại thêm...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

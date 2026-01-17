@@ -4,6 +4,13 @@ title: Chương 159: tiến vào yêu thú lãnh địa đi săn
 chapter_number: 159
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 159: tiến vào yêu thú lãnh địa đi săn
+
+Tại Thẩm Dục leo lên tường thành sau.
+
+Đám yêu thú đã bắt đầu công thành.
+
+Hắn dùng thần thức quét qua, phát hi...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

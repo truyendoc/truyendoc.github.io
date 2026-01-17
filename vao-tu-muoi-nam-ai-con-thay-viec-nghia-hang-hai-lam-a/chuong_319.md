@@ -4,6 +4,9 @@ title: Chương 319: Lão bà có chủ nhân Bốc Hạnh Phúc
 chapter_number: 319
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 319: Lão bà có chủ nhân Bốc Hạnh Phúc
+
+Nghe được Lâm Thi Hàm nói như vậy, Tào Côn ngược lại là không có khách khí với nàng, mà là cười ha ha, liền đem...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

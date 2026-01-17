@@ -4,6 +4,13 @@ title: Chương 549: Đem Trương gia bán?
 chapter_number: 549
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 549: Đem Trương gia bán?
+
+Đột nhiên ý thức được tình huống này, Tào Côn đứng tại chủ trì trên đài, kém một chút liền cười ra tiếng âm.
+
+Mẹ nó!
+
+Ai dám...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

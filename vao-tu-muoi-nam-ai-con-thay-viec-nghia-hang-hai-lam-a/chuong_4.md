@@ -4,6 +4,11 @@ title: Chương 4: Thật là một cái hiền lành tốt nàng dâu
 chapter_number: 4
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 04: Thật là một cái hiền lành tốt nàng dâu
+
+Nghe được phía sau truyền đến giọng nữ, Tào Côn theo bản năng liền quay đầu nhìn sang.
+
+Kết quả, khi thấy ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

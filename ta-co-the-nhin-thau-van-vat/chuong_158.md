@@ -4,6 +4,8 @@ title: Chương 158: Lục thanh ra tay
 chapter_number: 158
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cú đấm của Hắc Lang mang theo sức mạnh kinh người, khí huyết toàn thân hắn bộc phát như dã thú thoát lồng, dữ tợn vô cùng.
+Mã Cố trong lòng dâng lên nỗi sợ h...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

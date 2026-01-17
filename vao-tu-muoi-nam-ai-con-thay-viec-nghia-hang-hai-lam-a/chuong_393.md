@@ -4,6 +4,11 @@ title: Chương 393: Lão tử không được thu chút tiền a!
 chapter_number: 393
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 393: Lão tử không được thu chút tiền a!
+
+Thời gian nhoáng một cái, đảo mắt chính là ba ngày.
+
+Bởi vì Lý Văn Văn nguyên lão này cấp đôi chân dài bảo bố...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

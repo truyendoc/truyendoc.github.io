@@ -4,6 +4,9 @@ title: Chương 530: Tận hứng mà về
 chapter_number: 530
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 530: Tận hứng mà về
+
+Trong lòng mặc dù rất nhanh liền làm ra quyết định, nhưng là, Tào Côn lại giả vờ làm ra một bộ chăm chú suy nghĩ dáng vẻ, cũng kh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,10 @@ title: Chương 143: Tử Khí Tụ Sát Quyết
 chapter_number: 143
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: 《Tử Khí Tụ Sát Quyết》.
+Đó là tên bí thuật được ghi trên tấm giấy da người.
+Nói chính xác hơn, đây không phải là công pháp thông thường, mà là bí thuật.
+Phươn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

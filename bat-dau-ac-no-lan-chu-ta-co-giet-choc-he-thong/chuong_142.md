@@ -4,6 +4,11 @@ title: Chương 142: tỉnh lại sau giấc ngủ tu vi tăng lên
 chapter_number: 142
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 142: tỉnh lại sau giấc ngủ tu vi tăng lên
+
+Theo bị trừ đi 10 vạn điểm g·iết chóc.
+
+Thẩm Dục tu vi ngay tại hệ thống quán đỉnh bên dưới nhanh chóng tăn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,7 @@ title: Chương 126: Cuộc chiến
 chapter_number: 126
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngoài ra, thiếu niên mặc giáp da cũng tuyệt đối không tin rằng ở nơi hẻo lánh này lại có người nào sở hữu thiên phú võ học đủ để so sánh với hắn—một nội môn ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

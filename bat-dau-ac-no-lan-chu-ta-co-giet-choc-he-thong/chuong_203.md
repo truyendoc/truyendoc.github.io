@@ -4,6 +4,11 @@ title: Chương 203: pháp tướng khôi lỗi cùng nhân quả phi đao
 chapter_number: 203
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 203: pháp tướng khôi lỗi cùng nhân quả phi đao
+
+“Đốt, chúc mừng kí chủ thu hoạch được tiên binh mảnh vỡ 10 mai, xin hỏi phải chăng nhận lấy?”
+
+“Đốt, c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

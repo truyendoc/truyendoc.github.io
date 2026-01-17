@@ -4,6 +4,11 @@ title: Chương 60: Đến đều tới, còn muốn đi?
 chapter_number: 60
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 60: Đến đều tới, còn muốn đi?
+
+Có Tào Côn giới thiệu, Bạch Tĩnh cùng Lưu Ngọc Linh lúc này mới xem như chính thức nhận biết.
+
+Đợi đến hai người nắm qu...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 381: Xuất phát bí cảnh (2)
 chapter_number: 381
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 304: Xuất phát bí cảnh (2)
+
+Có thể hết lần này tới lần khác còn có Chung gia nhiều người như vậy.
+
+Tại Chung Nguyên Tình triển lộ ra Nguyên Đan Cảnh c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

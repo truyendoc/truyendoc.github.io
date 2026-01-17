@@ -4,6 +4,9 @@ title: Chương 321: Thần cảnh cường giả đêm tối thăm dò Thẩm g
 chapter_number: 321
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 274: Thần cảnh cường giả đêm tối thăm dò Thẩm gia (2)
+
+Lý Linh Nhi thì trực tiếp chui vào Thẩm Dục trong ngực, cầm mặt tại trên lồng ngực của hắn ủi ủ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

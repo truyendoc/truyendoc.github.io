@@ -4,6 +4,13 @@ title: Chương 132: đánh dã trở về
 chapter_number: 132
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 132: đánh dã trở về
+
+“Đốt, chúc mừng kí chủ thu hoạch được 2000 điểm g·iết chóc!”
+
+“Đốt, chúc mừng kí chủ thu hoạch được 4000 điểm g·iết chóc!”
+
+“Đốt,...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

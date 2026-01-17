@@ -4,6 +4,11 @@ title: Chương 134: gặp lại Đông Phương Lưu Ly
 chapter_number: 134
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 134: gặp lại Đông Phương Lưu Ly
+
+Người thanh niên này gọi Hiên Viên Phá Thiên.
+
+Cùng Thanh Hồ tướng quân Hiên Viên Cửu Thành một dạng, đều là đến từ c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 140: Di chuyển trong đêm
 chapter_number: 140
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Có lẽ ta phải tìm cơ hội hỏi tử an xem Lục công tử đã cho ta loại linh dược gì, hiệu quả đúng là thần kỳ.
+Ngụy Phu nhân nghĩ thầm.
+“Mẫu thân, người có đói kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

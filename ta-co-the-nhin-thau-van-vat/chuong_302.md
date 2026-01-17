@@ -4,6 +4,9 @@ title: Chương 302: Bị dẫm nát dưới chân
 chapter_number: 302
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Trần lão y, Công tử, xem ra đây đều là dân trong trấn,” Mã Cố bước lên kiểm tra mấy thi thể rồi bẩm lại.
+“Ừm,” Trần lão y khẽ gật đầu, sắc mặt lạnh xuống.
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

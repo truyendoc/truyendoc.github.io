@@ -4,6 +4,9 @@ title: Chương 525: Nghỉ đông trước đó
 chapter_number: 525
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 525: Nghỉ đông trước đó
+
+Bàng Hồng Na không biết Tào Côn chân thực ý nghĩ, cho là hắn là tại cồn kích thích dưới, thật đối với mình không thể chờ đợi....
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

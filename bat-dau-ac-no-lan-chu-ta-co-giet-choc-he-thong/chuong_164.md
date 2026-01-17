@@ -4,6 +4,11 @@ title: Chương 164: cửu tinh linh thể hiện thân
 chapter_number: 164
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 164: cửu tinh linh thể hiện thân
+
+Bởi vì Thẩm Dục phát hiện, khoảng chừng ba đầu linh thể hướng hắn phương hướng này phi tốc đi đường.
+
+Thẩm Dục vô ý ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 11: 2400 vạn, quay con thoi
 chapter_number: 11
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 11: 2400 vạn, quay con thoi
+
+Đương nhiên, cái gọi là lặng yên không một tiếng động, chỉ là Lưu Ngọc Linh tự cho là lặng yên không một tiếng động.
+
+Thậ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

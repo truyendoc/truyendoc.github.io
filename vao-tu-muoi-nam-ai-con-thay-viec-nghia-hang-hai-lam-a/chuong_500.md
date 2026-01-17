@@ -4,6 +4,9 @@ title: Chương 500: Hải Thành lão đại
 chapter_number: 500
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 500: Hải Thành lão đại
+
+Tại đối Vương San San một phen không chút nào keo kiệt khích lệ về sau, Đoàn Minh lúc này mới giống như là nghĩ tới điều gì, n...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

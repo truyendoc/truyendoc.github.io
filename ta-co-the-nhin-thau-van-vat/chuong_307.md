@@ -4,6 +4,10 @@ title: Chương 307: Thôn khí thuật
 chapter_number: 307
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Phụ thân, phụ thân vừa nói gì vậy?”
+Phương Nhụy kinh ngạc nhìn phụ thân.
+Đại Thạch và Triệu Khiên Lâm cũng khó hiểu nhìn sang.
+“Ta nói, Trần lão y, Lục Tha...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

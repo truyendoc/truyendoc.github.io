@@ -4,6 +4,13 @@ title: Chương 281: Kết hôn cuồng ma, Lam Khả Tâm
 chapter_number: 281
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 281: Kết hôn cuồng ma, Lam Khả Tâm
+
+Mười giờ sáng!
+
+Hải Thành tây nam phương hướng vùng ngoại thành, Nam Sơn mộ viên.
+
+Đợi đến Tào Côn ngồi mình chống...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

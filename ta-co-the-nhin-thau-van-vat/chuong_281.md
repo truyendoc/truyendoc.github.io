@@ -4,6 +4,10 @@ title: Chương 281: Càn quét báu vật
 chapter_number: 281
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chuyện gì xảy ra vậy?”
+Đòn tập kích bất ngờ khiến tất cả mọi người trở tay không kịp.
+Không ai nhìn thấy luồng năng lượng mạnh mẽ kia phát ra từ đâu.
+Gia ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

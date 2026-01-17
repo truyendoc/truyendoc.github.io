@@ -4,6 +4,9 @@ title: Chương 151: Hiểu ngươi mẹ cái lớn quả cà
 chapter_number: 151
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 151: Hiểu ngươi mẹ cái lớn quả cà
+
+Đi vào mình phụ trách phòng chứa đồ về sau, Tào Côn đầu tiên là đem cửa khóa trái, sau đó liền tiếp thông sắp tự độ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

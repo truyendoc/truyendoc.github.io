@@ -4,6 +4,9 @@ title: Chương 15: Tám phòng tới tay
 chapter_number: 15
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 15: Tám phòng tới tay
+
+\"Hoàng tiên sinh, không có ý tứ để ngài đợi lâu, ta trước cho ngài giới thiệu một chút, vị này chính là ta trong điện thoại cho...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

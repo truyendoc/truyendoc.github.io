@@ -4,6 +4,11 @@ title: Chương 558: Tốt
 chapter_number: 558
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 558: Tốt
+
+Ngay từ đầu thời điểm, chỉ có Trương Oánh cùng Tào Côn trò chuyện.
+
+Bất quá, trò chuyện một chút, trương Nhược Nguyệt cùng Trương Nhược Tinh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

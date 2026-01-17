@@ -4,6 +4,12 @@ title: Chương 14: Thua thiệt thảm chủ thuê nhà
 chapter_number: 14
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 14: Thua thiệt thảm chủ thuê nhà
+
+Sau hai giờ!
+
+Rừng trúc trước, Tào Côn đưa mắt nhìn nữ sinh bóng lưng rời đi, tâm tình không khỏi có chút phức tạp.
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

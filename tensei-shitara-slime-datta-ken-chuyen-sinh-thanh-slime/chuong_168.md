@@ -4,6 +4,13 @@ title: Chương 168
 chapter_number: 168
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------
+
+Đến giờ tin tức vẫn chưa về tới Đế Quốc.
+
+Nhưng với dân chúng Đế Quốc, không biết có khi lại hơn.
+
+Những binh sĩ Đế Quốc, ha...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,13 @@ title: Chương 16: Về nhà, tìm giáo hoa một nhà tính sổ sách
 chapter_number: 16
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 16: Về nhà, tìm giáo hoa một nhà tính sổ sách
+
+Thời gian nhoáng một cái, đảo mắt chính là hai ngày.
+
+Năm giờ chiều!
+
+Theo cửa phòng mở ra, Tào Côn cùn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

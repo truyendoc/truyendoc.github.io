@@ -4,6 +4,11 @@ title: Chương 185: Tất cả đều là nữ cao quản
 chapter_number: 185
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 185: Tất cả đều là nữ cao quản
+
+Ngoại trừ đem Đế Vương quầy rượu bên trong cao tầng quản lý tất cả đều đào đủ.
+
+Lưu Hồng còn đem trước đó tại Kim Đỉnh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

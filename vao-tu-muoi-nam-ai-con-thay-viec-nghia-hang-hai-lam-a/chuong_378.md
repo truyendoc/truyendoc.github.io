@@ -4,6 +4,13 @@ title: Chương 378: Vô danh sách lai lịch
 chapter_number: 378
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 378: Vô danh sách lai lịch
+
+Ném đi?
+
+Nghe tới Tào Côn nói, quyển sách kia đã mất đi, Dương Bình sững sờ, không cẩn thận đều đem nước trà cho đổ ra.
+
+H...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

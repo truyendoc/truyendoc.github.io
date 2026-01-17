@@ -4,6 +4,9 @@ title: Chương 202: Ly hỏa đỉnh
 chapter_number: 202
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh khởi động dị năng, tập trung ánh mắt nhìn vào đại đỉnh.
+Hơn mười hơi thở trôi qua, vẫn không có biến động nào.
+Hắn không thất vọng, trái lại cà...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

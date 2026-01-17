@@ -4,6 +4,9 @@ title: Chương 287: Dư chấn
 chapter_number: 287
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trần lão y, vừa rồi là chuyện gì vậy?”
+Ngụy Sơn Hải kinh ngạc hỏi, mặt mũi tràn đầy chấn động.
+Vốn dĩ hai người đang ngồi dưới tán mai uống trà, thì bất ngờ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

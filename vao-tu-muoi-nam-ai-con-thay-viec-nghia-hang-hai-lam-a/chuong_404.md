@@ -4,6 +4,11 @@ title: Chương 404: Liễu Truyền Sĩ tới cửa
 chapter_number: 404
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 404: Liễu Truyền Sĩ tới cửa
+
+Lý Đại Lượng nói không giữ lời, để Liễu Truyền Sĩ triệt để không tin hắn.
+
+Một phần không thiếu phí bảo hộ đóng, nói xong...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

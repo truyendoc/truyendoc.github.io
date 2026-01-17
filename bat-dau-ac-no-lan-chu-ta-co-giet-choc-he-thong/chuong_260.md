@@ -4,6 +4,9 @@ title: Chương 260: Đoan vương tặng lễ (1)
 chapter_number: 260
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 244: Đoan vương tặng lễ (1)
+
+Nghe vậy, Thẩm Dục như có điều suy nghĩ nói: “Đã Đoan vương bệnh, dù sao cũng phải nhường chuyện lên men hạ, không phải, ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

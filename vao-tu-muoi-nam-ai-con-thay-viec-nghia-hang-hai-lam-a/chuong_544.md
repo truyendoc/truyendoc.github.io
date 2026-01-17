@@ -4,6 +4,9 @@ title: Chương 544: Quán bar phát tiền
 chapter_number: 544
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 544: Quán bar phát tiền
+
+Tại cùng Tào Côn càng ngày càng nhiều lần tiếp xúc về sau, Bàng Hồng Na ở trong lòng đã thời gian dần trôi qua mơ hồ Tào Côn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

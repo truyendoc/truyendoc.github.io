@@ -4,6 +4,13 @@ title: Chương 22: Đánh người khẳng định là không được
 chapter_number: 22
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 22: Đánh người khẳng định là không được
+
+Nửa giờ sau!
+
+Cửa cảnh cục, một chiếc xe taxi ngừng lại.
+
+Tào Côn từ trên xe bước xuống, hai bước liền đi tới...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

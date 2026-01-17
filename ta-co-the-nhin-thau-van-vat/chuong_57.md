@@ -4,6 +4,8 @@ title: Chương 57: Ngụy công tử
 chapter_number: 57
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ban đầu, Lục Thanh vốn định luyện liền một mạch, cố gắng đạt tới Tiểu thành trong “Tứ Phương Đao”.
+Tiếc rằng, thanh mộc đao gãy ngang, khiến cậu có chút tiếc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

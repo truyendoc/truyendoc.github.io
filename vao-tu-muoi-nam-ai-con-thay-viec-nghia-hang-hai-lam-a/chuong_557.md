@@ -4,6 +4,11 @@ title: Chương 557: Ta là thẳng nam
 chapter_number: 557
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 557: Ta là thẳng nam
+
+Vừa rạng sáng ngày thứ hai.
+
+Làm Bàng Hồng Na mặc rộng rãi áo ngủ, đỉnh lấy nhập nhèm mắt buồn ngủ, mở ra không ngừng bị gõ vang...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

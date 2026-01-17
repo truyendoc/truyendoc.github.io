@@ -4,6 +4,9 @@ title: Chương 42
 chapter_number: 42
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Nếu nghĩ theo cách thông thường thì tôi khó có thể thắng được Đổn đầu Ma vương {Orc Disaster} Gelmudo.
+
+Thứ Yêu khí {Aura} màu vàng đang bao quanh tôi, tôi c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

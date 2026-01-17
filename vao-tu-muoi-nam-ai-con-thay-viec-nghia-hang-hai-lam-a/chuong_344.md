@@ -4,6 +4,11 @@ title: Chương 344: Cấm dục Dương Tam Đao
 chapter_number: 344
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 344: Cấm dục Dương Tam Đao
+
+Quách Hữu Lý cùng Quách Hữu Tài huynh đệ t·ang l·ễ, quả thực tới không ít người.
+
+Thậm chí, Hải Thành người có mặt mũi, tr...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

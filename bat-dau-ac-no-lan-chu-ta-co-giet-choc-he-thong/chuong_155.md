@@ -4,6 +4,13 @@ title: Chương 155: không ra gì thủ đoạn
 chapter_number: 155
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 155: không ra gì thủ đoạn
+
+Trấn Yêu Quan, một tòa cỡ lớn trong trạch viện.
+
+Chu Duy đến.
+
+Sau đó tại trạch viện trong phòng khách gặp được ngồi tại ch...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

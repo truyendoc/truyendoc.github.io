@@ -4,6 +4,8 @@ title: Chương 186: Bình yên
 chapter_number: 186
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thì ra là tiểu Nhan,” một giọng nói vang lên. “Cô không phải là chị của con đâu, gọi là dì nhé. Dì là bạn của ca ca con, họ Lý.”
+Ngụy phu nhân lập tức hiểu ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

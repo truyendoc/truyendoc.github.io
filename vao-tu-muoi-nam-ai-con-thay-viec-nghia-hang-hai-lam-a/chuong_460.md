@@ -4,6 +4,11 @@ title: Chương 460: Hải Đông chế dược công ty tới tay
 chapter_number: 460
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 460: Hải Đông chế dược công ty tới tay
+
+Thao trường góc đông nam.
+
+Nhìn xem Vương San San nói dứt lời, đem một cái hộp trang sức cứ như vậy bỏ vào tro...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

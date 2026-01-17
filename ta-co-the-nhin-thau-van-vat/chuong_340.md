@@ -4,6 +4,8 @@ title: Chương 340: Huyết Ma Thể
 chapter_number: 340
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Giữa Võ Trường của Lưu Vân Tông, một Huyết Nhục Kén đang dựng thẳng.
+Bên dưới nó, những phù văn kỳ dị hiện lên, liên tục rút huyết dịch tinh nguyên từ những ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

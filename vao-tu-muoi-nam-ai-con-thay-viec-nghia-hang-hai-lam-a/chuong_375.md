@@ -4,6 +4,9 @@ title: Chương 375: pp bán phát nổ
 chapter_number: 375
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 375: pp bán phát nổ
+
+Nhìn xem Dương Nhật Bố cứ như vậy tại một mảnh trong lúc bối rối, đóng lại trực tiếp, trong biệt thự, Tào Côn khóe miệng đều giươ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

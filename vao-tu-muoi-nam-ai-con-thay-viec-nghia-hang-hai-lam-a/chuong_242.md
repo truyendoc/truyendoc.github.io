@@ -4,6 +4,11 @@ title: Chương 242: Ta muốn ngươi tám quốc công quán
 chapter_number: 242
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 242: Ta muốn ngươi tám quốc công quán
+
+Nếu như là người khác nói lời nói này, Dương Tam Đao là khẳng định không tin.
+
+Bởi vì, mặc kệ là họ Liễu, họ Tr...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

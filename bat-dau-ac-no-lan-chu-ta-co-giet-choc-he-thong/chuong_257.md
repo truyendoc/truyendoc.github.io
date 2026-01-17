@@ -4,6 +4,9 @@ title: Chương 257: Đột phá Thông Thiên cảnh (2)
 chapter_number: 257
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 242: Đột phá Thông Thiên cảnh (2)
+
+Làm quán đỉnh kết thúc, Thẩm Dục mở rộng hạ thân thân thể, âm thầm gật gật đầu, đạt tới thông thiên tứ trọng hắn, h...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

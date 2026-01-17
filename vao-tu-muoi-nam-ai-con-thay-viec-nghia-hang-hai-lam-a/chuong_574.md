@@ -4,6 +4,9 @@ title: Chương 574: Cám ơn ngươi, anh hùng của ta
 chapter_number: 574
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 574: Cám ơn ngươi, anh hùng của ta
+
+Gian phòng bên trong, Khương Mẫn cùng Trình Dao Dao tam nữ, cuối cùng nói đùa vài câu, sau đó liền cùng Tào Côn cù...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 66: Lần nữa cùng Chu Cường đối tuyến
 chapter_number: 66
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 66: Lần nữa cùng Chu Cường đối tuyến
+
+Đối mặt thừa vụ tiểu tỷ tỷ dễ nghe thanh âm, Chu Cường tựa như là vừa tỉnh ngủ, còn có chút mơ hồ, chỉ là dùng h...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

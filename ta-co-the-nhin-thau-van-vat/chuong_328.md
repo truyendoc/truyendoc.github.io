@@ -4,6 +4,9 @@ title: Chương 328: Phá trận
 chapter_number: 328
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Kiếm giả bị hắc bào nhân dùng trường côn đánh bay, thân ảnh lảo đảo lùi hơn mười trượng mới miễn cưỡng đứng vững.
+Nhìn đối diện, sắc mặt hắn lộ vẻ khó tin:
+“...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

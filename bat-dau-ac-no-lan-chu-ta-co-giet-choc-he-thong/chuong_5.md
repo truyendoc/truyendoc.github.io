@@ -4,6 +4,11 @@ title: Chương 5: sơn tặc công thành
 chapter_number: 5
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 5 sơn tặc công thành
+
+Tuy nói chỉ cần g·iết chóc sinh linh liền có thể thu hoạch được điểm g·iết chóc.
+
+Nhưng Thẩm Dục cũng không phải s·át n·hân cuồn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

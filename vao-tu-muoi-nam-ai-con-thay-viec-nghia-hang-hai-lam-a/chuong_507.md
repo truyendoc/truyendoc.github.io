@@ -4,6 +4,13 @@ title: Chương 507: Đem hắn lắc lư què
 chapter_number: 507
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 507: Đem hắn lắc lư què
+
+Áo?
+
+Cái này cẩu vật trả lại cho mình chuẩn bị năm mới lễ vật?
+
+Nhìn xem Dương Bình đưa cho mình cái kia màu đỏ tía hộp gỗ, T...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 41
 chapter_number: 41
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Viên Thủ lĩnh Tích dịch nhân tộc {Lizardman} đã rất nỗ lực chống lại đợt tấn công sắp đến của bọn lính Orc.
+
+Lực lượng của ông được chia ra trấn giữ 4 thông ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

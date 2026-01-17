@@ -4,6 +4,8 @@ title: Chương 277: Chấn động
 chapter_number: 277
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lâm huynh, huynh phải cẩn thận.”
+Thấy lão hữu vừa mở miệng đã gọi hai chữ “Vân muội”, vị lão giả tóc bạc nhưng mặt mày trẻ trung biết mình không thể khuyên ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

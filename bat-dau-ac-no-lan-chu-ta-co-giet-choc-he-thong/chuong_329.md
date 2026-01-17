@@ -4,6 +4,11 @@ title: Chương 329: Báo ứng tới (2)
 chapter_number: 329
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 278: Báo ứng tới (2)
+
+Hai người mang theo Thần Ân Hầu xông ra xe ngựa sau, phát hiện cũng không có người đến ngăn cản bọn hắn.
+
+Bọn hắn đều là trong l...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

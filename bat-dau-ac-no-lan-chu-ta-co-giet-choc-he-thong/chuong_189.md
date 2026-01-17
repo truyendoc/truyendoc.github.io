@@ -4,6 +4,11 @@ title: Chương 189: Mộng Ma Vương
 chapter_number: 189
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 189: Mộng Ma Vương
+
+Theo Thẩm Dục khóa lại cái này nông gia thiếu niên tinh khí sau, hắn tinh khí liền không lại xói mòn.
+
+Nhưng hắn trên khuôn mặt lạ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

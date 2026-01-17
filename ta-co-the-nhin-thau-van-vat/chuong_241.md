@@ -4,6 +4,9 @@ title: Chương 241: Thỏa Thuận Đạt Được
 chapter_number: 241
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Giao dịch gì?”
+Lão giả râu dài lập tức sinh cảnh giác trong lòng.
+Vị sư thúc này vốn có tính tình quái gở, kỳ dị vô thường, khiến người ta không thể đoán nổ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

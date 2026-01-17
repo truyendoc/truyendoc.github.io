@@ -4,6 +4,9 @@ title: Chương 334: Nghiền nát (1)
 chapter_number: 334
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chuyện đó thì có gì là không thể?”
+Đối mặt với sự kinh hãi của hắc y nhân, Lục Thanh nở một nụ cười nhạt.
+Hắn khẩy cổ tay, tùy ý ném chiếc trường cung trong...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

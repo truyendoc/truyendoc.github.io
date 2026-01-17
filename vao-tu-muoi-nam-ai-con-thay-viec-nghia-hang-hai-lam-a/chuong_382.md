@@ -4,6 +4,11 @@ title: Chương 382: Dùng tiền mời ngươi yêu đương
 chapter_number: 382
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 382: Dùng tiền mời ngươi yêu đương
+
+Điện thoại đối diện, nghe được Tào Côn nói như vậy, Lý Đại Lượng đều trầm mặc.
+
+Đều mẹ nó hơn một năm, còn có cái ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

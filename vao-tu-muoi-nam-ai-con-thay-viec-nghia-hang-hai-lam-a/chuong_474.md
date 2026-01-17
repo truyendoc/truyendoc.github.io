@@ -4,6 +4,13 @@ title: Chương 474: Thôi Minh tới
 chapter_number: 474
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 474: Thôi Minh tới
+
+Áo?
+
+Thôi Minh xuất viện?
+
+Nghe được Hạng Nam Nguyệt nói như vậy, Tào Côn trên mặt không tự kìm hãm được liền hiện lên một vòng vẻ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

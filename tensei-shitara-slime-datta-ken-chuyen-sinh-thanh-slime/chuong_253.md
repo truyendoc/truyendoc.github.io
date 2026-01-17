@@ -4,6 +4,9 @@ title: Chương 253
 chapter_number: 253
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Bây giờ tôi có thể chắc chắn là mình không tài nào hiểu nổi tên ngốc này.
+
+Cậu ta muốn phá hủy thế giới bởi vì cậu ta đã trải qua một tuổi thơ bất hạnh hay g...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,7 @@ title: Chương 280: Phẫn nộ tột độ
 chapter_number: 280
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chuyện này ngươi không nên hỏi. Người giết mẫu thân ngươi vô cùng cường đại, tuyệt không phải nhân vật mà Trịnh gia các ngươi có thể trêu vào.” Lão giả tuấn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,13 @@ title: Chương 140: Chó nhà giàu
 chapter_number: 140
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 140: Chó nhà giàu
+
+Hả?
+
+Thế nào?
+
+Bạch Tĩnh tóc đều đã co lại tới, công tác chuẩn bị đều làm xong, kết quả, còn không có quỳ tới đất bên trên đâu, liề...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

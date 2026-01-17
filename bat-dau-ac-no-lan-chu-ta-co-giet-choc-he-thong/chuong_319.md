@@ -4,6 +4,9 @@ title: Chương 319: Thần cảnh cường giả (2)
 chapter_number: 319
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 273: Thần cảnh cường giả (2)
+
+Ngựa gây nên cùng nói: “Mấy ngày nay, ta phái người lặng lẽ quan sát qua Thái tử phủ, mỗi ngày đều có cao thủ vào ở, hơn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

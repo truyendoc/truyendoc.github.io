@@ -4,6 +4,13 @@ title: Chương 532: Chia đều Trương gia
 chapter_number: 532
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 532: Chia đều Trương gia
+
+Rất nhanh!
+
+Trương Khiết cùng Lâm Thi Hàm hai nữ chính là tiêu hóa cùng tiếp nhận chuyện này.
+
+Lâm Thi Hàm nói: \"Vậy là ngươ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 28
 chapter_number: 28
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Các Ma vật trong hang đều chạy biến đi khi mới thấy bóng dáng của tôi.
+
+Có lẽ đó là do bầu không khí khí chất tôi phát ra.
+
+Cảm thấy hài lòng, tôi bước ra kh...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

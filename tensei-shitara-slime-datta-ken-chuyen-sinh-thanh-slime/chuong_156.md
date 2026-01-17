@@ -4,6 +4,13 @@ title: Chương 156
 chapter_number: 156
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ----------------------------------------
+
+\"Không, không thể nào!\"
+
+Từ một nơi không xa chiến trường,Trung tướng Gastar rêи ɾỉ với gương mặt tái mét.
+
+Một cản...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

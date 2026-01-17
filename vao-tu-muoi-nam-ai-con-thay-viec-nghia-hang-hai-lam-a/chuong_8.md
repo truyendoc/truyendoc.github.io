@@ -4,6 +4,11 @@ title: Chương 8: Gặp quỷ, lượng cơm ăn bạo tăng
 chapter_number: 8
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 08: Gặp quỷ, lượng cơm ăn bạo tăng
+
+Thật nặng a!
+
+Sau khi tới tay, Tào Côn lúc này mới phát hiện, quyển sách này trang giấy, vậy mà không phải phổ thô...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

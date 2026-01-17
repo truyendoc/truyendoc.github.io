@@ -4,6 +4,11 @@ title: Chương 584: Không thể để cho nàng như thế thoải mái
 chapter_number: 584
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 584: Không thể để cho nàng như thế thoải mái
+
+Tựa như ngay từ đầu nói, Tào Côn cũng không có cùng Trương Cương trò chuyện thời gian quá dài.
+
+Hết thảy...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

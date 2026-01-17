@@ -4,6 +4,11 @@ title: Chương 711: Ngày mai động đất
 chapter_number: 711
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 711: Ngày mai động đất
+
+Thời gian thoáng một cái đã qua, đảo mắt chính là đi tới buổi chiều điểm thứ tư nửa!
+
+Hành chính trong phòng, Tào Côn tại mặc ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

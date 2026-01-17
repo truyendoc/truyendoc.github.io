@@ -4,6 +4,13 @@ title: Chương 357: Tào thị truyền thông công ty
 chapter_number: 357
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 357: Tào thị truyền thông công ty
+
+Tám giờ tối!
+
+Hải Thành, tám quốc công quán lầu ba.
+
+Ngốc Cẩu ba người mang theo Mã Trường Ninh, tại Tào Côn chuyên...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

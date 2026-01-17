@@ -4,6 +4,11 @@ title: Chương 343: Sứ giả (2)
 chapter_number: 343
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 285: Sứ giả (2)
+
+Vào lúc ban đêm, đội ngũ tiến vào một cái huyện thành.
+
+Nhưng toà này huyện thành lại có vẻ mười phần tiêu điều, cả tòa trong huyện t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

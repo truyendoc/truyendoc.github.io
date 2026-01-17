@@ -4,6 +4,11 @@ title: Chương 186
 chapter_number: 186
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ------------------------------------------------
+
+Velgrynd và tôi đứng đối mặt, cố sức tấn công hòng tìm cách chấm dứt trận chiến này.
+
+Khi đòn tấn công của ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

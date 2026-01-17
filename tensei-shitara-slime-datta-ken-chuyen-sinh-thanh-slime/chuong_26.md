@@ -4,6 +4,11 @@ title: Chương 26
 chapter_number: 26
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Shizu-san đã đi rồi.
+
+Để lại cho tôi mục tiêu duy nhất.
+
+Cho đến nay, tôi chỉ nghĩ đến việc đáp trả những ‘tia lửa’ rơi vào mình thôi, nhưng từ nay, tôi cần ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

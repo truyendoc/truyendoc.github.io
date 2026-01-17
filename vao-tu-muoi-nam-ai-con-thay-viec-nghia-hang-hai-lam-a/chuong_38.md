@@ -4,6 +4,13 @@ title: Chương 38: Mộng bức Vương San San
 chapter_number: 38
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 38: Mộng bức Vương San San
+
+Sau năm phút!
+
+Tào Côn nhìn xem ngân hàng nhắc nhở 300 vạn tới sổ tin nhắn, mỉm cười thu hồi điện thoại.
+
+Mà Hoàng Kiến nh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

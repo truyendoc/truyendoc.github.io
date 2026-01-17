@@ -4,6 +4,11 @@ title: Chương 103: tiến về Vân Thủy Phủ
 chapter_number: 103
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 103: tiến về Vân Thủy Phủ
+
+“Lâm Lão Gia, chúng ta lúc nào xuất phát?”
+
+Nhị Hổ tựa hồ không có chú ý tới Lâm Thiên Hữu đám người sắc mặt biến hóa, mở m...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

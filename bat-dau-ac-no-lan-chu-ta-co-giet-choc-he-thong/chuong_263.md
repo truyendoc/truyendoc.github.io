@@ -4,6 +4,9 @@ title: Chương 263: Chiến đi về đông cái chết (2)
 chapter_number: 263
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 245: Chiến đi về đông cái chết (2)
+
+“Đáng c·hết dâm tặc, ngươi câm miệng cho ta!” Vương thị vệ tức giận quát mắng: “Thiếu gia của chúng ta tại tám tuổ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

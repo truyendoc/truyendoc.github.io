@@ -4,6 +4,11 @@ title: Chương 231
 chapter_number: 231
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Có một phòng điều hành nằm ở tầng thấp nhất trong Mê Cung.
+
+Căn phòng có thể được gọi là trung tâm, được tạo ra để quản lý mọi thứ bên trong Mê Cung.
+
+Một mà...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

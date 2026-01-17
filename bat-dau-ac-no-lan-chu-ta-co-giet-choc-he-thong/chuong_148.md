@@ -4,6 +4,9 @@ title: Chương 148: bài trừ ở bên ngoài
 chapter_number: 148
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 148: bài trừ ở bên ngoài
+
+Nghe chút lời này, Ngu Tuyết Oánh liền biết, Liễu Tâm Xuyên là muốn chuyện lớn biến thành chuyện nhỏ chuyện nhỏ coi như khôn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

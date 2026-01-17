@@ -4,6 +4,11 @@ title: Chương 543: Lão bản là cao thủ?
 chapter_number: 543
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 543: Lão bản là cao thủ?
+
+Một giờ trưa!
+
+Biệt thự đại đường thông hướng trên lầu trên bậc thang, cuối cùng gần bốn giờ, Tào Côn cùng Từ Kiều Kiều đang...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

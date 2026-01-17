@@ -4,6 +4,11 @@ title: Chương 276
 chapter_number: 276
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Melhis, thư ký của Godama, kinh hãi tột độ.
+
+Ả còn chưa theo kịp cái cảnh tượng khủng khϊếp vừa xảy ra.
+
+Diablo đã hoàn toàn vượt xa trí tưởng tượng của Melh...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

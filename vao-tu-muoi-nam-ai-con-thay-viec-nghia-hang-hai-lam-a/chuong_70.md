@@ -4,6 +4,11 @@ title: Chương 70: Đại học khai giảng
 chapter_number: 70
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 70: Đại học khai giảng
+
+Tào Côn vốn cho rằng, bởi vì ở kiếp trước tao ngộ, hắn sẽ không lại đối người nào có cảm tình.
+
+Có thể đi thận, không thể để ý...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

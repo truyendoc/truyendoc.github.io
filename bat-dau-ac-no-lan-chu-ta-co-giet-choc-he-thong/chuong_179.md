@@ -4,6 +4,13 @@ title: Chương 179: cắt đứt
 chapter_number: 179
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 179: cắt đứt
+
+Thuấn di về Thẩm Gia.
+
+Thẩm Dục chăm chú quan sát Lệnh Hồ Châu ký ức.
+
+Cái này Lệnh Hồ Châu tại Lục Thiên Lâu lưu ly đạo phân bộ, chính ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 315: Thay Nhị hoàng tử bày mưu tính kế (2)
 chapter_number: 315
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 271: Thay Nhị hoàng tử bày mưu tính kế (2)
+
+“Báo, đại soái, thương nước sông vị cấp tốc tăng vọt, không ngoài sở liệu, ngày mai sợ là có vỡ đê phong h...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

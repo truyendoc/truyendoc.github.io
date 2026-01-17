@@ -4,6 +4,9 @@ title: Chương 186: lại là Thần Liên Đạo
 chapter_number: 186
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 186: lại là Thần Liên Đạo
+
+“Thẩm Tổng Kỳ, hôm nay may mắn mà có ngươi, không phải vậy chúng ta ở đây những người này sợ là đều muốn rơi vào đám tặc tử...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 33: Không biết
 chapter_number: 33
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đêm đó, Lục Thanh cuối cùng cũng được một giấc ngủ yên lành.
+Sáng hôm sau, sau khi ăn sáng, hắn dắt Tiểu Nhan ra sông câu cá.
+Lần này, hắn nhận ra người đến ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

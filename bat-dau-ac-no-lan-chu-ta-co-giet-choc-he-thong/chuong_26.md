@@ -4,6 +4,13 @@ title: Chương 26: Lư Gia cùng Trần Gia sợ
 chapter_number: 26
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 26 Lư Gia cùng Trần Gia sợ
+
+Thẩm Gia, trung viện.
+
+Ngũ Tiểu Chích ngay tại ra sức tu luyện.
+
+Nhị Hổ thì đứng tại Thẩm Dục bên người ra sức giảng thuật...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

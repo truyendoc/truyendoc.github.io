@@ -4,6 +4,9 @@ title: Chương 713: Hèn hạ Cường Mỹ tập đoàn
 chapter_number: 713
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 713: Hèn hạ Cường Mỹ tập đoàn
+
+Nghe Tào Côn nói như thế sát có việc, mà lại ngôn từ ở giữa cũng như thế thành khẩn, Lý Đại Lượng trong lúc nhất thời c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

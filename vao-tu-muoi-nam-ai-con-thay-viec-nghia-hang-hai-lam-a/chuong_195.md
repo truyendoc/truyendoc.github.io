@@ -4,6 +4,13 @@ title: Chương 195: Ác độc phụ nhân
 chapter_number: 195
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 195: Ác độc phụ nhân
+
+Bốn giờ rưỡi chiều!
+
+Tại Ngốc Cẩu nâng đỡ, Lưu Nguyệt đi ra quán bar.
+
+Quay đầu nhìn thoáng qua sau lưng quán bar, thời khắc này...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

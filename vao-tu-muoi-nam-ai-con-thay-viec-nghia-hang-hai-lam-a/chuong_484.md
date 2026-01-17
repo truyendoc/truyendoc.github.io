@@ -4,6 +4,12 @@ title: Chương 484: Hắn vẫn còn con nít a
 chapter_number: 484
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 484: Hắn vẫn còn con nít a
+
+Khoái hoạt cái rắm!
+
+Nhi tử bị người đánh thành cái kia bức dạng, khuôn mặt xinh đẹp nếu có thể khoái hoạt, chỉ thấy quỷ!
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

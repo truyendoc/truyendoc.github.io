@@ -4,6 +4,9 @@ title: Chương 336: Lần nữa nhảy lầu Bốc Hạnh Phúc
 chapter_number: 336
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 336: Lần nữa nhảy lầu Bốc Hạnh Phúc
+
+Theo Tào Côn câu nói này mở miệng, trong phòng trong nháy mắt liền lâm vào vắng lặng một cách c·hết chóc bên tron...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

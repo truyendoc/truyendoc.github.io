@@ -4,6 +4,9 @@ title: Chương 57
 chapter_number: 57
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chuyến hành trình đến Vương quốc Ingracia diễn ra suôn sẻ.
+
+Tôi triệu hồi Ranga, bảo cậu ta hóa nhỏ, rồi lên cưỡi. Tôi ngồi lên một bộ giáp hình yên chuyên d...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 139
 chapter_number: 139
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Hội Đồng là một khối gồm nhiều quốc gia xung quanh rừng đại ngàn Jura.
+
+Các đại biểu được bầu từ mỗi quốc gia, và hàng tháng đều có một...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

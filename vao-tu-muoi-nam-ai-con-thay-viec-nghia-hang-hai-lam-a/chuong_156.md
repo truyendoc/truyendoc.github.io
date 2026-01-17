@@ -4,6 +4,11 @@ title: Chương 156: Trống rỗng tạo ra nhị thúc
 chapter_number: 156
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 156: Trống rỗng tạo ra nhị thúc
+
+Gặp Lưu Giai Mẫn cùng Tôn Trạch Thành đều ăn no rồi, Tào Côn lần nữa hỏi vấn đề kia.
+
+\"Tôn thúc, Lưu di, Tôn Vĩ hắn đ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

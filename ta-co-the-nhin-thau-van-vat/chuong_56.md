@@ -4,6 +4,9 @@ title: Chương 56: Luyện đao
 chapter_number: 56
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Đêm hôm đó, sau khi Tiểu Nhan đã ngủ say và con thú đen nhỏ cũng được cho ăn,
+Lục Thanh thắp đèn dầu, lấy ra bí tịch “Tứ Phương Đao”.
+Cần nói thêm rằng, tối ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

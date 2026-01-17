@@ -4,6 +4,11 @@ title: Chương 228: Ai, gian phu
 chapter_number: 228
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 228: Ai, gian phu
+
+Thời gian nhoáng một cái, bất tri bất giác liền đi tới giữa trưa 11:30!
+
+Gần hai giờ đi dạo xuống tới, Tào Côn đơn giản đối căn biệ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

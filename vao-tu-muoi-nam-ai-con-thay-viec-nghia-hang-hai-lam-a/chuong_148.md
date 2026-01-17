@@ -4,6 +4,11 @@ title: Chương 148: Làm cho người cảm động hảo huynh đệ
 chapter_number: 148
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 148: Làm cho người cảm động hảo huynh đệ
+
+Sáng sớm!
+
+Bên trong phòng mướn, cho Lưu Hồng làm một trái trứng bạch chất mặt màng về sau, Tào Côn khẽ hát ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

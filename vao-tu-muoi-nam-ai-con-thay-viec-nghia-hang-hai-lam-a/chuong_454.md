@@ -4,6 +4,11 @@ title: Chương 454: Lại thêm 80 ức
 chapter_number: 454
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 454: Lại thêm 80 ức
+
+Nhìn thấy Liễu Truyền Sĩ cùng Liễu Truyền Tâm hai người vào cửa, Tiêu Văn Tĩnh tự nhiên là không cho cái gì tốt sắc mặt.
+
+Mà Tào ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,8 @@ title: Chương 166: Nhận sư phụ
 chapter_number: 166
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đây đúng là việc đáng mừng, mà ta cũng chẳng có gì quý giá,” Lục Thanh lấy ra một bình thuốc bằng sứ trắng, ném về phía Mã Cố.
+Mã Cố thoáng giật mình, vội v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

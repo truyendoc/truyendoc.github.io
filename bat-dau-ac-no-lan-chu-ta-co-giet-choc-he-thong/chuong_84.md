@@ -4,6 +4,13 @@ title: Chương 84: nghĩa quân
 chapter_number: 84
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 84 nghĩa quân
+
+“Hưu!”
+
+Một mũi tên bay vụt ra hơn một trăm mét, sau đó đem một cái đang chạy màu xám thỏ rừng đóng đinh tại mặt đất.
+
+Mũi tên này chín...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

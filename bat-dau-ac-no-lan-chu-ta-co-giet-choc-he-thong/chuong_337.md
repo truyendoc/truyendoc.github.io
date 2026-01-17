@@ -4,6 +4,9 @@ title: Chương 337: Tân hoàng Khai Nguyên (2)
 chapter_number: 337
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 282: Tân hoàng Khai Nguyên (2)
+
+Nhưng bây giờ, cũng không có bất kỳ người nào ngăn cản hắn, đã nói lên hắn phụ hoàng không tiếp tục can thiệp triều ch...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

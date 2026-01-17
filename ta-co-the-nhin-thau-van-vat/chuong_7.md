@@ -4,6 +4,8 @@ title: Chương 7: Cá chiên
 chapter_number: 7
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thấy mỡ trên phiến đá đã sôi, Lục Thanh cẩn thận gắp từng con cá nhỏ đặt lên, bắt đầu chiên chậm rãi.
+Thực ra, nếu thêm một chút muối vào mỡ trước khi chiên ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

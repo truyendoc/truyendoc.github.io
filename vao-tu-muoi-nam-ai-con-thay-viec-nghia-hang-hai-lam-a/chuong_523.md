@@ -4,6 +4,11 @@ title: Chương 523: Bến tàu niên kỉ sẽ
 chapter_number: 523
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 523: Bến tàu niên kỉ sẽ
+
+\"Nói một cách khác, mẹ ngươi cùng ngươi ba người tỷ tỷ bản án, bây giờ bị không biết bao nhiêu ánh mắt nhìn chằm chằm đâu.\"
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

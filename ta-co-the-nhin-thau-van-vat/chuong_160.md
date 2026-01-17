@@ -4,6 +4,9 @@ title: Chương 160: Tiêu diệt toàn bộ
 chapter_number: 160
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đại ca!”
+Nhìn Hắc Lang dựa lưng vào gốc cây, ngồi sụp xuống với thân hình gục rũ, tất cả thành viên Hắc Lang Bang không khỏi hét lên thất thanh.
+Trong lòng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

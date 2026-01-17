@@ -4,6 +4,9 @@ title: Chương 37: Tổ truyền chuỗi hạt
 chapter_number: 37
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 37: Tổ truyền chuỗi hạt
+
+So sánh với Hoàng Kiến nhân mụ mụ, Hoàng Kiến nhân ba ba dù sao tại sinh ý trên trận kinh lịch không ít sóng gió, vẫn là có đ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

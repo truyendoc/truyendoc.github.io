@@ -4,6 +4,11 @@ title: Chương 346: Loạn thất bát tao ngành giải trí
 chapter_number: 346
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 346: Loạn thất bát tao ngành giải trí
+
+Kỳ thật, không đơn giản Lam Khả Tâm hiếu kì, liền ngay cả Tào Côn cũng tò mò!
+
+Bởi vì, hắn cũng không biết trận...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

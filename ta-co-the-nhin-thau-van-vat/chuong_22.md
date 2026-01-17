@@ -4,6 +4,9 @@ title: Chương 22: Viên Thạch Ngư
 chapter_number: 22
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Viên Thạch Ngư trong cổ họng cá Giáp Xanh vẫn chưa được Lục Thanh lấy ra lúc Đại An còn ở đó.
+Không phải hắn keo kiệt hay giấu giếm,
+mà thật sự khó giải thíc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

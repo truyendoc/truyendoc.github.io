@@ -4,6 +4,9 @@ title: Chương 206: Thay đổi
 chapter_number: 206
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Trần lão y và Lục công tử, thầy trò hai người quả thật đều là nhân vật phi phàm!”
+Ngụy Tinh Hà than nhẹ một tiếng rồi im lặng.
+Chủ tớ hai người chỉ ngồi đó,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 335: Vợ ngươi chính là loại tình huống này
 chapter_number: 335
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 335: Vợ ngươi chính là loại tình huống này
+
+Nếu như nói, Tào Côn vừa rồi hỏi mình nàng dâu thế nào, Bốc Hạnh Phúc không có phát giác được dị thường.
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

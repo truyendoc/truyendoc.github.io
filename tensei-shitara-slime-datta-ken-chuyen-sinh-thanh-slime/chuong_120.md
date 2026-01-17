@@ -4,6 +4,13 @@ title: Chương 120
 chapter_number: 120
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Gobuta về rồi.
+
+Căn cứ vào tình trạng thảm hại của cậu ta thì có vẻ như là bị Milim dần cho ra bã.
+
+Cậu ta mạnh thêm tí nào chưa? Tôi c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

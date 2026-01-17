@@ -4,6 +4,13 @@ title: Chương 225: đến Kinh Thành
 chapter_number: 225
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 225: đến Kinh Thành
+
+“Phạm Lão ngươi không sao chứ?”
+
+Nghe được Phạm Lão lời nói, Ngu Tuyết Oánh mới thu hồi ánh mắt, sau đó mở miệng dò hỏi.
+
+“Không ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

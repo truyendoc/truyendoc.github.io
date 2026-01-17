@@ -4,6 +4,9 @@ title: Chương 327: Cao nhan trị nữ sát thủ
 chapter_number: 327
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 327: Cao nhan trị nữ sát thủ
+
+Nếu như nói, trùng sinh đến nay, có chỗ nào là để Tào Côn tương đối không quá thích ứng, vậy khẳng định không ở ngoài bố...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

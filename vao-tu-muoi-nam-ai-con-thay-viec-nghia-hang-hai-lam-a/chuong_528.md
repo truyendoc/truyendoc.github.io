@@ -4,6 +4,11 @@ title: Chương 528: Nhân gian tốt khuê mật
 chapter_number: 528
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 528: Nhân gian tốt khuê mật
+
+Nhanh như vậy liền phán tử hình?
+
+Nhìn thấy trên điện thoại di động xuất hiện cái này tin tức pop-up, Tào Côn biểu lộ tho...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

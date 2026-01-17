@@ -4,6 +4,11 @@ title: Chương 169
 chapter_number: 169
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------
+
+Nhận lệnh của Yuuki, Kagari ngay lập tức thi hành.
+
+Cùng ngày hôm đó, 300 binh sĩ thuộc đội quân cá nhân của Yuuki tập hợp t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

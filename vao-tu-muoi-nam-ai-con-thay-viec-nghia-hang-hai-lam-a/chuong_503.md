@@ -4,6 +4,11 @@ title: Chương 503: Nàng là cái không từ thủ đoạn nữ nhân
 chapter_number: 503
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 503: Nàng là cái không từ thủ đoạn nữ nhân
+
+\"Thế nào, ngươi vẫn tốt chứ, có cần hay không ta đưa ngươi đưa về trường học?\"
+
+Từ Lam Kỳ khách sạn sau kh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

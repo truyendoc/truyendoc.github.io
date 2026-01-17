@@ -4,6 +4,10 @@ title: Chương 198: Vào phủ trị thương
 chapter_number: 198
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Xe bò dừng lại trước cổng Ngụy phủ, được hộ tống long trọng bởi đội Ngân giáp vệ đông đảo.
+“Mẫu thân, xuống xe đi.”
+Ngụy Tử An bước lên, đỡ mẹ mình xuống.
+Ha...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

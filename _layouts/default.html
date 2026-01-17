@@ -4,7 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | {{ site.title }}</title>
+    <!-- SEO Tags -->
+    {% seo %}
+    {% if page.url == "/" %}
+    <meta name="description"
+        content="Truyện Đọc - Kho truyện convert cập nhật tự động. Đọc truyện online miễn phí với giao diện đẹp, tốc độ nhanh.">
+    <meta property="og:title" content="Truyện Đọc - Kho truyện convert cập nhật tự động">
+    <meta property="og:description"
+        content="Truyện Đọc - Kho truyện convert cập nhật tự động. Đọc truyện online miễn phí với giao diện đẹp, tốc độ nhanh.">
+    {% endif %}
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

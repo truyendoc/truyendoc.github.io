@@ -4,6 +4,10 @@ title: Chương 311: Coi như vì ta nhi tử tích đức
 chapter_number: 311
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 311: Coi như vì ta nhi tử tích đức
+
+Đối mặt Trương Uyển Thanh quăng tới xin giúp đỡ ánh mắt, Tào Côn ngậm lấy điếu thuốc, tựa như là không nhìn thấy.
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 397: Gặp được phiền phức Tiêu Văn Tĩnh
 chapter_number: 397
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 397: Gặp được phiền phức Tiêu Văn Tĩnh
+
+Sáng sớm hôm sau, một tuần mới đã đến bắt đầu.
+
+Giống như ngày thường, bên trong phòng mướn, vẫn như cũ là Mã ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

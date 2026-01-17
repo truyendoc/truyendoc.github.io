@@ -4,6 +4,9 @@ title: Chương 348: Duy nhất cứu tinh, Tào Côn
 chapter_number: 348
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 348: Duy nhất cứu tinh, Tào Côn
+
+Nghe được Vương Nhất Phu miệng bên trong toát ra câu nói này, giờ khắc này, Vương San San đơn giản nghĩ cúp điện thoạ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

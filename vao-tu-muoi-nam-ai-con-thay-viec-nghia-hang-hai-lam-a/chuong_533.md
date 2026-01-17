@@ -4,6 +4,9 @@ title: Chương 533: Lại tiếp một trận tang lễ sống
 chapter_number: 533
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 533: Lại tiếp một trận tang lễ sống
+
+Gặp Trương Bách Mộ tuyệt không quan tâm muốn cùng mình chia đều Trương gia, Tào Côn cũng không cùng hắn khách khí...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

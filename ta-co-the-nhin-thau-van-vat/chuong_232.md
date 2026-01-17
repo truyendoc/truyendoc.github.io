@@ -4,6 +4,10 @@ title: Chương 232: Phôi Kiếm Thần Binh
 chapter_number: 232
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Hậu viện Chúc Tâm Phường tĩnh lặng.
+Mọi người chăm chú nhìn về vị trí lò số một.
+Tại đó, Lâm sư phụ thở hổn hển, mồ hôi nhễ nhại, trông như sắp ngã quỵ.
+Dù t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

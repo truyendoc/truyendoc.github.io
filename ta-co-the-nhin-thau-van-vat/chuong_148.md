@@ -4,6 +4,8 @@ title: Chương 148: Tiên thiên (2)
 chapter_number: 148
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trần lão y đã uống Địa Mạch Linh Dịch, sinh cơ trong cơ thể dồi dào, khí huyết sung mãn, thân thể không có tổn hao, Khí Khiếu đã sớm trở nên lỏng mở.
+Vì vậy,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

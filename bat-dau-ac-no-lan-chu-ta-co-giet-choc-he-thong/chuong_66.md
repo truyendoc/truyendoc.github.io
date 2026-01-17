@@ -4,6 +4,11 @@ title: Chương 66: nện mộng Thẩm Huy
 chapter_number: 66
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 66 nện mộng Thẩm Huy
+
+Thẩm Huy gật gật đầu: “Đã ăn rồi.”
+
+Thẩm Huy mặc dù đi đầu quân, nhưng hắn ở lại sườn đông viện một mực có nha hoàn lưu thủ, qué...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,10 @@ title: Chương 1: Đôi mắt nhìn thấu vạn vật
 chapter_number: 1
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ọc… ọc…”
+Sáng sớm, Lục Thanh tỉnh dậy vì tiếng bụng đói réo vang.
+Cảm nhận cơn đói cồn cào trong bụng, hắn thở dài, đưa tay xoa nhẹ nơi dạ dày.
+“Có kêu thế ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

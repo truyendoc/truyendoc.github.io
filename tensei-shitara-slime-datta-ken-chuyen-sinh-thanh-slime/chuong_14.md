@@ -4,6 +4,11 @@ title: Chương 14
 chapter_number: 14
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Quốc gia Vũ trang Dwargon.
+
+Chính là Vương quốc của Dwarf.
+
+Đã 1000 năm trôi qua kể từ khi Đức vua Anh hùng Dwarf đầu tiên, vua Guran Dwargon, xây dựng nên đ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

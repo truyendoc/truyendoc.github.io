@@ -4,6 +4,15 @@ title: Chương 180: trảm thảo trừ căn
 chapter_number: 180
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 180: trảm thảo trừ căn
+
+“Xoát!”
+
+Thẩm Dục biến mất tại nguyên chỗ.
+
+Xuất hiện lần nữa, đã tiến vào một tòa cung điện xa hoa nội bộ.
+
+Tòa cung điện này...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

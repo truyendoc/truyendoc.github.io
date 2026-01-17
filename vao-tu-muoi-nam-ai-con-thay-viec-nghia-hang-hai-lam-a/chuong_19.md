@@ -4,6 +4,11 @@ title: Chương 19: Ngươi thật biết vợ ngươi là hạng người gì s
 chapter_number: 19
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 19: Ngươi thật biết vợ ngươi là hạng người gì sao
+
+Nếu như hỏi Tào Côn muốn nhất trả thù người là ai?
+
+Như vậy, số một khẳng định là Vương San San một...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 118: Vừa thất tình đại soái bức
 chapter_number: 118
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 118: Vừa thất tình đại soái bức
+
+Coi là Từ Kiều Kiều đã tại trong âm thầm cùng Bạch Tĩnh trò chuyện tốt, muốn chuyển tới ở đâu, Tào Côn vội vàng mở mi...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 196: Cuồn cuộn sóng ngầm, Chu Lôi chết
 chapter_number: 196
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 196: Cuồn cuộn sóng ngầm, Chu Lôi chết
+
+Đợi đến Tào Côn từ quán bar trở lại phòng trọ thời điểm, Từ Kiều Kiều đã trước hắn một bước tới.
+
+Ngoại trừ Từ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

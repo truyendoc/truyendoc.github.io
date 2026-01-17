@@ -4,6 +4,13 @@ title: Chương 266: Giao thủ Thiên hộ (1)
 chapter_number: 266
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 247: Giao thủ Thiên hộ (1)
+
+Sáng sớm hôm sau.
+
+Thẩm Dục mang theo nghị định bổ nhiệm tiến về Tây Ngũ Khu báo đến.
+
+Tây Ngũ Khu Thiên hộ tên là Dạ Minh...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

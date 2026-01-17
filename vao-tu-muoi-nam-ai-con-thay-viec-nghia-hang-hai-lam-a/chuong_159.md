@@ -4,6 +4,13 @@ title: Chương 159: Thần tiên công việc
 chapter_number: 159
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 159: Thần tiên công việc
+
+Hơn hai mươi phút sau!
+
+Nhà khách trong phòng, Lưu Giai Mẫn thu thập xong.
+
+Cùng vừa rồi cái kia đồi phế dáng vẻ so, thời kh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

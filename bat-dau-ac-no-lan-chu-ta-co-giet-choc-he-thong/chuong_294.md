@@ -4,6 +4,11 @@ title: Chương 294: Đại nhân cần thuộc hạ dìu ngươi sao (1)
 chapter_number: 294
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 261: Đại nhân cần thuộc hạ dìu ngươi sao (1)
+
+Một ngày một đêm đi qua.
+
+Giờ phút này, chi này tiến về Nam Cương đội ngũ đã rời đi Kinh thành khoảng ch...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

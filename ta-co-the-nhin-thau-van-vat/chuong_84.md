@@ -4,6 +4,10 @@ title: Chương 84: Trở về
 chapter_number: 84
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ông ơi, ông ơi! A Thanh về rồi!”
+Vừa vào đến làng, Đại An chạy một mạch đến từ đường sáng đèn rồi hét lớn.
+“Gì cơ, A Thanh về rồi à?”
+“A Thanh không sao chứ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

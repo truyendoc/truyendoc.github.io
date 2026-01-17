@@ -4,6 +4,11 @@ title: Chương 284: Ta thế nhưng là truyền thống bảo thủ nữ nhân
 chapter_number: 284
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 284: Ta thế nhưng là truyền thống bảo thủ nữ nhân
+
+Hoắc!
+
+Gặp Lam Khả Tâm một chút đem Tiêu Văn Tĩnh cho liên lụy tiến đến, Tào Côn liên rút khói động...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

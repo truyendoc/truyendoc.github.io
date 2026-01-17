@@ -4,6 +4,9 @@ title: Chương 153: Thợ quay phim Lữ Đại Bằng
 chapter_number: 153
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 153: Thợ quay phim Lữ Đại Bằng
+
+Giống như là có tật giật mình, Cao Đình Đình đi vào phòng chứa đồ về sau, bận bịu đóng cửa lại, đập lên mình bộ ngực p...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

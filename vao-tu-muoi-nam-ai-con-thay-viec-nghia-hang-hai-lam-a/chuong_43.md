@@ -4,6 +4,9 @@ title: Chương 43: Bị để mắt tới Tào liếm chó
 chapter_number: 43
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 43: Bị để mắt tới Tào liếm chó
+
+Gian phòng bên trong, Tào Côn toàn bộ hành trình nhìn xem mẹ con này ân đoạn nghĩa tuyệt một màn, kém chút không có vỗ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

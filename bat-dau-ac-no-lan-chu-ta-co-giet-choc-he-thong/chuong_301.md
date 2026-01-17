@@ -4,6 +4,11 @@ title: Chương 301: Hoàng đế lại tìm đường chết (2)
 chapter_number: 301
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 264: Hoàng đế lại tìm đường chết (2)
+
+Huống chi, hiện tại Đại Diễm Quốc đã bệnh nguy kịch.
+
+Hoàng đế hạ đạt mệnh lệnh như vậy, chẳng phải là buộc kia ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

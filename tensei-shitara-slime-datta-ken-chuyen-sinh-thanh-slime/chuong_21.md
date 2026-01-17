@@ -4,6 +4,11 @@ title: Chương 21
 chapter_number: 21
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Cuối cùng chúng tôi cũng về đến làng.
+
+Chúng tôi rời làng chỉ mới 2 tuần thôi, nhưng đã cảm thấy nhớ rồi.
+
+Mà, thay vì ngôi làng, nó trông như một quảng trườ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

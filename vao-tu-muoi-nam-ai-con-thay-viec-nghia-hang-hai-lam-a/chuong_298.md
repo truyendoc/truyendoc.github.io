@@ -4,6 +4,11 @@ title: Chương 298: Quyển nhật ký tới tay
 chapter_number: 298
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 298: Quyển nhật ký tới tay
+
+\"Ngươi đêm nay liền muốn cái kia quyển nhật ký?\"
+
+Từ Lâm Thi Hàm văn phòng sau khi ra ngoài, Tào Côn trực tiếp liền trở về...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

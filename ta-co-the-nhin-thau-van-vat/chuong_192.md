@@ -4,6 +4,8 @@ title: Chương 192: Chiến đấu (3)
 chapter_number: 192
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ta… ta không nhìn lầm đấy chứ? Tiểu tử kia thật sự có thể đấu ngang với sư huynh đến mức này ư?”
+“Ngay cả sư huynh đã thi triển Bí Pháp Bạo Thể mà vẫn không...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

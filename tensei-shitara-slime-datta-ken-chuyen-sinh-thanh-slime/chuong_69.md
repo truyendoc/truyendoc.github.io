@@ -4,6 +4,17 @@ title: Chương 69
 chapter_number: 69
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: 3 ngày đã trôi qua.
+
+Shion vẫn ngủ lì chưa dậy.
+
+Ngủ nhiều quá không tốt đâu nha, tôi muốn cô dậy ngay cho tôi.
+
+......
+
+Tôi biết.
+
+Tôi biết cô ấy sẽ không b...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

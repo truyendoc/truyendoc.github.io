@@ -4,6 +4,11 @@ title: Chương 155
 chapter_number: 155
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ----------------------------------------
+
+Mọi ma vật trên chiến địa đều dành cả tâm hồn mình vào những lời chủ nhân của họ.
+
+Người thống trị tuyệt đối mà họ ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

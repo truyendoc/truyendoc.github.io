@@ -4,6 +4,15 @@ title: Chương 183: bị dọa sợ Chiến Đông Lai
 chapter_number: 183
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 183: bị dọa sợ Chiến Đông Lai
+
+“Khống hồn thuật!”
+
+Hai đạo hồn quang cách không rơi vào hai tên thám tử thức hải.
+
+Trong chớp mắt.
+
+Ánh mắt của bọn hắ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

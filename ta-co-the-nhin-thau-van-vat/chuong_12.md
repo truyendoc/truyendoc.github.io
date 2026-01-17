@@ -4,6 +4,8 @@ title: Chương 12: Bánh củ mài và sợi dây bền chắc
 chapter_number: 12
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh tỉnh dậy sau giấc ngủ sâu, âm thanh đầu tiên hắn nghe được là tiếng cười vui vẻ của Tiểu Nhan.
+Hắn nhìn xuống người mình — những cây kim bạc đã...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,13 @@ title: Chương 101: cậu tới
 chapter_number: 101
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 101: cậu tới
+
+Mua xuống tòa này quan viên phủ đệ sau.
+
+Thẩm Gia đi vào Phủ Thành sau, cũng coi là có an thân đặt chân chỗ.
+
+Thế là, hắn lại ra khỏi th...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

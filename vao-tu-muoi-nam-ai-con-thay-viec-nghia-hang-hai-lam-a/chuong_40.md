@@ -4,6 +4,9 @@ title: Chương 40: Ngu xuẩn nữ nhi
 chapter_number: 40
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 40: Ngu xuẩn nữ nhi
+
+Mặc dù Bạch Tĩnh lúc trước thời điểm, nói với Vương San San qua không muốn mình cái kia một nửa gia sản, thế nhưng là, lại thế nà...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

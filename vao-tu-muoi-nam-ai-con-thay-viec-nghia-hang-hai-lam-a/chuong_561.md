@@ -4,6 +4,9 @@ title: Chương 561: Đời thứ nhất tình nhân, Khương Mẫn
 chapter_number: 561
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 561: Đời thứ nhất tình nhân, Khương Mẫn
+
+Gian phòng bên trong, làm Lưu Kim Thành từ Tào Côn trong điện thoại di động, nghe được Trịnh Nguyên Sinh cái ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

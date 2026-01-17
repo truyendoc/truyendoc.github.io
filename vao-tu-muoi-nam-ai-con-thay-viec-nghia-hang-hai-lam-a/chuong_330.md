@@ -4,6 +4,11 @@ title: Chương 330: Cho Hạng Nam Nguyệt giáo huấn
 chapter_number: 330
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 330: Cho Hạng Nam Nguyệt giáo huấn
+
+Theo cùng Tào Côn lần này trò chuyện, Hạng Nam Nguyệt cuối cùng là biết sự tình toàn bộ quá trình.
+
+Quách gia hai ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

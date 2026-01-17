@@ -4,6 +4,13 @@ title: Chương 202: Mông Thị huynh đệ
 chapter_number: 202
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 202: Mông Thị huynh đệ
+
+Sáng sớm hôm sau.
+
+Thẩm Dục ăn sáng xong, liền Triều Trấn yêu ti mà đến.
+
+Sau đó triệu tập dưới trướng năm cái tiểu kỳ, an bài...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

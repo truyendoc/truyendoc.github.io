@@ -4,6 +4,9 @@ title: Chương 203: Ly Hỏa Tông
 chapter_number: 203
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Quả nhiên nguồn gốc của Ly Hỏa Đỉnh vô cùng cổ xưa.”
+Sau khi tiếp nhận truyền thừa, Lục Thanh đã hiểu rõ hơn về lai lịch của đại đỉnh này.
+Ly Hỏa Đỉnh xuất ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

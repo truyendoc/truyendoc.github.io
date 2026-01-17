@@ -4,6 +4,9 @@ title: Chương 83: thụ đả kích Vương Tâm Thiền
 chapter_number: 83
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 83 thụ đả kích Vương Tâm Thiền
+
+Đưa tiễn đại ca Vương Uyên sau, bị quở trách quở trách một trận Vương Tâm Thiền lại là càng nghĩ càng biệt khuất, sau ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

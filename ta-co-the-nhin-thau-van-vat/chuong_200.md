@@ -4,6 +4,9 @@ title: Chương 200: Tiệc rượu
 chapter_number: 200
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Trần lão y rút luồng kiếm khí ra khỏi kinh mạch của Ngụy Sơn Hải,
+Lục Thanh và Ngụy Tinh Hà đều trông thấy một cảnh tượng kỳ lạ.
+Trên đầu ngón tay của Tr...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

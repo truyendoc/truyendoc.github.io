@@ -4,6 +4,13 @@ title: Chương 414: Mở chép mở chép
 chapter_number: 414
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 414: Mở chép mở chép
+
+Kỳ thật, đừng nói Lý Song mà cảm động.
+
+Liền ngay cả Ngốc Cẩu các loại Mã Trường Ninh, đều nhìn có chút không rõ.
+
+Cần thiết hay...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 92: Thung lũng
 chapter_number: 92
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Một nơi đặc biệt sao?”
+Tiểu Ly nghiêng đầu, đôi mắt ngơ ngác nhìn Lục Thanh, rõ ràng không hiểu hắn đang nói gì.
+Thấy vậy, Lục Thanh suy nghĩ một chút rồi g...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

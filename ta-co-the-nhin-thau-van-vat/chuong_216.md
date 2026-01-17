@@ -4,6 +4,7 @@ title: Chương 216: Rèn binh khí
 chapter_number: 216
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ngụy tổng quản đã nói, Lục công tử là thượng khách của Ngụy phủ, lại rất hứng thú với nghề đúc khí, nên muốn đến xem thử lò rèn giỏi nhất trong huyện. Vì vậ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

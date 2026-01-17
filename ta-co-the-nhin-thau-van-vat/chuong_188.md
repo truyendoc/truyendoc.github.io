@@ -4,6 +4,10 @@ title: Chương 188: Thân phận bại lộ
 chapter_number: 188
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi bình minh hé rạng, mặt trời bắt đầu nhô lên từ phương đông.
+“Đẹp quá!”
+Ngồi trên xe bò, Tiểu Nhan không khỏi thốt lên kinh ngạc.
+Lúc này, Lục Thanh và mọ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

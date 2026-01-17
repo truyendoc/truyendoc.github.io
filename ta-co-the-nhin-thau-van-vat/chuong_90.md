@@ -4,6 +4,8 @@ title: Chương 90: Nhân sâm hai trăm năm
 chapter_number: 90
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tiểu Ly, chỗ này chính là nơi ngươi tìm thấy nhân sâm phải không?” — Lục Thanh vừa quan sát xung quanh, vừa hỏi con linh thú nhỏ đang đậu trên vai mình.
+Lúc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

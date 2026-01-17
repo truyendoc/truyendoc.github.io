@@ -4,6 +4,11 @@ title: Chương 4: Xuân Nha cùng Đông Nhi
 chapter_number: 4
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 4 Xuân Nha cùng Đông Nhi
+
+Thu hồi bảng hệ thống, Thẩm Dục đi ra tiền viện đại sảnh.
+
+Vừa vặn nhìn thấy cách đó không xa trốn tránh một thiếu niên gia ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

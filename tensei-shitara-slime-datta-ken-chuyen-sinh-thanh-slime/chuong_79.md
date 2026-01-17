@@ -4,6 +4,11 @@ title: Chương 79
 chapter_number: 79
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Clayman đang ở trong trạng thái hoảng loạn chưa từng có.
+
+Con người đã hành động theo đúng kế hoạch của hắn.
+
+Kết quả là sẽ có 1 cuộc chiến đẫm máu, chỉ có s...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

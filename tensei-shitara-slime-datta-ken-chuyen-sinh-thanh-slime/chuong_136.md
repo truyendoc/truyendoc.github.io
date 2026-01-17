@@ -4,6 +4,11 @@ title: Chương 136
 chapter_number: 136
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Thuộc hạ của Leon, một hiệp sĩ trong trang phục màu bạc, Alrose đột nhiên xuất hiện trước mặt tôi. Khi vừa đến xong,
+
+「Leon-sama đang t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

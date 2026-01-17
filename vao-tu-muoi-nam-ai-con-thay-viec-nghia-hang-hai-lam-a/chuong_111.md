@@ -4,6 +4,9 @@ title: Chương 111: Ngươi bị đùa bỡn
 chapter_number: 111
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 111: Ngươi bị đùa bỡn
+
+Nếu không phải Dương Tam đao là Tào Côn năm đó ở trong ngục giam tiểu đệ, cùng hắn kỹ càng nói qua Lưu Hồng cái này sàn đêm tru...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

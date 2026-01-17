@@ -4,6 +4,15 @@ title: Chương 190: Thi Quỷ
 chapter_number: 190
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 190: Thi Quỷ
+
+Trở lại Trấn Yêu Tư Không lâu.
+
+Thẩm Dục liền nghe đến một tin tức.
+
+Mới tới thiên hộ Chiến Đông Lai bị điều đi.
+
+Thay thế hắn mới thiên...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

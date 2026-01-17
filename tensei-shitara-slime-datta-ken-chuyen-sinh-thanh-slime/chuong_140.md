@@ -4,6 +4,11 @@ title: Chương 140
 chapter_number: 140
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Bánh hôm qua ngon tuyệt vời.
+
+Thế nên chắc là tôi sẽ lại ghé qua để hồi phục lại cho tinh thần mệt nhoài sau một cuộc họp căng thẳng mớ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 138
 chapter_number: 138
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Sau khi Yuuki chuồn mất thì chúng tôi cũng không thể lùng theo ngay được.
+
+Người ta nói rồi: đi đâu mà vội mà vàng, mà vấp phải đá, mà ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

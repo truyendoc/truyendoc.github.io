@@ -4,6 +4,9 @@ title: Chương 333: Ta muốn lớn lên (2)
 chapter_number: 333
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 280: Ta muốn lớn lên (2)
+
+Hai nữ cùng nhau quỳ rạp xuống đất: “Ân nhân, còn mời ngài thu lưu tỷ muội chúng ta, tỷ muội chúng ta bằng lòng lưu tại ngài...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

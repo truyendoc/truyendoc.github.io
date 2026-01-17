@@ -4,6 +4,11 @@ title: Chương 108: Đi nhà ta, dám sao?
 chapter_number: 108
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 108: Đi nhà ta, dám sao?
+
+Cái gì?
+
+Làm Lưu Hồng nói ra, cái kia có thể xưng Liễu Hạ Huệ chuyển thế nam nhân, chính là Tào Côn thời điểm, Bạch Tĩnh cùn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

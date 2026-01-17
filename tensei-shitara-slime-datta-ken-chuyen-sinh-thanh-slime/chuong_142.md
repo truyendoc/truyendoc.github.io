@@ -4,6 +4,13 @@ title: Chương 142
 chapter_number: 142
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Tôi nhìn thanh kiếm và bị nó cuốn hút.
+
+Nó không phải là một thanh Tachi bất thường, không quá nhỏ hay quá lớn.
+
+Nó cũng không đủ lớn đ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 191: Tâm ngoan thủ lạt mới là bản tính của ta
 chapter_number: 191
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 191: Tâm ngoan thủ lạt mới là bản tính của ta
+
+Gặp Chu Lôi đã nhận, đầu trọc khóe miệng một chút liền khống chế không nổi toét ra.
+
+Giờ phút này, hắn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 252: Xa xỉ một ngày
 chapter_number: 252
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 252: Xa xỉ một ngày
+
+Đợi cho đem sau khi xe dừng lại.
+
+Từ Kiều Kiều nhìn xem Tào Côn, hì hì cười một tiếng, nói: \"Thế nào, ta đoạn đường này mở tạm đư...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

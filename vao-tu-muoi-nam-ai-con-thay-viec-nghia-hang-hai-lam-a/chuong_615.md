@@ -4,6 +4,11 @@ title: Chương 615: Vạn người không được một luyện võ kỳ tài
 chapter_number: 615
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 615: Vạn người không được một luyện võ kỳ tài
+
+Nếu như nói, lần trước lúc gặp mặt, Dương Bình đối với Tào Côn kính sợ độ là 80.
+
+Như vậy hiện tại, Dươ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

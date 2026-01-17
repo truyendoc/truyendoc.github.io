@@ -4,6 +4,11 @@ title: Chương 409: Tiêu Văn Tĩnh tới cửa xin giúp đỡ
 chapter_number: 409
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 409: Tiêu Văn Tĩnh tới cửa xin giúp đỡ
+
+Sáu giờ chiều!
+
+Bát Quốc Công quán lầu ba, Tào Côn chuyên môn gian phòng bên trong, tại không thể miêu tả sau ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

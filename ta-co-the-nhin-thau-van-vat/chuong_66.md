@@ -4,6 +4,10 @@ title: Chương 66: Tỉnh lại
 chapter_number: 66
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thiếu gia! Thiếu gia!”
+Tổng quản họ Ngụy thấy mí mắt Ngụy công tử khẽ động liền gọi khẽ.
+Cuối cùng, sau tiếng gọi ấy, Ngụy công tử từ từ mở mắt.
+Ban đầu ánh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

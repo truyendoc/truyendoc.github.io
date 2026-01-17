@@ -4,6 +4,9 @@ title: Chương 209: Tiết Linh Đồng lôi kéo phương thức
 chapter_number: 209
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 209: Tiết Linh Đồng lôi kéo phương thức
+
+Nhìn thấy đã trổ mã đến một bộ mỹ nhân cùng nhau Tiết Ngạo Huyên, Tiết Linh Đồng cười nói: “Ngươi tới được ch...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

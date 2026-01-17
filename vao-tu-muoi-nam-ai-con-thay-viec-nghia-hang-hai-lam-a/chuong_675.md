@@ -4,6 +4,11 @@ title: Chương 675: Tiêu Văn Bân đã chết
 chapter_number: 675
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 675: Tiêu Văn Bân đã chết
+
+Mặc dù Áo Uy quốc tế là một nhà tổng bộ ở vào nước Mỹ sinh vật chế dược công ty.
+
+Nhưng là, cái này cũng không ảnh hưởng nó...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

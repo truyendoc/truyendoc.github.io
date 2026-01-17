@@ -4,6 +4,8 @@ title: Chương 246: Luyện đao
 chapter_number: 246
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đệ tử cũng thắc mắc, có lẽ vì lâu rồi không đi câu, tất cả Dị ngư trong sông đều tụ lại,” Lục Thanh nói.
+Thực ra Lục Thanh đã có một phỏng đoán, nhưng trước...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

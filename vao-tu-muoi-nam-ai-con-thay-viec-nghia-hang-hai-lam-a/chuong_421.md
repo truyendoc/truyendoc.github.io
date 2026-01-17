@@ -4,6 +4,11 @@ title: Chương 421: Đánh cái gần chết lại thả
 chapter_number: 421
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 421: Đánh cái gần chết lại thả
+
+Một bên, Tào Côn toàn bộ hành trình đem Cao Đình Đình biểu lộ thu vào trong mắt.
+
+Nhìn xem nàng giờ phút này trên mặt ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

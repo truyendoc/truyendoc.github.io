@@ -4,6 +4,11 @@ title: Chương 83
 chapter_number: 83
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Clayman nhận ra tình hình méo ổn chút nào, đôi mắt hắn trở nên đỏ ngầu.
+
+Mắt hắn cứ đảo như rang lạc nhìn tôi và milim.
+
+Và, khi hắn quay sang nhìn các quỷ v...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

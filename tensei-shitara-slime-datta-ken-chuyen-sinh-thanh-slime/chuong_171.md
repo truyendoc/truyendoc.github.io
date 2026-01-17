@@ -4,6 +4,11 @@ title: Chương 171
 chapter_number: 171
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------
+
+Lễ ăn mừng kết thúc suôn sẻ.
+
+Có một số tiến hóa theo kiểu ứ tin được, và cũng có một số bị kìm lại, nhưng không có ai h...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 138: Vương San San phát hiện
 chapter_number: 138
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 138: Vương San San phát hiện
+
+\"Ngươi tiếp xuống đi làm cái gì?\"
+
+Một trận hài hòa lại vui sướng cơm trưa kết thúc, Tào Côn bốn người từ tây nhà ăn đi ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

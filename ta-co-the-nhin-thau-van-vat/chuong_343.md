@@ -4,6 +4,9 @@ title: Chương 343: Diệt Môn, Tìm Bảo_2
 chapter_number: 343
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Bạn còn 8 lượt đọc trên website
+Hình dáng của phần sọ vẫn còn có thể mơ hồ nhận ra.
+Còn Mặc Chấn thì không chết ngay; trong cơ thể vẫn còn sót lại một hơi th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

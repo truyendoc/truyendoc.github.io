@@ -4,6 +4,13 @@ title: Chương 346: Giận dữ lại giận Khai Nguyên đế (1)
 chapter_number: 346
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 287: Giận dữ lại giận Khai Nguyên đế (1)
+
+Sau hai canh giờ.
+
+Đêm tối tư một người thám tử về doanh địa tạm thời báo cáo.
+
+Lại kinh hãi phát hiện, lưu ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 585: Cứu mạng giảng hòa
 chapter_number: 585
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 585: Cứu mạng giảng hòa
+
+Làm một tên người bình thường, cũng không có từ sự tình pháp luật phương diện này công tác bằng hữu thân thích, Lý Tố Linh đố...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

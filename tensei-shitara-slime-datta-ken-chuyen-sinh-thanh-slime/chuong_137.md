@@ -4,6 +4,13 @@ title: Chương 137
 chapter_number: 137
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Đế Chế Phương Đông.
+
+Một trong những quốc gia lâu đời nhất.
+
+Tên chính thức của nó là Liên minh các Vương quốc Độc lập Naska-namrium Ul...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,7 @@ title: Chương 205: Liên tục chấn động
 chapter_number: 205
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Chư vị, không cần hoảng hốt. Vừa rồi tôi chỉ đang luyện quyền buổi sáng, nhân lúc lĩnh ngộ được một chút mà đột phá nhẹ thôi, không phải có địch nhân xâm nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

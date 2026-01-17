@@ -4,6 +4,9 @@ title: Chương 270: Đưa tới cửa Trương Uyển Thanh
 chapter_number: 270
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 270: Đưa tới cửa Trương Uyển Thanh
+
+\"Hảo hảo nghe ngươi ca, làm tốt chính mình bản chức công việc, không cho phép trộm gian dùng mánh lới, có biết hay...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

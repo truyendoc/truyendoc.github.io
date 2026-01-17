@@ -4,6 +4,11 @@ title: Chương 59: Bạch Tĩnh cùng Lưu Ngọc Linh gặp mặt
 chapter_number: 59
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 59: Bạch Tĩnh cùng Lưu Ngọc Linh gặp mặt
+
+Một bên khác.
+
+Gấp cùng kiến bò trên chảo nóng bình thường Bạch Tĩnh, khi nhìn đến Tào Côn tới về sau, vội v...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

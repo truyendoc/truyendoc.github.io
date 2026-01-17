@@ -4,6 +4,11 @@ title: Chương 22
 chapter_number: 22
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tiếp giáp với Đại sâm lâm Jura là lãnh địa Bá tước của Vương quốc Falmas.
+
+Ở nơi địa giới này tồn tại rất nhiều người mong muốn bảo vệ khu vực.
+
+Lực lượng ch...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

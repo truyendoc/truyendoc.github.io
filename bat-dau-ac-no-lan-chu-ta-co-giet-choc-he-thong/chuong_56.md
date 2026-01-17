@@ -4,6 +4,11 @@ title: Chương 56: Long Tượng Đoán Thể Quyết viên mãn
 chapter_number: 56
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 56 Long Tượng Đoán Thể Quyết viên mãn
+
+Trong nhà hạ nhân tay chân đều tương đối nhanh nhẹn.
+
+Tại Ngưu Đại Lực chỉ huy bên dưới, rất nhanh liền ở trong...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 208: Tiệm sách
 chapter_number: 208
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ ngụy Gia chủ , vậy tôi xin phép về trước.”
+Mã Cố cúi chào Ngụy Tinh Hà rồi tiến về cổng chính của Ngụy phủ.
+Theo sau hắn, Tổng quản Ngụy gia dẫn theo một đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

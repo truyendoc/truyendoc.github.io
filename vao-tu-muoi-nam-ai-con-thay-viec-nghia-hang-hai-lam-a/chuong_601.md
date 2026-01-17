@@ -4,6 +4,13 @@ title: Chương 601: Về sau muốn sớm hẹn trước
 chapter_number: 601
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 601: Về sau muốn sớm hẹn trước
+
+Sáu giờ chiều!
+
+Không đủ 20 mét vuông trong văn phòng, Đào Băng Băng đối tấm gương chỉnh lý tốt tóc cùng quần áo.
+
+Đún...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,8 @@ title: Chương 249: Thần hồn phù
 chapter_number: 249
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lĩnh ngộ đột ngột của Thần hồn lực quả nhiên khác biệt rất lớn so với trạng thái học tập cảm ngộ của Dị năng.”
+Lục Thanh chậm rãi tỉnh khỏi trạng thái ngộ đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

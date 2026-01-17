@@ -4,6 +4,8 @@ title: Chương 191: Chiến đấu (2)
 chapter_number: 191
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Người đại hán cường tráng siết chặt thanh chiến đao, gương mặt tràn đầy vẻ kinh hãi khi nhìn Lục Thanh.
+Hắn không thể tin nổi chỉ một chiêu của Lục Thanh đã ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

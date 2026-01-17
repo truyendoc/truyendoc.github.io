@@ -4,6 +4,13 @@ title: Chương 368: Cấp tiến một chút (1)
 chapter_number: 368
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 298: Cấp tiến một chút (1)
+
+Đã vô địch.
+
+Thẩm Dục cảm thấy mình làm việc thủ đoạn liền không nên bảo thủ xuống dưới, cấp tiến một chút cũng có thể.
+
+L...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

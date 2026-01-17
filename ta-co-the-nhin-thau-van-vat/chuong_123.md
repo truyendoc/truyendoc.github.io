@@ -4,6 +4,9 @@ title: Chương 123: Mũi tên (2)
 chapter_number: 123
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mã Cố lập tức đưa ra quyết định.
+Hắn vung đao gạt lệch một mũi tên, rồi lăn một vòng như lăn lừa, tránh hai mũi còn lại.
+Trong lúc lăn, hắn xoay cổ tay, phón...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

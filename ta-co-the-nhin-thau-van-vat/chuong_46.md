@@ -4,6 +4,9 @@ title: Chương 46: Dưỡng Thể Quyền
 chapter_number: 46
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Bắt đầu tu luyện ngay sao?”
+Lục Thanh nhìn dòng nhắc hiện lên trong tầm nhìn siêu năng của mình, lần này cậu chọn “Có.”
+Ngay lập tức, một luồng thông tin nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

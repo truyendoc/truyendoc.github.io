@@ -4,6 +4,9 @@ title: Chương 450: Hắn tại sao không đi đoạt!
 chapter_number: 450
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 450: Hắn tại sao không đi đoạt!
+
+Theo Liễu Truyền Sĩ lý do này lối ra, không đơn thuần là Tào Côn, liền liên đới tại hắn một bên Liễu Truyền Tâm, cũng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 182
 chapter_number: 182
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------
+
+Trong cơn giận, Ultima triệu hồi một vài hắc cầu.
+
+Cười nham hiểm, cô đẩy mỗi quả tới một thành viên đội Cận Vệ.
+
+Người ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

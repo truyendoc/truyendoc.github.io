@@ -4,6 +4,13 @@ title: Chương 618: Có biết hay không ta vài phút bao nhiêu tiền
 chapter_number: 618
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 618: Có biết hay không ta vài phút bao nhiêu tiền
+
+Ba giờ chiều!
+
+Hải Thành Kinh Hoa cao ốc trước, Ngốc Cẩu dừng xe ở một cái chỗ đậu xe bên trên.
+
+Cù...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 329: Phá trận (2)
 chapter_number: 329
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “A—! Là ai dám tập kích ta!”
+Hắc y nhân xoay người giữa không trung, mượn lực lùi gấp rồi trực tiếp bước vào màn chắn xám, vừa phẫn nộ vừa kinh hãi.
+Hình dạn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

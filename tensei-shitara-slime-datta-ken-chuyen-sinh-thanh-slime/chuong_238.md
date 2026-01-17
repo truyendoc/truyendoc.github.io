@@ -4,6 +4,11 @@ title: Chương 238
 chapter_number: 238
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tôi có thể hồi phục tương đối dễ dàng khi ở trong sleep mode vào lần này.
+
+Hay đúng hơn, là kết nối với bản sao của tôi đã bị ngắt.
+
+Cơ thể chính của tôi vẫn...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

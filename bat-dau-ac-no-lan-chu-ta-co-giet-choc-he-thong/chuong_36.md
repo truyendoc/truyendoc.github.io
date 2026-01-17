@@ -4,6 +4,13 @@ title: Chương 36: thiên mệnh chi tử
 chapter_number: 36
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 36 thiên mệnh chi tử
+
+Trên thế giới này lật thuyền trong mương sự tình thực sự nhiều lắm.
+
+Bởi vậy, Thẩm Dục cũng biến thành bắt đầu cẩn thận.
+
+Tâm ni...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

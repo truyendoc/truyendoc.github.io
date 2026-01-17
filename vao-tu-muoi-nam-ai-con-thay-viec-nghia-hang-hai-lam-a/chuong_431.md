@@ -4,6 +4,11 @@ title: Chương 431: Phí bịt miệng 100 ức
 chapter_number: 431
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 431: Phí bịt miệng 100 ức
+
+Theo điện thoại cúp máy, Liễu Truyền Sĩ sắc mặt cơ hồ là trong nháy mắt liền âm trầm xuống.
+
+Nhìn thấy cái này, Liễu Truyền...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

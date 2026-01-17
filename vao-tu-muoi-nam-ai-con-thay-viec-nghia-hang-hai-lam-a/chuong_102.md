@@ -4,6 +4,13 @@ title: Chương 102: Hiếm thấy thể chất, ngầm trải qua
 chapter_number: 102
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 102: Hiếm thấy thể chất, ngầm trải qua
+
+Hơn hai mươi phút sau!
+
+Cư xá dưới lầu, Tào Côn rốt cục gặp được Từ Kiều Kiều.
+
+Hôm nay Từ Kiều Kiều, mặc chín...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

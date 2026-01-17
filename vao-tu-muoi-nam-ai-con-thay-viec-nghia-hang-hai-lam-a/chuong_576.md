@@ -4,6 +4,11 @@ title: Chương 576: Pháp luật Tiểu Khoa phổ
 chapter_number: 576
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 576: Pháp luật Tiểu Khoa phổ
+
+Không bao lâu, Trình Dao Dao tam nữ liền đem bữa sáng làm xong.
+
+Theo tam nữ đem bữa sáng bưng đến phòng khách, Tào Côn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

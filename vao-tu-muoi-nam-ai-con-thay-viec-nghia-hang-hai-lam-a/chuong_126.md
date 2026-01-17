@@ -4,6 +4,11 @@ title: Chương 126: Chỉ có ngươi một cái nam nhân
 chapter_number: 126
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 126: Chỉ có ngươi một cái nam nhân
+
+Biết tin dữ này về sau, thương tâm đều đã không đủ để dùng để hình dung Lưu Hồng tâm tình.
+
+Cũng là chuyện này, để...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

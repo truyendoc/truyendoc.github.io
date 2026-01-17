@@ -4,6 +4,8 @@ title: Chương 40: Hương thơm của thịt béo
 chapter_number: 40
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong bếp, mùi thịt thơm ngào ngạt lan tỏa khắp không gian.
+Tiểu Nhan đang ngồi xổm trước bếp lửa, phụ anh thêm củi, vừa ngửi thấy hương thịt liền nuốt nước ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

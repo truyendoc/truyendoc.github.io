@@ -4,6 +4,11 @@ title: Chương 203
 chapter_number: 203
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------
+
+Sau khi bỏ lại nhóm Diablo, tôi lao nhanh tới chỗ Milim.
+
+Milim điên cuồng dội từng đợt tấn công vào thiên sứ tóc bạc đằng đó....
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

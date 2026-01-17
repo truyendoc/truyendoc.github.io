@@ -4,6 +4,11 @@ title: Chương 292: Nam Man Vu tộc (1)
 chapter_number: 292
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 260: Nam Man Vu tộc (1)
+
+“Trấn yêu làm điều chính mình đi thăm dò án?”
+
+Thẩm Dục trong nháy mắt liền cảm nhận được chỗ dị thường, vô ý thức mở ra nhìn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

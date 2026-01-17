@@ -4,6 +4,13 @@ title: Chương 338: Nếu không ngươi đi vào chờ lâu mấy năm (1)
 chapter_number: 338
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 283: Nếu không ngươi đi vào chờ lâu mấy năm (1)
+
+Đại Diễm Quốc, Lam Nguyệt nói.
+
+Một đôi mặc trang phục nam nữ xuất hiện ở đây.
+
+Nhìn xem khắp nơi có ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

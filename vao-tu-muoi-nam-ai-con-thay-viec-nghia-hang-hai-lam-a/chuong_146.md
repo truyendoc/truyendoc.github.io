@@ -4,6 +4,11 @@ title: Chương 146: Hảo huynh đệ sau cùng điên cuồng
 chapter_number: 146
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 146: Hảo huynh đệ sau cùng điên cuồng
+
+Mười giờ tối!
+
+Theo Hùng Bất Phàm một đoàn người thuận lợi leo lên du thuyền, chiếc này hai tầng du thuyền giốn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

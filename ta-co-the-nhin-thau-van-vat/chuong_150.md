@@ -4,6 +4,9 @@ title: Chương 150: Tiên thiên (4)
 chapter_number: 150
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cảnh giới Tiên Thiên sao?”
+Trên mặt Trần lão y hiện lên một biểu cảm khó diễn tả.
+“Đó là một cảnh giới huyền diệu. Nhưng cụ thể ra sao… để con tự cảm nhận t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

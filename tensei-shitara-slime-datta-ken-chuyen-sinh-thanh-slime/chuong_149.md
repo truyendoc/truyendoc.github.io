@@ -4,6 +4,13 @@ title: Chương 149
 chapter_number: 149
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: _______________________________
+
+Cánh cửa mở ra với một tiếng ồn lớn.
+
+Ba người bước vào trong căn phòng.
+
+Yuuki rời mắt khỏi sấp tài liệu mà hắn đang đọc dở...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

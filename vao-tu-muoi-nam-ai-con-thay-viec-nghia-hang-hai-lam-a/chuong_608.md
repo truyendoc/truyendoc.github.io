@@ -4,6 +4,11 @@ title: Chương 608: Thật lớn chó gan
 chapter_number: 608
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 608: Thật lớn chó gan
+
+Không bao lâu, Tào Côn từ cao ốc văn phòng đi ra.
+
+Bởi vì Tào Côn lần trước đi vào, trực tiếp ở bên trong chờ đợi một buổi chiề...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

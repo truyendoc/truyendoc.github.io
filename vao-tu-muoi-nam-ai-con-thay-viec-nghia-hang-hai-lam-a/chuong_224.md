@@ -4,6 +4,9 @@ title: Chương 224: Lấy ta làm liếm chó lừa gạt đâu
 chapter_number: 224
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 224: Lấy ta làm liếm chó lừa gạt đâu
+
+Trái mù lòa cùng Dương Tam Đao cái kia tình nhân, có muốn m·ưu đ·ồ bí mật g·iết c·hết Dương Tam Đao, c·ướp đoạt ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

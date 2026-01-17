@@ -4,6 +4,9 @@ title: Chương 668: May không phải thân nữ nhi
 chapter_number: 668
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 668: May không phải thân nữ nhi
+
+Lam Kỳ đại tửu điếm một cái giường lớn trong phòng, làm Tào Côn dẫn theo mấy món ăn đi vào thời điểm, đã sớm mong mỏi...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

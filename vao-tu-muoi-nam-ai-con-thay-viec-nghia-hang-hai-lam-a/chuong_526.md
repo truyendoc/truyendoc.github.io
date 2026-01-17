@@ -4,6 +4,9 @@ title: Chương 526: Cái thứ hai hảo huynh đệ
 chapter_number: 526
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 526: Cái thứ hai hảo huynh đệ
+
+Cùng thường ngày không sai biệt lắm, tại khoảng cách buổi sáng khóa kết thúc, còn thừa lại khoảng 10 phút thời điểm, ph...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

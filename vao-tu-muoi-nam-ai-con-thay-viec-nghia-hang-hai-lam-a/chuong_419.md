@@ -4,6 +4,9 @@ title: Chương 419: Ta có thể cho ngươi giới thiệu khuê mật
 chapter_number: 419
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 419: Ta có thể cho ngươi giới thiệu khuê mật
+
+Tào Côn vốn cho rằng lần này cùng Vương San San một khối thăm tù, có thể có phi thường đặc sắc cha con m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

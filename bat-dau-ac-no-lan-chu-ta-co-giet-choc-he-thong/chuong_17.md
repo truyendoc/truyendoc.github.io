@@ -4,6 +4,13 @@ title: Chương 17: hủy diệt Long Ưng Trại
 chapter_number: 17
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 17 hủy diệt Long Ưng Trại
+
+Ngay tại Thẩm Dục tiếp cận sơn trại cự ly trăm mét thời điểm.
+
+Dày đặc mũi tên hướng hắn đập vào mặt đánh tới.
+
+Chỉ gặp hắn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

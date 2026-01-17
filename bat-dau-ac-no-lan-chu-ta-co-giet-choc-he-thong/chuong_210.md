@@ -4,6 +4,11 @@ title: Chương 210: ta mới sẽ không hối hận
 chapter_number: 210
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 210: ta mới sẽ không hối hận
+
+“Tiểu nữ tử Tiết Ngạo Huyên, gặp qua Thẩm Công Tử.”
+
+Trang phục lộng lẫy Tiết Ngạo Huyên khẽ khom người hướng Thẩm Dục c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

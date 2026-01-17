@@ -4,6 +4,11 @@ title: Chương 629: Chó nữ nhân yêu đương
 chapter_number: 629
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 629: Chó nữ nhân yêu đương
+
+Dưới lầu đợi trọn vẹn hơn một giờ, Mã Tiểu Vi bạn trai đều đã các loại có điểm tâm tình khó chịu.
+
+Thế nhưng là, khi nhìn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

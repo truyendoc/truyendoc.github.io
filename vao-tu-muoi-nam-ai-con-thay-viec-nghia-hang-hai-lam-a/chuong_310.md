@@ -4,6 +4,13 @@ title: Chương 310: Lẳng lơ, ngươi biết hay không pháp
 chapter_number: 310
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 310: Lẳng lơ, ngươi biết hay không pháp
+
+Cẩu Nhất Vĩ c·hết!
+
+Vừa rạng sáng ngày thứ hai.
+
+Không ít người còn nằm ở trên giường không có rời giường, li...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

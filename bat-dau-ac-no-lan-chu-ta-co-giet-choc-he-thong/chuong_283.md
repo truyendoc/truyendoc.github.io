@@ -4,6 +4,9 @@ title: Chương 283: Đói xong chóng mặt thiếu niên (2)
 chapter_number: 283
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 255: Đói xong chóng mặt thiếu niên (2)
+
+Hắn dùng bả vai đụng vào Thẩm Dục: “Thẩm huynh đệ, ta liền nói Nhị hoàng tử ra tay hào phóng a, lúc trước, ta ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

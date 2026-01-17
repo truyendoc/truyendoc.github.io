@@ -4,6 +4,11 @@ title: Chương 66
 chapter_number: 66
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Quốc vương Edomalis của Vương quốc Farmas chau mày khi nhận được bản báo cáo.
+
+Hiện đang có sự thay đổi về tình trạng giao thương quanh Vương quốc Farmas.
+
+V...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

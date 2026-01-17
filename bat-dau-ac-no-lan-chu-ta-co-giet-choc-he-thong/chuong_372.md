@@ -4,6 +4,11 @@ title: Chương 372: Thẩm Dục ra tay (1)
 chapter_number: 372
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 300: Thẩm Dục ra tay (1)
+
+Mắt thấy Thẩm Dục kiên trì, Đặng Lăng liền đem thu tập được Tôn Võ tình báo giao cho Thẩm Dục.
+
+Cái này Tôn Võ đi vào Nam Cư...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

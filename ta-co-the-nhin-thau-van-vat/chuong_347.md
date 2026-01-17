@@ -4,6 +4,9 @@ title: Chương 347: Đại Cơ Duyên
 chapter_number: 347
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đưa thần binh này cho ta?”
+Nhìn Lục Thanh đưa cây trường côn màu đen tới trước mặt, Ngụy Tử An sững sờ.
+“Đúng vậy, trong số chúng ta chỉ có ngươi dùng côn. ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

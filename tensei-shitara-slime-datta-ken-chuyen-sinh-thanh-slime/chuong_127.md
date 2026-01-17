@@ -4,6 +4,11 @@ title: Chương 127
 chapter_number: 127
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Sau khi Chloe chia tay Hinata và Ruminas, cô trở về với Yuuki.
+
+Trước khi lên đường, cô tháo chiếc vòng cổ của mình và trao lại chi Hin...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 210: Gặp lại Dương Tam Đao
 chapter_number: 210
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 210: Gặp lại Dương Tam Đao
+
+Trái mù lòa tên thật là gì cái gì, Tào Côn cũng không biết.
+
+Bởi vì, kiếp trước trong tù thời điểm, Dương Tam Đao không có...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

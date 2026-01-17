@@ -4,6 +4,11 @@ title: Chương 169: Ngươi trấn không được quầy rượu
 chapter_number: 169
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 169: Ngươi trấn không được quầy rượu
+
+Theo 402 cửa phòng mở ra, Tào Côn trong nháy mắt liền có một loại hai mắt tỏa sáng cảm giác.
+
+Mở cửa là một cái ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

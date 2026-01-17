@@ -4,6 +4,8 @@ title: Chương 234: Ra đi (2)
 chapter_number: 234
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ ngươi có thấy mặt lão nhân không?” Nghiêm Xương hải vội hỏi.
+“ thuộc hạ không thấy,” hạ nhân trả lời. “Lão đội nón rộng vành che mặt, thuộc hạ chỉ nghe đượ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

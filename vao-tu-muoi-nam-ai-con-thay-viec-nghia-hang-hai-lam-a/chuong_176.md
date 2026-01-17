@@ -4,6 +4,9 @@ title: Chương 176: Thua, dập đầu nhận đại ca
 chapter_number: 176
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 176: Thua, dập đầu nhận đại ca
+
+Nghe được Tào Côn nói, tại chính mình nói đại chúng không đáng tiền thời điểm hắn lại tới, nam nhân thần sắc, một chút...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

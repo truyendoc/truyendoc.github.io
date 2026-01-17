@@ -4,6 +4,7 @@ title: Chương 93
 chapter_number: 93
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tiến vào chiến trường, Ranga cảm thấy cơ thể nhẹ tựa lông hồng, tràn đầy năng lượng, trước khi cậu ta nhận ra, Ranga đã phi thân lên không trung, kỹ năng [S...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

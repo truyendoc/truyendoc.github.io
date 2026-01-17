@@ -4,6 +4,11 @@ title: Chương 313: Nam Cương nói lễ vật (2)
 chapter_number: 313
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 270: Nam Cương nói lễ vật (2)
+
+Bởi vì vội vàng lấy quặng, Thẩm Dục cũng không không thu thập bọn họ.
+
+Chờ hắn đem bách vạn đại sơn bên trong Nguyên th...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

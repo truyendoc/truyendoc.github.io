@@ -4,6 +4,11 @@ title: Chương 300: Hoàng đế lại tìm đường chết (1)
 chapter_number: 300
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 264: Hoàng đế lại tìm đường chết (1)
+
+Nghe được đại vương tử nói ra lý do, những cái kia phản đối trưởng lão đều trầm mặc.
+
+“Ta đề nghị cùng Yêu Tộc t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

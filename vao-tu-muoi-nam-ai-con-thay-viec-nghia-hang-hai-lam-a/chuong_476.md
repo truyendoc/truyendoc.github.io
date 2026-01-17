@@ -4,6 +4,9 @@ title: Chương 476: Cạc cạc loạn giết
 chapter_number: 476
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 476: Cạc cạc loạn giết
+
+Làm một tên sát thủ chuyên nghiệp, Hạng Nam Nguyệt không cần Tào Côn giải thích cũng biết, hiện tại loại tình huống này, khẳng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

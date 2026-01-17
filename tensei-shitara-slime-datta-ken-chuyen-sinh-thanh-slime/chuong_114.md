@@ -4,6 +4,13 @@ title: Chương 114
 chapter_number: 114
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Giải đấu còn 2 ngày nữa là kết thúc rồi.
+
+Hôm nay là cao trào cuối cùng, tất cả còn lại là trận chung kết ngày mai nữa thôi.
+
+Trận chun...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

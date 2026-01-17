@@ -4,6 +4,9 @@ title: Chương 62: đào vong Vân Mộc Huyện
 chapter_number: 62
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 62 đào vong Vân Mộc Huyện
+
+Thấy cảnh này, Long Phó đem không khỏi trong lòng căng thẳng, trường thương trong tay chỗ triển lộ ra chiêu thức lộ ra càng...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

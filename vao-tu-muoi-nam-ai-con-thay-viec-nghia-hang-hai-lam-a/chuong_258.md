@@ -4,6 +4,9 @@ title: Chương 258: Ngươi có thể đứng vững sao
 chapter_number: 258
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 258: Ngươi có thể đứng vững sao
+
+Nếu như nói, tại thu được Dương Tam Đao đầu này giọng nói tin tức trước đó, Tào Côn chỉ có 90% nắm chắc, Liễu gia hiệ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

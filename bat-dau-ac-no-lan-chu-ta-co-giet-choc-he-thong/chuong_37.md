@@ -4,6 +4,11 @@ title: Chương 37: chôn cùng
 chapter_number: 37
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 37 chôn cùng
+
+Nghĩ nghĩ, Thẩm Dục quyết định tiêu hao 500 điểm g·iết chóc, đem « Lưu Vân » môn võ kỹ này tăng lên tới viên mãn cấp độ.
+
+Dù sao tại đêm...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

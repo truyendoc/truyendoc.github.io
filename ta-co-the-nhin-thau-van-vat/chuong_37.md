@@ -4,6 +4,10 @@ title: Chương 37: Tu sĩ thứ hai
 chapter_number: 37
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đây là chợ lớn sao?”
+Lục Thanh nhìn khung cảnh náo nhiệt trước mắt, không khỏi ngạc nhiên.
+Chợ này còn đông đúc hơn trong trí nhớ của hắn.
+Các quầy hàng hai...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

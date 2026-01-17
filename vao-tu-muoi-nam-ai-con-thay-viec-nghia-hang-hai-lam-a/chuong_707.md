@@ -4,6 +4,13 @@ title: Chương 707: Ta mẹ nó thật đúng là một thiên tài nội ứng
 chapter_number: 707
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 707: Ta mẹ nó thật đúng là một thiên tài nội ứng
+
+Mười giờ sáng!
+
+Hải Đông chế dược ký túc xá trước, Ngốc Cẩu ngừng xe lại.
+
+Vẫn như cũ là Lưu Bản Xươ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

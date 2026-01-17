@@ -4,6 +4,9 @@ title: Chương 180
 chapter_number: 180
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ---------------------------------------------------
+
+Khi lũ Ác quỷ được Rimuru triệu hồi, các cấp chỉ huy của quân Đế Quốc cũng đã nhận ra được tình huống nà...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

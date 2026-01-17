@@ -4,6 +4,8 @@ title: Chương 16: Khúc sông mới và quả Huyết Hạnh
 chapter_number: 16
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Tại một khúc quanh của dòng sông, cuối cùng Lục Thanh cũng phát hiện ra một bãi câu mới.
+[Điểm câu sơ cấp: Nguồn nước dồi dào dưỡng chất, thủy thảo phong phú...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

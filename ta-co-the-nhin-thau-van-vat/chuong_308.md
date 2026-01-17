@@ -4,6 +4,7 @@ title: Chương 308: Đột phá
 chapter_number: 308
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sư phụ, ta đã truyền lại toàn bộ 'Phá Thủy Khí Quyết' cho người rồi, xin người thử lĩnh hội xem có thể lĩnh ngộ được gì không.\" Lục Thanh mỉm cười nói. Trần ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

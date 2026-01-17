@@ -4,6 +4,11 @@ title: Chương 486: Chúng ta là đứng đắn người làm ăn
 chapter_number: 486
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 486: Chúng ta là đứng đắn người làm ăn
+
+Nghe được Tào Côn nói như vậy, khuôn mặt xinh đẹp khóe miệng cũng nhịn không được co quắp.
+
+Nàng còn tưởng rằn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

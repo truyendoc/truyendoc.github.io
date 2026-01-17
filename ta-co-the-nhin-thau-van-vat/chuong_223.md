@@ -4,6 +4,9 @@ title: Chương 223: Ám sát
 chapter_number: 223
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lý huynh, chẳng lẽ huynh không nhận ra vị công tử kia sao?”
+Các đệ tử Thanh Vân Kiếm Các đều kinh ngạc.
+“Đúng vậy, chúng ta không biết. Đây là lần đầu tiên ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

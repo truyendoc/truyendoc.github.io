@@ -4,6 +4,11 @@ title: Chương 225
 chapter_number: 225
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: “Cớ sao mọi chuyện lại thành ra thế này?” Masayuki hiện giờ còn chẳng buồn bận tâm chuyện đó.
+
+『MA~ SAYUKI, MA~~ SAYUKI!!』
+
+Masayuki đứng giữa tiếng reo hò c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

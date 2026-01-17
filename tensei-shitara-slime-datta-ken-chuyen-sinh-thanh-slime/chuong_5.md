@@ -4,6 +4,11 @@ title: Chương 5
 chapter_number: 5
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ngày hôm đó, một cơn rúng động lan khắp thế giới.
+
+Sự biến mất của Monster cấp độ “Thiên tai” “Bạo Phong Long Veldora” được xác nhận.
+
+Bị phong ấn 300 năm tr...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

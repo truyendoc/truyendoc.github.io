@@ -4,6 +4,13 @@ title: Chương 348: Nam Cương đạo quan viên thiện ý (1)
 chapter_number: 348
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 288: Nam Cương đạo quan viên thiện ý (1)
+
+Một chi tiến lên trong đội ngũ.
+
+Thẩm Dục lần nữa đi tới Nhị hoàng tử trên xe ngựa.
+
+“Thẩm huynh, ngươi xem ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

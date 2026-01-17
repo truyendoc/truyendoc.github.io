@@ -4,6 +4,8 @@ title: Chương 175: Ngọc quyển đan thư
 chapter_number: 175
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Người nào dám thách thức uy quyền của hai tồn tại ở Cảnh Tiên Thiên?”
+Các võ giả đang bị áp lực từ hai bậc Cảnh Tiên Thiên ép đến gần như nghẹt thở nghe thấ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

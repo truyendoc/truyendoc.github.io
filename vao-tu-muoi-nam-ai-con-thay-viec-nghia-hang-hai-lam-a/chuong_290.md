@@ -4,6 +4,15 @@ title: Chương 290: Lại cứu một cái
 chapter_number: 290
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 290: Lại cứu một cái
+
+Cẩu Nhất Vĩ đi!
+
+Đi rất vội vàng.
+
+Thậm chí, vội vàng đến đều có chút không có lễ phép.
+
+Bởi vì, Cẩu Nhất Vĩ chỉ để lại Trương U...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

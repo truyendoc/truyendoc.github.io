@@ -4,6 +4,11 @@ title: Chương 657: Dương Ngọc Đình tới
 chapter_number: 657
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 657: Dương Ngọc Đình tới
+
+Không phải Bàng Hồng Na đầu óc không chuyển biến, mà là, nàng thật không biết Tào Côn muốn làm gì.
+
+Nếu như chỉ là để nàng c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

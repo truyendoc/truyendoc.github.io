@@ -4,6 +4,9 @@ title: Chương 87
 chapter_number: 87
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sau khi được công nhận bởi các quỷ vương khác mà ko gặp khó khăn gì, tôi trở về Tempest.
+
+Đến đây là 1 chuyện, nhưng khi về tôi chỉ cần dùng dịch chuyển là x...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

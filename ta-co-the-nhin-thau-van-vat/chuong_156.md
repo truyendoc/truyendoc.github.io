@@ -4,6 +4,8 @@ title: Chương 156: Bang chủ Hắc lang bang
 chapter_number: 156
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi “đại thực khách” tiểu Ly rời đi, hiệu suất câu cá của Lục Thanh lập tức tăng lên đáng kể.
+Chẳng bao lâu, trong giỏ đã có hơn chục con cá lớn nặng hơn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

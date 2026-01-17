@@ -4,6 +4,11 @@ title: Chương 632: Dương Nhật Bố trở về
 chapter_number: 632
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 632: Dương Nhật Bố trở về
+
+Bởi vì biết theo ngày mai khai giảng, cùng Tào Côn chung đụng thời gian liền muốn biến ít.
+
+Cho nên, đối với Tào Côn miệng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

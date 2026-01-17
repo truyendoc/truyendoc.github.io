@@ -4,6 +4,9 @@ title: Chương 611: Giúp các ngươi làm thân tử giám định
 chapter_number: 611
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 611: Giúp các ngươi làm thân tử giám định
+
+Gian phòng bên trong, Lý Nguyên Hà sau khi nói xong, gặp Tào Côn cau mày cũng không nói chuyện, còn tưởng r...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

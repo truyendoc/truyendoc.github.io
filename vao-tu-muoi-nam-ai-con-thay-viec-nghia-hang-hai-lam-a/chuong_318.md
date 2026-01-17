@@ -4,6 +4,9 @@ title: Chương 318: Ngươi là nhất gia chi chủ mà
 chapter_number: 318
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 318: Ngươi là nhất gia chi chủ mà
+
+Nương theo lấy máy bay không người lái thanh âm ông ông, đem Cẩu Nhất Vĩ tro cốt vung xong máy bay không người lái,...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

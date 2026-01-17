@@ -4,6 +4,9 @@ title: Chương 14: Tơ Tuyết Tằm Linh
 chapter_number: 14
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau một lúc chăm chú quan sát, sợi chỉ trong hộp khẽ phát ra ánh đỏ nhạt.
+[Tơ Tuyết Tằm Linh: Tơ do linh trùng Tuyết Tằm nhả ra, độ bền cực cao.]
+[Không thấm...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

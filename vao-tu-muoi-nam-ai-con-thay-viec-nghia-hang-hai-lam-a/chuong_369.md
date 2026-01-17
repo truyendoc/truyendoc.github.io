@@ -4,6 +4,11 @@ title: Chương 369: Lão bản, ta nghe ngài
 chapter_number: 369
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 369: Lão bản, ta nghe ngài
+
+Bốc Hạnh Phúc biết Tào Côn rất có thủ đoạn.
+
+Từ hắn tiếp nhận Đế Vương quán bar, đến hắn từ Dương Tam Đao cái kia đòi tiền...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

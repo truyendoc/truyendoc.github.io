@@ -4,6 +4,13 @@ title: Chương 10: Phục vụ đúng chỗ Lưu Ngọc Linh
 chapter_number: 10
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 10: Phục vụ đúng chỗ Lưu Ngọc Linh
+
+Ba giờ chiều!
+
+Hải Thành sân bay ra cơ khẩu, Tào Côn theo đám người đi ra.
+
+Đứng tại ra cơ khẩu trên bậc thang, nh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 333: Phòng cho thuê thay người
 chapter_number: 333
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 333: Phòng cho thuê thay người
+
+Rốt cục chờ đến Tào Côn bốn người ăn uống no đủ, từ áp huyết fan hâm mộ trong quán lúc đi ra, thời gian đều đã đi vào ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

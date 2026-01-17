@@ -4,6 +4,11 @@ title: Chương 201: diệt tuyệt kim Lang tộc
 chapter_number: 201
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 201: diệt tuyệt kim Lang tộc
+
+Thẩm Dục thông qua thần thức dò xét.
+
+Phát hiện tại trong tòa thành trì này tổng cộng có 121 đầu Nguyên Đan Cảnh lang yê...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

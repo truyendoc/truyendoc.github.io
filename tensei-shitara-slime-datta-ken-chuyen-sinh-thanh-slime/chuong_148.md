@@ -4,6 +4,11 @@ title: Chương 148
 chapter_number: 148
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Nhận thấy rằng kẻ xâm lược đã bước vào lãnh địa của mình, vị Ma Vương Adalman vễu đôi môi không có chút thịt nào của mình.
+
+Sau đó, ông...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

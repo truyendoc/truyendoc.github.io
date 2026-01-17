@@ -4,6 +4,9 @@ title: Chương 658: Bốn năm trước vụ án bắt cóc
 chapter_number: 658
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 658: Bốn năm trước vụ án bắt cóc
+
+Rốt cục, trong phòng, Bàng Hồng Na cùng Dương Ngọc Đình tại một phen khách sáo cùng hàn huyên về sau, một bên Tưởng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

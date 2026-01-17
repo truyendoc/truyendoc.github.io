@@ -4,6 +4,9 @@ title: Chương 136: Đã đính hôn nữ ngồi cùng bàn
 chapter_number: 136
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 136: Đã đính hôn nữ ngồi cùng bàn
+
+Vương San San tuyệt đối không ngờ rằng, mình lần thứ nhất trở thành nữ sinh bên trong tiêu điểm, lại là bởi vì Tào ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

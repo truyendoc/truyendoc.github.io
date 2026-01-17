@@ -4,6 +4,9 @@ title: Chương 298: Linh khí hiển lộ
 chapter_number: 298
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Phương Đào chắp tay hành lễ.
+Mặc dù mấy ngày nay người của Lưu Vân Tông không đuổi theo nữa, hắn vẫn không dám lơ là.
+Giờ mưa đã tạnh, là thời điểm tốt để lê...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

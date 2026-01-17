@@ -4,6 +4,9 @@ title: Chương 35
 chapter_number: 35
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Vào ngày hôm ấy, vùng thấp địa tràn ngập bởi quân đoàn Orc.
+
+Nếu nhìn từ trên xuống, đám Orc ồ ạt tràn vào như thể một đàn kiến ngay cửa hang mê cung tự nhiê...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

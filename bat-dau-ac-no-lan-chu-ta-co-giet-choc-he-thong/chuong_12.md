@@ -4,6 +4,13 @@ title: Chương 12: Thông Mạch tam trọng
 chapter_number: 12
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 12 Thông Mạch tam trọng
+
+Vân Mộc Huyện, Tây Sơn.
+
+Người mặc một thân kình trang Thẩm Dục tại trong núi rừng nhanh chóng xuyên thẳng qua.
+
+Tiến lên lúc...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

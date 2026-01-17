@@ -4,6 +4,8 @@ title: Chương 273: Một đao chém đứt cánh tay
 chapter_number: 273
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Hắn thật sự đã thoát ra khỏi thành? Sao hắn có thể nhanh đến vậy?”
+Cảm ứng được khí tức của Lục Thanh ở ngoài thành, Trịnh lão thái thái vừa kinh hãi vừa ph...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

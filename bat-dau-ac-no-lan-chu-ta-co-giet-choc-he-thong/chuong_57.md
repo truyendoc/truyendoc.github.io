@@ -4,6 +4,13 @@ title: Chương 57: Đông Phương Lưu Ly
 chapter_number: 57
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 57 Đông Phương Lưu Ly
+
+“Hệ thống, đến sáu lần rút thưởng!” Thẩm Dục hăng hái đối với hệ thống hạ lệnh.
+
+“Đốt, rút thưởng công năng mở ra!”
+
+“Đốt, chúc...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

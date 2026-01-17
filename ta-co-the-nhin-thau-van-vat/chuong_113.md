@@ -4,6 +4,8 @@ title: Chương 113: Tình hình hỗn loạn
 chapter_number: 113
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nói xong, Tiểu Thiên đỏ mặt, cúi đầu chào rồi vội bước ra khỏi làng.
+Trương bá nhìn nắm bạc trong tay, thấy nặng trĩu — ít nhất cũng nửa lượng, liền vội gọi:...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,8 @@ title: Chương 28: Lời mời học y
 chapter_number: 28
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cuối cùng, Lão Triệu được hai người con trai dìu đi, giữa tiếng mắng nhiếc rối rít của vợ.
+Trần lão đã châm cứu và kê thuốc, sắc mặt Lão Triệu lúc rời đi cũn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

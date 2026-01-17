@@ -4,6 +4,11 @@ title: Chương 494: Động tâm cảm giác
 chapter_number: 494
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 494: Động tâm cảm giác
+
+Đã lớn như vậy, chơi qua nhiều như vậy nữ nhân.
+
+Nhưng là, Đoàn Minh còn là lần đầu tiên tại Vương San San cái này thuần chân ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

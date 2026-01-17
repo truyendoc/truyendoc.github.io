@@ -4,6 +4,8 @@ title: Chương 94: Ngọc giản
 chapter_number: 94
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi cánh cửa đá dần được đẩy mở, cảnh tượng bên trong hiện ra khiến Lục Thanh không khỏi sững sờ.
+Sau cánh cửa là một thạch thất nhỏ, đối diện lối vào có một...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

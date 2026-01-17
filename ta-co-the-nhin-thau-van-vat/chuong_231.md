@@ -4,6 +4,8 @@ title: Chương 231: Uy danh chấn động bốn phương
 chapter_number: 231
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Công tử Lục, đây… đây chẳng lẽ là Thiên Ngoại Tinh Thiết trong truyền thuyết?”
+Nhìn vật được Lục Thanh lấy ra, ánh mắt Lâm sư phụ mở lớn, giọng nói run nhẹ....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

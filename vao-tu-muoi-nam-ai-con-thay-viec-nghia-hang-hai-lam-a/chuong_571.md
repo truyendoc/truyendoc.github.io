@@ -4,6 +4,11 @@ title: Chương 571: Nữ thần cùng lão mụ đồng thời bị cướp
 chapter_number: 571
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 571: Nữ thần cùng lão mụ đồng thời bị cướp
+
+Lý Tố Linh vừa nói xong, một bên Trương Kiến vĩ, liền mở miệng.
+
+Hắn nhai hai cái miệng bên trong thịt kho...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

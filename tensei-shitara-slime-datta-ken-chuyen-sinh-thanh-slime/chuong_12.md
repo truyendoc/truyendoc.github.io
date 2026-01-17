@@ -4,6 +4,15 @@ title: Chương 12
 chapter_number: 12
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ừ—m…
+
+Các Ma vật đã rất phát triển trong 3 ngày vừa qua.
+
+Sốc thật đấy…
+
+Đây là thứ được gọi là… tiến hóa, hử…
+
+Do nhận được tên nên sự tiến hóa của Ma vật đ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

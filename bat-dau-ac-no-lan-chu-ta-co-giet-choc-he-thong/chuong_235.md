@@ -4,6 +4,11 @@ title: Chương 235: Trần chi đình bị bắt (2)
 chapter_number: 235
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 231: Trần chi đình bị bắt (2)
+
+Đồng thời, hắn cũng buồn lên, không có Trần Chi Đình hỗ trợ, vậy hắn làm như thế nào chơi c·hết Thẩm Dục?
+
+“Nếu không t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

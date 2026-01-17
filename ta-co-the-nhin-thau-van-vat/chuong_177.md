@@ -4,6 +4,8 @@ title: Chương 177: Căn nguyên (2)
 chapter_number: 177
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhưng khi ấy, trong lòng Ngụy Sơn Hải vẫn luôn coi Vương Thương Dực là huynh đệ.
+Hắn nghĩ rằng tuy hành vi của đối phương có hơi cực đoan, nhưng bản chất vẫn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

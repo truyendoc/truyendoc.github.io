@@ -4,6 +4,11 @@ title: Chương 213
 chapter_number: 213
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Guy và Chloe đã đấu với nhau ba ngày ba đêm rồi.
+
+Cả hai chưa hề nghiêm túc, ấy vậy nhưng số lần dùng tới đòn hiểm lại quá thường xuyên.
+
+Họ đang thăm dò lẫn...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

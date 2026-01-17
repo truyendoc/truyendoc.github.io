@@ -4,6 +4,11 @@ title: Chương 686: Nội gian đầu lĩnh Triệu Xảo Thiến
 chapter_number: 686
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 686: Nội gian đầu lĩnh Triệu Xảo Thiến
+
+Khi còn sống bị n·gược đ·ãi qua?
+
+Nghe được nữ mũ thúc thúc nói như vậy, Tào Côn trong nháy mắt chính là một m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 247
 chapter_number: 247
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Velda chặn được thanh kiếm siêu nhanh của Milim nhưng tay của hắn đã phải chịu một lực tác động vô cùng lớn.
+
+Sức mạnh đằng sau đòn tấn công vượt xa dự đoán ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

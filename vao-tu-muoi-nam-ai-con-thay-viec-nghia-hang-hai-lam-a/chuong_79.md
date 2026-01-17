@@ -4,6 +4,9 @@ title: Chương 79: Bao thắng phục vụ
 chapter_number: 79
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 79: Bao thắng phục vụ
+
+Đợi đến Tào Côn cùng Tôn Vĩ hai người, đem mình riêng phần mình điện thoại giao ra về sau, cơ bắp mãnh nam lúc này mới lấy ra m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 335: Nhị hoàng tử lần nữa tới chơi (2)
 chapter_number: 335
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 281: Nhị hoàng tử lần nữa tới chơi (2)
+
+Tại lại hao phí thời gian hơn một năm sau, nhân quả phi đao đạt tới tầng thứ sáu, có thể bộc phát ra 4 lần thự...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

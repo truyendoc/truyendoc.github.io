@@ -4,6 +4,11 @@ title: Chương 128
 chapter_number: 128
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Một mạo hiểm giả ngã xuống trong vệt máu.
+
+Đôi mắt của anh ta mở toang ngạc nhiên; Thậm chí anh ta không thể hiểu chuyện gì đã xảy ra v...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

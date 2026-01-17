@@ -4,6 +4,15 @@ title: Chương 176: Thang Cốc Hoa sẽ
 chapter_number: 176
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 176: Thang Cốc Hoa sẽ
+
+Đi ra tiểu thế giới.
+
+Thẩm Dục liền lấy ra một viên nhẫn trữ vật xem xét đứng lên.
+
+Nhẫn trữ vật này đến từ Thác Bạt Dã.
+
+Không...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

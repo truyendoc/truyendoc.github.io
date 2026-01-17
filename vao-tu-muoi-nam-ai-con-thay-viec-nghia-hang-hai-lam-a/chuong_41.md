@@ -4,6 +4,13 @@ title: Chương 41: Đầu ông ông a
 chapter_number: 41
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 41: Đầu ông ông a
+
+\"Yên tâm đi.\"
+
+Nhìn xem Bạch Tĩnh bất an bộ dáng, Tào Côn cầm tay của nàng, an ủi: \"Ta cảm thấy vua ta thúc sẽ đồng ý l·y h·ôn.\"
+
+S...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

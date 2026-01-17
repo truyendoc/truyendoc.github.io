@@ -4,6 +4,9 @@ title: Chương 332
 chapter_number: 332
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Không ổn!”
+Cảm nhận được sự sắc bén xuyên thấu của Kiếm Khí do Trần lão y phát ra, lão mũi ưng kinh hãi cực độ.
+Kiếm Khí đến quá nhanh, quá đột ngột, khiến ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

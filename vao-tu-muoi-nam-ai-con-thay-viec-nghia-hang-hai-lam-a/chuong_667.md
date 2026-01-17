@@ -4,6 +4,11 @@ title: Chương 667: Ta muốn Ma Đô Kim Khoa sinh vật
 chapter_number: 667
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 667: Ta muốn Ma Đô Kim Khoa sinh vật
+
+\"Thế nào, có phải hay không là ngươi muốn đồ vật?\"
+
+Tào Côn thanh âm vang lên, để nhìn chằm chằm màn ảnh máy vi ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

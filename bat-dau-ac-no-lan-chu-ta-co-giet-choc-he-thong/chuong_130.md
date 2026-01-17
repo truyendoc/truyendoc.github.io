@@ -4,6 +4,11 @@ title: Chương 130: tiến vào bí cảnh
 chapter_number: 130
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 130: tiến vào bí cảnh
+
+Nghe được Vương Uyên danh tự, Thẩm Dục lại là hơi nhướng mày.
+
+Con hàng này đoán chừng tại trong phủ thành gặp phiền toái gì, m...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

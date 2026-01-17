@@ -4,6 +4,8 @@ title: Chương 32: Hắc dạ linh hồ
 chapter_number: 32
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh nghe thấy tiếng cào cửa quen thuộc ấy, hắn gần như không tin vào tai mình.
+Chẳng phải Trần lão đã nói bột dược kia cực kỳ hiệu nghiệm sao — nga...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

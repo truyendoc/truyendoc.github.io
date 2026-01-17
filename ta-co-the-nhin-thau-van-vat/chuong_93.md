@@ -4,6 +4,9 @@ title: Chương 93: Địa mạch linh dịch
 chapter_number: 93
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cái… gì thế này?”
+Lục Thanh nhìn cảnh tượng trước mắt, trong lòng tràn đầy kinh hãi.
+Trước mặt hắn và Tiểu Ly, một động huyệt khổng lồ đột ngột mở ra — khôn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

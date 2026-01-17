@@ -4,6 +4,9 @@ title: Chương 336: Tâm người khó lường, Thánh Lệnh trở nên vô d
 chapter_number: 336
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư huynh!”
+Khi thấy lão giả mũi ưng bị chém rơi đầu chỉ bằng một nhát kiếm, hắc y nhân lập tức hiện rõ vẻ kinh hoàng, thần hồn lực cuồn cuộn tán ra dữ dội.
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

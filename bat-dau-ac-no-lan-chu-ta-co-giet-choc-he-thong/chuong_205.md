@@ -4,6 +4,11 @@ title: Chương 205: phản sát
 chapter_number: 205
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 205: phản sát
+
+Thẩm Dục mắt nhìn hơn hai ngàn mét bên ngoài rừng cây, nói ra: “Tòa kia trong rừng cây có mai phục.”
+
+Nghe vậy, Tiết Linh Đồng chăm chú...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

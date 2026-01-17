@@ -4,6 +4,11 @@ title: Chương 583: Đưa ngươi cái tru tâm
 chapter_number: 583
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 583: Đưa ngươi cái tru tâm
+
+Đối với Lục gia hào vấn đề này, Tào Côn cũng không có trực tiếp trả lời, mà là hỏi ngược lại trở về.
+
+\"Lục luật sư ta muốn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

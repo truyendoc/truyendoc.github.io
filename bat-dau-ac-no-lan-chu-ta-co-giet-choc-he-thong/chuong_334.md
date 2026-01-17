@@ -4,6 +4,9 @@ title: Chương 334: Nhị hoàng tử lần nữa tới chơi (1)
 chapter_number: 334
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 281: Nhị hoàng tử lần nữa tới chơi (1)
+
+Ngu Tuyết Oánh đang nghe Thẩm Dục câu kia “nếu không cùng đi” lời nói sau, không khỏi ngây ngẩn cả người, lập ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

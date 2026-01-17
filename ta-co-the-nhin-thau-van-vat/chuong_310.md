@@ -4,6 +4,8 @@ title: Chương 310: Đối chiến
 chapter_number: 310
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sư phụ đột phá khiến Lục Thanh càng thêm tin tưởng vào chuyến đi đến Vân Châu lần này.
+Đạt đến Tiên Thiên Tiểu Thành, lại sở hữu song hệ Tiên Thiên Nguyên Kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

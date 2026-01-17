@@ -4,6 +4,9 @@ title: Chương 80: 100 vạn, bao thắng 8 ngày
 chapter_number: 80
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 80: 100 vạn, bao thắng 8 ngày
+
+Ngay từ đầu nhìn Tào Côn cùng Tôn Vĩ cùng một chỗ lúc tiến vào, cơ bắp mãnh nam còn tưởng rằng hai người quan hệ rất tố...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

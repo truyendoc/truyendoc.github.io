@@ -4,6 +4,11 @@ title: Chương 29: tà điển thuật luyện đan
 chapter_number: 29
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 29 tà điển thuật luyện đan
+
+Tâm niệm vừa động, Thẩm Dục mở ra tầm bảo thần thông.
+
+Lập tức, phương viên trăm dặm cảnh tượng hóa thành một tấm thu nhỏ ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

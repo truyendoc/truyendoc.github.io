@@ -4,6 +4,11 @@ title: Chương 110: Bị mơ mơ màng màng Lưu Hồng
 chapter_number: 110
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 110: Bị mơ mơ màng màng Lưu Hồng
+
+Đương nhiên, Tào Côn đối Lưu Hồng hiểu rõ, cũng không phải tất cả đều là từ trong ngục giam chắp vá lung tung tới.
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

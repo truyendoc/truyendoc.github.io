@@ -4,6 +4,9 @@ title: Chương 693: Cát phù hộ
 chapter_number: 693
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 693: Cát phù hộ
+
+Làm một làm Áo Uy quốc tế nhiều năm lão nội ứng người, Triệu Xảo Thiến đối với mình nhà đối thủ cạnh tranh đều có ai, có thể nói là r...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

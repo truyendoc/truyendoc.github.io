@@ -4,6 +4,11 @@ title: Chương 298: Vu tộc tính toán (1)
 chapter_number: 298
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 263: Vu tộc tính toán (1)
+
+Nam Cương đạo chỉ huy sứ muốn đi vào bách vạn đại sơn tìm kiếm Thẩm Vũ Châu.
+
+Đi theo Thẩm Vũ Châu theo Kinh thành tới một ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

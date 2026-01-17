@@ -4,6 +4,8 @@ title: Chương 204: Đột phá hậu thiên nội cảnh
 chapter_number: 204
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi mọi người chuẩn bị rời khỏi hang động ngầm, Ngụy Sơn Hải vẫn còn mang vẻ thất thần.
+Những người khác tu hành còn nông cạn, chưa nhận ra dị tượng vừa rồi ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

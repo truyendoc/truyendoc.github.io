@@ -4,6 +4,11 @@ title: Chương 49: Tiên thiên tiện nhân thánh thể
 chapter_number: 49
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 49: Tiên thiên tiện nhân thánh thể
+
+\"Tiểu Côn, ngươi tại sao không nói chuyện?\"
+
+Thấy mình sau khi nói xong, Tào Côn cả người đều rơi vào trầm mặc bên...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 213: Dương Tam Đao tới
 chapter_number: 213
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 213: Dương Tam Đao tới
+
+Chín giờ rưỡi tối!
+
+Đế Vương quán bar trước, một cỗ màu trắng Bentley Mộ Thượng ngừng lại.
+
+Tào Côn mới từ trong xe ra, Lưu Hồ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

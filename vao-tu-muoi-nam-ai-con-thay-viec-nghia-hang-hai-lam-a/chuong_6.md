@@ -4,6 +4,11 @@ title: Chương 6: Tới sổ 2245 vạn
 chapter_number: 6
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 06: Tới sổ 2245 vạn
+
+So sánh với cửa hàng cái kia phổ thông trang trí, phía sau cửa gian phòng này, trang trí có thể xưng xa hoa.
+
+Tào Côn đi theo nam...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

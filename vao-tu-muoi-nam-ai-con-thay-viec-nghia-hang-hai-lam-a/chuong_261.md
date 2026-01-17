@@ -4,6 +4,9 @@ title: Chương 261: Tuyệt vô cận hữu nhà mới
 chapter_number: 261
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 261: Tuyệt vô cận hữu nhà mới
+
+Mặc dù Tào Côn ở trên một thế thời điểm, liền biết Liễu gia hiệu ăn bạo tạc án tất cả chi tiết, bất quá, tại nghe xong ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

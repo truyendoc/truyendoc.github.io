@@ -4,6 +4,13 @@ title: Chương 192
 chapter_number: 192
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ----------------------------------------------------------------------------
+
+\"Nói thật đấy, đừng đùa nữa mà.\"
+
+Trong đầu Dino lúc này chỉ có thế.
+
+Ngay khi ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

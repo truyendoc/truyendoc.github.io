@@ -4,6 +4,9 @@ title: Chương 357: Trung vương ngả bài (2)
 chapter_number: 357
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 292: Trung vương ngả bài (2)
+
+Ngao Thanh Sương cười trả lời, sau đó trở về Thẩm Dục ngồi xuống bên người: “Ta xem qua một thiên thượng cổ thư tịch, ph...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

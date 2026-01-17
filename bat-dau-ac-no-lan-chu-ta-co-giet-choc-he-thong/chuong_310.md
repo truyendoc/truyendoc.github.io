@@ -4,6 +4,11 @@ title: Chương 310: Bảy tòa Nguyên thạch mỏ (1)
 chapter_number: 310
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 269: Bảy tòa Nguyên thạch mỏ (1)
+
+Rất nhanh, Thẩm Dục liền hoàn thành vứt xác.
+
+Sau đó hắn lại khai thác giống nhau quá trình, đoạt vận, thu hồn, đánh...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

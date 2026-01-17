@@ -4,6 +4,13 @@ title: Chương 28: tầm bảo thần thông
 chapter_number: 28
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 28 tầm bảo thần thông
+
+Thời gian dần dần trôi qua, sắp tới giờ Tý.
+
+Vân Mộc Huyện Bắc Thành Khu.
+
+Thẩm Dục đem thân hình giấu ở bên đường phố một cái ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

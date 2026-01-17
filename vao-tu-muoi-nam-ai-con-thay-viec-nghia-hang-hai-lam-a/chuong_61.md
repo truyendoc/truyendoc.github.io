@@ -4,6 +4,11 @@ title: Chương 61: Kết hôn ý nghĩa
 chapter_number: 61
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 61: Kết hôn ý nghĩa
+
+Vừa nghe đến Tào Côn không để cho mình rời đi, Bạch Tĩnh lập tức liền có chút gấp.
+
+Nàng biết Tào Côn không muốn cùng mình tách r...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

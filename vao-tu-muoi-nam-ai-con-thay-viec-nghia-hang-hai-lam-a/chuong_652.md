@@ -4,6 +4,9 @@ title: Chương 652: Cảm tạ lão bạn tù
 chapter_number: 652
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 652: Cảm tạ lão bạn tù
+
+Trong đầu nhanh chóng lóe lên ý nghĩ này, Tưởng Trung Vân đối Bàng Hồng Na yêu cầu thay người đến cùng mình đàm, không chỉ có ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

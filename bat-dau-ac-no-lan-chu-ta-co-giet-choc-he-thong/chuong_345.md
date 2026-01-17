@@ -4,6 +4,13 @@ title: Chương 345: Tiên hạ thủ vi cường (2)
 chapter_number: 345
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 286: Tiên hạ thủ vi cường (2)
+
+Giờ phút này, Dương Phong đang cùng năm cái pháp tướng cảnh thương lượng ở chỗ nào.
+
+“Ngươi là người phương nào?”
+
+Nhìn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,8 @@ title: Chương 176: Căn nguyên
 chapter_number: 176
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mọi người trong ngụy phủ đều nhìn về hướng đó.
+Dưới ánh mắt của bao người, một bóng người từ mái hiên bò xuống, đáp nhẹ xuống đất rồi đứng thẳng, dáng vẻ ung...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

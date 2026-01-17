@@ -4,6 +4,11 @@ title: Chương 260
 chapter_number: 260
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Đảo Maldolando.
+
+Đúng như Ciel đã nói,『Cảm nhận ma thuật』của tôi phát hiện ra nhưng kẻ mang hạt giống bán chúa quỷ độc nhất.
+
+Mỗi con chiếm đóng một góc hòn ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

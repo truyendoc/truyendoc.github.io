@@ -4,6 +4,11 @@ title: Chương 34
 chapter_number: 34
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Viên Thủ lĩnh Tích dịch nhân tộc {Lizardman} gật đầu một cái khi nghe báo cáo tình hình chiền trận.
+
+Đã 4 ngày trôi qua kể từ lúc gặp Souei.
+
+Ngày mai sẽ là ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

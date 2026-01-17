@@ -4,6 +4,13 @@ title: Chương 308: Tân tân khổ khổ hai đời làm công người
 chapter_number: 308
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 308: Tân tân khổ khổ hai đời làm công người
+
+\"A! ! ! !\"
+
+Kêu thảm như heo bị làm thịt âm thanh vang lên lần nữa.
+
+Phương Tử Dương vẻn vẹn hai cước, li...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

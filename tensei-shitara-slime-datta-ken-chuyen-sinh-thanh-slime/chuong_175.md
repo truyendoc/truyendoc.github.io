@@ -4,6 +4,13 @@ title: Chương 175
 chapter_number: 175
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Trận đấu lặng lẽ bắt đầu.
+
+Velgrynd cố đợi đến khi Hạm đội không quân sau cô rút lui an toàn.
+
+Ngay khi thấy họ đã lui được, cô sẽ hành động ngay.
+
+「Cũng lâu...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

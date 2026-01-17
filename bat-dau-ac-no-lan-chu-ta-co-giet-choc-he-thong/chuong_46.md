@@ -4,6 +4,11 @@ title: Chương 46: thu hoạch lớn
 chapter_number: 46
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 46 thu hoạch lớn
+
+Đã có đi Nguyên Hà Thôn ý nghĩ.
+
+Thẩm Dục liền đối với Lý Linh Nhi nói “Linh nhi, ta muốn ra ngoài một chuyến, rất nhanh liền trở về...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,13 @@ title: Chương 22: khi lão Lục
 chapter_number: 22
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 22 khi lão Lục
+
+Tòa này huyện úy phủ đệ, chính là tiền nhiệm huyện úy.
+
+Chế tạo rất là xa hoa.
+
+Trần Hàn Sơn tiền nhiệm sau, liền đem tiền nhiệm huyện...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

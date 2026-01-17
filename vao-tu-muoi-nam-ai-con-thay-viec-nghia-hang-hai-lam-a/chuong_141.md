@@ -4,6 +4,9 @@ title: Chương 141: Hảo huynh đệ điện báo
 chapter_number: 141
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 141: Hảo huynh đệ điện báo
+
+Nguyên bản hai đầu lông mày còn mang theo vẻ u sầu Bạch Tĩnh, tại bị Tào Côn hiện ra một chút chó nhà giàu thực lực về sau...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

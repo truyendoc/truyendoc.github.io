@@ -4,6 +4,11 @@ title: Chương 236: Hư cao danh sách
 chapter_number: 236
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 236: Hư cao danh sách
+
+Mặc dù cùng Vương San San video, cuối cùng coi bọn nàng mẹ con hai người đối tuyến mà vội vàng kết thúc.
+
+Bất quá, Tào Côn vẫn ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 685: Khi còn sống bị ngược đãi qua
 chapter_number: 685
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 685: Khi còn sống bị ngược đãi qua
+
+\"Người c·hết cùng ta có quan hệ?\"
+
+Nghe được mũ thúc thúc nói như vậy, Tào Côn một mặt kinh ngạc biểu lộ.
+
+Ngay sa...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

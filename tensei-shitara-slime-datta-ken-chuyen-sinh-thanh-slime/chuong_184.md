@@ -4,6 +4,11 @@ title: Chương 184
 chapter_number: 184
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------------------------
+
+Hai chân bắt chéo, từ trên không, Moss ngồi quan sát trận chiến phía dưới.
+
+Cậu ta trông nhỏ hơn bình thườ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

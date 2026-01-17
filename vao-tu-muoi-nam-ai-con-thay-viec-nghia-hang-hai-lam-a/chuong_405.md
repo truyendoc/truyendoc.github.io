@@ -4,6 +4,11 @@ title: Chương 405: Đâm lưng Lý Đại Lượng
 chapter_number: 405
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 405: Đâm lưng Lý Đại Lượng
+
+Đợi cho trong phòng chỉ còn lại có mình cùng Liễu Truyền Sĩ, Tào Côn lúc này mới mở miệng cười, nói:
+
+\"Nói đến, hẳn là ta ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

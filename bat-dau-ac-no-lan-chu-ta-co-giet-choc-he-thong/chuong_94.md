@@ -4,6 +4,11 @@ title: Chương 94: thất liên rút
 chapter_number: 94
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 94 thất liên rút
+
+Nhìn thấy hóa thành tro tàn sơn trại, người áo đen nhịn không được phát ra một tiếng tức giận gào thét: “Là ai, đều là ai làm?”
+
+Ngư...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

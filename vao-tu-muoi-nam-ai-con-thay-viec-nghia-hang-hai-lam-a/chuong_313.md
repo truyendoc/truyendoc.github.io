@@ -4,6 +4,9 @@ title: Chương 313: Sẽ không nhập thổ vi an
 chapter_number: 313
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 313: Sẽ không nhập thổ vi an
+
+Cẩu Nhất Vĩ bến tàu sinh ý, tuyệt đối là một tảng mỡ dày, bằng không thì, cũng không thể trở thành hắn chủ yếu kiếm tiền...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

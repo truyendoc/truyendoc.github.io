@@ -4,6 +4,13 @@ title: Chương 188: Đem hắn từ lầu ba ném xuống
 chapter_number: 188
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 188: Đem hắn từ lầu ba ném xuống
+
+Đánh không lại!
+
+Tuyệt đối đánh không lại!
+
+Mặc dù cái này còn lại 11 cái bảo an, không phải cái gì người luyện võ, ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

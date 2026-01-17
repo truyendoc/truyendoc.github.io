@@ -4,6 +4,11 @@ title: Chương 190: Chúng bạn xa lánh Chu Lôi
 chapter_number: 190
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 190: Chúng bạn xa lánh Chu Lôi
+
+Nghe được đầu trọc câu trả lời này, Tào Côn khóe miệng rốt cục giương lên.
+
+Đột nhiên, hắn đưa tay ba tại đầu trọc trê...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 81: Bành trướng Tôn Vĩ
 chapter_number: 81
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 81: Bành trướng Tôn Vĩ
+
+Thời gian nhoáng một cái, đảo mắt liền đi qua một đêm.
+
+Sáng sớm hôm sau, thiên tài vừa tảng sáng, Tào Côn còn không có rời gi...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

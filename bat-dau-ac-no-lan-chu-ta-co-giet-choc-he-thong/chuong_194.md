@@ -4,6 +4,9 @@ title: Chương 194: quốc vận
 chapter_number: 194
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 194: quốc vận
+
+Một bên Thẩm Dục nghe được bốn cái bách hộ giảng thuật trong huyện thành tình huống, lập tức hứng thú, phóng xuất ra thần thức hướng tr...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

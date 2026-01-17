@@ -4,6 +4,11 @@ title: Chương 565: Càng thêm quá phận Lý Tố Linh
 chapter_number: 565
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 565: Càng thêm quá phận Lý Tố Linh
+
+Bởi vì Tào Côn đã cùng Trương Cương đã hẹn, muốn đi tế bái một chút hảo huynh đệ của bọn hắn Tôn Vĩ.
+
+Mà Khương Mẫ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

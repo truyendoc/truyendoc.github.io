@@ -4,6 +4,11 @@ title: Chương 386: Hiểu chuyện tốt nhân viên
 chapter_number: 386
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 386: Hiểu chuyện tốt nhân viên
+
+Mặc dù Tào Côn bên này trả lời đã rất rõ ràng, cùng Lý Kiến Ba lên giường loại sự tình này, là không có phụ cấp.
+
+Nhưn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

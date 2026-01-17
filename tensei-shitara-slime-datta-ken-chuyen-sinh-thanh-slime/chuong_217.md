@@ -4,6 +4,11 @@ title: Chương 217
 chapter_number: 217
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Lưỡi dao ánh sáng loáng bị thanh đoản kiếm hất văng đi.
+
+Cả hai đã ăn miếng trả miếng được một lúc rồi.
+
+Mỗi bên đều cố nhử đòn, vận dụng từng mưu kế tinh vi...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

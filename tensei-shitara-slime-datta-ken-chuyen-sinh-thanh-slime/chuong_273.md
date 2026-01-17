@@ -4,6 +4,11 @@ title: Chương 273
 chapter_number: 273
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Có vẻ mọi người đều đã nắm được bài giảng của tôi.
+
+Thú thực, tôi cũng chẳng bất ngờ khi lũ dư đảng của Đế Chế cũng biết kỹ thuật đó.
+
+Mặc dù vậy, nó vẫn khô...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

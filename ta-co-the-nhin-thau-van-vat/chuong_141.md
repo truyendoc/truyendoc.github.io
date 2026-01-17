@@ -4,6 +4,8 @@ title: Chương 141: Chiến lợi phẩm
 chapter_number: 141
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sau khi an bài ngụy Phu nhân và ngụy Công tử ở chỗ của Mã Cố, Lục Thanh rời đi.
+Việc cần làm đã hoàn tất, cậu không còn gì để hỗ trợ thêm. Chỉ cần hai mẹ con...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

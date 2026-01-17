@@ -4,6 +4,11 @@ title: Chương 125: Đáng thương Lưu Hồng
 chapter_number: 125
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 125: Đáng thương Lưu Hồng
+
+Từ khi trùng sinh đến nay, Tào Côn gặp qua nhan trị cao nhất nữ nhân, không hề nghi ngờ, khẳng định là Từ Kiều Kiều.
+
+Tại T...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

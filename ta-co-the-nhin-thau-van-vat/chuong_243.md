@@ -4,6 +4,9 @@ title: Chương 243: Trọng thương
 chapter_number: 243
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cái gì?!
+Kẻ ẩn núp trên cây chấn động dữ dội.
+Hắn hoàn toàn không ngờ có người lại đột ngột xuất hiện dưới gốc cây nơi mình ẩn thân, thậm chí còn nói trúng v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 268: Một cơ lưỡng dụng Trình Dao Dao
 chapter_number: 268
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 268: Một cơ lưỡng dụng Trình Dao Dao
+
+Thẩm mỹ viện, nữ tử dưỡng sinh hội sở, nữ tử yoga quán chỗ như vậy, Tào Côn đương nhiên là không có.
+
+Bất quá, T...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

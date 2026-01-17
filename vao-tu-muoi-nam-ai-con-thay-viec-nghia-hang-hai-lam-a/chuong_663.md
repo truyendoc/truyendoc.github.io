@@ -4,6 +4,13 @@ title: Chương 663: Chứng cứ tới tay
 chapter_number: 663
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 663: Chứng cứ tới tay
+
+Không sai!
+
+Tào Côn an bài cái kia đi Kim Chính Xuân quê quán lấy chứng cớ người, chính là Trương Uyển Thanh!
+
+Trương Uyển Than...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

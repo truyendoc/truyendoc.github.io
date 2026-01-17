@@ -4,6 +4,11 @@ title: Chương 3
 chapter_number: 3
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Kẻ bé nhỏ?
+
+Có nghĩ thế nào thì, người kia cũng đang ám chỉ tôi…
+
+Nhưng thay vì một giọng nói, có cảm giác là nó chuyển thẳng vào tâm trí tôi. Dẫu sao, tôi c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

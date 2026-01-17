@@ -4,6 +4,9 @@ title: Chương 86: Nữ nhân này, ta chắc chắn phải có được
 chapter_number: 86
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 86: Nữ nhân này, ta chắc chắn phải có được
+
+Một bữa cơm thời gian nói dài cũng không dài, hết thảy cũng liền như vậy cá biệt giờ, cũng liền vừa đủ Tào...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

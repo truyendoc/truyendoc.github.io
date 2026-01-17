@@ -4,6 +4,11 @@ title: Chương 78: Xích Diễm Tông phá lệ thu đồ đệ
 chapter_number: 78
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 78 Xích Diễm Tông phá lệ thu đồ đệ
+
+“Nhanh, làm tỉnh lại các nàng, hỏi một chút Hàn đại nhân đi nơi nào!”
+
+Phát hiện Hàn Mộ không thấy sau, hai tên hộ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

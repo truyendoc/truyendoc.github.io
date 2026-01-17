@@ -4,6 +4,9 @@ title: Chương 195
 chapter_number: 195
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------------------------
+
+Trong một thoáng bồng bột của tôi, bùm, Ciel, một giao diện thông minh, tự tách ra từ『Vua Trí Tuệ Raph...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

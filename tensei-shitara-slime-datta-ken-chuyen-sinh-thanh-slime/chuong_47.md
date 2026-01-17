@@ -4,6 +4,13 @@ title: Chương 47
 chapter_number: 47
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Trấn đã trở nên khá xinh đẹp rồi.
+
+‘Hãy xem thành quả những nỗ lực của tôi đây!’ tôi sẽ không nói ra như thế…!
+
+Nhưng gác lại chuyện đó.
+
+Điểm tôi quan tâm l...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

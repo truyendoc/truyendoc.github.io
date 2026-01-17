@@ -4,6 +4,9 @@ title: Chương 227: Hoàn mỹ nhà mới
 chapter_number: 227
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 227: Hoàn mỹ nhà mới
+
+Gặp Tiêu Văn Tĩnh tại cái này mấu chốt đột nhiên nâng lên mộng ảo biệt thự cư xá biệt thự, Dương Tam Đao biết, khẳng định cùng T...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

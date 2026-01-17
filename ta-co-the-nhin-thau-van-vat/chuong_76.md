@@ -4,6 +4,7 @@ title: Chương 76: Làng hỉ lạc
 chapter_number: 76
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cách đây khoảng năm mươi dặm có một ngôi làng tên là Làng Hỉ Lạc, nơi chuyên mở sòng bạc và kỹ viện, thu hút địa chủ cùng bọn rảnh rỗi quanh vùng đến tiêu t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

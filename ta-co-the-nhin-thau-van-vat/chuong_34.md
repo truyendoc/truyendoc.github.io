@@ -4,6 +4,9 @@ title: Chương 34: Một trăm lượng bạc
 chapter_number: 34
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Vừa bước vào phòng, Lục Thanh đã thấy một chiếc nồi sắt lớn, mới tinh, đặt ngay ngắn ở đó.
+Trần lão xoay người vào buồng trong, rồi mang ra một túi vải.
+“Đây...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,13 @@ title: Chương 499: Hữu tình người cuối cùng thành thân thuộc
 chapter_number: 499
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 499: Hữu tình người cuối cùng thành thân thuộc
+
+Nghe được Tào Côn nói như vậy, Vương San San một chút liền không nhịn được nở nụ cười.
+
+Đúng a!
+
+Mình ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

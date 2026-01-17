@@ -4,6 +4,9 @@ title: Chương 182: Ngươi đã được đến ta
 chapter_number: 182
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 182: Ngươi đã được đến ta
+
+Mặc dù không biết tại sao muốn đi Hải Thành, nhưng là, làm Trình Dương nghe Tào Côn nói, Trình Dao Dao cũng sẽ cùng theo đi...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

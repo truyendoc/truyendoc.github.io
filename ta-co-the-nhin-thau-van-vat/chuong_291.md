@@ -4,6 +4,8 @@ title: Chương 291: Vô danh đạo quán
 chapter_number: 291
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ, e rằng chúng ta không kịp đến trấn kế tiếp để trú đêm rồi.”
+Lục Thanh và mọi người hoàn toàn không hay biết rằng phía sau bọn họ, một ác ma đã gây ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

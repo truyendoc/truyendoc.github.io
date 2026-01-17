@@ -4,6 +4,9 @@ title: Chương 706: Ngươi vẫn như cũ là ta yêu nhất nữ hài
 chapter_number: 706
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 706: Ngươi vẫn như cũ là ta yêu nhất nữ hài
+
+Thủy tinh cường lực đối diện, Vương Nhất Phu khi nhìn đến Tào Côn hướng mình biểu hiện ra những hình này ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

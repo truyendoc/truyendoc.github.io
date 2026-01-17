@@ -4,6 +4,8 @@ title: Chương 185: Khởi hành
 chapter_number: 185
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lục công tử , rốt cuộc đã xảy ra chuyện gì vậy? Giờ có thể nói cho chúng tôi biết rồi chứ?”
+Trong rừng, Lục Thanh đang cõng Ngụy phu nhân, gương mặt thoáng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

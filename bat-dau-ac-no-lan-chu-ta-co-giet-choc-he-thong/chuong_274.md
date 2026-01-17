@@ -4,6 +4,13 @@ title: Chương 274: Phế bỏ huyền cơ doanh binh lính càn quấy (1)
 chapter_number: 274
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 251: Phế bỏ huyền cơ doanh binh lính càn quấy (1)
+
+Chờ Thẩm Dục dẫn người đến toà kia quán rượu lúc.
+
+Đánh nện còn chưa kết thúc.
+
+Sáu cái huyền cơ do...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

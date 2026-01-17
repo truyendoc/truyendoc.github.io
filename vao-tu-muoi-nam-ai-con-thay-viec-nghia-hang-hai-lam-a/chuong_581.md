@@ -4,6 +4,11 @@ title: Chương 581: Ngươi điên rồi vẫn là ta điên rồi
 chapter_number: 581
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 581: Ngươi điên rồi vẫn là ta điên rồi
+
+Không lớn trong rạp, Khương Mẫn sững sờ nhìn xem Tào Côn, cảm giác mình giống như là đang nằm mơ.
+
+Mới ngắn ng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

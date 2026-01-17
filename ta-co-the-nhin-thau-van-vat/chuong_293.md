@@ -4,6 +4,8 @@ title: Chương 293: Dị tượng trên trời (2)
 chapter_number: 293
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trần lão y là bậc đại tông y đạo, kinh nghiệm hành y cực kỳ thâm hậu, thủ pháp định huyệt cũng vô cùng chuẩn xác.
+Dù có y phục, ông vẫn có thể hạ châm ổn địn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

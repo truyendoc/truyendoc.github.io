@@ -4,6 +4,13 @@ title: Chương 63
 chapter_number: 63
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sau khi một hit bốc hơi lũ Golem, Tôi khẽ mở miệng cười xấu xa.
+
+Ku Ku Ku.
+
+Giờ thì tiếp tục cuộc đối thoại còn đang dang dở khi nãy thôi nào.
+
+\"Và bây giờ, ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

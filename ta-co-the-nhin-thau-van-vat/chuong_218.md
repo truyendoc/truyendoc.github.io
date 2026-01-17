@@ -4,6 +4,8 @@ title: Chương 218: Phôi Kiếm Ngàn Luyện
 chapter_number: 218
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lâm đại sư chăm chú quan sát khi Lục Thanh vung cây búa nặng xuống.
+Dưới lực đánh khủng khiếp ấy, thanh sắt đỏ rực trong nháy mắt b*n r* những tia lửa, bị né...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

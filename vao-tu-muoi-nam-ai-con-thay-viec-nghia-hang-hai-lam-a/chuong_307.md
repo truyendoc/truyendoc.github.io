@@ -4,6 +4,13 @@ title: Chương 307: Cẩu Nhất Vĩ chết
 chapter_number: 307
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 307: Cẩu Nhất Vĩ chết
+
+Tám giờ sáng!
+
+Hải Thành, nào đó trong biệt thự, Cẩu Nhất Vĩ thần thanh khí sảng đi tới trong viện.
+
+Bận rộn mấy ngày trong côn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

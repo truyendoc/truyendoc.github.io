@@ -4,6 +4,11 @@ title: Chương 465: Giết một cái, phế một cái
 chapter_number: 465
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 465: Giết một cái, phế một cái
+
+Trên cầu bốn người cũng biết, lúc này bọn hắn đang tiến hành phi pháp sự tình.
+
+Cho nên, bốn người cũng không có mực c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

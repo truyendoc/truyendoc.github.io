@@ -4,6 +4,9 @@ title: Chương 242
 chapter_number: 242
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Velzard không thể che giấu sự ngạc nhiên và bối rối khi nhìn thấy Velgrynd bất ngờ trở nên mạnh hơn.
+
+Cô cảm thấy hạnh phúc vì sự phát triển của em gái mình ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

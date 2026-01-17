@@ -4,6 +4,11 @@ title: Chương 705: Tào Côn, ta rãnh ngươi tổ tông!
 chapter_number: 705
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 705: Tào Côn, ta rãnh ngươi tổ tông!
+
+Rất nhanh, Ngốc Cẩu liền đem xe tại Hải Thành thứ hai ngục giam cổng, ngừng lại.
+
+Tào Côn từ trong xe ra, nói mộ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

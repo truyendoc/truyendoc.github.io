@@ -4,6 +4,8 @@ title: Chương 228: Thất sát lệnh
 chapter_number: 228
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Thấy Lục Thanh không hề tỏ ra sợ hãi trước khả năng bị Thất Sát Lâu ám sát, ngay cả thanh niên áo vải cũng không khỏi sinh lòng thán phục.
+Lúc này, hắn phải ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 137: giết chết Tiết Càn
 chapter_number: 137
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 137: giết chết Tiết Càn
+
+“Hưu! Hưu! Hưu!”
+
+Tại bắn g·iết Ma Vân Giáo một cái Khí Hải cảnh sau, lại có ba đạo tiễn quang từ Thẩm Dục trong cung tiễn bắ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

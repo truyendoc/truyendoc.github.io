@@ -4,6 +4,9 @@ title: Chương 201
 chapter_number: 201
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------------------------
+
+Từ trên không quan sát trận chiến giữa Milim và thiên sứ tóc bạc, tôi cảm giác có gì đó không đúng lắm...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

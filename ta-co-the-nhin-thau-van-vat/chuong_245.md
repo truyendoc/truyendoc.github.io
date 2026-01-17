@@ -4,6 +4,9 @@ title: Chương 245: Chiến thắng
 chapter_number: 245
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trên sườn đồi, giữa rừng cây.
+Lục Thanh nhìn thi thể “Ảnh” khi hắn từ từ ngừng thở, rơi vào im lặng.
+Những lời mà “Ảnh” nói trước khi chết vang lên trong tâm...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

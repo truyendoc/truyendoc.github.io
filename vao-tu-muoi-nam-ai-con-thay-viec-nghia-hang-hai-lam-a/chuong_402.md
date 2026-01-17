@@ -4,6 +4,11 @@ title: Chương 402: Tiên phụ nữ bất hoà lại nói
 chapter_number: 402
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 402: Tiên phụ nữ bất hoà lại nói
+
+Tại không biết mình bị oan uổng thời điểm, Vương Nhất Phu rất có thể tiếp nhận.
+
+Cho dù là bị trong ngục giam Đại Há...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

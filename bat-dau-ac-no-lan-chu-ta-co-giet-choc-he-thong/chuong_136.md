@@ -4,6 +4,15 @@ title: Chương 136: Ma Vân Giáo bí cảnh
 chapter_number: 136
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 136: Ma Vân Giáo bí cảnh
+
+Quét dọn xong chiến trường sau.
+
+Hoàng Huyên lại lần nữa dẫn đội xuất phát.
+
+Đi nơi nào không nói.
+
+Bất quá Thẩm Dục suy đoá...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

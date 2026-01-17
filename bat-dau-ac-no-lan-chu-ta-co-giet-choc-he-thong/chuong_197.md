@@ -4,6 +4,13 @@ title: Chương 197: lang yêu
 chapter_number: 197
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 197: lang yêu
+
+Thẩm Dục nếu như không có nhớ lầm, vị này Mông Phó bách hộ tên là Mông Cần.
+
+Tại bách hộ Thường Phi Điền thủ hạ nhậm chức.
+
+Hơn nữa còn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

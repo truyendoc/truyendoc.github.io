@@ -4,6 +4,10 @@ title: Chương 51: Một vạn khối tiền, tám giờ
 chapter_number: 51
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 51: Một vạn khối tiền, tám giờ
+
+Bầu không khí ngột ngạt mà đè nén trong phòng khách, Tào Côn cùng Vương San San hai người, ai cũng không nói gì thêm.
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 77: Dẫn Tôn Vĩ vào bẫy
 chapter_number: 77
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 77: Dẫn Tôn Vĩ vào bẫy
+
+Đối mặt Tôn Vĩ một nhà ba người, trong lòng rõ ràng buồn nôn không được, nhưng là, Tào Côn lại biểu hiện cùng người không việc...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

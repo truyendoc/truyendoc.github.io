@@ -4,6 +4,11 @@ title: Chương 379: Cho ngươi thu mấy cái pháp tướng cảnh thủ hạ
 chapter_number: 379
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 303: Cho ngươi thu mấy cái pháp tướng cảnh thủ hạ (2)
+
+Hồ lão chậm rãi mở miệng, trong giọng nói lộ ra sự uy h·iếp mạnh mẽ chi ý.
+
+“Thật sự là một đám...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

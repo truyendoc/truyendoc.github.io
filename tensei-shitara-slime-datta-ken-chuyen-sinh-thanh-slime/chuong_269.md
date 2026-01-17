@@ -4,6 +4,11 @@ title: Chương 269
 chapter_number: 269
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Buổi sáng ngày thứ tư.
+
+Vầng dương thật chói rọi song cũng đỗi ấm áp, tựa như xoa dịu nỗi đau từ trận chiến khốc liệt ban tối.
+
+Trận chiến với Độc Hổ kéo dài...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

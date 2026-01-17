@@ -4,6 +4,15 @@ title: Chương 18
 chapter_number: 18
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Giờ thì.
+
+Chuyện dĩ nhiên là, đánh một quan Đại thần là rất tệ.
+
+Hẳn nhiên.
+
+“Anh trai…… Anh đã làm gì thế này?”
+
+Một đội cảnh vệ đi đến, với Kaidou là thủ l...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

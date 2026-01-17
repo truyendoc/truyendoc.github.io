@@ -4,6 +4,9 @@ title: Chương 46: Đến từ mẹ ruột đâm lưng
 chapter_number: 46
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 46: Đến từ mẹ ruột đâm lưng
+
+Bởi vì Lưu Ngọc Linh cái này thông điện thoại trì hoãn, nguyên bản Tào Côn nửa giờ liền có thể mua xong bữa sáng, kết quả...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

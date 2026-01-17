@@ -4,6 +4,9 @@ title: Chương 269: Châu phủ
 chapter_number: 269
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đỉnh cao của Cảnh Tiên thiên, tạm thời ta đã nắm được,” Lục Thanh nghĩ thầm.
+“Điều khó ước lượng duy nhất chính là sức mạnh của Bí Thuật Tiên thiên.”
+Ngồi k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

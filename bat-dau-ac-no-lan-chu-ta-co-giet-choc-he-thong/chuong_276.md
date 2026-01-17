@@ -4,6 +4,13 @@ title: Chương 276: Huyền cơ doanh ngựa đạp thứ bảy trăm hộ ch�
 chapter_number: 276
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 252: Huyền cơ doanh ngựa đạp thứ bảy trăm hộ chỗ (1)
+
+Huyền cơ doanh ngay tại Thẩm Dục khu quản hạt bên trong.
+
+Cho nên, cũng không lâu lắm.
+
+Hắn liền...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

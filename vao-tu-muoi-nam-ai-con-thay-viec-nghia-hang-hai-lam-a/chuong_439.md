@@ -4,6 +4,9 @@ title: Chương 439: Kém chút phản sát Liễu Truyền Sĩ
 chapter_number: 439
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 439: Kém chút phản sát Liễu Truyền Sĩ
+
+Dương Tam Đao vào cửa, liếc mắt liền thấy được xưởng bên trong chất đống lấy một chút máy móc thiết bị, còn có ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

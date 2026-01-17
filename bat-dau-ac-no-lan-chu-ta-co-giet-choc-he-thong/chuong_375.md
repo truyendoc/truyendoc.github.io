@@ -4,6 +4,11 @@ title: Chương 375: Thông Thiên cảnh cũng phải quỳ (2)
 chapter_number: 375
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 301: Thông Thiên cảnh cũng phải quỳ (2)
+
+Vị kia pháp tướng cửu trọng, kh·iếp sợ nhìn xem một màn này, sau đó không hiểu đặt câu hỏi.
+
+Họ Dương Thông T...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

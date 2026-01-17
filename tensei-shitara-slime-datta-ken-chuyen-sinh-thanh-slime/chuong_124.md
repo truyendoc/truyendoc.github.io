@@ -4,6 +4,13 @@ title: Chương 124
 chapter_number: 124
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+(Góc nhìn của Fritz)
+
+Nhận tín hiệu từ Hinata, Fritz di chuyển đến góc phòng học để bảo vệ lũ trẻ.
+
+Anh nhìn xuống dưới sân trường từ c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

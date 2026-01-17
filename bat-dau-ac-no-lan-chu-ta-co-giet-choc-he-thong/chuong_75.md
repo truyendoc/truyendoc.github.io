@@ -4,6 +4,11 @@ title: Chương 75: trang đầu bọn họ giấu bạc thủ đoạn
 chapter_number: 75
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 75 trang đầu bọn họ giấu bạc thủ đoạn
+
+Thẩm Dục ánh mắt từ sáu vị trang trên đầu người đảo qua: “Biết Lưu Võ phụ tử ba người vì sao mà c·hết sao?”
+
+Sá...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

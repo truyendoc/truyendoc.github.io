@@ -4,6 +4,13 @@ title: Chương 230: Chiếm trần chi đình vận (1)
 chapter_number: 230
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 229: Chiếm trần chi đình vận (1)
+
+Một bên khác.
+
+Thẩm Dục cũng cùng Ngu Tuyết Oánh ngồi chung ngồi một chiếc xe ngựa.
+
+Ngu Tuyết Oánh dặn dò: “Ngày ma...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

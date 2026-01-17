@@ -4,6 +4,11 @@ title: Chương 690: Đột nhiên liền thay lòng
 chapter_number: 690
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 690: Đột nhiên liền thay lòng
+
+Thầm nghĩ lấy những thứ này, Mã Vũ Thiến rất nhanh liền đi vào gian phòng.
+
+Kết quả, nàng mới vừa đi vào, liền bị một m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

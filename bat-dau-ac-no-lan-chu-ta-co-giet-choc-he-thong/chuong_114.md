@@ -4,6 +4,15 @@ title: Chương 114: nhiệm vụ tới
 chapter_number: 114
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 114: nhiệm vụ tới
+
+Các loại Thẩm Dục trở lại Thẩm Gia.
+
+Tiếp cận Hoài Đức Viện thời điểm.
+
+Phát hiện cửa viện là mở ra.
+
+Lý Linh Nhi lại là đứng tại c...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 184: Quyết định
 chapter_number: 184
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lòng Trần lão y khẽ chấn động, rơi vào trầm tư.
+Thấy Trần lão y đã hiểu ý mình, thiếu niên áo vải mỉm cười.
+Hắn gật đầu chào Lục Thanh, rồi cầm gói Mai Hoa t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

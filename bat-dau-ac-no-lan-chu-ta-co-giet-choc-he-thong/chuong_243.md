@@ -4,6 +4,13 @@ title: Chương 243: Hoàng đế tính toán (2)
 chapter_number: 243
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 235: Hoàng đế tính toán (2)
+
+“Bệ hạ đã hạ thánh chỉ, nếu như cự tuyệt chính là kháng chỉ bất tuân!”
+
+Ngu Tuyết Oánh trầm giọng nói.
+
+“Kháng chỉ bất tu...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

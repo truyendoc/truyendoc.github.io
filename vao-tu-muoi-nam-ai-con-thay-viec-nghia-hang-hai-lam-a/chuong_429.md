@@ -4,6 +4,11 @@ title: Chương 429: Trời sinh trâu ngựa mệnh
 chapter_number: 429
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 429: Trời sinh trâu ngựa mệnh
+
+Bởi vì tại lần trước lúc gặp mặt, Ngốc Cẩu liền nhớ kỹ Lý Song mà nơi ở.
+
+Cho nên, đang nghe Tào Côn muốn đi gặp Lý Son...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

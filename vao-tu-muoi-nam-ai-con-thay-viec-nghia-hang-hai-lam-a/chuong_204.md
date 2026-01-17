@@ -4,6 +4,11 @@ title: Chương 204: Lưu Giai Mẫn tác phẩm tập hợp
 chapter_number: 204
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 204: Lưu Giai Mẫn tác phẩm tập hợp
+
+Cùng giống như hôm qua.
+
+Cùng Tôn Phỉ Phỉ cùng một chỗ ăn xong điểm tâm về sau, Tào Côn ngồi nàng giáp xác trùng, ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

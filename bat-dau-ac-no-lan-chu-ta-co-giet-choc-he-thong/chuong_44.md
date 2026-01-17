@@ -4,6 +4,13 @@ title: Chương 44: trận pháp
 chapter_number: 44
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 44 trận pháp
+
+Đối với Phong Uyển Nhi âm dương quái khí, Thẩm Dục cũng không tức giận.
+
+Hắn hoặc nhiều hoặc ít đoán được nguyên nhân.
+
+Thế là hướng nàn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

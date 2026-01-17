@@ -4,6 +4,13 @@ title: Chương 199
 chapter_number: 199
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: --------------------------------------------------------
+
+Tệ quá....
+
+Nát thật rồi.
+
+Từ những hình ảnh đang chiếu trên màn hình, tôi thấy được Milim bị chọc ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

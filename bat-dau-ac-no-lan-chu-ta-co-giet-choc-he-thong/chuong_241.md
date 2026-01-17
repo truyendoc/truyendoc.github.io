@@ -4,6 +4,9 @@ title: Chương 241: Vãi đậu thành binh (2)
 chapter_number: 241
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 234: Vãi đậu thành binh (2)
+
+Nguyên Mị nương tiếp tục nói: “Chuyện lần này vô cùng bỗng nhiên, ngay cả dưới trướng của ta Nguyên Thần cảnh cường giả đ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

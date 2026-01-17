@@ -4,6 +4,11 @@ title: Chương 237: Trong tiểu thuyết sáo lộ (2)
 chapter_number: 237
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 232: Trong tiểu thuyết sáo lộ (2)
+
+Hơn nữa, tại thanh lâu lầu hai cũng không ít quần chúng vây xem thò đầu ra quan sát phía dưới chiến đấu.
+
+Hai phe d...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

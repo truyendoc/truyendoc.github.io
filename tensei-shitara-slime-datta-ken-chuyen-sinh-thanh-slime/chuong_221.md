@@ -4,6 +4,11 @@ title: Chương 221
 chapter_number: 221
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Tâm trí Shion quay cuồng trong cơn thịnh nộ sục sôi.
+
+Cô phẫn nộ vì bị hắn đùa giỡn trong lòng bàn tay, như một con rối không hơn.
+
+Tức giận khi chứng kiến đ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

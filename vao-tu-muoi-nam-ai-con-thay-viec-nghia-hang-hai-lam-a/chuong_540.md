@@ -4,6 +4,11 @@ title: Chương 540: Năm sau xuất đạo
 chapter_number: 540
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 540: Năm sau xuất đạo
+
+Một trận cười khanh khách về sau, đột nhiên, Trương Khiết giống như là nghĩ tới điều gì, một chút ngừng lại.
+
+Nàng nhìn chằm ch...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

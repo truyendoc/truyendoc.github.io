@@ -4,6 +4,11 @@ title: Chương 539: Chịu nhục Trương Bách Mộ
 chapter_number: 539
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 539: Chịu nhục Trương Bách Mộ
+
+Khuôn mặt xinh đẹp cùng nàng ba cái nữ nhi tiêm vào tử hình thời gian là buổi sáng mười điểm.
+
+Mà ở trên buổi trưa lúc ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

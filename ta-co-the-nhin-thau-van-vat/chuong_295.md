@@ -4,6 +4,9 @@ title: Chương 295: Nội tình (2)
 chapter_number: 295
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Lục Công tử, cậu dậy sớm vậy sao?”
+Phương Đào ngạc nhiên khi thấy Lục Thanh đã bận rộn làm việc từ sớm.
+“Thói quen thôi.” Lục Thanh mỉm cười. “Đúng lúc lắm,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

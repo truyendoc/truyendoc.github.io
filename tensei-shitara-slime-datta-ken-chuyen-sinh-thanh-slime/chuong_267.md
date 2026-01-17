@@ -4,6 +4,9 @@ title: Chương 267
 chapter_number: 267
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Buổi tối ngày thứ ba.
+
+Sau khi thỏa mãn dạ dày với món thịt hầm ngon tuyệt đó, tôi tiếp tục thú ăn chơi bằng cách ngâm mình trong bồn tắm vô cùng sang trọng....
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

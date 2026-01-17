@@ -4,6 +4,11 @@ title: Chương 175: Trên thế giới tốt nhất thúc thúc
 chapter_number: 175
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 175: Trên thế giới tốt nhất thúc thúc
+
+Giúp Tào Côn rửa sạch chân, tiếp xuống chính là mát xa chân.
+
+Tào Côn nằm ở trên giường, lão bản nương ngồi tại...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

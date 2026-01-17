@@ -4,6 +4,11 @@ title: Chương 132
 chapter_number: 132
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Trong khi ngồi ngắm Rimuru đang ngồi trước mình, Leon hồi tưởng lại những kỉ niệm cũ.
+
+Bề ngoài là một thiếu nữ, nhưng thực ra lại là m...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

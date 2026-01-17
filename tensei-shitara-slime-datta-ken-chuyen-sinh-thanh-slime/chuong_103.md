@@ -4,6 +4,11 @@ title: Chương 103
 chapter_number: 103
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Một tháng rưỡi đã trôi qua kể từ khi tôi thăng tiến thành Chúa Quỷ
+
+Quá trình xây dựng Đấu Trường diễn ra vô cùng suôn sẻ. Mệnh lệnh của Gerudo và năn...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

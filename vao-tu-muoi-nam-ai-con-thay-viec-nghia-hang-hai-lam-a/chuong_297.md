@@ -4,6 +4,11 @@ title: Chương 297: Đại giới, làm nữ nhân của ta
 chapter_number: 297
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 297: Đại giới, làm nữ nhân của ta
+
+Tào Côn lời nói kể xong, trong phòng theo sát mà tới, chính là trầm mặc.
+
+Lâm Thi Hàm im ắng cắn môi, hai tay thật ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

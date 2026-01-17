@@ -4,6 +4,11 @@ title: Chương 2: thủ sát
 chapter_number: 2
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 2 thủ sát
+
+Nha hoàn này gọi Lý Hà, vốn là Thẩm Dục nha hoàn một trong.
+
+Thẩm Gia chính là Vân Mộc Huyện nhà giàu, đại thiếu gia Thẩm Huy đi trong quân...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

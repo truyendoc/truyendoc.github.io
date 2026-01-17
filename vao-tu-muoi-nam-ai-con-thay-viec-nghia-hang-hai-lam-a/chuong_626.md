@@ -4,6 +4,9 @@ title: Chương 626: Băng thanh ngọc khiết Vương San San
 chapter_number: 626
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 626: Băng thanh ngọc khiết Vương San San
+
+Bởi vì tết nguyên tiêu bản thân liền là một cái vui mừng đoàn viên thời gian, lại thêm Trương gia bốn chị em...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 534: San San, làm bạn gái của ta a
 chapter_number: 534
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 534: San San, làm bạn gái của ta a
+
+Nhìn xem Tào Côn tại nâng lên t·ang l·ễ thời điểm, cả người đều tới tinh thần, Trương Bách Mộ trong lúc nhất thời ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

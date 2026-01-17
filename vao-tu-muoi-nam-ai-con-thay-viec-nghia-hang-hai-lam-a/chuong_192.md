@@ -4,6 +4,11 @@ title: Chương 192: Chu Lôi lão bà tới
 chapter_number: 192
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 192: Chu Lôi lão bà tới
+
+Mười một giờ trưa!
+
+Quán bar tại một phen vận doanh điều chỉnh thử, xác định tất cả cũng không có vấn đề về sau, Tào Côn vung...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 324: Biến cố kinh thiên
 chapter_number: 324
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Sơn tông chủ, xin hãy khoan!”
+Nhìn thấy Ngân Nguyệt tông chủ đặt tay lên cổ Vương Bàn, Lưu Phó Điện Chủ của Bách Hoa cung vội vàng cất tiếng ngăn lại.
+Nàng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

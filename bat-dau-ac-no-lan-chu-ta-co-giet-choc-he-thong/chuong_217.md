@@ -4,6 +4,13 @@ title: Chương 217: ám toán Dương Thiên Tứ
 chapter_number: 217
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 217: ám toán Dương Thiên Tứ
+
+Mấy ngàn thước bên ngoài.
+
+Thẩm Dục lợi dụng thần thức đối với Diệp Hoan phóng xuất ra nhìn rõ chi nhãn.
+
+Đối phương tin ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

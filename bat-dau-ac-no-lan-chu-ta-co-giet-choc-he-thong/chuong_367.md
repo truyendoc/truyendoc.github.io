@@ -4,6 +4,11 @@ title: Chương 367: Ta chỉ sợ vô địch (2)
 chapter_number: 367
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 297: Ta chỉ sợ vô địch (2)
+
+Như là phúc lâm tâm chí đồng dạng, cái này hoàn toàn mới vật tư vừa sinh ra, Thẩm Dục liền biết, đây là hắn bản nguyên.
+
+T...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

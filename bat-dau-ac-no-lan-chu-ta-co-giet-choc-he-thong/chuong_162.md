@@ -4,6 +4,13 @@ title: Chương 162: song bào thai thức tỉnh thông linh bảo thể
 chapter_number: 162
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 162: song bào thai thức tỉnh thông linh bảo thể
+
+Thời gian nhoáng một cái đi qua ba ngày.
+
+Trong ba ngày này, đều không có yêu thú đột kích thành.
+
+Ng...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

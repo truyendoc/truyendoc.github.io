@@ -4,6 +4,15 @@ title: Chương 109: Sàn đêm nhân vật truyền kỳ
 chapter_number: 109
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 109: Sàn đêm nhân vật truyền kỳ
+
+Dám sao?
+
+Nghe được Lưu Hồng cái này mang theo giọng khiêu khích, Tào Côn kém chút không có bật cười.
+
+Khá lắm!
+
+Đây ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

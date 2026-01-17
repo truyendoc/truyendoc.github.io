@@ -4,6 +4,9 @@ title: Chương 67: Tiểu tỷ tỷ ân cứu mạng
 chapter_number: 67
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 67: Tiểu tỷ tỷ ân cứu mạng
+
+Hai tay bị ngạnh sinh sinh túm trật khớp, hai chân chỗ đầu gối bị đạp sau cong 90 độ, loại này tứ chi bị phế tình huống, đ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

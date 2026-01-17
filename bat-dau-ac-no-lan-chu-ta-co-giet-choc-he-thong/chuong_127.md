@@ -4,6 +4,11 @@ title: Chương 127: Đoán Thần Quyết tầng thứ tám
 chapter_number: 127
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 127: Đoán Thần Quyết tầng thứ tám
+
+1000 g·iết nhiều điểm cũng không có thể tăng cao tu vi, lại không thể tăng lên võ kỹ bí pháp.
+
+Không bằng rút thưởn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

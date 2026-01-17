@@ -4,6 +4,9 @@ title: Chương 160: Giải quyết Lưu Giai Mẫn
 chapter_number: 160
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 160: Giải quyết Lưu Giai Mẫn
+
+Đương nhiên, mặc dù trong lòng là nghĩ như vậy, thế nhưng là, Lưu Giai Mẫn ngoài miệng khẳng định không thể nói như vậy....
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 134: Gia hỏa này thật là có thể trang bức
 chapter_number: 134
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 134: Gia hỏa này thật là có thể trang bức
+
+Nghe được Tô Kiến Dân nói, lại còn có như thế một nơi tốt, Tào Côn trong lòng lúc này liền sinh ra hứng thú...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

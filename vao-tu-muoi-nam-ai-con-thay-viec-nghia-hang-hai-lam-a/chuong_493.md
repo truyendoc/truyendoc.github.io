@@ -4,6 +4,9 @@ title: Chương 493: Bảo tàng nữ hài Vương San San
 chapter_number: 493
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 493: Bảo tàng nữ hài Vương San San
+
+Phòng chứa đồ bên trong, Vương San San cùng Tào Côn lần nữa hàn huyên vài câu về sau, sau đó liền giống như ngày t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

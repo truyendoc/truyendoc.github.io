@@ -4,6 +4,11 @@ title: Chương 49: phong phú chiến lợi phẩm
 chapter_number: 49
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 49 phong phú chiến lợi phẩm
+
+Tiếp lấy, Thẩm Dục dung hợp bí pháp kinh thiên nhất kích.
+
+Sau đó, hắn trong Khí Hải liền có thêm một cái phù văn màu đỏ....
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

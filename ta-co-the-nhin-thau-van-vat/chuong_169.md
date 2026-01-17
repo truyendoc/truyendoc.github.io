@@ -4,6 +4,9 @@ title: Chương 169: Nhập môn phù đạo
 chapter_number: 169
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cảm nhận luồng sức mạnh khổng lồ đang tiềm ẩn trong cơ thể, Lục Thanh khẽ gật đầu, ánh mắt thoáng hiện vẻ hài lòng.
+Viên mãn cảnh giới hậu thiên Cốt cảnh
+Đó ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

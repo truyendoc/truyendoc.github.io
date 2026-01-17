@@ -4,6 +4,11 @@ title: Chương 85
 chapter_number: 85
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Vào ngày đó, thế giới rơi lại chấn động một lần nữa.
+
+Sự hồi sinh của Veldora đã được xác nhận.
+
+Thông tin này đã nhanh chóng được thông báo giữa nước chịu s...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

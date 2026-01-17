@@ -4,6 +4,9 @@ title: Chương 444: Dương Bình đến Hải Thành
 chapter_number: 444
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 444: Dương Bình đến Hải Thành
+
+Mặc kệ tại t·ang l·ễ bên trên xuất hiện đạo sĩ vẫn là hòa thượng, đối với Dương Tam Đao loại này không thế nào thiếu ti...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

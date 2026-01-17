@@ -4,6 +4,15 @@ title: Chương 195: vương triều những năm cuối
 chapter_number: 195
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 195: vương triều những năm cuối
+
+Đêm khuya, Thẩm Gia.
+
+Mắt nhìn ngủ say Lý Linh Nhi, Thẩm Dục lách mình tiến vào tiểu thế giới.
+
+Tâm niệm vừa động.
+
+G...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

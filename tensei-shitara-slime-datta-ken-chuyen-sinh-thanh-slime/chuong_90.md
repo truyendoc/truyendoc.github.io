@@ -4,6 +4,11 @@ title: Chương 90
 chapter_number: 90
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Hinata nghỉ chân ở 1 địa điểm cách Tempest 1 ngày đường nữa.
+
+Và sau đó, cuộc họp cuối cùng đã bắt đầu.
+
+Xem xét tình hình hiện tại, kẻ địch có lẽ chưa sẵn s...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

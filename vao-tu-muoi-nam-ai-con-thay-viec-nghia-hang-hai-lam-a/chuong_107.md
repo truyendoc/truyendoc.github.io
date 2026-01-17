@@ -4,6 +4,9 @@ title: Chương 107: Chính trực nam nhân tốt Tào Côn
 chapter_number: 107
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 107: Chính trực nam nhân tốt Tào Côn
+
+Tựa như Lưu Hồng nói, trong phòng cãi lộn, cũng không có theo nàng rời đi mà biến mất, ngược lại còn có thăng cấ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

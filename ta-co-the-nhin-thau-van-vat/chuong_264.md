@@ -4,6 +4,8 @@ title: Chương 264: Lời Đồn
 chapter_number: 264
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ồ? Cang Châu của chúng ta đã xảy ra đại sự gì vậy?”
+Nghe Ngụy Sơn Hải nhắc đến chuyện lớn phát sinh tại Cang Châu, tâm niệm Lục Thanh khẽ động, nhưng sắc mặ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

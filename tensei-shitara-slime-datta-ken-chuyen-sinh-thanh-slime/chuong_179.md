@@ -4,6 +4,13 @@ title: Chương 179
 chapter_number: 179
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ------------------------------------------
+
+Tôi đã giải phóng thành công Veldora.
+
+Nhưng hiểm nguy chưa dứt.
+
+Cơ bản là Chước Nhiệt Long Velgrynd, Hoàng Đế v...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

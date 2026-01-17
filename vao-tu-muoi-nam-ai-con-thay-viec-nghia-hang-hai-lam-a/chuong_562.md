@@ -4,6 +4,11 @@ title: Chương 562: Đuổi theo chơi thôi
 chapter_number: 562
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 562: Đuổi theo chơi thôi
+
+Nghe được Trương Cương nói như vậy, Tào Côn kém chút không có bật cười.
+
+Không phải cười khác, mà là cười, huynh đệ ta ba ch...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

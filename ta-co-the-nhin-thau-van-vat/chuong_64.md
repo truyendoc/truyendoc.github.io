@@ -4,6 +4,9 @@ title: Chương 64: Gia tộc nhà họ Ngụy
 chapter_number: 64
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ, người nên ăn chút gì trước đã.”
+Lục Thanh bưng vào một phần cơm nóng.
+Do tình trạng của Ngụy công tử quá nguy kịch, Trần lão y phải túc trực bên giư...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

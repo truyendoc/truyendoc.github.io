@@ -4,6 +4,8 @@ title: Chương 222: Bữa tiệc
 chapter_number: 222
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sáng sớm hôm sau, ngụy phủ tràn ngập không khí hân hoan.
+Trong ngoài phủ đều treo đèn kết hoa, rực rỡ náo nhiệt. Ngay cả bọn người hầu, tỳ nữ cũng ai nấy mặt...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

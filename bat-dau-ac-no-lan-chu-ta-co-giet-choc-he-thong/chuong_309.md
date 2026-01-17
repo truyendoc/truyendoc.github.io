@@ -4,6 +4,11 @@ title: Chương 309: Hủy diệt Nam Man Vu tộc (2)
 chapter_number: 309
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 268: Hủy diệt Nam Man Vu tộc (2)
+
+Bị xác nhận hai nam một nữ sắc mặt trong nháy mắt biến trắng bệch.
+
+Hai nam tử lập tức dập đầu cầu xin tha thứ, nữ t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

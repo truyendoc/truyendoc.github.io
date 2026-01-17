@@ -4,6 +4,11 @@ title: Chương 666: Móc lão bản
 chapter_number: 666
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 666: Móc lão bản
+
+Đến!
+
+Gặp Tào Côn đều nói như vậy, Dương Ngọc Đình lập tức cũng không hỏi thêm nữa, sau đó chính là cầm lấy điện thoại di động của m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

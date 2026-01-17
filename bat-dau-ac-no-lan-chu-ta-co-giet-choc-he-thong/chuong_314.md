@@ -4,6 +4,13 @@ title: Chương 314: Thay Nhị hoàng tử bày mưu tính kế (1)
 chapter_number: 314
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 271: Thay Nhị hoàng tử bày mưu tính kế (1)
+
+“Còn thiếu một chút!”
+
+“Còn kém một điểm!”
+
+Cảm nhận được tu vi của mình, Sở Thanh Nguyên tự lẩm bẩm, sau ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

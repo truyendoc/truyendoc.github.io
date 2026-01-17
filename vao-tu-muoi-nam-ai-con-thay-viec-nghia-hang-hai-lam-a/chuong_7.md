@@ -4,6 +4,9 @@ title: Chương 7: Trang bức đạo sĩ, Dương Bình
 chapter_number: 7
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 07: Trang bức đạo sĩ, Dương Bình
+
+Đi Hải Thành, tự nhiên là chạy mây đông khu đi, mây đông khu sở dĩ gọi mây đông khu, cũng là bởi vì, nó chỉ là Hải T...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

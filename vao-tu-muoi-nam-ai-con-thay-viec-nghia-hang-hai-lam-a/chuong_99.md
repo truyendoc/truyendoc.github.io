@@ -4,6 +4,11 @@ title: Chương 99: Toàn bộ đội, toàn giết
 chapter_number: 99
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 99: Toàn bộ đội, toàn giết
+
+\"Chờ một chút đợi lát nữa!\"
+
+Thấy mình bị bài xuất kế hoạch, Tào Côn ngay cả xì gà đều không lo được rút, bận bịu lên tiến...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

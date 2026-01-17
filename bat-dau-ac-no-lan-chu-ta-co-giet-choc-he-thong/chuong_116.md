@@ -4,6 +4,13 @@ title: Chương 116: chặt đầu cuồng ma
 chapter_number: 116
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 116: chặt đầu cuồng ma
+
+“Trốn a!”
+
+Nhìn thấy Thẩm Dục tại trong khoảnh khắc liền g·iết năm chi đội tuần tra.
+
+Trên tường thành này đội tuần tra đều tr...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

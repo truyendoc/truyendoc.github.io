@@ -4,6 +4,13 @@ title: Chương 185
 chapter_number: 185
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------------------
+
+Kondou và Carrera.
+
+Tất cả những gì họ vin vào để đứng được tới giờ chỉ còn quyết tâm và lòng tự tôn.
+
+Quyết...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

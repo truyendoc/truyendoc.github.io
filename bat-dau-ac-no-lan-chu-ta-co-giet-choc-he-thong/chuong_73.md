@@ -4,6 +4,11 @@ title: Chương 73: Thẩm gia sâu mọt
 chapter_number: 73
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 73 Thẩm gia sâu mọt
+
+Để Thẩm Dục cảm thấy vui mừng là, có được thượng phẩm căn cốt bảy người cũng không có bị đào thải.
+
+Ba mươi tư cái có được trung ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

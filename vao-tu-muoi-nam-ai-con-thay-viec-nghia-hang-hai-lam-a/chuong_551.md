@@ -4,6 +4,9 @@ title: Chương 551: Ta ăn thịt bò
 chapter_number: 551
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 551: Ta ăn thịt bò
+
+Lớn như vậy t·ang l·ễ trong hội trường, đến đây tham gia t·ang l·ễ người, từng cái tất cả đều cảm thấy hôm nay đơn giản tới quá đá...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

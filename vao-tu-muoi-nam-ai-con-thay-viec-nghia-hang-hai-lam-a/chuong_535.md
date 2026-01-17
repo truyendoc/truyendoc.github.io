@@ -4,6 +4,11 @@ title: Chương 535: Không bằng liếm chó côn
 chapter_number: 535
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 535: Không bằng liếm chó côn
+
+Đoàn Minh thanh âm tuyệt không lớn!
+
+Nhưng là, lại giống như là trời trong phích lịch, một chút đem Vương San San cho ch...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

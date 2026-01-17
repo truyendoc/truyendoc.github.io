@@ -4,6 +4,9 @@ title: Chương 152: Cao Đình Đình đến phòng chứa đồ
 chapter_number: 152
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 152: Cao Đình Đình đến phòng chứa đồ
+
+Mặc dù Tào Côn liếc mắt một cái thấy ngay Lưu Giai Mẫn tính toán điều gì, thế nhưng là, hắn cũng không có đâm th...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

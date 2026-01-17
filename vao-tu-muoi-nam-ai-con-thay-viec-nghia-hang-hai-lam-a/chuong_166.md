@@ -4,6 +4,9 @@ title: Chương 166: Có thể hay không đem vị hôn phu ta coi là người
 chapter_number: 166
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 166: Có thể hay không đem vị hôn phu ta coi là người
+
+Trong phòng, theo Tào Côn vấn đề này, một chút liền lâm vào yênn tĩnh giống như c·hết bên trong....
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

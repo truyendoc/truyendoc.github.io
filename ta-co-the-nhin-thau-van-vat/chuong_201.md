@@ -4,6 +4,9 @@ title: Chương 201: Hang động hỏa linh
 chapter_number: 201
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Xem bảo vật sao?”
+Trần lão y ngạc nhiên — ông không ngờ Ngụy Sơn Hải lại chủ động mời mình như vậy.
+“Đúng thế. Món bảo vật mà ta có được chứa một loại linh ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

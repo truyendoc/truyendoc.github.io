@@ -4,6 +4,11 @@ title: Chương 406: Thân thể giống như xảy ra sự cố
 chapter_number: 406
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 406: Thân thể giống như xảy ra sự cố
+
+Nghe xong Tào Côn lời nói này, Liễu Truyền Sĩ trong lòng ảo não đều không được không được!
+
+Vì cái gì liền không...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

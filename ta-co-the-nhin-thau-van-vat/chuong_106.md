@@ -4,6 +4,7 @@ title: Chương 106: Băng cơ ngọc cốt
 chapter_number: 106
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Dạo này, bữa ăn trong nhà họ Lục đã khá hơn nhiều, và dưới sự chăm sóc của hắn, cơ thể Tiểu Nhan cũng thay đổi rõ rệt so với lúc Lục Thanh mới xuyên đến thế ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

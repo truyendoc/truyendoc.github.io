@@ -4,6 +4,11 @@ title: Chương 325: Chữa trị Ngao Thanh sương (2)
 chapter_number: 325
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 276: Chữa trị Ngao Thanh sương (2)
+
+Nếu như đối phương chỉ là Bạch Nhãn Lang.
+
+Kia thật không tiện, hắn sẽ tìm lấy cớ không còn giúp đối phương chữa t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

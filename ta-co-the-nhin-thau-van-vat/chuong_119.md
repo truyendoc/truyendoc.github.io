@@ -4,6 +4,9 @@ title: Chương 119: Mã cố xui xẻo
 chapter_number: 119
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Mã Cố cảm thấy mình thật sự xui xẻo.
+Lúc này, hắn đang nằm rạp trong một hố đất giữa rừng, toàn thân dính đầy bùn, bên trên phủ kín lá khô.
+Nhìn từ bên ngoài...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

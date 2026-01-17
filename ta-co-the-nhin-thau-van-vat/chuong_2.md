@@ -4,6 +4,8 @@ title: Chương 2: Năng lực kỳ lạ
 chapter_number: 2
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ôi không, đừng bay mất!”
+Trong sân nhỏ, được bao quanh bởi hàng rào gỗ đơn sơ, cô bé Tiểu Nhan đang lon ton đuổi theo một con bướm, đôi chân ngắn chạy loạng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

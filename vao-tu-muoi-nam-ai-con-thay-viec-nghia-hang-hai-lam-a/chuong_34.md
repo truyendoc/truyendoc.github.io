@@ -4,6 +4,13 @@ title: Chương 34: Định ngày hẹn hoàng mao cha mẹ
 chapter_number: 34
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 34: Định ngày hẹn hoàng mao cha mẹ
+
+Sau một tiếng!
+
+Vương San San dẫn theo năm đạo đồ ăn, quay trở về Tào Côn trong nhà.
+
+Tào Côn đang ngồi ở trên ghế...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

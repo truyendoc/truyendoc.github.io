@@ -4,6 +4,11 @@ title: Chương 627: Mã Tiểu Vi cùng Chu Nhã Lệ tới
 chapter_number: 627
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 627: Mã Tiểu Vi cùng Chu Nhã Lệ tới
+
+\"Ai, chó nữ nhân, ngươi có muốn hay không tại bệnh viện ở lại một đêm a?\"
+
+Trong phòng bệnh, Tào Côn một bên miện...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

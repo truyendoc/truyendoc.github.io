@@ -4,6 +4,11 @@ title: Chương 337: Cẩu nam nhân, ngươi tốt trang bức a
 chapter_number: 337
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 337: Cẩu nam nhân, ngươi tốt trang bức a
+
+Thời gian nhoáng một cái, đảo mắt liền đi tới năm giờ rưỡi chiều!
+
+Tại mình một con rồng trong phòng, một mự...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

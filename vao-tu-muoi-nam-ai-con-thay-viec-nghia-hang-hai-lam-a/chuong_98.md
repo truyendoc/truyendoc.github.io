@@ -4,6 +4,11 @@ title: Chương 98: Thích nhất đối mỹ nữ phụ trách
 chapter_number: 98
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 98: Thích nhất đối mỹ nữ phụ trách
+
+Thời gian nhoáng một cái, đảo mắt liền đi qua hơn hai giờ.
+
+Thẳng đến cùng Tô Nhược Lan trên lầu ngây người hơn ha...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 47: Người tốt Bạch Tĩnh
 chapter_number: 47
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 47: Người tốt Bạch Tĩnh
+
+Bạch Tĩnh đoạn văn này ngay từ đầu thời điểm, Tào Côn cảm giác nói còn không có vấn đề gì.
+
+Dù sao, Hải Thành loại này một tu...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

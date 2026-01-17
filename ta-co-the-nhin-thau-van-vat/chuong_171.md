@@ -4,6 +4,9 @@ title: Chương 171: Đại chiến bắt đầu
 chapter_number: 171
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Hùng nhi, thế nào rồi, ngọc Hoa đã trở về chưa?”
+Trong một phủ đệ nào đó trong huyện thành, sắc mặt Vương Thương Dực âm trầm đến cực điểm.
+Hắn đã phái nhị đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

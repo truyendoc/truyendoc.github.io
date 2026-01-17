@@ -4,6 +4,13 @@ title: Chương 536: Nhân vật nữ chính kịch bản
 chapter_number: 536
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 536: Nhân vật nữ chính kịch bản
+
+Sáu giờ tối nửa!
+
+Hải Thành đại học, phòng ăn cửa chính, Vương San San cùng Đoàn Minh cùng đi ra.
+
+Mặc dù trong trườn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 59: Đao chiến
 chapter_number: 59
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Cảm nhận được khí huyết cường đại đang tỏa ra mơ hồ từ trong người Lục Thanh,
+Mã gia chấn động cả lòng, vừa kinh ngạc vừa khó tin.
+Lần trước hắn gặp Lục Than...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

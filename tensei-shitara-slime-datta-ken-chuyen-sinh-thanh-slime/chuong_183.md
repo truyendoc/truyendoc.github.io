@@ -4,6 +4,13 @@ title: Chương 183
 chapter_number: 183
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -------------------------------------
+
+Có hai kiểu phản ứng khi người ta nghe tiếng Hoàng Đế Rudra gào lên.
+
+Một số hoang mang, số khác lại nổi giận.
+
+Ngay l...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 23: Không sai, tại gian phu nhà đâu
 chapter_number: 23
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 23: Không sai, tại gian phu nhà đâu
+
+Đối với dạng này tình huống, cảnh sát kỳ thật cũng không có tốt biện pháp xử lý.
+
+Bởi vì, vượt quá giới hạn không...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

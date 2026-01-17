@@ -4,6 +4,15 @@ title: Chương 72: giết gà giật mình khỉ
 chapter_number: 72
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 72 giết gà giật mình khỉ
+
+Bắc Thành bên ngoài mười dặm.
+
+Thanh Mộc Nông Trang.
+
+Thiết Ngưu lái xe ngựa đến.
+
+Thanh Mộc Nông Trang trang đầu Lưu Võ man...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

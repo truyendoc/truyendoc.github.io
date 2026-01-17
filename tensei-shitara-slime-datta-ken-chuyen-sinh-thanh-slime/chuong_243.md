@@ -4,6 +4,11 @@ title: Chương 243
 chapter_number: 243
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chloe giơ kiếm lên theo phản xạ khi thấy một chàng trai đang tiến đến trước mặt cô.
+
+Cô cảm thấy có chút tội lỗi khi thấy người đó phấn khởi đến mức nào.
+
+Cô...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

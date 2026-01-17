@@ -4,6 +4,17 @@ title: Chương 6
 chapter_number: 6
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Kể từ lúc tôi ‘thực’ Veldora, 30 ngày đã qua.
+
+***
+
+Tôi đã làm những gì trong thời gian qua?
+
+Bạn là đồ ngốc à!
+
+Hãy suy nghĩ đi chứ!
+
+Chẳng phải tôi đã hóa ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,13 @@ title: Chương 55: liên hoan
 chapter_number: 55
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 55 liên hoan
+
+Nhìn xem những này từ rừng đào chỗ sâu đến các con khỉ.
+
+Thẩm Dục hai mắt đều tại tỏa ánh sáng a.
+
+Bởi vì hắn phát hiện, những khỉ con n...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

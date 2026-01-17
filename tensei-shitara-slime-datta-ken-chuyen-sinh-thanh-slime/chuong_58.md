@@ -4,6 +4,11 @@ title: Chương 58
 chapter_number: 58
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: {Yuuki Kagurazaka} là một người cởi mở và tốt.
+
+Mặc dù đã ở nửa sau 20, nhưng diện mạo vẫn trông như một nam sinh cao trung.
+
+Lý do, tôi nghe được, là bởi mộ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

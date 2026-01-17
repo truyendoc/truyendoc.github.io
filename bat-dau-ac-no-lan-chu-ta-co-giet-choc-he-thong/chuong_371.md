@@ -4,6 +4,11 @@ title: Chương 371: Ngô quốc Ngũ hoàng tử (2)
 chapter_number: 371
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 299: Ngô quốc Ngũ hoàng tử (2)
+
+Mà triều đình cùng bọn hắn đối kháng đại quân, cũng tổn thất nặng nề.
+
+Hiện tại đã không có xuất binh năng lực, chỉ có...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

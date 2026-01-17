@@ -4,6 +4,11 @@ title: Chương 121: đột phá Nguyên Thần Cảnh
 chapter_number: 121
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 121: đột phá Nguyên Thần Cảnh
+
+Thẩm Dục cũng không định lập tức về vân thủy phủ ý tứ.
+
+Hắn dự định trước tiên tìm một nơi, đem tu vi tăng lên tới Nguy...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

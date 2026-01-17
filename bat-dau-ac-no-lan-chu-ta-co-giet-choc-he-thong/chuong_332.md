@@ -4,6 +4,11 @@ title: Chương 332: Ta muốn lớn lên (1)
 chapter_number: 332
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 280: Ta muốn lớn lên (1)
+
+“Ai?”
+
+Nhìn thấy bỗng nhiên bóng người xuất hiện, song bào thai tỷ muội tất cả giật mình, muội muội càng là cổ tay rung lên,...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

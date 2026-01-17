@@ -4,6 +4,15 @@ title: Chương 198: Triệu Tuyết đùa ác
 chapter_number: 198
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 198: Triệu Tuyết đùa ác
+
+Đúng a!
+
+Lập tức liền lễ quốc khánh!
+
+Bất tri bất giác đại học đều đã khai giảng một tháng.
+
+Nghe được Vương San San hỏi như ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

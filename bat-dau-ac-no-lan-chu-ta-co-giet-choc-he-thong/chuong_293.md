@@ -4,6 +4,13 @@ title: Chương 293: Nam Man Vu tộc (2)
 chapter_number: 293
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 260: Nam Man Vu tộc (2)
+
+“Vậy cái này chuyện là ai làm?” Thẩm Dục hỏi.
+
+“Yêu Tộc hiềm nghi rất lớn!”
+
+Chung Diệu mắt lộ ra hận ý: “Bách vạn đại sơn mặ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

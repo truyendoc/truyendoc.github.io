@@ -4,6 +4,11 @@ title: Chương 482: Trương Bách Mộ dùng sức mạnh
 chapter_number: 482
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 482: Trương Bách Mộ dùng sức mạnh
+
+U a, trùng hợp như vậy?
+
+Nghe được chỉ còn lại cuối cùng một gian phòng, Trương Bách Mộ khóe miệng đều muốn không ứ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

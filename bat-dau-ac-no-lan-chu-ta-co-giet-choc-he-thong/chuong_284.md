@@ -4,6 +4,17 @@ title: Chương 284: Bưng Minh Vương phủ (1)
 chapter_number: 284
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 256: Bưng Minh Vương phủ (1)
+
+Tính danh: Công Tôn long
+
+Tuổi tác: 67 tuổi 8 tháng
+
+Tu vi: Nguyên Thần cảnh Tam Trọng
+
+Căn cốt: Siêu phẩm
+
+Hảo cảm: -50...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 64: bất đắc dĩ thỏa hiệp
 chapter_number: 64
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 64 bất đắc dĩ thỏa hiệp
+
+Thẩm Dục cất bước đi đến.
+
+Không để ý đến Đông Phương Lưu Ly kêu gào, mà là nhìn xem Thẩm Huy nói: “Đại ca, ngươi biết nàng?”...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

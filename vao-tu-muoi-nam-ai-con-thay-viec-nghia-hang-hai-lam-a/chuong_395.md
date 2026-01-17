@@ -4,6 +4,9 @@ title: Chương 395: Thích người thành thật Giả Di Tĩnh
 chapter_number: 395
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 395: Thích người thành thật Giả Di Tĩnh
+
+Đánh một cái Liễu Truyền Tâm điện thoại, đang nghe đối diện nhắc nhở tắt máy về sau, Liễu Truyền Sĩ chỉ coi đ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

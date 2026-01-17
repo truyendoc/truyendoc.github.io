@@ -4,6 +4,9 @@ title: Chương 303: Bị dẫm nát dưới chân (2)
 chapter_number: 303
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Nhưng rất nhanh, hắn liền cảm giác có điều không ổn:
+“Không đúng, ngươi ở đây… vậy còn Hồng trưởng lão đâu?!”
+“ bọn họ đã chết rồi.” Mã Cố lạnh lùng nói, “Ng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

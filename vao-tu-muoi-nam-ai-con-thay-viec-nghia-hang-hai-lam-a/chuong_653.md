@@ -4,6 +4,11 @@ title: Chương 653: Rốt cục hiện thân
 chapter_number: 653
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 653: Rốt cục hiện thân
+
+Sáng sớm trong biệt thự, Tào Côn tại cùng Lâm Thi Hàm trò chuyện pp đẹp da dây chuyền sản xuất xây dựng thêm vấn đề.
+
+Mà tại N...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

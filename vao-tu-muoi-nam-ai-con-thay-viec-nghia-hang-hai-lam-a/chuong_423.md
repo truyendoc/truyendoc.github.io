@@ -4,6 +4,11 @@ title: Chương 423: Ngàn dặm đưa Ôn Noãn
 chapter_number: 423
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 423: Ngàn dặm đưa Ôn Noãn
+
+Sáng sớm hôm sau, trời trong gió nhẹ, vạn dặm Vô Vân.
+
+Tào Côn tại đơn giản thu thập một phen về sau, mang theo Ngốc Cẩu li...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

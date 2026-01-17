@@ -4,6 +4,11 @@ title: Chương 80: Vương Gia huynh muội mưu đồ
 chapter_number: 80
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 80 Vương Gia huynh muội mưu đồ
+
+Càng nghĩ càng kích động đến Vương Tâm Thiền dưới chân bước chân không khỏi một trận tăng tốc.
+
+Rất nhanh liền về tới ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

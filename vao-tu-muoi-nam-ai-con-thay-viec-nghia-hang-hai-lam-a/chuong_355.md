@@ -4,6 +4,11 @@ title: Chương 355: Chụp lén 60 cái video
 chapter_number: 355
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 355: Chụp lén 60 cái video
+
+Rốt cục bị đã hỏi tới vấn đề này!
+
+Cái này 60 cái camera, thế nhưng là Lam Khả Tâm cùng Tào Côn cùng một chỗ, bỏ ra ba ngà...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

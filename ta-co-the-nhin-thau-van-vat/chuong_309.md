@@ -4,6 +4,8 @@ title: Chương 309: Đột phá (2)
 chapter_number: 309
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Biết rằng sắp đối đầu với một đại tông môn, bọn họ chỉ cảm thấy vô cùng hưng phấn.
+Dù sao thì, nếu trời có sập xuống, cũng đã có Lục Thanh và Trần lão y chốn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

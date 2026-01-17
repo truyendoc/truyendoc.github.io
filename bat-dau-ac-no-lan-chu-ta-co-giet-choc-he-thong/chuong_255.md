@@ -4,6 +4,11 @@ title: Chương 255: Giết chóc điểm phá ức (2)
 chapter_number: 255
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 241: Giết chóc điểm phá ức (2)
+
+Thế là, hắn điều khiển trên trời lôi vân hướng hẻm núi phương hướng di động, không hề đứt đoạn đánh xuống lôi trụ.
+
+Th...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

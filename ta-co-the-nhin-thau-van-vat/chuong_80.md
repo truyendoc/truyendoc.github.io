@@ -4,6 +4,8 @@ title: Chương 80: Sói móc tim
 chapter_number: 80
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: [Ngụy Sơn: biệt danh “Sói Móc Tim”, Cửu Gia của Hắc Lang bang, đồng thời là trưởng làng Hỉ Lạc. Bản tính tàn bạo, xảo quyệt và tham lam vô độ.]
+[Tu vi: Hậu T...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

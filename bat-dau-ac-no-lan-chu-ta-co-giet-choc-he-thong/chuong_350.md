@@ -4,6 +4,13 @@ title: Chương 350: Không cứu (1)
 chapter_number: 350
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 289: Không cứu (1)
+
+Cùng lúc đó, Nam Cương đạo một tòa cỡ lớn trong phủ đệ.
+
+Một cái mang theo mạng che mặt nữ tử ngồi chủ vị.
+
+Phía dưới đứng đấy mấy...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,9 @@ title: Chương 123: Hảo huynh đệ bắt đầu thua tiền
 chapter_number: 123
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 123: Hảo huynh đệ bắt đầu thua tiền
+
+Không nghĩ tới, một bút 500 vạn chuyển khoản, liền để Lưu Hồng thể xác tinh thần, tất cả đều biến thành mình hình...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

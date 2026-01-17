@@ -4,6 +4,9 @@ title: Chương 492: Tất cả đều không tính sự tình
 chapter_number: 492
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 492: Tất cả đều không tính sự tình
+
+Cùng Bàng Hồng Na ước định cẩn thận, mỗi tuần chí ít đến nàng lần này giúp nàng đổi mới CD về sau, rất nhanh, hai ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

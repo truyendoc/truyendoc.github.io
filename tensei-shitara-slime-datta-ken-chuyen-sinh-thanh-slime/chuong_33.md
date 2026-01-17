@@ -4,6 +4,11 @@ title: Chương 33
 chapter_number: 33
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Giẫm bằng mặt đất, đốn ngã cây rừng, quân đoàn Đổn đầu tộc {Orc} tiến vào rừng rậm.
+
+‘Giầm đạp! Giẫm đạp! Giẫm đạp! Giẫm đạp!’
+
+Hét vang như thế, đoàn quân {...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

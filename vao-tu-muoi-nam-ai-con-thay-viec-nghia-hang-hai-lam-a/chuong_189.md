@@ -4,6 +4,11 @@ title: Chương 189: Hắn là mình đến rơi xuống
 chapter_number: 189
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 189: Hắn là mình đến rơi xuống
+
+Vừa bị từ lầu ba ném xuống Chu Lôi, còn tại quán bar bên ngoài kêu thảm đâu.
+
+Tại kiến thức lão bản mới tàn nhẫn về sa...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

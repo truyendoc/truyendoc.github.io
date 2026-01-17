@@ -4,6 +4,11 @@ title: Chương 432: Tiên thi Quách Hữu Lý
 chapter_number: 432
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 432: Tiên thi Quách Hữu Lý
+
+Thấy mình đáp ứng Dương Tam Đao 100 ức yêu cầu về sau, Dương Tam Đao cả người không bị khống chế bắt đầu kích động.
+
+Thậm ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

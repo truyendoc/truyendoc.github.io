@@ -4,6 +4,9 @@ title: Chương 77: Làng hỉ lạc (2)
 chapter_number: 77
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đây là… Làng Hỉ Lạc sao?”
+Lục Thanh đứng trên một thân cây lớn, ánh mắt nhìn về ngôi làng phía trước mang theo vẻ khó tả.
+Trên vai cậu, Tiểu Ly đứng yên, th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

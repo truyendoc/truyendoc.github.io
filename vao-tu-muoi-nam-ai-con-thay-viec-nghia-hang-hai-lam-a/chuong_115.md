@@ -4,6 +4,11 @@ title: Chương 115: Lấy thân vào cuộc, mỹ nam kế
 chapter_number: 115
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 115: Lấy thân vào cuộc, mỹ nam kế
+
+\"Đến trường học tin cho ta hay.\"
+
+Cửa tiểu khu, Tào Côn cùng Lưu Hồng hai người, nhìn xem ngồi lên xe taxi Từ Kiều ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

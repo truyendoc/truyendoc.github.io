@@ -4,6 +4,13 @@ title: Chương 102
 chapter_number: 102
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ✦✧✦✧✦
+
+Nơi sâu nhất của đại mê cung, tầng 100 - nơi cư ngụ của Storm Dragon Veldora.
+
+Hôm nay, tôi sẽ sắp đặt không gian bên trong cho anh ta.
+
+Tôi đã sao c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

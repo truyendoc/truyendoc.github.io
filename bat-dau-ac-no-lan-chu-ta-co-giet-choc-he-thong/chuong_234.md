@@ -4,6 +4,9 @@ title: Chương 234: Trần chi đình bị bắt (1)
 chapter_number: 234
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 231: Trần chi đình bị bắt (1)
+
+“Thiếu gia, nếu không ngài vẫn là tìm một chỗ tránh một chút, nếu quả thật bị Chấp Pháp Đội bắt lại, mặt kia coi như né...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

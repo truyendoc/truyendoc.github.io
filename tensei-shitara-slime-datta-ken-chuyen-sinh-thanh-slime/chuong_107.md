@@ -4,6 +4,13 @@ title: Chương 107
 chapter_number: 107
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Đêm qua là một cuộc nhậu nhẹt linh đình, say ngoắc cần câu.
+
+Tất nhiên, không bao gồm tôi.
+
+Cho dù có uống bao nhiêu đi chăng nữa, tôi ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

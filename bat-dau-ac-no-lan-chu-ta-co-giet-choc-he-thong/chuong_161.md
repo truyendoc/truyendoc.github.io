@@ -4,6 +4,13 @@ title: Chương 161: nhặt được để lọt lớn
 chapter_number: 161
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 161: nhặt được để lọt lớn
+
+Thẩm Dục không có trêu chọc ý nghĩ của đối phương.
+
+Chuẩn bị lách qua cái này thần sen đạo Thánh Nữ.
+
+Bất quá tại trước khi...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

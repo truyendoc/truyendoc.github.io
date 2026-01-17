@@ -4,6 +4,11 @@ title: Chương 238: Đầu óc tiến phân Lý Thiếu Vĩ
 chapter_number: 238
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 238: Đầu óc tiến phân Lý Thiếu Vĩ
+
+Tiêu Văn Tĩnh lời nói nói rất không khách khí.
+
+Bất quá, đối mặt Tiêu Văn Tĩnh như thế không khách khí một phen, Dư...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

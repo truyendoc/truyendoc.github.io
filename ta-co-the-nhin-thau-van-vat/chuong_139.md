@@ -4,6 +4,9 @@ title: Chương 139: Dập đầu tạ ơn
 chapter_number: 139
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Mẫu thân, người tỉnh rồi sao?”
+Ngụy Công tử nghe thấy tiếng động thì mừng rỡ, vội chạy vào trong hang.
+Khi Lục Thanh và Mã Cố bước vào, họ thấy ngụy Công tử...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

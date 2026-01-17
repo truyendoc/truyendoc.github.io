@@ -4,6 +4,13 @@ title: Chương 30: sư tôn cầu ngươi giúp ta giết chết Thẩm Dục
 chapter_number: 30
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 30 sư tôn cầu ngươi giúp ta giết chết Thẩm Dục
+
+Về đến nhà.
+
+Thẩm Dục đem thủy linh cỏ một lần nữa lấy ra ngoài.
+
+Lo lắng lấy muốn hay không phục dụng...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

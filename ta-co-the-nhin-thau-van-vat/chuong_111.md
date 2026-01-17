@@ -4,6 +4,8 @@ title: Chương 111: Tiểu thiên
 chapter_number: 111
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không có gì lạ khi Ngụy gia có thể từ một dòng họ nhỏ ở một huyện xa xôi mà vươn lên thành thế gia hùng mạnh,
+ảnh hưởng lan tới cả toàn huyện thành và thậm c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

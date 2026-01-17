@@ -4,6 +4,11 @@ title: Chương 55
 chapter_number: 55
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Buổi họp kéo dài đến tận khuya hôm qua.
+
+Vì tôi đến vào tối qua, nên cũng đành chịu thôi.
+
+À, kế hoạch cho ngày hôm nay, là có một Quý tộc nào đó nói là muốn...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

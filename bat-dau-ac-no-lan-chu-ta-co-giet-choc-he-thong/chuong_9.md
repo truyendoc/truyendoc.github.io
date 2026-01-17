@@ -4,6 +4,15 @@ title: Chương 9: Trấn Yêu Vệ
 chapter_number: 9
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 9 Trấn Yêu Vệ
+
+Long Ưng Trại.
+
+Lưu Quảng một mình uống hai vò rượu.
+
+Đưa tới ngoài cửa hộ vệ: “Đi cho lão tử nhìn một cái, Lưu Nhị trở lại chưa?”
+
+Đối...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

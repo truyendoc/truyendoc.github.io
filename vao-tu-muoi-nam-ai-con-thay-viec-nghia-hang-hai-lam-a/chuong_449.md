@@ -4,6 +4,9 @@ title: Chương 449: Mặt đều không cần Liễu Truyền Sĩ
 chapter_number: 449
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 449: Mặt đều không cần Liễu Truyền Sĩ
+
+Nhìn xem Tào Côn đưa tới cái này USB, Liễu Truyền Sĩ cùng Liễu Truyền Tâm hai người, gần như đồng thời nhíu mày...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

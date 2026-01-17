@@ -4,6 +4,11 @@ title: Chương 56
 chapter_number: 56
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Khi hợp đồng đã ký kết, chỉ còn 1 việc phải làm.
+
+Đúng thế, ăn mừng thôi.
+
+Hôm qua tôi không thể ‘mạo hiểm’ vào ‘chân trời mơ ước’ được, nhưng hôm nay thì kh...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

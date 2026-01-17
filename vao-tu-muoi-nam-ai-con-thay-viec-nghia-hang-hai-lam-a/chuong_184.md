@@ -4,6 +4,9 @@ title: Chương 184: Lại một cái khăng khăng một mực nữ nhân
 chapter_number: 184
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 184: Lại một cái khăng khăng một mực nữ nhân
+
+Mà loại thứ ba phương án trị liệu, thì là đặc hiệu thuốc, nước ngoài có một loại chuyên môn trị liệu loạ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

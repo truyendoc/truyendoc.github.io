@@ -4,6 +4,9 @@ title: Chương 173: Xuất hiện Tiên thiên
 chapter_number: 173
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ầm!
+Cú va chạm giữa đao và thương tạo ra một luồng lực kinh người.
+Chỉ vài ngày trước,Ngụy Tổng quản – mới vừa thăng lên Đại Thành hậu thiên Nội cảnh – đã cả...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 198: thiên đao vạn quả
 chapter_number: 198
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 198: thiên đao vạn quả
+
+Sau đó, Thẩm Dục lại liên tiếp tiến về trong huyện thành mặt khác người m·ất t·ích bên trong xem xét.
+
+Vẫn như cũ cảm ứng được...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,13 @@ title: Chương 24: giải thích cái gì
 chapter_number: 24
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 24 giải thích cái gì
+
+Ngày hôm đó buổi sáng.
+
+Chỉ đạo xong ba cái muội muội cùng th·iếp thân nha hoàn tu luyện.
+
+Thẩm Dục đi tới Đông Thành Môn phụ cậ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

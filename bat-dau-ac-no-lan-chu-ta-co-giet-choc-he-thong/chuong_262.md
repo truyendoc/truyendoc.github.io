@@ -4,6 +4,11 @@ title: Chương 262: Chiến đi về đông cái chết (1)
 chapter_number: 262
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 245: Chiến đi về đông cái chết (1)
+
+Tâm niệm vừa động, Thẩm Dục thần thức bắt đầu hướng Hổ Uy Hầu trong phủ đệ lan tràn.
+
+Cũng rất nhanh liền khóa chặ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

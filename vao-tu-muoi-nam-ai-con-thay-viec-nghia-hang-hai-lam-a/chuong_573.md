@@ -4,6 +4,11 @@ title: Chương 573: Đều tỷ muội, cứ việc cầm đi dùng
 chapter_number: 573
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 573: Đều tỷ muội, cứ việc cầm đi dùng
+
+\"Bành!\"
+
+Vỡ nát rượu Mao Đài cái bình một chút vỡ nát hướng bốn phía, bên trong còn thừa lại không ít rượu Mao ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

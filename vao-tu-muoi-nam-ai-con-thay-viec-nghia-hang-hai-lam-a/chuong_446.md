@@ -4,6 +4,9 @@ title: Chương 446: Đưa tới cửa Quách gia
 chapter_number: 446
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 446: Đưa tới cửa Quách gia
+
+Liễu Truyền Sĩ hôm nay tới tham gia Dương Tam Đao t·ang l·ễ, xuất hành cùng thường ngày không có bất kỳ cái gì khác nhau, ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

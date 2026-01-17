@@ -4,6 +4,9 @@ title: Chương 104: Mộ tổ tiên nhà ngươi khẳng định bốc lên kh�
 chapter_number: 104
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 104: Mộ tổ tiên nhà ngươi khẳng định bốc lên khói xanh
+
+Phòng khách trên ghế sa lon, Từ Kiều Kiều rụt lại đầu trốn ở Tào Côn sau lưng, muốn t·ự t·ử đề...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

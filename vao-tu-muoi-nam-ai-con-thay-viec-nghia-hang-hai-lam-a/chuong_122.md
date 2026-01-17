@@ -4,6 +4,13 @@ title: Chương 122: 500 vạn mua xuống Lưu Hồng
 chapter_number: 122
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 122: 500 vạn mua xuống Lưu Hồng
+
+Sau mười mấy phút!
+
+Thiên Hà trước tửu điếm, Lưu Hồng lái xe ngừng lại.
+
+Nhìn xem Tào Côn gương mặt không có b·iểu t·...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

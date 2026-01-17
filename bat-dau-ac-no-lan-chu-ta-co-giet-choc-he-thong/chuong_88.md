@@ -4,6 +4,13 @@ title: Chương 88: tàn kinh
 chapter_number: 88
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 88 tàn kinh
+
+Thanh niên áo đen Từ Trường Hà là cái trộm mộ.
+
+Nguyên bản, hắn chỉ là cái phổ thông nông gia thiếu niên.
+
+Tại một lần lên núi hái thuốc ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,13 @@ title: Chương 245: Lòng dạ biết rõ (2)
 chapter_number: 245
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 236: Lòng dạ biết rõ (2)
+
+Quốc Sư nói thầm.
+
+Bất quá, hắn lại không có ngăn cản Hoàng đế ý nghĩ.
+
+Đại Diễm Quốc đã có mấy ngàn năm lịch sử, giai tầng ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

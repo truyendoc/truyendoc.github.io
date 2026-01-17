@@ -4,6 +4,9 @@ title: Chương 239
 chapter_number: 239
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Khi Velgrynd đối mặt với Velzard và chứng kiến hình dáng tuyệt đẹp của cô.
+
+Toàn bộ cơ thể của cô phát ra ánh sáng trắng tinh khiết, vảy của cô trắng hơn cả ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

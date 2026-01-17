@@ -4,6 +4,8 @@ title: Chương 100: Về nhà
 chapter_number: 100
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không biết là do hắn vốn là người xuyên không, hay bởi thể chất võ giả Khí Huyết cảnh,
+mà thân thể Lục Thanh lại có thể hấp thu nhiều Địa Mạch Linh Dịch đến ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

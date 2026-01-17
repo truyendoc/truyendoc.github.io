@@ -4,6 +4,8 @@ title: Chương 304: Giết sạch
 chapter_number: 304
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong tửu lầu, không khí chết lặng.
+Chứng kiến Lục Thanh lấy một cước giẫm nát tên công tử mặt trắng, toàn bộ đệ tử Lưu Vân Tông còn sống sót đều run rẩy toà...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

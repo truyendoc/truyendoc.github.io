@@ -4,6 +4,11 @@ title: Chương 187: Một cước đá bay
 chapter_number: 187
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 187: Một cước đá bay
+
+Nửa giờ sau!
+
+Hải Thành Đế Vương quán bar trước, Lưu Hồng lái xe chở Tào Côn còn có Trình Dương, ở trong đó một cái chỗ đậu xe b...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

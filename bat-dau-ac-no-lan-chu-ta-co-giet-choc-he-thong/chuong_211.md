@@ -4,6 +4,11 @@ title: Chương 211: lại gặp khí vận chi tử
 chapter_number: 211
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 211: lại gặp khí vận chi tử
+
+Đối với Tiết Linh Đồng an bài chính mình ra mắt hành vi, Thẩm Dục cũng không có để ở trong lòng.
+
+Rời đi Tiết gia sau, hắ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

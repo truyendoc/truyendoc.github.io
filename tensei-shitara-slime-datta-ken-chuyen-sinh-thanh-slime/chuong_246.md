@@ -4,6 +4,13 @@ title: Chương 246
 chapter_number: 246
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Guy là người đầu tiên động thủ.
+
+Anh mau chóng lao đến chém Velda giống.
+
+Damrada và Kondou di chuyển để chặn lại, nhưng Veldora và Diablo cũng phản ứng.
+
+「K...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

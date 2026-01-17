@@ -4,6 +4,9 @@ title: Chương 604: Thứ tư trạm, Trương gia bốn chị em
 chapter_number: 604
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 604: Thứ tư trạm, Trương gia bốn chị em
+
+Nhìn xem từ bên ngoài mở cửa đi vào Tào Côn, còn có trên mặt hắn cái kia tiện hề hề tiếu dung, Trương Khiết t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

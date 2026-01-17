@@ -4,6 +4,11 @@ title: Chương 485: Ta sẽ báo cảnh
 chapter_number: 485
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 485: Ta sẽ báo cảnh
+
+Hôm qua tại Liễu Truyền Sĩ cùng Liễu Truyền Tâm hai huynh đệ t·ang l·ễ bên trên.
+
+Làm Tào Côn nghe được khuôn mặt xinh đẹp cái nà...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

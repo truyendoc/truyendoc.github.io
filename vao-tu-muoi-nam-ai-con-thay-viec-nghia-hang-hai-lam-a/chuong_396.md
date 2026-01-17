@@ -4,6 +4,11 @@ title: Chương 396: Lời thật lòng đại mạo hiểm
 chapter_number: 396
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 396: Lời thật lòng đại mạo hiểm
+
+Không phải nói trung thực là một cái không tốt từ.
+
+Bất quá, tại hiện tại xã hội này, trung thực xác thực đã cùng khô...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

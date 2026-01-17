@@ -4,6 +4,9 @@ title: Chương 217: Kiếm Thai Bách Luyện
 chapter_number: 217
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Keng! Keng! Keng...
+Trước lò rèn số một của Chúc Tâm Phường, Lục Thanh đã rèn liên tục suốt mấy canh giờ.
+Thế nhưng hắn lại chẳng tỏ ra mệt mỏi chút nào, cán...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

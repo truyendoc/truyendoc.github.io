@@ -4,6 +4,11 @@ title: Chương 74: so tưởng tượng tham nhiều
 chapter_number: 74
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 74 so tưởng tượng tham nhiều
+
+Nghe xong hai hổ báo cáo, Thẩm Dục vẫn còn có chút kh·iếp sợ.
+
+Hắn vốn cho là Lưu Võ Năng t·ham ô· hai ba vạn hai coi nh...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

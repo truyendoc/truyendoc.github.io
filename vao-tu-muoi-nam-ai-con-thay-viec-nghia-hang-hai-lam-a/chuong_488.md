@@ -4,6 +4,11 @@ title: Chương 488: Tinh chuẩn chọn trúng nội gian
 chapter_number: 488
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 488: Tinh chuẩn chọn trúng nội gian
+
+Cũng không trách Trương Khiết sẽ có loại này hiểu lầm.
+
+Mà là, lúc này khuôn mặt xinh đẹp cái này dáng vẻ ủy khuấ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

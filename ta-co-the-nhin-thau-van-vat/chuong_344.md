@@ -4,6 +4,9 @@ title: Chương 344: Nhiều Bảo Vật Quá
 chapter_number: 344
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “ Tàng Bảo Các… đúng là tông phái lớn có khác, dám bày mấy thứ bảo vật lộ liễu thế này à?”
+Lục Thanh ngẩng đầu nhìn tòa lầu, khẽ lẩm bẩm.
+Tất nhiên, hắn cũng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

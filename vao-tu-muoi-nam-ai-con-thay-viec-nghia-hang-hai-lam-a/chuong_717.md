@@ -4,6 +4,9 @@ title: Chương 717: Chúng ta đi Vân tỉnh hưởng tuần trăng mật
 chapter_number: 717
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 717: Chúng ta đi Vân tỉnh hưởng tuần trăng mật
+
+Đương nhiên, có một số việc cùng tình huống, trong lòng biết là được rồi, ngoài miệng là không thể nói...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,9 @@ title: Chương 364: Dương Nhật Bố thắng lợi trở về
 chapter_number: 364
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 364: Dương Nhật Bố thắng lợi trở về
+
+Gặp Tào Côn lo lắng cho mình bồi thường phí bồi thường vi phạm hợp đồng, nhất định phải tìm một cái để cho mình k...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

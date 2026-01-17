@@ -4,6 +4,11 @@ title: Chương 261
 chapter_number: 261
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Mỗi học viên trưng ra một biểu cảm khác nhau.
+
+Đa số đều trông như tuyệt vọng cùng cực.
+
+Họ hoảng loạn đến thế cũng phải thôi, bởi vì ngay cả những người duy...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

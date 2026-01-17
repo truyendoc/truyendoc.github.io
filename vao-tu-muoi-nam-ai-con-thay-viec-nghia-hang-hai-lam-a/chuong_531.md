@@ -4,6 +4,13 @@ title: Chương 531: Nước quá sâu, nắm chắc không ở
 chapter_number: 531
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 531: Nước quá sâu, nắm chắc không ở
+
+Ba giờ chiều!
+
+Bát Quốc Công quán trước, Trương Bách Mộ tại Tào Côn đưa tiễn dưới, bước chân phù phiếm đi ra.
+
+\"T...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 1: giết chóc hệ thống
 chapter_number: 1
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 1 giết chóc hệ thống
+
+Một tòa màu sắc cổ xưa thơm ngát trong phòng.
+
+Thẩm Dục từ khắc hoa trên giường lớn từ từ mở mắt.
+
+Hắn từ trên giường ngồi dậy, ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

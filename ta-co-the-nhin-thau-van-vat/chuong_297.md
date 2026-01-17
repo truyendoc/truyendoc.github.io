@@ -4,6 +4,8 @@ title: Chương 297: Suy đoán sai lệch
 chapter_number: 297
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Tại sao lại không suy diễn ra được?”
+Dung mạo bù xù, ánh mắt điên loạn nhìn chằm chằm những viên đá bày trên một pháp trận kỳ dị phía trước, hắn nghiến răng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

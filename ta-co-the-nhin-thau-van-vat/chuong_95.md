@@ -4,6 +4,8 @@ title: Chương 95: Lý vĩ thiên
 chapter_number: 95
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ngọc giản truyền thừa này quả thật thần diệu… chỉ một phiến nhỏ như vậy mà có thể chứa đựng lượng thông tin khổng lồ thế này sao!”
+Đôi mắt Lục Thanh ánh lên...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

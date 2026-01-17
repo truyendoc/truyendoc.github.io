@@ -4,6 +4,8 @@ title: Chương 224: Thất Sát Lâu
 chapter_number: 224
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Biến cố đột ngột và kinh hoàng này vượt quá mọi dự liệu của tất cả mọi người.
+Không ai nghĩ rằng gia chủ họ Tiền, người thường ngày tính tình hiền hòa, hành ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

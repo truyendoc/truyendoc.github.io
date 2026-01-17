@@ -4,6 +4,9 @@ title: Chương 128: Cuộc chiến (3)
 chapter_number: 128
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Làm sao… có thể như vậy?!
+Thiếu niên mặc giáp da sững sờ đến tột độ.
+Rõ ràng hắn đã cảm nhận đao pháp của Lục Thanh là loại đường đao rộng, mạnh, thiên hướng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

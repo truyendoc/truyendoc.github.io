@@ -4,6 +4,9 @@ title: Chương 60: Đao chiến (2)
 chapter_number: 60
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Không biết Lục công tử muốn loại chiến đao như thế nào?” — Mã gia mỉm cười hỏi.
+Lục Thanh trầm ngâm một lúc rồi nói:
+“Mã gia, một thanh chiến đao thường thì...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

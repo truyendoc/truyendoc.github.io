@@ -4,6 +4,11 @@ title: Chương 670: Không ngại ta giáo dục ngươi một trận a
 chapter_number: 670
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 670: Không ngại ta giáo dục ngươi một trận a
+
+Cũng mặc kệ Dương Ngọc Đình trong lời này, có cái gì hàm nghĩa khác, Tào Côn coi như khen ngợi.
+
+Cười nó...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

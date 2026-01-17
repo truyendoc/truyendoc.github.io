@@ -4,6 +4,11 @@ title: Chương 643: Tốt Tào ca ca
 chapter_number: 643
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 643: Tốt Tào ca ca
+
+Thời gian thoáng một cái đã qua, đảo mắt liền đi qua một tuần lễ.
+
+Năm cũng qua, học cũng mở, hết thảy tất cả đều tại tiến hành đâ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

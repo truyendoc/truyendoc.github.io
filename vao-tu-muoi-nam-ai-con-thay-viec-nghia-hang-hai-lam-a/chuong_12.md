@@ -4,6 +4,11 @@ title: Chương 12: Cái gì ranh giới cuối cùng, không biết
 chapter_number: 12
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 12: Cái gì ranh giới cuối cùng, không biết
+
+Bên cạnh xe, Lưu Ngọc Linh kinh ngạc nhìn Tào Côn, cảm giác đầu óc của mình đều muốn trống không.
+
+Muốn đe...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

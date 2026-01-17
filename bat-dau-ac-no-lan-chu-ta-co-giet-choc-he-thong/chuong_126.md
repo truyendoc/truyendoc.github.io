@@ -4,6 +4,13 @@ title: Chương 126: lưu dân
 chapter_number: 126
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 126: lưu dân
+
+Trấn Yêu Ti, tiểu kỳ chỗ.
+
+“Thẩm huynh đệ a, ngươi cảm thấy á·m s·át thanh hồ tướng quân là phương nào nhân mã a?”
+
+Trần Ngạn Hoành hỏi ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

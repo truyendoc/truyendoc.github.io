@@ -4,6 +4,13 @@ title: Chương 71
 chapter_number: 71
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Cái quái gì…
+
+Cái ... cái con quỷ đó là sao!!!
+
+Nhìn thấy dòng tà khí hỗn loạn và nhận ra những nguy hiểm của nó, Reihim trốn trong 1 chiếc xe ngựa.
+
+Thành p...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

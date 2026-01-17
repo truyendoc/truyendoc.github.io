@@ -4,6 +4,11 @@ title: Chương 233: Ba Bao lão bả chuột
 chapter_number: 233
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 233: Ba Bao lão bả chuột
+
+Thời gian chầm chậm trôi qua.
+
+Tôn Trạch Thành cứ như vậy ngồi trước máy vi tính, kinh ngạc nhìn máy tính, một bộ tiếp lấy m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

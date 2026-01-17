@@ -4,6 +4,13 @@ title: Chương 91
 chapter_number: 91
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Kufufufufufu.
+
+Con quỷ cười độc ác.
+
+Mãi tóc đỏ thẫm bay phất phới, nó nhẹ nhàng hạ xuống ở phía trước của các hiệp sĩ
+
+Đôi cánh giống cánh dơi mở rộng ra, c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

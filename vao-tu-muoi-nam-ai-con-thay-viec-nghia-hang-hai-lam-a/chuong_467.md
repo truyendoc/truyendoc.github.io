@@ -4,6 +4,11 @@ title: Chương 467: Mộng!
 chapter_number: 467
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 467: Mộng!
+
+Để cho mình đi Bàng Hồng Na nơi ở, cùng nàng đơn độc tự mình trò chuyện?
+
+Nghe được Bàng Hồng Na trong điện thoại nói ra câu nói này, Tào ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

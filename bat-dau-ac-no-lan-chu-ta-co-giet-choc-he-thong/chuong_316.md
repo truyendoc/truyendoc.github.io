@@ -4,6 +4,13 @@ title: Chương 316: Trừ phi ngươi sinh con trai (1)
 chapter_number: 316
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 272: Trừ phi ngươi sinh con trai (1)
+
+“Phân đất phong hầu ra ngoài làm phiên vương?”
+
+Nhị hoàng tử trên mặt hiện ra vẻ do dự.
+
+Thẩm Dục không nhanh kh...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

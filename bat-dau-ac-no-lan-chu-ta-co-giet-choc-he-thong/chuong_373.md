@@ -4,6 +4,9 @@ title: Chương 373: Thẩm Dục ra tay (2)
 chapter_number: 373
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 300: Thẩm Dục ra tay (2)
+
+Tôn Võ cười to, từ trên ghế đứng lên, ở trên cao nhìn xuống Thẩm Dục: “Không tệ, ta xác thực chính là cố ý, Vương Đồng a Vươ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

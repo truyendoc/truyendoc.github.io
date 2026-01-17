@@ -4,6 +4,11 @@ title: Chương 556: Cuối cùng một đêm
 chapter_number: 556
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 556: Cuối cùng một đêm
+
+Đương nhiên, đi cửa sau cùng đi cửa sau cũng không giống nhau.
+
+Trương Mỹ Lâm nữ nhi Trương Oánh đi cửa sau, trực tiếp thêm là...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

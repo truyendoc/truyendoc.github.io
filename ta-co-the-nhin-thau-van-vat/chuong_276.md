@@ -4,6 +4,8 @@ title: Chương 276: Thị uy
 chapter_number: 276
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ánh mắt của mấy vị võ giả Tiên Thiên đồng loạt rơi xuống người Lục Thanh, khiến bọn họ một lần nữa chấn động.
+Bởi vì trên người Lục Thanh, bọn họ không hề cả...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

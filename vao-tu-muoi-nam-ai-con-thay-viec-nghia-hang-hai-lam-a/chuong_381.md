@@ -4,6 +4,11 @@ title: Chương 381: Trò chuyện Lý Đại Lượng
 chapter_number: 381
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 381: Trò chuyện Lý Đại Lượng
+
+Kiếp trước, Lý Kiến Ba hối hận nhất, hẳn là hô lên hai chữ kia.
+
+Nếu như không phải hắn hô lên cái kia hai cái đã bình t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

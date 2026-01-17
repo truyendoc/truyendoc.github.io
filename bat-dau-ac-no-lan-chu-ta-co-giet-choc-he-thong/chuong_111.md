@@ -4,6 +4,11 @@ title: Chương 111: báo đến
 chapter_number: 111
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 111: báo đến
+
+Thẩm Dục suy đoán, cái này Ngu Tuyết Oánh hơn phân nửa đối với hắn sinh ra nhất định hoài nghi.
+
+Nhưng hắn cũng không quan tâm, chỉ cần ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

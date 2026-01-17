@@ -4,6 +4,9 @@ title: Chương 251: Từ Kiều Kiều Mercedes-Benz G
 chapter_number: 251
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 251: Từ Kiều Kiều Mercedes-Benz G
+
+Nhìn xem Từ Kiều Kiều cái kia ngửa mặt lên xông mình cười ngây ngô bộ dáng, Tào Côn giờ phút này cảm giác nội tâm c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

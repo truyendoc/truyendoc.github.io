@@ -4,6 +4,11 @@ title: Chương 529: Thu mua toàn bộ Trương gia
 chapter_number: 529
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 529: Thu mua toàn bộ Trương gia
+
+Sáng ngày thứ hai, mười điểm!
+
+Bên trong phòng mướn, Cao Đình Đình mặc tất đen, váy xếp nếp, giày cao gót, cộng thêm ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

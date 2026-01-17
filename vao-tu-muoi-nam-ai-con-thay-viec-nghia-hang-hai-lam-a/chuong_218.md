@@ -4,6 +4,11 @@ title: Chương 218: Quả nhiên đổ vỏ
 chapter_number: 218
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 218: Quả nhiên đổ vỏ
+
+Không bao lâu, Tiêu Văn Tĩnh từ Đế Vương trong quán rượu đi ra.
+
+Quán bar bên ngoài, chiếc kia kim sắc Rolls-Royce Phantom trong...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

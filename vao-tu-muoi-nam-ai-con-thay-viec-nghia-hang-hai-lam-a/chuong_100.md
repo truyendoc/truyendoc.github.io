@@ -4,6 +4,11 @@ title: Chương 100: Học tỷ triệu hoán
 chapter_number: 100
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 100: Học tỷ triệu hoán
+
+Vui sướng thời gian luôn luôn ngắn ngủi.
+
+Cùng Tô Nhược Lan tam nữ tại trong biệt thự ở chung được hai ngày ba đêm, cuối cùng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

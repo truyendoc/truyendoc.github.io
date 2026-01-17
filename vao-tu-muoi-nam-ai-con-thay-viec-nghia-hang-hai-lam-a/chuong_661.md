@@ -4,6 +4,11 @@ title: Chương 661: Vụ án bắt cóc chân tướng
 chapter_number: 661
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 661: Vụ án bắt cóc chân tướng
+
+Theo Tào Côn giảng thuật, Bàng Hồng Na rất nhanh chính là biết rõ ràng xảy ra chuyện gì.
+
+Chuyện này, còn muốn từ Dương...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

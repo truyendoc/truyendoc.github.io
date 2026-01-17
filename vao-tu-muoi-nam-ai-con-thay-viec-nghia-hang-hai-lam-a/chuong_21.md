@@ -4,6 +4,11 @@ title: Chương 21: Đầu nhập vào Tào Côn
 chapter_number: 21
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 21: Đầu nhập vào Tào Côn
+
+Nhìn xem xoay ôm ở cùng nhau ba người, ba tên cảnh sát tự nhiên không để cho bọn hắn trận này đánh lộn lại tiếp tục.
+
+Ba tên...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

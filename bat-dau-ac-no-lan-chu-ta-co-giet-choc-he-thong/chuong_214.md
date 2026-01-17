@@ -4,6 +4,13 @@ title: Chương 214: Trấn Yêu đô đốc
 chapter_number: 214
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 214: Trấn Yêu đô đốc
+
+“Tổng kỳ đại nhân, ta bây giờ làm gì?”
+
+Tiết Linh Tiêu hiếu kỳ đánh giá Thẩm Dục hỏi.
+
+Gia tộc tựa hồ đối với Thẩm Dục rất là co...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

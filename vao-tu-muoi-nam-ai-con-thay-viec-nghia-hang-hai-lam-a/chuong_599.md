@@ -4,6 +4,11 @@ title: Chương 599: Thám tử tư Đào Băng Băng
 chapter_number: 599
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 599: Thám tử tư Đào Băng Băng
+
+Bởi vì có mỗi người mỗi tháng gia tăng 3000 đồng tiền tiền lương xung phong.
+
+Lại thêm, Tào Côn nói tăng thêm an toàn b...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

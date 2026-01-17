@@ -4,6 +4,13 @@ title: Chương 147: không nể mặt mũi
 chapter_number: 147
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 147: không nể mặt mũi
+
+Thẩm Dục vào thành sau.
+
+Trước hết để cho người đem Hồng Diệp giúp hai tên lâu la lải nhải cho nhốt đứng lên.
+
+Sau đó lại mang ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

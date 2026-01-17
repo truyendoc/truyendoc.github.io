@@ -4,6 +4,9 @@ title: Chương 199: Vào phủ trị thương (2)
 chapter_number: 199
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thì ra tiên sinh Chi duệ vẫn luôn âm thầm giúp đỡ chúng ta!”
+Ngụy Sơn Hải chợt bừng tỉnh.
+Nếu là người kia, vậy thì việc hắn có thể nhận ra thương thế của m...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

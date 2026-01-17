@@ -4,6 +4,11 @@ title: Chương 159
 chapter_number: 159
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: --------------------------------------
+
+Binh sĩ và tướng lĩnh của quân đội Đế Quốc từng bước tiến vào trong mê cung.
+
+Từng người một nắm chặt sợi dây thừng t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

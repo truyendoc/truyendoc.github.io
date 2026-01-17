@@ -4,6 +4,11 @@ title: Chương 158: Ninh Bắc Huyền
 chapter_number: 158
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 158: Ninh Bắc Huyền
+
+Sau đó, Thẩm Dục lấy ra một đầu Ngưng Khí cảnh yêu thú giao cho Tuệ Nương, để nàng làm nhiều vài món thức ăn.
+
+Sau đó Thẩm Dục th...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

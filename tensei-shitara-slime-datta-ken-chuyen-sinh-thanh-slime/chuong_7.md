@@ -4,6 +4,15 @@ title: Chương 7
 chapter_number: 7
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Một con đường hướng ra ngoài bắt nguồn từ hồ nước.
+
+Chỉ là một đường hầm.
+
+*Poyopoyo*, tôi leo lên con đường đó.
+
+Việc di chuyển dễ hơn tôi tưởng.
+
+Đến cả nh...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

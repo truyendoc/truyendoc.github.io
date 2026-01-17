@@ -4,6 +4,13 @@ title: Chương 679: Liền thích ngươi cái miệng này
 chapter_number: 679
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 679: Liền thích ngươi cái miệng này
+
+U a!
+
+Cái này nhỏ thư ký không tệ nha!
+
+Nhìn thấy tiến đến nữ sinh này, Tào Côn h·út t·huốc động tác cũng nhịn kh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

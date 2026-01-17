@@ -4,6 +4,9 @@ title: Chương 240: Tam bào thai đại dương mã dụ hoặc
 chapter_number: 240
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 240: Tam bào thai đại dương mã dụ hoặc
+
+Nhìn xem Lý Thiếu Vĩ cứ như vậy bị a Thành cất vào đại hào trong rương hành lý dẫn theo rời đi, Dương Tam Đao ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

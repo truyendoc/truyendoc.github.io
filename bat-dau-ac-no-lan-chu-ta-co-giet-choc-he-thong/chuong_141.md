@@ -4,6 +4,11 @@ title: Chương 141: giáo huấn Đông Phương Lưu Ly
 chapter_number: 141
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 141: giáo huấn Đông Phương Lưu Ly
+
+“Làm!”
+
+Chỉ là hơi hơi do dự, Thẩm Dục liền quyết định đem Đông Phương Lưu Ly mặt khác cái Nguyên Thần hộ vệ cũng x...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

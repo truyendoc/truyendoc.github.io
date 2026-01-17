@@ -4,6 +4,8 @@ title: Chương 285: Trời đất thay đổi
 chapter_number: 285
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Địa Linh Châu vừa tiến vào huyệt vị giữa hai đầu mày liền trực tiếp bay về trung tâm.
+Đồng thời, Thần Hồn Phù cũng đột ngột thu nhỏ lại, lao thẳng về phía Đị...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

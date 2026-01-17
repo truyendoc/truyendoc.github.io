@@ -4,6 +4,11 @@ title: Chương 167: trung thành phù rốt cục có đất dụng võ
 chapter_number: 167
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 167: trung thành phù rốt cục có đất dụng võ
+
+“Đi, chuyện này ta đã biết, giao cho ta đến giải quyết là được!”
+
+Thẩm Dục đưa thay sờ sờ hai nữ đầu, sau...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

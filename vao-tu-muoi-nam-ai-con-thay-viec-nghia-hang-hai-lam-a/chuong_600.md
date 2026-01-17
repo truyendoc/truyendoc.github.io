@@ -4,6 +4,9 @@ title: Chương 600: Kiếp trước bạn cũ
 chapter_number: 600
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 600: Kiếp trước bạn cũ
+
+Nho nhỏ trong văn phòng, Đào Băng Băng còn tưởng rằng là có sinh ý tìm tới cửa đâu, cho nên mặt mũi tràn đầy nhiệt tình tiếu d...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

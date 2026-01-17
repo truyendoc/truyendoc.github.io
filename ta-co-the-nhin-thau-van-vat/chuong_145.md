@@ -4,6 +4,9 @@ title: Chương 145: Thần hồn chi lực
 chapter_number: 145
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Sư phụ, người đột phá đến cảnh Tiên Thiên rồi sao?” Lục Thanh không giấu được sự phấn khởi.
+Trần lão y lắc đầu:
+“Chưa. Ta mới chỉ tinh luyện được Thần Hồn l...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

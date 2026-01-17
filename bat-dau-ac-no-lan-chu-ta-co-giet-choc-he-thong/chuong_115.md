@@ -4,6 +4,17 @@ title: Chương 115: mở giết
 chapter_number: 115
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 115: mở giết
+
+Trên quan đạo, 13 thớt yêu mã ngay tại lao vùn vụt.
+
+Yêu mã tốc độ cực nhanh.
+
+Có thể làm được dễ dàng ngày đi nghìn dặm.
+
+Tối hôm đó.
+
+...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

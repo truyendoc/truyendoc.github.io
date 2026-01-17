@@ -4,6 +4,8 @@ title: Chương 159: Lục thanh ra tay (2)
 chapter_number: 159
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Không ngờ rằng phục kích thiếu niên này chẳng những thất bại, mà còn khiến chính phi tiêu của mình phản phệ, lấy mạng bản thân.
+Một chiêu nhẹ như không, lại ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

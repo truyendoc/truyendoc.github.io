@@ -4,6 +4,13 @@ title: Chương 202: Thời gian quản lý đại sư
 chapter_number: 202
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 202: Thời gian quản lý đại sư
+
+Bảy giờ sáng bốn mươi điểm!
+
+Tào Côn ngồi Tôn Phỉ Phỉ giáp xác trùng, thật sớm đi tới Hải Thành đại học.
+
+Có lẽ là đã b...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

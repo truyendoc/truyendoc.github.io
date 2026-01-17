@@ -4,6 +4,9 @@ title: Chương 268: Mới nhậm chức, ba không thể trêu chọc (1)
 chapter_number: 268
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 248: Mới nhậm chức, ba không thể trêu chọc (1)
+
+Thẩm Dục cùng Thiên hộ Dạ Minh một trận chiến này, trực tiếp khiến cho hắn tại Tây Ngũ Khu nhất chiến ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

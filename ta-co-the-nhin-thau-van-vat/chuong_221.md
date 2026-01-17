@@ -4,6 +4,8 @@ title: Chương 221: Trực giác của Ngụy tử hạo
 chapter_number: 221
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Con về đúng lúc lắm. Ngày mai là lễ bái sư của Tử An, với tư cách là ca ca, con có thể giúp đón tiếp khách khứa,” Ngụy Tinh Hà nói.
+“Phụ thân,” Ngụy Tử Hạo ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

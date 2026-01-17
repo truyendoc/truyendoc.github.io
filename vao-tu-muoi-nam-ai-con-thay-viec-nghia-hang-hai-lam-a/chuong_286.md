@@ -4,6 +4,11 @@ title: Chương 286: Lại không thắng tửu lực!
 chapter_number: 286
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 286: Lại không thắng tửu lực!
+
+Sáu giờ rưỡi chiều!
+
+Hải Thành, Lam Kỳ cửa chính quán rượu miệng chờ gần hai mươi phút Trương Uyển Thanh, cuối cùng nhì...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

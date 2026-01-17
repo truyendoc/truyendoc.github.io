@@ -4,6 +4,9 @@ title: Chương 702: Chó nữ nhân sinh nhật kinh hỉ
 chapter_number: 702
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 702: Chó nữ nhân sinh nhật kinh hỉ
+
+Nhìn xem Tào Côn cái kia tràn đầy tự tin dáng vẻ, mặc dù Vương San San vẫn có chút hoài nghi, nhưng là, nàng cuối ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

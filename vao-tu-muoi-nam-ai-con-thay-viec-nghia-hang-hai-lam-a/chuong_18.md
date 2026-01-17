@@ -4,6 +4,9 @@ title: Chương 18: Biên tập video
 chapter_number: 18
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 18: Biên tập video
+
+Mười năm không có tới tế bái qua gia gia, Tào Côn có quá nhiều lời nói muốn nói, hắn cứ như vậy ngồi xuống, máy hát vừa mở, bất tr...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

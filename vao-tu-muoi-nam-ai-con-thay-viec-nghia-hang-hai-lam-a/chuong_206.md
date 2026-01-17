@@ -4,6 +4,9 @@ title: Chương 206: Tri kỷ Tào mỗ người
 chapter_number: 206
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 206: Tri kỷ Tào mỗ người
+
+Mình truyền hình điện ảnh tác phẩm tập hợp USB ném đi về sau, quả thật làm cho Lưu Giai Mẫn có như vậy một đoạn thời gian ng...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

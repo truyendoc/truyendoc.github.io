@@ -4,6 +4,9 @@ title: Chương 279
 chapter_number: 279
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Bỗng dưng tôi tự hỏi. Có nhất thiết phải đổi màu tóc với mắt tôi không vậy?
+
+Tôi nhất thời hơi bị kích động, pha này chẳng khác gì lạy ông tôi ở bụi này rồi....
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

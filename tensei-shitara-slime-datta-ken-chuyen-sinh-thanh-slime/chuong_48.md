@@ -4,6 +4,11 @@ title: Chương 48
 chapter_number: 48
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Ma nhân Grucius là một Lang thú nhân.
+
+Được đánh giá cao bởi năng lực ẩn mật, nên anh được Ma vương Karion giao nhiệm vụ bí mật này.
+
+Nhớ lại sự việc khi ấy....
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

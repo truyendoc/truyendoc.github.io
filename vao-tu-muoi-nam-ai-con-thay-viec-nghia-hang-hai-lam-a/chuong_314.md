@@ -4,6 +4,11 @@ title: Chương 314: Lòng mềm yếu Tào mỗ người
 chapter_number: 314
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 314: Lòng mềm yếu Tào mỗ người
+
+Sẽ không nhập thổ vi an?
+
+Nghe được Tào Côn toát ra một câu nói như vậy, Trương Uyển Thanh đầu tiên là rõ ràng sửng số...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 58: Thật sự là tiện a
 chapter_number: 58
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 58: Thật sự là tiện a
+
+Sinh tồn bản năng báo cảnh, để nguyên bản còn có chút choáng đầu trọc, một chút liền triệt để thanh tỉnh lại.
+
+Giờ phút này, đầ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

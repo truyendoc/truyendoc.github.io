@@ -4,6 +4,13 @@ title: Chương 617: Hảo huynh đệ có cần
 chapter_number: 617
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 617: Hảo huynh đệ có cần
+
+Trong lòng nhanh chóng hiện lên những ý niệm này, Tào Côn có chút gật đầu một cái, nói:
+
+\"Ừm, ta đã biết.\"
+
+Nói, hắn hơi dừn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

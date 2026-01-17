@@ -4,6 +4,13 @@ title: Chương 110
 chapter_number: 110
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Giờ là hoạt động chính. Milim đang rất hào hứng;
+
+Cô ấy đang khuyến khích (đe dọa) Mặt nạ Sư tử.
+
+Tôi nghe cô ấy nói 「Anh có biết điều ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

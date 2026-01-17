@@ -4,6 +4,11 @@ title: Chương 240: Vãi đậu thành binh (1)
 chapter_number: 240
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 234: Vãi đậu thành binh (1)
+
+Nghe xong hệ thống thông báo, Thẩm Dục nhận lấy ban thưởng.
+
+Nhận lấy mười cái tiên binh mảnh vỡ sau, tổng số đã đạt tới ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

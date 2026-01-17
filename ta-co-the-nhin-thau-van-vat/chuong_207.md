@@ -4,6 +4,9 @@ title: Chương 207: Chỉ có sức mạnh của bản thân mới là sức m�
 chapter_number: 207
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “An nhi, con… con nói sao? Gia chủ Ngụy gia muốn tổ chức một lễ bái sư long trọng cho con ư?”
+Mã Cố lắp bắp hỏi, vẻ mặt đầy kinh ngạc.
+“Vâng, sư phụ,” Ngụy T...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

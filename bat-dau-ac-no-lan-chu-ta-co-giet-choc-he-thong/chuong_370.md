@@ -4,6 +4,13 @@ title: Chương 370: Ngô quốc Ngũ hoàng tử (1)
 chapter_number: 370
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 299: Ngô quốc Ngũ hoàng tử (1)
+
+Đi ra tiểu thế giới, đi vào thế giới hiện thực sau.
+
+Thẩm Dục càng phát ra cảm thấy thế giới hiện thực yếu ớt.
+
+Hắn hơ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

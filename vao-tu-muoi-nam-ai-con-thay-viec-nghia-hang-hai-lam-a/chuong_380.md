@@ -4,6 +4,9 @@ title: Chương 380: Ba ba!
 chapter_number: 380
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 380: Ba ba!
+
+Từ côn thành phố đại học tài chính chuyên nghiệp lầu dạy học sau khi ra ngoài, Tào Côn nhìn xem trong điện thoại di động số điện thoại, c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,13 @@ title: Chương 79: Vương Tâm Thiền từ hôn
 chapter_number: 79
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 79 Vương Tâm Thiền từ hôn
+
+Tại Nhị Hổ rời đi không lâu.
+
+Thẩm Dục đạt được Chung Nguyên Tình đến tin tức.
+
+Mấy ngày không thấy, Chung Nguyên Tình tu v...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

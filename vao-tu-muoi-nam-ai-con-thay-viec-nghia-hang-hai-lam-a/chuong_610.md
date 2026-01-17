@@ -4,6 +4,11 @@ title: Chương 610: Chân tướng thì ra là thế
 chapter_number: 610
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 610: Chân tướng thì ra là thế
+
+Tôn Giai Lâm chính là La Tài Hoa lão bà.
+
+Tôn Giai Lâm cùng La Tài Hoa là tại ba năm trước đây kết hôn, sau cưới không ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

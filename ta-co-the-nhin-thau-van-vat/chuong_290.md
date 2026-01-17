@@ -4,6 +4,8 @@ title: Chương 290: Thoát nạn trong gang tấc
 chapter_number: 290
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Đây chính là thôn làng mà tiểu tử tên Lục Thanh trốn tránh sao?”
+“Một nơi tầm thường như thế, vậy mà có thể sinh ra một thiên tài tuyệt thế. Thiên Đạo khí v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 208: Nữ nhân, ngươi thắng
 chapter_number: 208
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 208: Nữ nhân, ngươi thắng
+
+112 vạn tiền mặt tăng thêm hai bộ phòng ở?
+
+Gặp Lưu Giai Mẫn nói cái này 206 vạn bên trong, lại còn có hai bộ phòng ở, vide...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

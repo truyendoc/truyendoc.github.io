@@ -4,6 +4,11 @@ title: Chương 212: Đắc tội trên trời người
 chapter_number: 212
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 212: Đắc tội trên trời người
+
+Bị Tào Côn như thế mấy vấn đề th·iếp mặt gây sát thương, lúc này Dương Tam Đao, mồ hôi lạnh đều theo gò má chảy xuống.
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

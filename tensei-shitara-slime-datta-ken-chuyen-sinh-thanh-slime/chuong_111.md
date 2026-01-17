@@ -4,6 +4,11 @@ title: Chương 111
 chapter_number: 111
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Trận đấu thứ bảy là cuộc đối đầu của ... Hakurou vs Damrada
+
+Trận này là trận đấu mà tôi rất mong chờ giống như Veldora. Tôi thực sự kh...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

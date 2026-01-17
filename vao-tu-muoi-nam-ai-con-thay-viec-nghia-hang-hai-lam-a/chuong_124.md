@@ -4,6 +4,11 @@ title: Chương 124: Bạn trai cũ đúng là nữ
 chapter_number: 124
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 124: Bạn trai cũ đúng là nữ
+
+Thời gian nhoáng một cái, đảo mắt chính là hai ngày!
+
+Hai ngày này, Lưu Hồng một mực tại Tào Côn phòng cho thuê cái này, ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

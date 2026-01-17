@@ -4,6 +4,9 @@ title: Chương 275: Chém
 chapter_number: 275
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ầm!
+Trịnh lão thái thái bị hất văng đập mạnh vào một thân cây to, lại phun ra một ngụm máu tươi.
+Đồng thời, máu từ những tàn chi bị chém đứt vẫn không ngừng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,9 @@ title: Chương 13: Sợi chỉ trắng trong hộp gỗ
 chapter_number: 13
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trần lão bước vào trong nhà, chẳng bao lâu sau lại trở ra,
+trên tay cầm một chiếc hộp nhỏ bằng gỗ đàn hương.
+“Cầm lấy cái này đi.” – Ông đưa chiếc hộp cho Lụ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

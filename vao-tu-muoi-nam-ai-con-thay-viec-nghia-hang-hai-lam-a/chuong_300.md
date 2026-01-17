@@ -4,6 +4,9 @@ title: Chương 300: Không muốn ly hôn, chờ một chút
 chapter_number: 300
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 300: Không muốn ly hôn, chờ một chút
+
+Thật vất vả cưỡng ép khống chế lại cảm xúc, kết quả, khi nhìn đến bản này chỉ cách xa ba ngày nhật ký về sau, Lâ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

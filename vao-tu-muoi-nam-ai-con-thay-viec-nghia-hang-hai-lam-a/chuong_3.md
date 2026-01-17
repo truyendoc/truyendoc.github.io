@@ -4,6 +4,13 @@ title: Chương 3: Một bàn tay bãi bình
 chapter_number: 3
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 03: Một bàn tay bãi bình
+
+Chín giờ rưỡi sáng!
+
+Tào Côn cõng một cái màu đen balo, bước lên tiến về Bạch Hà thành phố xe lửa.
+
+Có lẽ là bởi vì chính tr...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

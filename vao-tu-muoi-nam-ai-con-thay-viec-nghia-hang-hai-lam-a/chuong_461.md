@@ -4,6 +4,11 @@ title: Chương 461: Sắc bên trong quỷ đói
 chapter_number: 461
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 461: Sắc bên trong quỷ đói
+
+Hai giờ rưỡi xế chiều!
+
+Hải Thành, Hải Đông chế dược công ty, Ngốc Cẩu mở ra Tào Côn chiếc kia chống đạn Phổ Nhĩ Mạn, điều...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 25: Sắp gặp nạn hoàng mao
 chapter_number: 25
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 25: Sắp gặp nạn hoàng mao
+
+Tào Côn lời nói này, nhìn như là tại để Vương Nhất Phu giải sầu, trên thực tế, là lửa cháy đổ thêm dầu.
+
+Bởi vì, làm đây hế...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

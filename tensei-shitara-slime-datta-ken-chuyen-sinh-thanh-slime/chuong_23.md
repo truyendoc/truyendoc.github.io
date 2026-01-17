@@ -4,6 +4,11 @@ title: Chương 23
 chapter_number: 23
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Có những Mạo hiểm giả đang chuẩn bị đi điều tra khu rừng.
+
+Chính là nhóm Mạo hiểm giả B Rank của 3 người Cabal, Ellen, Gido.
+
+Do hoạt động của Ma vật dữ dội ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

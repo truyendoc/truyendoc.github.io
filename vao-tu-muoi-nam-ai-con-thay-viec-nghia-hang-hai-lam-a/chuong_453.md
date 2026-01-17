@@ -4,6 +4,9 @@ title: Chương 453: Nóng vội Liễu Truyền Sĩ
 chapter_number: 453
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 453: Nóng vội Liễu Truyền Sĩ
+
+Kỳ thật, kiếp trước nói cho Tào Côn chuyện này người, không phải người khác, chính là Liễu Truyền Sĩ hiện tại tín nhiệm ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

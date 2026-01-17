@@ -4,6 +4,9 @@ title: Chương 74: Trừng phạt (2)
 chapter_number: 74
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trước sân nhà họ Lục, không khí hoàn toàn tĩnh lặng.
+Mọi ánh mắt đều dừng lại trên thi thể vô hồn của Hàn Vũ, nằm bất động trên mặt đất.
+Không ai ngờ rằng Lụ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

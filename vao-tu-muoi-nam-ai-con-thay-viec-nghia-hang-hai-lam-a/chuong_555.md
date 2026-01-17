@@ -4,6 +4,13 @@ title: Chương 555: Tranh nhau đưa nữ nhi
 chapter_number: 555
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 555: Tranh nhau đưa nữ nhi
+
+Mặc dù Trương Mỹ Quyên cùng Trương Mỹ Lâm hai người không có đủ đại biểu tính.
+
+Nhưng là, có xung kích tính!
+
+Đem tại trận...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

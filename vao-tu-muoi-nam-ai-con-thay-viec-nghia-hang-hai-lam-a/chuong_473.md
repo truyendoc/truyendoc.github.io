@@ -4,6 +4,11 @@ title: Chương 473: Thôi Minh xuất viện
 chapter_number: 473
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 473: Thôi Minh xuất viện
+
+Kết thúc cùng Tào Côn trò chuyện về sau, Vương San San cảm động đều muốn cho hắn đập một cái.
+
+Hắn thật đối với mình quá tốt...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

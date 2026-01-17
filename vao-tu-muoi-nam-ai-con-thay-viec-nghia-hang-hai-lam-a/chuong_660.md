@@ -4,6 +4,9 @@ title: Chương 660: Hắn thật là phách lối a
 chapter_number: 660
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 660: Hắn thật là phách lối a
+
+Ngay trước bốn cái bảo tiêu còn có Tưởng Trung Vân trước mặt, Bàng Hồng Na cùng Dương Ngọc Đình không khỏi lại tiến hành...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

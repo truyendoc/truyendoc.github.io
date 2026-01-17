@@ -4,6 +4,9 @@ title: Chương 177: Trình Dương dập đầu, Tào Côn làm ca
 chapter_number: 177
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 177: Trình Dương dập đầu, Tào Côn làm ca
+
+Nghe được Tào Côn cái này điều kiện thứ nhất, Trình Dương cũng không có lập tức đáp ứng, mà là cau mày, chăm...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

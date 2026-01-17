@@ -4,6 +4,8 @@ title: Chương 121: Mã cố xui xẻo (3)
 chapter_number: 121
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngụy Phu nhân bị một nhát đao chém ngang thắt lưng khi họ phá vòng vây.
+Dù đã được rắc thuốc cầm máu sơ bộ, nhưng vì không có y sư chăm sóc kịp thời, đến khi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

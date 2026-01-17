@@ -4,6 +4,11 @@ title: Chương 305: Hung thủ giết người Cẩu Nhất Vĩ
 chapter_number: 305
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 305: Hung thủ giết người Cẩu Nhất Vĩ
+
+Thừa dịp Phương Tử Dương đào mộ thời điểm, Tào Côn cũng không có nhàn rỗi.
+
+Hắn đốt một điếu thuốc, một bên thưở...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

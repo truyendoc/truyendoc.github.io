@@ -4,6 +4,11 @@ title: Chương 264: Nghỉ đêm tám quốc công quán
 chapter_number: 264
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 264: Nghỉ đêm tám quốc công quán
+
+Thời gian nhoáng một cái, đảo mắt liền đi tới chín giờ tối.
+
+Cho tới giờ khắc này, cùng Tào Côn cái này gian phu m·ư...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

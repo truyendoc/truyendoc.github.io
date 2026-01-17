@@ -4,6 +4,11 @@ title: Chương 83: Này, học tỷ, đã lâu không gặp
 chapter_number: 83
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 83: Này, học tỷ, đã lâu không gặp
+
+Hàng năm đại học khai giảng thời điểm, chính là trường học các Đại Xã đoàn chiêu tân thời điểm.
+
+Hải Thành đại học ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

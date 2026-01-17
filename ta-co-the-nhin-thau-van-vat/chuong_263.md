@@ -4,6 +4,8 @@ title: Chương 263: Kỳ Tích Xuất Hiện
 chapter_number: 263
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Sáng sớm hôm ấy, Lục Thanh dẫn Tiểu Nhan và Tiểu Ly đến Tiểu Viện Bán Sơn.
+Vừa đến nơi, hắn liền thấy Tổ Tông của Ngụy gia cũng đang ngồi đó, còn Trần lão y ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

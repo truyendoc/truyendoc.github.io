@@ -4,6 +4,9 @@ title: Chương 21: Cháo cá lớn và viên Thạch Ngư bí ẩn
 chapter_number: 21
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh chớp mắt, cố lục tìm trong trí nhớ một lúc.
+Dần dần, hắn nhớ ra những mảnh ký ức liên quan đến chợ phiên lớn.
+Nói đơn giản thì, chợ phiên ấy thật r...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

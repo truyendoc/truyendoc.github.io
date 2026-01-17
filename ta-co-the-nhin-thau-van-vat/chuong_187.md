@@ -4,6 +4,8 @@ title: Chương 187: Vào thành
 chapter_number: 187
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Giờ đây, món thịt kho của Lục Thanh đã có thể sánh ngang với hương vị ở kiếp trước của hắn.
+Ngụy phu nhân nhìn con trai ăn ngon lành mà trong lòng không khỏi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

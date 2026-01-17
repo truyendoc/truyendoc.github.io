@@ -4,6 +4,13 @@ title: Chương 509: Nhẫn tâm mụ mụ
 chapter_number: 509
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 509: Nhẫn tâm mụ mụ
+
+Nhìn xem Trương Bách Mộ liền cái kia một bộ trời sập ngu ngơ bộ dáng, Dương Bình kém chút liền bật cười.
+
+Hắn lại còn thật tin!
+
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

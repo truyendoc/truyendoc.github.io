@@ -4,6 +4,8 @@ title: Chương 338: Trừ ác
 chapter_number: 338
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Người mang kiếm trước đó đã chú ý đến trạng thái cái chết khác biệt rõ rệt của hai huynh đệ Mặc Hổ.
+Lão mũi ưng đã bị chém đầu chỉ với một nhát kiếm, trên th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

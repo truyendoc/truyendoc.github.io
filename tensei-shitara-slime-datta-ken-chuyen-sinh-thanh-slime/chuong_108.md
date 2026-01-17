@@ -4,6 +4,11 @@ title: Chương 108
 chapter_number: 108
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Trận đấu đầu tiên là một chiến thắng hoàn hảo dành cho Benimaru.
+
+Gozurl cần phải có tính kỉ luật và bình tĩnh hơn. Dù sao cũng đã quyế...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

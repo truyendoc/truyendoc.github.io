@@ -4,6 +4,11 @@ title: Chương 101
 chapter_number: 101
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: --------------------------------------
+
+Sau khi kết thúc cuộc gặp gỡ với Fuze, tôi trở về Tempest.
+
+Dùng 『 Spatial Travel』tôi có thể đến bất kỳ địa điểm mà t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

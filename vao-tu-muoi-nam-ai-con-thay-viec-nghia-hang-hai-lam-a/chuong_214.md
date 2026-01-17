@@ -4,6 +4,11 @@ title: Chương 214: Không chọc nổi Đế Vương quán bar
 chapter_number: 214
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 214: Không chọc nổi Đế Vương quán bar
+
+\"Dương Tam Đao tới?\"
+
+Quán bar lầu ba, Tào Côn gian phòng, đang cùng Lưu Hồng một bên uống rượu đỏ một bên nói ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

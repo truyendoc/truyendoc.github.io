@@ -4,6 +4,9 @@ title: Chương 413: Thu mua lòng người
 chapter_number: 413
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 413: Thu mua lòng người
+
+Đợi đến Ngốc Cẩu mở ra Tào Côn chiếc kia chống đạn Phổ Nhĩ Mạn, chở Tào Côn cùng Mã Trường Ninh đi vào Hải Thành phụ thuộc bệ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

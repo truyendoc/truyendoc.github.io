@@ -4,6 +4,15 @@ title: Chương 39: đột phá Nguyên Đan
 chapter_number: 39
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 39 đột phá Nguyên Đan
+
+Rất nhanh.
+
+Thẩm Dục liền lặng yên không tiếng động tiềm nhập huyết hải đường.
+
+Hắn không có ngay đầu tiên động thủ.
+
+Mà là trư...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

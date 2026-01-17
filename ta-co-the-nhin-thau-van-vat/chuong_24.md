@@ -4,6 +4,9 @@ title: Chương 24: Cá Chép Huyết Nguyệt và giá trị trăm lượng b�
 chapter_number: 24
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ngay ngoài con sông sau thôn thôi ạ. Hôm qua, cháu với Tiểu Nhan ra câu thì tình cờ bắt được.”
+Lục Thanh trả lời.
+“Sau thôn mà cũng có cá Giáp Xanh sống lâu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

@@ -4,6 +4,11 @@ title: Chương 447: Chỉ là quan hệ hợp tác
 chapter_number: 447
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 447: Chỉ là quan hệ hợp tác
+
+Theo t·ang l·ễ tiến hành xong cái cuối cùng khâu, Dương Tam Đao cả cuộc đời, liền xem như triệt để hạ màn kết thúc.
+
+Tào ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

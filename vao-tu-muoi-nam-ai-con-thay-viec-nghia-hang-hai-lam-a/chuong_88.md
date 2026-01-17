@@ -4,6 +4,9 @@ title: Chương 88: Mượn đến chính là kiếm được
 chapter_number: 88
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 88: Mượn đến chính là kiếm được
+
+Rốt cục, đang nhìn đưa hai cái mặc gợi cảm váy ngắn tiểu tỷ tỷ, uốn éo cái mông đi vào quán bar về sau, Tào Côn cũng ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

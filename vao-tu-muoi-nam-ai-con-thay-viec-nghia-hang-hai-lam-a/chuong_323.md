@@ -4,6 +4,11 @@ title: Chương 323: Tào Côn mãnh dược
 chapter_number: 323
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 323: Tào Côn mãnh dược
+
+Tào Côn đưa tay tiếp nhận Vương San San đưa tới điện thoại, cũng là trước hỏi han ân cần mở màn.
+
+\"Vương thúc, ngài ở bên tron...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

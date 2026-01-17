@@ -4,6 +4,11 @@ title: Chương 275
 chapter_number: 275
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Trong một khắc, Diablo như không dám tin vào tai mình.
+
+Anh chẳng hiểu kẻ đối diện vừa nói gì nữa.
+
+Không, anh hiểu. Nhưng trong phút chốc, cơn thịnh nộ đã h...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

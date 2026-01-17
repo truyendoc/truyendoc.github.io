@@ -4,6 +4,11 @@ title: Chương 323: Thế giới chân tướng (2)
 chapter_number: 323
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 275: Thế giới chân tướng (2)
+
+Cho nên, các cường giả dẫn người rời đi phiến thiên địa này, đi đến nguyên khí nồng đậm mới thiên địa.
+
+Vì phòng ngừa tì...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

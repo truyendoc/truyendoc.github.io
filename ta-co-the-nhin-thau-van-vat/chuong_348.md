@@ -4,6 +4,8 @@ title: Chương 348: Đại Cơ Duyên (2)
 chapter_number: 348
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Xe ngựa vẫn lăn bánh đều đặn, thỉnh thoảng khẽ xóc vì mặt đường gập ghềnh.
+Sau một loạt trận chiến, sự mệt mỏi của Trần lão y cũng không hề nhỏ; ông hơi nhắm...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

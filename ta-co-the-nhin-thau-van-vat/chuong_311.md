@@ -4,6 +4,9 @@ title: Chương 311: Đối chiến (2)
 chapter_number: 311
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Vút!
+Mùi máu tanh lan trong không khí khi lưỡi đao dữ dội của Mã Cố chém đôi một con chiến mã cao lớn ngay tại eo!
+Giết ngựa trong một đao, Mã Cố không hề dừ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

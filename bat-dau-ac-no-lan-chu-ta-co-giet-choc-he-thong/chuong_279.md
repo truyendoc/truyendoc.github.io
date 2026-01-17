@@ -4,6 +4,9 @@ title: Chương 279: Một tiễn bắn rơi Thiên phu trưởng (2)
 chapter_number: 279
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 253: Một tiễn bắn rơi Thiên phu trưởng (2)
+
+Lúc đầu ngay tại xung kích bọn kỵ binh, thấy cảnh này, đều vô ý thức khống chế được vọt tới trước tình thế...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

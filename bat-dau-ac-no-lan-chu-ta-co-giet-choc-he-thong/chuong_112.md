@@ -4,6 +4,11 @@ title: Chương 112: tiền nhiệm Trấn Yêu Ti tiểu kỳ
 chapter_number: 112
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 112: tiền nhiệm Trấn Yêu Ti tiểu kỳ
+
+Tại Hà Cường một đường chỉ điểm xuống, Thẩm Dục hai người tới Ngu Tuyết Oánh công phòng.
+
+Đơn giản tới nói, công ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

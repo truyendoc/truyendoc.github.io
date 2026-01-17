@@ -4,6 +4,15 @@ title: Chương 60: du ngoạn
 chapter_number: 60
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 60 du ngoạn
+
+Tiếp lấy, Thẩm Dục lại lấy ra tu vi thẻ.
+
+Tấm này tu vi thẻ có thể trực tiếp tăng lên hắn một cảnh giới.
+
+Thẩm Dục trực tiếp sử dụng.
+
+Tu...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

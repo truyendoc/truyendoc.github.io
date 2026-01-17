@@ -4,6 +4,11 @@ title: Chương 215: Diệp Hoan cùng Hồ Ti Nguyệt
 chapter_number: 215
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 215: Diệp Hoan cùng Hồ Ti Nguyệt
+
+Từ Ngu Tuyết Oánh Công Phòng sau khi rời đi, Thẩm Dục liền trở lại chính mình công phòng.
+
+Đầu tiên là đem dưới trướ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

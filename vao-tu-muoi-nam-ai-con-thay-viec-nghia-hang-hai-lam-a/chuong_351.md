@@ -4,6 +4,9 @@ title: Chương 351: Rác rưởi quán bar
 chapter_number: 351
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 351: Rác rưởi quán bar
+
+Ngay từ đầu Tào Côn nói Vương Nhất Phu tại Hải Thành thứ hai trong ngục giam, rất được hoan nghênh thời điểm, Bạch Tĩnh còn kh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

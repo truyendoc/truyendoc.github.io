@@ -4,6 +4,13 @@ title: Chương 437: Trợ lực một thanh
 chapter_number: 437
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 437: Trợ lực một thanh
+
+Xưởng bên trong rất loạn!
+
+Không chỉ chất đống một chút máy móc thiết bị, còn chất đống rất nhiều vật liệu thép.
+
+Mà lại, từ x...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 676: Ra ngoài, đi ra ngoài cho ta!
 chapter_number: 676
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 676: Ra ngoài, đi ra ngoài cho ta!
+
+Biết tin tức này thời điểm, Dương Ngọc Đình liền rất kh·iếp sợ.
+
+Bởi vì, theo nàng biết, Tiêu Văn Bân chỉ là bị đụ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

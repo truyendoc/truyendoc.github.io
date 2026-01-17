@@ -4,6 +4,11 @@ title: Chương 67: chuẩn bị sớm
 chapter_number: 67
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 67 chuẩn bị sớm
+
+Trò chuyện xong chính sự, huynh đệ hai người lại nói tới việc nhà.
+
+Khi nghe Thẩm Dục đề cập, lúc trước phụ thân Thẩm Phong bỏ mình, ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

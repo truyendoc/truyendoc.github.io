@@ -4,6 +4,11 @@ title: Chương 622: Mất khống chế Tào trợ thủ
 chapter_number: 622
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 622: Mất khống chế Tào trợ thủ
+
+Vương Minh tuệ càng nói càng chột dạ, càng nói mặt càng đỏ.
+
+Hai người uống một bình rượu đỏ, một người mới nửa bình, ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

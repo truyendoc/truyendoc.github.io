@@ -4,6 +4,13 @@ title: Chương 43
 chapter_number: 43
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chiến tranh đã kết thúc.
+
+Tôi nghĩ đối thủ là một kẻ cực kỳ nguy hiểm.
+
+Nếu mà hắn tiến hóa hoàn tất… Thì có lẽ tôi sẽ không có cách nào để đánh bại hắn.
+
+Ch...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

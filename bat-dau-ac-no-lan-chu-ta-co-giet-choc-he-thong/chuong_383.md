@@ -4,6 +4,11 @@ title: Chương 383: Trần Bình an (2)
 chapter_number: 383
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 305: Trần Bình an (2)
+
+Hai thiếu nữ dung mạo giống nhau đến mấy phần, không ngoài sở liệu hẳn là tỷ muội.
+
+Các nàng ôm trong ngực trường kiếm không ph...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

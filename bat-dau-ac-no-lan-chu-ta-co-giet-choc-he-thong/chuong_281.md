@@ -4,6 +4,9 @@ title: Chương 281: Nhị hoàng tử là nữ nhân (2)
 chapter_number: 281
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 254: Nhị hoàng tử là nữ nhân (2)
+
+Cùng lúc đó, Tam hoàng tử cũng nhận được chính mình dưới trướng huyền cơ doanh Thiên phu trưởng bị một cái Bách Hộ t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

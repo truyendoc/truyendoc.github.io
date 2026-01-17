@@ -4,6 +4,11 @@ title: Chương 398: Chân chính mưu đồ
 chapter_number: 398
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 398: Chân chính mưu đồ
+
+Có lẽ là làm một sát thủ thực chất bên trong cao ngạo.
+
+Hạng Nam Nguyệt cùng Tào Côn cùng một chỗ thời điểm, mặc kệ Tào Côn mu...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

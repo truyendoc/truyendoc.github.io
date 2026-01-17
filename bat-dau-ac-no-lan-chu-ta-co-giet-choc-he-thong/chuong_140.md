@@ -4,6 +4,13 @@ title: Chương 140: giết Nguyên Thần cảnh
 chapter_number: 140
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 140: giết Nguyên Thần cảnh
+
+Nhưng nghe đến vấn đề này, hai cái Nguyên Thần hộ vệ đều có chút trầm mặc.
+
+“Nói!” Đông Phương Lưu Ly nhíu mày quát nhẹ.
+
+...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

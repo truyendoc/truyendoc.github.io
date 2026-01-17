@@ -4,6 +4,9 @@ title: Chương 267: Giao thủ Thiên hộ (2)
 chapter_number: 267
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 247: Giao thủ Thiên hộ (2)
+
+Dạ Minh mở miệng lời bình, trên thực tế nội tâm của hắn có chút chấn kinh, bởi vì hắn cảm thấy tốc độ của một mũi tên này ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

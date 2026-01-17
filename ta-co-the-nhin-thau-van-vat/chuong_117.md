@@ -4,6 +4,8 @@ title: Chương 117: Ngụy phủ (2)
 chapter_number: 117
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ngụy Tinh Hà, kỳ hạn nửa tháng của ngươi đã đến rồi.”
+Giọng nói vang vọng trên không trung như sấm dậy, mang theo một luồng áp lực khủng khiếp — rõ ràng chỉ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

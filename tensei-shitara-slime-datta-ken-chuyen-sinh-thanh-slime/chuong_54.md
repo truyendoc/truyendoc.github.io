@@ -4,6 +4,11 @@ title: Chương 54
 chapter_number: 54
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chúng tôi đến Vương đô của Tiểu quốc Brumund.
+
+Các dãy phố trông khá cổ kính, nhưng lạo tạo ấn tượng rất vững chắc.
+
+Vỉa hè rất sáng sủa, và khó có thể thấy ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

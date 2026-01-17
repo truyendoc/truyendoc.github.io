@@ -4,6 +4,11 @@ title: Chương 68: Lý Văn Văn, Vương San San ngươi mập
 chapter_number: 68
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 68: Lý Văn Văn, Vương San San ngươi mập
+
+Kỳ thật, đối với thừa vụ tiểu tỷ tỷ lời nói này, Tào Côn là một chút xíu cũng không nghi ngờ.
+
+Bởi vì, ở kiếp...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

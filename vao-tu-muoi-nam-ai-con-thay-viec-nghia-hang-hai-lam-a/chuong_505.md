@@ -4,6 +4,10 @@ title: Chương 505: Ta mẹ nó thật không có
 chapter_number: 505
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 505: Ta mẹ nó thật không có
+
+Bởi vì Trương Khiết nói đúng là Trương gia hiện trạng, cho nên, khuôn mặt xinh đẹp nghe không có bất kỳ cái gì chất vấn.
+...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

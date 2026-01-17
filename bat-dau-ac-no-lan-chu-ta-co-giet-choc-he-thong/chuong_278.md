@@ -4,6 +4,15 @@ title: Chương 278: Một tiễn bắn rơi Thiên phu trưởng (1)
 chapter_number: 278
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 253: Một tiễn bắn rơi Thiên phu trưởng (1)
+
+Nhị hoàng tử phủ đệ.
+
+Chu Dịch để cho người ta thông báo sau.
+
+Ngay tại lệch sảnh chờ.
+
+Nguyên bản hắn coi...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

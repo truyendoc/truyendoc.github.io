@@ -4,6 +4,9 @@ title: Chương 89: Trấn Yêu Ti đuổi tới trong nhà
 chapter_number: 89
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 89 Trấn Yêu Ti đuổi tới trong nhà
+
+“Liền ngươi cái kia bài gió, chỉ cần không thay đổi, coi như ngươi trình độ chơi bài cao minh đến đâu, làm theo thu...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -4,6 +4,11 @@ title: Chương 81: trực tiếp giải trừ hôn ước
 chapter_number: 81
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 81 trực tiếp giải trừ hôn ước
+
+“Gặp qua Vương Huynh, chính là tại hạ Tiêu Lâm!” Tiêu Lâm mặt mỉm cười đáp lại nói.
+
+“Quả thật là Tiêu Công Tử, nhanh, ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

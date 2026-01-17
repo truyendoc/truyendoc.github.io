@@ -4,6 +4,8 @@ title: Chương 279: Sự sụp đổ của Trịnh gia
 chapter_number: 279
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Cao thủ Tiên Thiên… quả nhiên không dễ đối phó.”
+Cách nơi đã giết Trịnh lão thái một dặm, Lục Thanh ngồi xếp bằng trên thân một đại thụ, điều tức khôi phục....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

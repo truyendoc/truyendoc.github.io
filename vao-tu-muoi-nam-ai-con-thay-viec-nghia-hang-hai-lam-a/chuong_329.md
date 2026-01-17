@@ -4,6 +4,11 @@ title: Chương 329: 36 kế chi châm ngòi ly gián
 chapter_number: 329
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 329: 36 kế chi châm ngòi ly gián
+
+Không nghĩ tới, Tào Côn chỉ một cái gọi ra tên của mình.
+
+Hạng Nam Nguyệt nhìn về phía Tào Côn biểu lộ cùng ánh mắt,...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

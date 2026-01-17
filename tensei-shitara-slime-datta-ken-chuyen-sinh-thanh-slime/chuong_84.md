@@ -4,6 +4,9 @@ title: Chương 84
 chapter_number: 84
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Quỷ vương tóc đỏ đứng dậy sau khi tôi nuốt Clayman.
+
+“Tuyệt cmn vời, vậy thì, kể từ giờ, cậu sẽ được công nhận và được biết đến như một quỷ vương. Có ai phản...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

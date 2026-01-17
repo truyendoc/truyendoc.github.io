@@ -4,6 +4,9 @@ title: Chương 606: Độ trung thành khảo thí
 chapter_number: 606
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 606: Độ trung thành khảo thí
+
+Trong biệt thự, tại Trương Khiết, Trương Oánh, Trương Nhược Nguyệt, còn có Trương Nhược Tinh nhìn chăm chú, Tào Côn ngồi...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

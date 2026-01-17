@@ -4,6 +4,8 @@ title: Chương 197: Cảnh vực tiên thiên
 chapter_number: 197
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Ngụy Sơn Hải cũng kinh hãi không kém.
+Phương pháp “đóng băng kiếm khí” mà Trần lão y vừa thi triển mang vài phần tương tự với Cảnh Vực Tiên Thiên trong truyề...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

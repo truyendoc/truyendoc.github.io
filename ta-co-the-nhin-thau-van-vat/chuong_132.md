@@ -4,6 +4,9 @@ title: Chương 132: Lời cuối cùng
 chapter_number: 132
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Hắn biết, mình không còn cơ hội sống sót.
+Trong cơ thể con người, trái tim là cơ quan được xem trọng nhất.
+Trái tim khống chế khí huyết, mà đối với võ giả th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

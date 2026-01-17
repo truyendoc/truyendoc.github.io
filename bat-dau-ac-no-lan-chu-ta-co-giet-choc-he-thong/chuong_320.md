@@ -4,6 +4,15 @@ title: Chương 320: Thần cảnh cường giả đêm tối thăm dò Thẩm g
 chapter_number: 320
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 274: Thần cảnh cường giả đêm tối thăm dò Thẩm gia (1)
+
+Tính danh: Ngạo Thanh Sương
+
+Tuổi tác: 53 tuổi 2 tháng
+
+Tu vi: Thần cảnh nhất trọng
+
+Căn cốt: T...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

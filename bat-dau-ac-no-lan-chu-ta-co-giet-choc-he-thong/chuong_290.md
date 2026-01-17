@@ -4,6 +4,13 @@ title: Chương 290: Điều (1)
 chapter_number: 290
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 259: Điều (1)
+
+“Ngươi xác định không có trở về?”
+
+Tam hoàng tử hơi kinh ngạc mà hỏi.
+
+“Bẩm điện hạ, thuộc hạ đã liên tục cùng hầu hạ Hồng Lão cùng Mạn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

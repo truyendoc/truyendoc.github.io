@@ -4,6 +4,9 @@ title: Chương 190
 chapter_number: 190
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------------
+
+Ngay sau khi Rimuru đi cứu Veldora, những người ở lại lập tức tái tổ chức để đối phó với tình hình khẩn cấp lúc nà...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,15 @@ title: Chương 40: thiện tâm Thẩm Nhị Thiếu
 chapter_number: 40
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 40 thiện tâm Thẩm Nhị Thiếu
+
+Tăng lên hoàn tất sau, Thẩm Dục liền chuẩn bị đi ngủ.
+
+Về phần chiến lợi phẩm, ngày mai lại kiểm kê.
+
+Sáng sớm hôm sau.
+
+...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

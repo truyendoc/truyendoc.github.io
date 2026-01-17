@@ -4,6 +4,9 @@ title: Chương 70: Dấu hiệu đột phá
 chapter_number: 70
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Lục Thanh và Trần lão y đứng trước tiểu viện Bán Sơn, lặng lẽ nhìn đoàn người nhà họ Ngụy dần khuất bóng dưới chân núi.
+Một lúc sau, Lục Thanh nói:
+“Thưa sư ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

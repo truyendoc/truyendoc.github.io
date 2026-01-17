@@ -4,6 +4,11 @@ title: Chương 143
 chapter_number: 143
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Tôi cũng phải đặt tên cho mấy bé Golem \"đồ chơi\" của Ramiris vừa được sản xuất hàng loạt nữa đây.
+
+Pháp lực cuốn quanh khung xương làm ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

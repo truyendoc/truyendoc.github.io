@@ -4,6 +4,11 @@ title: Chương 638: Song trọng bảo hiểm
 chapter_number: 638
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 638: Song trọng bảo hiểm
+
+Giống như ngày thường, hai người tới dưới lầu về sau, Tào Côn đưa mắt nhìn Bàng Hồng Na lái xe rời đi cư xá.
+
+Chỉ bất quá, c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

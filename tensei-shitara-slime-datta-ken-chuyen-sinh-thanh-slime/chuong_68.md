@@ -4,6 +4,13 @@ title: Chương 68
 chapter_number: 68
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Khi xác nhận rằng kết giới đã biến mất, tôi quyết định thò mặt ra. Đúng lúc đó,+
+
+“Ngài vẫn ổn, chủ nhân.”
+
+Ranga lo lắng nhảy ra khỏi cái bóng.
+
+\"Không sao\"...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

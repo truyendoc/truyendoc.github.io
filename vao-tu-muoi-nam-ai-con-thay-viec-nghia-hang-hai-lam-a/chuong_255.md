@@ -4,6 +4,11 @@ title: Chương 255: Toàn viên đến đông đủ
 chapter_number: 255
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 255: Toàn viên đến đông đủ
+
+Bởi vì hôm nay là Dương Tam Đao mở tiệc chiêu đãi Lý Kiến Quốc.
+
+Làm mời khách một phương, tự nhiên muốn sớm một chút thời...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

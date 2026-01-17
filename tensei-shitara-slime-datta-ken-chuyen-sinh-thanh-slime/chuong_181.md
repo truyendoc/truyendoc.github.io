@@ -4,6 +4,13 @@ title: Chương 181
 chapter_number: 181
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------
+
+Trong Ma thú Quân đoàn, có những cá nhân không chiến rất tốt.
+
+Tuy nhiên, chỉ là khi họ có chỗ đứng ổn định.
+
+Các ma thú...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

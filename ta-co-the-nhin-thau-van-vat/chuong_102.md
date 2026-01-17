@@ -4,6 +4,7 @@ title: Chương 102: Báo ân sư phụ
 chapter_number: 102
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thưa sư phụ, trong chuyến đi lên núi, con tình cờ phát hiện một hang động rất kỳ lạ. Trong đó có một loại linh dịch thần bí. Sau khi Tiểu Ly uống vào, nó đã...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

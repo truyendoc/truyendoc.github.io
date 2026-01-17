@@ -4,6 +4,9 @@ title: Chương 30: Tiếng động trong đêm
 chapter_number: 30
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Khi Lục Thanh dắt Tiểu Nhan trở về làng, thấy dân làng tụ tập dưới gốc cây to giữa sân đang nói chuyện rôm rả,
+mọi người đều nở nụ cười chào đón.
+“Lục Thanh ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

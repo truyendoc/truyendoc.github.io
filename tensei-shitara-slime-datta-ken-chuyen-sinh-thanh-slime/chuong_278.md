@@ -4,6 +4,11 @@ title: Chương 278
 chapter_number: 278
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Cuộc chiến giữa Độc Hổ và Berner vẫn tiếp diễn.
+
+Irina với bốn giáo viên kia cũng tương tự.
+
+Mondo bị Rosalie dập cho tơi bời, nhưng nhờ được mọi người hồi p...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

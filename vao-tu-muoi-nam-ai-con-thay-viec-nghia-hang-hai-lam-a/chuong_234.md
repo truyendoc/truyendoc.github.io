@@ -4,6 +4,13 @@ title: Chương 234: Tôn Vĩ cả nhà chết bất đắc kỳ tử
 chapter_number: 234
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 234: Tôn Vĩ cả nhà chết bất đắc kỳ tử
+
+Mười hai giờ trưa!
+
+Tôn Trạch Thành dẫn theo bao lớn bao nhỏ đồ vật, quay trở về phòng cho thuê.
+
+Có thịt bò, c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

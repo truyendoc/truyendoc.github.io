@@ -4,6 +4,11 @@ title: Chương 545: Quán bar bí ẩn chưa có lời đáp
 chapter_number: 545
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 545: Quán bar bí ẩn chưa có lời đáp
+
+Không bao lâu, theo thời gian đi vào mười giờ sáng, đợt thứ nhất nhân viên đã tới quán bar.
+
+Là mấy cái bình thườ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

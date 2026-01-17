@@ -4,6 +4,7 @@ title: Chương 80
 chapter_number: 80
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Chúng tôi rời khỏi khu rừng trên hướng đến nơi tổ chức Walpurgis do Ramiris dẫn đường.Chúng tôi đang bay trên lưng Veldora, đáng nhẽ nó sẽ tốn kha khá thời g...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

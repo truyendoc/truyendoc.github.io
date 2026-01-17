@@ -4,6 +4,11 @@ title: Chương 472: Thiện lương đơn thuần cô nương tốt
 chapter_number: 472
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 472: Thiện lương đơn thuần cô nương tốt
+
+Mới vừa rồi còn cảm thấy đi vào Hải Thành, đối với mình trừng phạt quá độc ác.
+
+Mà bây giờ, khi nhìn đến Vươn...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

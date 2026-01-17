@@ -4,6 +4,11 @@ title: Chương 354: Vu tộc bí cảnh (1)
 chapter_number: 354
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 291: Vu tộc bí cảnh (1)
+
+Mấy ngày thời gian thoáng một cái đã qua.
+
+Thẩm Dục phái đi tìm kiếm Nam Man Vu Tộc ba chi Thiên hộ đội theo bách vạn đại sơn...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

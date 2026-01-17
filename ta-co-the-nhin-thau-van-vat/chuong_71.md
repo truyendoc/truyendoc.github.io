@@ -4,6 +4,8 @@ title: Chương 71: Đột phá
 chapter_number: 71
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: Trong rừng trúc phía sau núi, Lục Thanh đang luyện chín thức đầu của Dưỡng Thể Quyền.
+Sau hơn một tháng khổ luyện, quyền pháp này với cậu giờ đã như bản năng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

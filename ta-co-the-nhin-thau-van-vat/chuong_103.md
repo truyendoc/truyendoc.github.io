@@ -4,6 +4,9 @@ title: Chương 103: Bán tiên thiên
 chapter_number: 103
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Thưa sư phụ, người sao vậy?”
+Lục Thanh kinh ngạc nhìn, chỉ thấy sư phụ mình thoạt trông trẻ hơn hẳn.
+Làn da vốn nhăn nheo nay căng mịn rõ rệt, mái tóc bạc t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

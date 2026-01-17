@@ -4,6 +4,11 @@ title: Chương 174
 chapter_number: 174
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: -----------------------------------------
+
+- Phần đầu tiên-
+
+Trận chiến đó đã ảnh hưởng lớn đến cấu trúc liên kết xung quanh và gây ra sự thay đổi lớn cho hệ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

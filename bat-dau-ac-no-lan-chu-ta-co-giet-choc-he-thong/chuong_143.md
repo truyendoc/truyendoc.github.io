@@ -4,6 +4,11 @@ title: Chương 143: mùi vị kia rất quen thuộc
 chapter_number: 143
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 143: mùi vị kia rất quen thuộc
+
+Lý Linh Nhi mặc dù đã lấy chồng, nhưng vẫn như cũ là thiếu nữ tâm tính.
+
+Thế là, một cái sáng sớm thời gian, mọi người...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

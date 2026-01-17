@@ -4,6 +4,11 @@ title: Chương 31
 chapter_number: 31
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Gabil đã rất dễ dàng lấy được sự trợ giúp của các làng Goblin.
+
+‘Chẳng cần phải biểu diễn sức mạnh tụi Goblin cũng nhanh chóng đầu hàng trước ta.
+
+Dẫu sao, c...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 152
 chapter_number: 152
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ---------------------------
+
+Vào bữa đó, tôi đã hoàn thiện xong phần cải tiến cho phép tầm soát, và đã thực hiện việc chạy thử.
+
+Vị trí hiện tại của tôi là t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

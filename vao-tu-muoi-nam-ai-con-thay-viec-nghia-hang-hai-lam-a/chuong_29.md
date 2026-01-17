@@ -4,6 +4,9 @@ title: Chương 29: Chủ động Bạch Tĩnh
 chapter_number: 29
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 29: Chủ động Bạch Tĩnh
+
+Giờ phút này, Tào Côn giống như hí tinh phụ thể, vẻ mặt nhăn nhó, tay phải che ngực, đem nội tâm loại đau khổ này, dày vò, tất...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

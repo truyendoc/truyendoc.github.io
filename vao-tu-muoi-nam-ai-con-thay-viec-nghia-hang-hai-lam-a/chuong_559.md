@@ -4,6 +4,9 @@ title: Chương 559: Tốt như vậy thông đồng!
 chapter_number: 559
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 559: Tốt như vậy thông đồng!
+
+Lúc này cửa phòng về sau, Lưu Kim Thành chính mặc một bộ áo ngủ, miệng bên trong ngậm một cây bàn chải đánh răng đang cà...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

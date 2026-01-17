@@ -4,6 +4,9 @@ title: Chương 200
 chapter_number: 200
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ----------------------------------------------------
+
+Chỉ cần nghĩ một chút, ta sẽ thấy ngay rằng kế hoạch tập hợp tất cả các Chúa Quỷ lại một nơi, cùng hợp ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

@@ -4,6 +4,11 @@ title: Chương 322: Được hoan nghênh Vương Nhất Phu
 chapter_number: 322
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 322: Được hoan nghênh Vương Nhất Phu
+
+Đại khái suất là không quá quen thuộc đi!
+
+Bởi vì, đã giám ngục đều đã cho Vương San San gọi điện thoại, nói Vươ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

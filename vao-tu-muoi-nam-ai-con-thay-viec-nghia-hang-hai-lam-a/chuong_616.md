@@ -4,6 +4,11 @@ title: Chương 616: Giữ lại cho Bàng Hồng Na học một khóa
 chapter_number: 616
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 616: Giữ lại cho Bàng Hồng Na học một khóa
+
+Đương nhiên!
+
+Mặc dù Tào Côn đã sớm ở trong lòng nhận định, chính mình là vạn người không được một luyện v...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

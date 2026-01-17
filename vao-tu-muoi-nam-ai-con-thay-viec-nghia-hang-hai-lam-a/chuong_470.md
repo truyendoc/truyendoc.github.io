@@ -4,6 +4,11 @@ title: Chương 470: Cùng chó nữ nhân mưu đồ bí mật
 chapter_number: 470
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 470: Cùng chó nữ nhân mưu đồ bí mật
+
+Đợi thời gian dài như vậy, cuối cùng là đem Đoàn Minh cái này cẩu vật cho chờ được.
+
+Nhìn thấy Đoàn Minh trong nh...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

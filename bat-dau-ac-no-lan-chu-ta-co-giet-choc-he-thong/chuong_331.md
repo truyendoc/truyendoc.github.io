@@ -4,6 +4,13 @@ title: Chương 331: Tam hoàng tử bị u gấp (2)
 chapter_number: 331
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 279: Tam hoàng tử bị u gấp (2)
+
+Phát hiện không chỉ đám bọn hắn trấn yêu tư nhân mã được huy động.
+
+Hoàng thành tư, còn có cấm quân cũng xuất động.
+
+T...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

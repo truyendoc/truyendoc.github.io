@@ -4,6 +4,11 @@ title: Chương 289: Lý Linh nhi tấn thăng Nguyên Đan Cảnh (2)
 chapter_number: 289
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 258: Lý Linh nhi tấn thăng Nguyên Đan Cảnh (2)
+
+Trong ngủ mê Thẩm Dục bỗng nhiên mở mắt.
+
+Lại là hai vị có hai cái Nguyên Thần cảnh lão giả xâm nhập p...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

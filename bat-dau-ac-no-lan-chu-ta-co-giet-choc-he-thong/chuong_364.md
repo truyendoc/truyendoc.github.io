@@ -4,6 +4,15 @@ title: Chương 364: U Liên tới, U Liên chạy (1)
 chapter_number: 364
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 296: U Liên tới, U Liên chạy (1)
+
+Trung Vương phủ.
+
+Một tòa u tĩnh viện lạc bên trong.
+
+Thái Thượng Hoàng Sở Thanh Nguyên trầm mặc uống trà.
+
+Sau một ...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

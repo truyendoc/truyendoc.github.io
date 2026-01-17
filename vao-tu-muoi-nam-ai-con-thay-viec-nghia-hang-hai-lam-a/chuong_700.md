@@ -4,6 +4,11 @@ title: Chương 700: Ngươi vốn là bất hiếu a
 chapter_number: 700
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 700: Ngươi vốn là bất hiếu a
+
+Đối mặt Ngốc Cẩu đưa tới cái này mấy trương tư liệu, Tào Côn cũng không hỏi nhiều, thuận tay liền nhận lấy.
+
+Tựa như là ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

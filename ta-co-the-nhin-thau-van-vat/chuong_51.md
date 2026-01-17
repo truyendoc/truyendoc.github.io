@@ -4,6 +4,9 @@ title: Chương 51: Cá Chạch Hoàng Kim
 chapter_number: 51
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: [Cá Chạch Hoàng Kim: Dị ngư, toàn thân ánh vàng, giỏi đào hang.]
+[Chứa linh khí, thịt ngon và bổ, có thể bổ cả âm lẫn dương, là một loại đại bổ chân chính.]
+...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

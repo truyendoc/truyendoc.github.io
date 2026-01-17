@@ -4,6 +4,9 @@ title: Chương 106: Lưu Ngọc Linh hành hung Lưu Hồng
 chapter_number: 106
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 106: Lưu Ngọc Linh hành hung Lưu Hồng
+
+Gian phòng bên trong, Lưu Hồng tựa như cái gì cũng không biết, mặc gợi cảm tình thú quần áo, trên giường bày bi...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,16 @@ title: Chương 256
 chapter_number: 256
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Yo, tiếp tục thôi nào, tiếp theo sẽ đến The Tyrant of Destroyer - Bạo Chúa Hủy Diệt Milim Nava:
+
+
+
+
+Milim dạng chiến đấu
+
+Milim & Rimuru
+
+Rimuru, Gobuta & Mi...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

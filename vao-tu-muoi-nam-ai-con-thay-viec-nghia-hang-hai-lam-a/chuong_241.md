@@ -4,6 +4,13 @@ title: Chương 241: Tào Côn đề nghị, toàn dát
 chapter_number: 241
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 241: Tào Côn đề nghị, toàn dát
+
+Hơn nửa canh giờ!
+
+Tám quốc công trước quán, một chiếc xe taxi ngừng lại.
+
+Bởi vì Tào Côn bên này hôm nay cũng không c...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

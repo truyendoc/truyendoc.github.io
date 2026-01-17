@@ -4,6 +4,9 @@ title: Chương 226: Kinh Thành thế cục
 chapter_number: 226
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
+description: Chương 226: Kinh Thành thế cục
+
+Tại đem trọn tòa phủ đệ đều tham quan một lần sau, Thẩm Dục mới phát hiện, Ngu Tuyết Oánh thuyết pháp có chút hướng tới bảo t...
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

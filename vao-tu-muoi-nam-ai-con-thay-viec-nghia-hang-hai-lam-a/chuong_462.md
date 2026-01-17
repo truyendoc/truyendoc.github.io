@@ -4,6 +4,9 @@ title: Chương 462: Tốt ủy khuất, rất muốn khóc
 chapter_number: 462
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 462: Tốt ủy khuất, rất muốn khóc
+
+Làm nghiên cứu phát minh trung trung tâm chủ nhiệm, Bàng Hồng Na đối với đổi lão bản chuyện này, vẫn tương đối quan ...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

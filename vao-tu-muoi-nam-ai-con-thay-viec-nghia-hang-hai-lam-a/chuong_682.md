@@ -4,6 +4,11 @@ title: Chương 682: Quả nhiên là cùng một bọn
 chapter_number: 682
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 682: Quả nhiên là cùng một bọn
+
+Mười hai giờ trưa!
+
+Ngoại trừ không có đi nghiên cứu phát minh nhà lầu, tại đem Hải Đông chế dược toàn bộ đi dạo một m...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

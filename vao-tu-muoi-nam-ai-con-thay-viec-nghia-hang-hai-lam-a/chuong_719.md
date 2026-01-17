@@ -4,6 +4,13 @@ title: Chương 719: Có thể so với nhà giàu nhất thuốc
 chapter_number: 719
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 719: Có thể so với nhà giàu nhất thuốc
+
+Đến rồi!
+
+Rốt cuộc đã đến!
+
+Trong khoảng thời gian này, Tào Côn lại là ứng phó Áo Uy quốc tế, lại là ứng phó C...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

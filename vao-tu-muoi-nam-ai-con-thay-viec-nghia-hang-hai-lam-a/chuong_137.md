@@ -4,6 +4,11 @@ title: Chương 137: Tam nữ một nam thực tình cơ
 chapter_number: 137
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 137: Tam nữ một nam thực tình cơ
+
+Hải Thành đại học chương trình học sắp xếp thời gian, cùng khác đại học không sai biệt lắm.
+
+Buổi sáng bốn tiết khóa...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

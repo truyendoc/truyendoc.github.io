@@ -4,6 +4,9 @@ title: Chương 130
 chapter_number: 130
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: ☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽☾☽
+
+Tuyên bố thành lập một liên minh giữa Thánh Quốc Ruberius, Thánh Giáo phương Tây và Tempest đã được chính thức hóa về mặt giấy tờ và mỗ...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

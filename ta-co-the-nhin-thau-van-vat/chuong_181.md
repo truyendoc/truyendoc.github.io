@@ -4,6 +4,8 @@ title: Chương 181: Khách lạ đến thăm
 chapter_number: 181
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Phu nhân nói rất đúng.” – Lục Thanh khẽ gật đầu tán thưởng.
+Dù phu nhân họ Ngụy không hiểu biết sâu về võ đạo, nhưng có thể giữ được đầu óc tỉnh táo sau khi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

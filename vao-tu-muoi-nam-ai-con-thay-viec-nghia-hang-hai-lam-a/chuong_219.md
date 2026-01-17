@@ -4,6 +4,11 @@ title: Chương 219: Trái mù lòa, dát!
 chapter_number: 219
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 219: Trái mù lòa, dát!
+
+Xuyên thấu qua kiếng xe, Dương Tam Đao có thể thấy rõ ràng.
+
+Lúc này Tiêu Văn Tĩnh, đã đem hắn cái kia tình nhân từ trong xe t...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 224
 chapter_number: 224
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Sau khi nắm được tình hình hiện tại, Hinata dần rơi xuống hố sâu tuyệt vọng.
+
+Tuy nhiên, trên cương vị một chỉ huy, cô không thể bộc lộ nó ra ngoài.
+
+Người t...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

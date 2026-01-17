@@ -4,6 +4,9 @@ title: Chương 313: Thần hồn huyễn thuật (2)
 chapter_number: 313
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Bởi vì lòng dâm loạn của mình, hắn tự tay giết huynh trưởng và tẩu tử,” Lục Thanh nhàn nhạt nói.
+Trần lão y trầm mặc không nói lời nào.
+“Người của Lưu Vân T...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

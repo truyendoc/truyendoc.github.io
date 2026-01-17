@@ -4,6 +4,8 @@ title: Chương 179: Tin tức
 chapter_number: 179
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Ta không biết Thánh Sơn giữ lực lượng gì mà có thể kìm chế được những người cực mạnh ở Cảnh Tiên Thiên!”
+“May mà có lệnh cấm ấy, nếu không, có lẽ bây giờ ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT

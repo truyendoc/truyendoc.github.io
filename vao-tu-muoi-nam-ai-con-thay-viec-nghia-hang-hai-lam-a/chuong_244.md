@@ -4,6 +4,11 @@ title: Chương 244: Cùng Triệu Tuyết, Chu Nhã Lệ đấu địa chủ
 chapter_number: 244
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
+description: Chương 244: Cùng Triệu Tuyết, Chu Nhã Lệ đấu địa chủ
+
+\"Ngươi thật xác định ngươi không có việc gì?\"
+
+Tiêu Văn Tĩnh nhìn chằm chằm Tào Côn con mắt, vẫn là khô...
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

@@ -4,6 +4,11 @@ title: Chương 234
 chapter_number: 234
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
+description: Mặc dù vẫn chưa sẵn sàng, nhưng vẫn Dino bước lên phía trước, đối mặt với Beretta và Zegion.
+
+Hai bên nheo mắt một lúc.
+
+『Vậy thì, hãy để trận đấu bắt đầu nà...
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

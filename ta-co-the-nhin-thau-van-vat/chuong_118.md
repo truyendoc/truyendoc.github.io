@@ -4,6 +4,9 @@ title: Chương 118: Cuộc đối thoại
 chapter_number: 118
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
+description: “Phu nhân và mọi người…”
+“Chỉ có thể trông vào số mệnh thôi.” — Ngụy Tinh Hà khẽ thở dài.
+“Là người của Ngụy gia, sớm muộn gì cũng phải có tinh thần hy sinh ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
