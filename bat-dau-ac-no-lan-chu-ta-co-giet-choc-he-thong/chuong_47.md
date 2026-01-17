@@ -3,6 +3,7 @@ layout: default
 title: Chương 47: được cứu còn là lần đầu tiên
 chapter_number: 47
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

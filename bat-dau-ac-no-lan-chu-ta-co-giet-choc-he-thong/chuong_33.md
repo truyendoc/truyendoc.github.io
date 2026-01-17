@@ -3,6 +3,7 @@ layout: default
 title: Chương 33: Phong Uyển Nhi mời chào
 chapter_number: 33
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

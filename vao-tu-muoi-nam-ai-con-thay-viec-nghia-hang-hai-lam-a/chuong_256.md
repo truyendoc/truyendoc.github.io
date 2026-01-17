@@ -3,6 +3,7 @@ layout: default
 title: Chương 256: Liễu gia hiệu ăn, nổ
 chapter_number: 256
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

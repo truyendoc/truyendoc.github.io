@@ -3,6 +3,7 @@ layout: default
 title: Chương 135: hủy diệt phản quân
 chapter_number: 135
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -3,6 +3,7 @@ layout: default
 title: Chương 377: Ta muốn khiêu chiến ngươi (2)
 chapter_number: 377
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

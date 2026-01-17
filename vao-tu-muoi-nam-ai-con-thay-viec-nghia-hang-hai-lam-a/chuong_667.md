@@ -3,6 +3,7 @@ layout: default
 title: Chương 667: Ta muốn Ma Đô Kim Khoa sinh vật
 chapter_number: 667
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

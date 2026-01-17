@@ -3,6 +3,7 @@ layout: default
 title: Chương 503: Nàng là cái không từ thủ đoạn nữ nhân
 chapter_number: 503
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

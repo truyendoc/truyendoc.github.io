@@ -3,6 +3,7 @@ layout: default
 title: Chương 532: Chia đều Trương gia
 chapter_number: 532
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

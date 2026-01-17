@@ -3,6 +3,7 @@ layout: default
 title: Chương 101
 chapter_number: 101
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

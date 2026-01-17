@@ -3,6 +3,7 @@ layout: default
 title: Chương 119: Hoàng Đông Mai tự mình hạ tràng bồi tửu
 chapter_number: 119
 story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+story_slug: vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a
 ---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A

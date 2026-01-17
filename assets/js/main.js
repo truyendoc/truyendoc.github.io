@@ -32,6 +32,59 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // --- Reading History ---
+
+    function saveHistory() {
+        const body = document.body;
+        const storySlug = body.getAttribute('data-story-slug');
+        const chapterNum = body.getAttribute('data-chapter-number');
+        const chapterTitle = body.getAttribute('data-chapter-title');
+
+        if (storySlug && chapterNum) {
+            const history = JSON.parse(localStorage.getItem('reading_history') || '{}');
+            history[storySlug] = {
+                url: window.location.href,
+                chapter: chapterNum,
+                title: chapterTitle,
+                time: new Date().getTime()
+            };
+            localStorage.setItem('reading_history', JSON.stringify(history));
+            console.log(`Saved history for ${storySlug}: Chapter ${chapterNum}`);
+        }
+    }
+
+    function loadHistory() {
+        // Only run on index page or lib page (where .story-card exists)
+        const storyCards = document.querySelectorAll('.story-card');
+        if (storyCards.length === 0) return;
+
+        const history = JSON.parse(localStorage.getItem('reading_history') || '{}');
+
+        storyCards.forEach(card => {
+            const slug = card.getAttribute('data-slug');
+            if (slug && history[slug]) {
+                const data = history[slug];
+                // Check if card body exists
+                const cardBody = card.querySelector('.story-card-body');
+                if (cardBody) {
+                    const continueLink = document.createElement('div');
+                    continueLink.className = 'history-link';
+                    continueLink.innerHTML = `<a href="${data.url}" style="display: block; margin-top: 10px; color: var(--hover-color); font-weight: 500;">
+                        ➤ Tiếp tục: Chương ${data.chapter}
+                    </a>`;
+
+                    // Insert before meta or append
+                    const meta = cardBody.querySelector('.story-card-meta');
+                    if (meta) {
+                        cardBody.insertBefore(continueLink, meta);
+                    } else {
+                        cardBody.appendChild(continueLink);
+                    }
+                }
+            }
+        });
+    }
+
     // --- Actions ---
 
     function toggleTheme() {
@@ -78,6 +131,12 @@ document.addEventListener('DOMContentLoaded', () => {
     if (fontDecBtn) {
         fontDecBtn.addEventListener('click', () => adjustFontSize(-1));
     }
+
+    // Save history if on a chapter page
+    saveHistory();
+
+    // Load history if on index page
+    loadHistory();
 
     // Run Init
     init();

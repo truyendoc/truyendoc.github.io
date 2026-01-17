@@ -3,6 +3,7 @@ layout: default
 title: Chương 321: Thần cảnh cường giả đêm tối thăm dò Thẩm gia (2)
 chapter_number: 321
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

@@ -3,6 +3,7 @@ layout: default
 title: Chương 160
 chapter_number: 160
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

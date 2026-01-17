@@ -3,6 +3,7 @@ layout: default
 title: Chương 320: Thần cảnh cường giả đêm tối thăm dò Thẩm gia (1)
 chapter_number: 320
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG

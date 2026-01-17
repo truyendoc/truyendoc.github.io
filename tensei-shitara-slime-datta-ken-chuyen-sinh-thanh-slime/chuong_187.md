@@ -3,6 +3,7 @@ layout: default
 title: Chương 187
 chapter_number: 187
 story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+story_slug: tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime
 ---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME

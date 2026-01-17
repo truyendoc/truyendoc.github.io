@@ -3,6 +3,7 @@ layout: default
 title: Chương 276: Huyền cơ doanh ngựa đạp thứ bảy trăm hộ chỗ (1)
 chapter_number: 276
 story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+story_slug: bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong
 ---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
