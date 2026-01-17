@@ -4,8 +4,6 @@ title: Chương 330: Sát ý của Trần lão y
 chapter_number: 330
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Trần lão y quả nhiên là cường giả Tiên Thiên cảnh, hơn nữa bên kia còn có thêm hai vị Tiên Thiên nữa!”
-Đứng trên ngọn cây trong khu rừng cách Lưu Vân trấn m...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -83,7 +81,8 @@ Huyết nhục luyện hồn trận — hoàn toàn bị hủy.
 
 **Thông tin chương:**
 - Số chương: 330
-- Thời gian cập nhật: 2026-01-17 10:22:41
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-330](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-330)
+- Thời gian scrape: 2026-01-17 10:22:41
 
 <div class="chapter-nav">
     <a href="chuong_329.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_331.html" class="nav-btn">Chương sau →</a>

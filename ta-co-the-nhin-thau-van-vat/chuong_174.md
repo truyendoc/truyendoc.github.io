@@ -4,8 +4,6 @@ title: Chương 174: Xuất hiện tiên thiên (2)
 chapter_number: 174
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Chớp mắt, cơ thể mọi người đều run rẩy không kiểm soát, tự nhiên dừng mọi hành động.
-Không thể khác được; nhân ảnh trên mái nhà toát ra khí thế đáng sợ đến m...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -126,7 +124,8 @@ Lúc đó, một giọng bình thản vang lên.
 
 **Thông tin chương:**
 - Số chương: 174
-- Thời gian cập nhật: 2026-01-17 10:15:55
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-174](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-174)
+- Thời gian scrape: 2026-01-17 10:15:55
 
 <div class="chapter-nav">
     <a href="chuong_173.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_175.html" class="nav-btn">Chương sau →</a>

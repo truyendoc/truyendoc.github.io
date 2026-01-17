@@ -4,7 +4,6 @@ title: Chương 358: Thanh long thành
 chapter_number: 358
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sở dĩ Lục Thanh có thể miễn cưỡng cảm nhận được dao động không gian do Tiểu Ly tạo ra, hoàn toàn là nhờ hắn sở hữu Thần Hồn phù và năng lực Cảm Ứng Thần Hồn ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,7 +99,8 @@ Mang theo sự hiếu kỳ, hắn không khỏi vận dụng dị năng để qu
 
 **Thông tin chương:**
 - Số chương: 358
-- Thời gian cập nhật: 2026-01-17 10:23:54
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-358](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-358)
+- Thời gian scrape: 2026-01-17 10:23:54
 
 <div class="chapter-nav">
     <a href="chuong_357.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_359.html" class="nav-btn">Chương sau →</a>

@@ -4,7 +4,6 @@ title: Chương 308: Đột phá
 chapter_number: 308
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sư phụ, ta đã truyền lại toàn bộ 'Phá Thủy Khí Quyết' cho người rồi, xin người thử lĩnh hội xem có thể lĩnh ngộ được gì không.\" Lục Thanh mỉm cười nói. Trần ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -85,7 +84,8 @@ Về phần Ngụy Tử An, trẻ tuổi khí thịnh, vừa chứng minh đư�
 
 **Thông tin chương:**
 - Số chương: 308
-- Thời gian cập nhật: 2026-01-17 10:21:45
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-308](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-308)
+- Thời gian scrape: 2026-01-17 10:21:45
 
 <div class="chapter-nav">
     <a href="chuong_307.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_309.html" class="nav-btn">Chương sau →</a>

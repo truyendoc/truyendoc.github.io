@@ -4,9 +4,6 @@ title: Chương 75: Tin tức
 chapter_number: 75
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh đang trên đường tới chợ lớn.
-Quả thật, người cậu muốn gặp chính là Mã Cố, kẻ phụ trách toàn bộ khu chợ ấy.
-Mã Cố có quan hệ rộng, thậm chí còn quen...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -116,7 +113,8 @@ ngoài ra họ còn có mấy huynh đệ khác đang hoành hành quanh vùng �
 
 **Thông tin chương:**
 - Số chương: 75
-- Thời gian cập nhật: 2026-01-17 10:11:16
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-75](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-75)
+- Thời gian scrape: 2026-01-17 10:11:16
 
 <div class="chapter-nav">
     <a href="chuong_74.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_76.html" class="nav-btn">Chương sau →</a>

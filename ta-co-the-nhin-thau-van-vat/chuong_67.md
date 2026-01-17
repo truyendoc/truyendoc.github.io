@@ -4,10 +4,6 @@ title: Chương 67: Ở lại
 chapter_number: 67
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “…”
-Một người, một thú — bốn mắt nhìn nhau, im lặng đến lạ.
-Lục Thanh ngồi đối diện con thú nhỏ, ánh mắt hai bên giao nhau không lời.
-Cậu thở dài, nhìn vào đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -113,7 +109,8 @@ Vừa rửa xong bát, Tiểu Nhan đã chạy vào reo:
 
 **Thông tin chương:**
 - Số chương: 67
-- Thời gian cập nhật: 2026-01-17 10:10:31
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-67](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-67)
+- Thời gian scrape: 2026-01-17 10:10:31
 
 <div class="chapter-nav">
     <a href="chuong_66.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_68.html" class="nav-btn">Chương sau →</a>

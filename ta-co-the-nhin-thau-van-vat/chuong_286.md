@@ -4,8 +4,6 @@ title: Chương 286: Phản ứng của các phương
 chapter_number: 286
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ta cảm nhận được rồi… cảnh giới đang nới lỏng.”
-Tại Trung Châu, trong một Đại Tông cường thịnh, một trung niên nam tử khoác tử bào đứng trên đỉnh núi, hai m...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -91,7 +89,8 @@ Chuyến đi đầu tiên trên con đường Ma Tôn của ta… sẽ bắt đ�
 
 **Thông tin chương:**
 - Số chương: 286
-- Thời gian cập nhật: 2026-01-17 10:20:51
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-286](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-286)
+- Thời gian scrape: 2026-01-17 10:20:51
 
 <div class="chapter-nav">
     <a href="chuong_285.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_287.html" class="nav-btn">Chương sau →</a>

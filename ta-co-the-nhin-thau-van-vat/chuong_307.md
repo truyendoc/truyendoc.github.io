@@ -4,10 +4,6 @@ title: Chương 307: Thôn khí thuật
 chapter_number: 307
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “ Phụ thân, phụ thân vừa nói gì vậy?”
-Phương Nhụy kinh ngạc nhìn phụ thân.
-Đại Thạch và Triệu Khiên Lâm cũng khó hiểu nhìn sang.
-“Ta nói, Trần lão y, Lục Tha...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,7 +96,8 @@ Và càng tin đó là sự thật.
 
 **Thông tin chương:**
 - Số chương: 307
-- Thời gian cập nhật: 2026-01-17 10:21:43
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-307](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-307)
+- Thời gian scrape: 2026-01-17 10:21:43
 
 <div class="chapter-nav">
     <a href="chuong_306.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_308.html" class="nav-btn">Chương sau →</a>

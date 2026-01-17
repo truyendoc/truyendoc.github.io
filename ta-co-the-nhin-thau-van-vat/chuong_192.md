@@ -4,8 +4,6 @@ title: Chương 192: Chiến đấu (3)
 chapter_number: 192
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ta… ta không nhìn lầm đấy chứ? Tiểu tử kia thật sự có thể đấu ngang với sư huynh đến mức này ư?”
-“Ngay cả sư huynh đã thi triển Bí Pháp Bạo Thể mà vẫn không...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,7 +79,8 @@ Lục Thanh, ngay cả quyền pháp, cũng mạnh hơn hắn rất nhiều!
 
 **Thông tin chương:**
 - Số chương: 192
-- Thời gian cập nhật: 2026-01-17 10:16:42
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-192](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-192)
+- Thời gian scrape: 2026-01-17 10:16:42
 
 <div class="chapter-nav">
     <a href="chuong_191.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_193.html" class="nav-btn">Chương sau →</a>

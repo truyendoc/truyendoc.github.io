@@ -4,8 +4,6 @@ title: Chương 264: Lời Đồn
 chapter_number: 264
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ồ? Cang Châu của chúng ta đã xảy ra đại sự gì vậy?”
-Nghe Ngụy Sơn Hải nhắc đến chuyện lớn phát sinh tại Cang Châu, tâm niệm Lục Thanh khẽ động, nhưng sắc mặ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,7 +80,8 @@ Nhờ vậy, Lục Thanh cũng biết thêm nhiều tin tức .
 
 **Thông tin chương:**
 - Số chương: 264
-- Thời gian cập nhật: 2026-01-17 10:19:56
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-264](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-264)
+- Thời gian scrape: 2026-01-17 10:19:56
 
 <div class="chapter-nav">
     <a href="chuong_263.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_265.html" class="nav-btn">Chương sau →</a>

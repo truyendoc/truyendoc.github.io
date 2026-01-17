@@ -4,9 +4,6 @@ title: Chương 68: Tiểu ly
 chapter_number: 68
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đặt tên á?”
-Lục Thanh vừa lau tay vừa hỏi lại.
-“Vâng! Giờ tiểu thú là bạn của chúng ta rồi, mà bạn của em ai cũng có tên hết — như Đại Nha, Tiểu Hầu Đầu đó....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -128,7 +125,8 @@ báo hiệu rằng đã đủ sức để lên đường trở về phủ họ N
 
 **Thông tin chương:**
 - Số chương: 68
-- Thời gian cập nhật: 2026-01-17 10:10:34
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-68](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-68)
+- Thời gian scrape: 2026-01-17 10:10:34
 
 <div class="chapter-nav">
     <a href="chuong_67.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_69.html" class="nav-btn">Chương sau →</a>

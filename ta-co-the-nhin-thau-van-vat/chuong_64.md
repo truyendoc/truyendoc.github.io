@@ -4,9 +4,6 @@ title: Chương 64: Gia tộc nhà họ Ngụy
 chapter_number: 64
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Sư phụ, người nên ăn chút gì trước đã.”
-Lục Thanh bưng vào một phần cơm nóng.
-Do tình trạng của Ngụy công tử quá nguy kịch, Trần lão y phải túc trực bên giư...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -113,7 +110,8 @@ giọng điệu đều tràn đầy kính sợ.
 
 **Thông tin chương:**
 - Số chương: 64
-- Thời gian cập nhật: 2026-01-17 10:10:16
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-64](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-64)
+- Thời gian scrape: 2026-01-17 10:10:16
 
 <div class="chapter-nav">
     <a href="chuong_63.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_65.html" class="nav-btn">Chương sau →</a>

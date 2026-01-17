@@ -4,8 +4,6 @@ title: Chương 452: Phân chia cấp bậc
 chapter_number: 452
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Hai loại Tiên Thiên Thần Thông, không chỉ uy lực mạnh mẽ mà còn vô cùng phù hợp với Lục Thanh.
-Hơn nữa, điều quan trọng hơn là hai thần kỹ này đều có thể tăn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -148,7 +146,8 @@ Khóe mắt lộ vẻ vui mừng.
 
 **Thông tin chương:**
 - Số chương: 452
-- Thời gian cập nhật: 2026-01-17 10:28:32
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-452](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-452)
+- Thời gian scrape: 2026-01-17 10:28:32
 
 <div class="chapter-nav">
     <a href="chuong_451.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_453.html" class="nav-btn">Chương sau →</a>

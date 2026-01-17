@@ -4,8 +4,6 @@ title: Chương 428: Luyện hoá Nguyên Khí (2)
 chapter_number: 428
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Tuy hắn đã nhân lúc sư huynh thất thần mà chém đầu y,
-nhưng chính bản thân hắn cũng trọng thương. Xuyên Tâm Kiếm của sư huynh đâu phải chuyện đùa; dù có Thần...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,7 +107,8 @@ Nghĩ đến đây, trong mắt người áo đen lóe lên tham niệm, lập t
 
 **Thông tin chương:**
 - Số chương: 428
-- Thời gian cập nhật: 2026-01-17 10:27:22
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-428](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-428)
+- Thời gian scrape: 2026-01-17 10:27:22
 
 <div class="chapter-nav">
     <a href="chuong_427.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_429.html" class="nav-btn">Chương sau →</a>

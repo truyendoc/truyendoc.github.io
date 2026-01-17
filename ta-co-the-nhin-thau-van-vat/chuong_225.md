@@ -4,8 +4,6 @@ title: Chương 225: Tam Thập Lục Thiên Bang
 chapter_number: 225
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Gia chủ họ Tiền” nằm ngửa trên mặt đất, nhìn Lục Thanh với ánh mắt đầy kinh ngạc.
-Hắn không thể tin rằng mình, sát thủ hàng đầu của Thất Sát Lâu, lại bị một...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -130,7 +128,8 @@ Tuy nhiên, câu nói tiếp theo khiến biểu cảm hắn lập tức thay đ
 
 **Thông tin chương:**
 - Số chương: 225
-- Thời gian cập nhật: 2026-01-17 10:18:10
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-225](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-225)
+- Thời gian scrape: 2026-01-17 10:18:10
 
 <div class="chapter-nav">
     <a href="chuong_224.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_226.html" class="nav-btn">Chương sau →</a>

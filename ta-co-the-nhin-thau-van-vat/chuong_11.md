@@ -4,8 +4,6 @@ title: Chương 11: Trị châm và dược thiện
 chapter_number: 11
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Tiểu Nhan, sao con biết ta đang luyện quyền vậy?” – Trần lão mỉm cười hỏi.
-“Con đâu có biết.” – Tiểu Nhan lắc đầu, nói rất thật thà. – “Là anh bảo con đó, a...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,7 +98,8 @@ Ngay sau đó, một cơn buồn ngủ ập tới, mi mắt hắn nặng trĩu, 
 
 **Thông tin chương:**
 - Số chương: 11
-- Thời gian cập nhật: 2026-01-17 10:08:00
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-11](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-11)
+- Thời gian scrape: 2026-01-17 10:08:00
 
 <div class="chapter-nav">
     <a href="chuong_10.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_12.html" class="nav-btn">Chương sau →</a>

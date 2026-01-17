@@ -4,8 +4,6 @@ title: Chương 224: Thất Sát Lâu
 chapter_number: 224
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Biến cố đột ngột và kinh hoàng này vượt quá mọi dự liệu của tất cả mọi người.
-Không ai nghĩ rằng gia chủ họ Tiền, người thường ngày tính tình hiền hòa, hành ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -141,7 +139,8 @@ Còn dưới đất, kẻ tứ chi vặn vẹo, máu me đầy mình—không ai
 
 **Thông tin chương:**
 - Số chương: 224
-- Thời gian cập nhật: 2026-01-17 10:18:07
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-224](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-224)
+- Thời gian scrape: 2026-01-17 10:18:07
 
 <div class="chapter-nav">
     <a href="chuong_223.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_225.html" class="nav-btn">Chương sau →</a>

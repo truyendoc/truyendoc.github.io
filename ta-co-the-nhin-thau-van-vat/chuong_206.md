@@ -4,9 +4,6 @@ title: Chương 206: Thay đổi
 chapter_number: 206
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Trần lão y và Lục công tử, thầy trò hai người quả thật đều là nhân vật phi phàm!”
-Ngụy Tinh Hà than nhẹ một tiếng rồi im lặng.
-Chủ tớ hai người chỉ ngồi đó,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,7 +100,8 @@ Còn lúc này, bên kia — Mã Cố nghe lời Tử An xong, thì hoàn toàn 
 
 **Thông tin chương:**
 - Số chương: 206
-- Thời gian cập nhật: 2026-01-17 10:17:18
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-206](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-206)
+- Thời gian scrape: 2026-01-17 10:17:18
 
 <div class="chapter-nav">
     <a href="chuong_205.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_207.html" class="nav-btn">Chương sau →</a>

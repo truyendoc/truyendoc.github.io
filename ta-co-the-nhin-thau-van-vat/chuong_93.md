@@ -4,9 +4,6 @@ title: Chương 93: Địa mạch linh dịch
 chapter_number: 93
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Cái… gì thế này?”
-Lục Thanh nhìn cảnh tượng trước mắt, trong lòng tràn đầy kinh hãi.
-Trước mặt hắn và Tiểu Ly, một động huyệt khổng lồ đột ngột mở ra — khôn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -104,7 +101,8 @@ Một luồng ánh sáng nhạt từ khe cửa lọt ra — và Cửa Ẩn cuố
 
 **Thông tin chương:**
 - Số chương: 93
-- Thời gian cập nhật: 2026-01-17 10:12:03
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-93](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-93)
+- Thời gian scrape: 2026-01-17 10:12:03
 
 <div class="chapter-nav">
     <a href="chuong_92.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_94.html" class="nav-btn">Chương sau →</a>

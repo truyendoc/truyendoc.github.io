@@ -4,8 +4,6 @@ title: Chương 255: Đêm tàn sát (2)
 chapter_number: 255
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sau khi xử lý xong hai tên, Lục Thanh không chần chừ, lật tay ném tiếp hai cây kim thép nữa, nhắm thẳng vào điểm mù trên tường làng.
-Ở chỗ đó, dù tối tăm khô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -108,7 +106,8 @@ Thị vệ Trịnh gia không kìm được, thốt lên đầy kinh ngạc.
 
 **Thông tin chương:**
 - Số chương: 255
-- Thời gian cập nhật: 2026-01-17 10:19:34
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-255](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-255)
+- Thời gian scrape: 2026-01-17 10:19:34
 
 <div class="chapter-nav">
     <a href="chuong_254.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_256.html" class="nav-btn">Chương sau →</a>

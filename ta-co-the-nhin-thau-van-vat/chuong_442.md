@@ -4,8 +4,6 @@ title: Chương 442: Tam Thánh Sư (2)
 chapter_number: 442
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Thái độ của Tam Thánh Sư không chỉ khiến đám Võ Giả kinh ngạc, mà ngay cả các nhân vật hiểu rõ tính tình của ông như Lâu chủ Thiên Cơ cũng phải sững sờ.
-Từ b...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,7 +101,8 @@ Trong tay ông, một thanh trường kiếm hiện ra.
 
 **Thông tin chương:**
 - Số chương: 442
-- Thời gian cập nhật: 2026-01-17 10:28:03
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-442](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-442)
+- Thời gian scrape: 2026-01-17 10:28:03
 
 <div class="chapter-nav">
     <a href="chuong_441.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_443.html" class="nav-btn">Chương sau →</a>

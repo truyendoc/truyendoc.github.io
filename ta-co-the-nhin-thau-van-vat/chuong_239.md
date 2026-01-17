@@ -4,8 +4,6 @@ title: Chương 239: Danh Tính Kinh Động Thiên Hạ
 chapter_number: 239
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Thiên Cơ Lâu công bố Long tiềm Bảng, từ trước đến nay luôn thu hút sự chú ý của vô số thế lực trong thiên hạ.
-Bởi lẽ, võ giả có thể lọt vào bảng ấy đều có kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,7 +77,8 @@ Chỉ là… rốt cuộc tông môn nào có thể bồi dưỡng ra nhân vậ
 
 **Thông tin chương:**
 - Số chương: 239
-- Thời gian cập nhật: 2026-01-17 10:18:50
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-239](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-239)
+- Thời gian scrape: 2026-01-17 10:18:50
 
 <div class="chapter-nav">
     <a href="chuong_238.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_240.html" class="nav-btn">Chương sau →</a>

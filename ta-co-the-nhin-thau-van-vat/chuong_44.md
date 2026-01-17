@@ -4,9 +4,6 @@ title: Chương 44: Khái niệm cảnh giới tu luyện
 chapter_number: 44
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “A Thanh, con có biết muốn trở thành một thầy thuốc giỏi thì cần có những gì không?”
-Nghe câu hỏi của sư phụ, Lục Thanh suy nghĩ một lát rồi đáp:
-“Là y thuật...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -94,7 +91,8 @@ Bộ Dưỡng Thể Quyền này, con phải học cho thật kỹ.”
 
 **Thông tin chương:**
 - Số chương: 44
-- Thời gian cập nhật: 2026-01-17 10:09:23
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-44](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-44)
+- Thời gian scrape: 2026-01-17 10:09:23
 
 <div class="chapter-nav">
     <a href="chuong_43.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_45.html" class="nav-btn">Chương sau →</a>

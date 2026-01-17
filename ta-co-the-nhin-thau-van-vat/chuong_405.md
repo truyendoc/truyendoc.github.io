@@ -4,8 +4,6 @@ title: Chương 405: Mãnh liệt phá trận , trực tiếp nghiền chết
 chapter_number: 405
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Không chỉ những người dưới chân núi kinh hãi tột độ, mà mấy vị nữ tử tuyệt sắc vốn đang tỷ thí trên Thiên Đăng Thang phía trên cũng cảm thấy khó tin.
-“ Ly Ti...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -127,7 +125,8 @@ Cổ hòa thượng trẻ vặn sang một góc độ kỳ dị, toàn thân co 
 
 **Thông tin chương:**
 - Số chương: 405
-- Thời gian cập nhật: 2026-01-17 10:26:12
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-405](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-405)
+- Thời gian scrape: 2026-01-17 10:26:12
 
 <div class="chapter-nav">
     <a href="chuong_404.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_406.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 343: Diệt Môn, Tìm Bảo_2
 chapter_number: 343
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Bạn còn 8 lượt đọc trên website
-Hình dáng của phần sọ vẫn còn có thể mơ hồ nhận ra.
-Còn Mặc Chấn thì không chết ngay; trong cơ thể vẫn còn sót lại một hơi th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,7 +97,8 @@ Khóe môi Lục Thanh khẽ cong lên.
 
 **Thông tin chương:**
 - Số chương: 343
-- Thời gian cập nhật: 2026-01-17 10:23:15
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-343](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-343)
+- Thời gian scrape: 2026-01-17 10:23:15
 
 <div class="chapter-nav">
     <a href="chuong_342.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_344.html" class="nav-btn">Chương sau →</a>

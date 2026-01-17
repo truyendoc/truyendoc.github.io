@@ -4,8 +4,6 @@ title: Chương 333
 chapter_number: 333
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh vừa cảm nhận được dao động thần hồn của hai tên lão giả mũi ưng liền lập tức quát lớn.
-Hắn là người ra tay trước, rút nhanh một mũi trường tiễn từ ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -123,7 +121,8 @@ Lùi hơn mười bước, hắn mới gượng đứng vững lại.
 
 **Thông tin chương:**
 - Số chương: 333
-- Thời gian cập nhật: 2026-01-17 10:22:49
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-333](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-333)
+- Thời gian scrape: 2026-01-17 10:22:49
 
 <div class="chapter-nav">
     <a href="chuong_332.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_334.html" class="nav-btn">Chương sau →</a>

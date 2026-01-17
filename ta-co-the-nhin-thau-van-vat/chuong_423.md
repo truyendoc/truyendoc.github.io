@@ -4,8 +4,6 @@ title: Chương 423: Nhát Chém
 chapter_number: 423
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Xem ra chúng ta đã trở thành mục tiêu của tất cả mọi người rồi.”
-Lục Thanh cầm Nguyên Khí trong tay, nhìn đám cường giả Tiên Thiên tụ tập trước mặt với vẻ b...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -74,7 +72,8 @@ Máu phun ra như suối.
 
 **Thông tin chương:**
 - Số chương: 423
-- Thời gian cập nhật: 2026-01-17 10:27:08
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-423](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-423)
+- Thời gian scrape: 2026-01-17 10:27:08
 
 <div class="chapter-nav">
     <a href="chuong_422.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_424.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 60: Đao chiến (2)
 chapter_number: 60
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Không biết Lục công tử muốn loại chiến đao như thế nào?” — Mã gia mỉm cười hỏi.
-Lục Thanh trầm ngâm một lúc rồi nói:
-“Mã gia, một thanh chiến đao thường thì...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -154,7 +151,8 @@ Ngay lúc ấy, cậu đang bị một nhóm người khác chặn đường.
 
 **Thông tin chương:**
 - Số chương: 60
-- Thời gian cập nhật: 2026-01-17 10:10:02
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-60](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-60)
+- Thời gian scrape: 2026-01-17 10:10:02
 
 <div class="chapter-nav">
     <a href="chuong_59.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_61.html" class="nav-btn">Chương sau →</a>

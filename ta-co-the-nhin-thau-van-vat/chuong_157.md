@@ -4,9 +4,6 @@ title: Chương 157: Lục soát
 chapter_number: 157
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Quả nhiên, đó chính là bang Hắc Lang!
-Lục Thanh đảo mắt nhìn quanh, phát hiện tất cả những kẻ có mặt đều là người của bang Hắc Lang.
-Không chỉ có bang chủ Hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -60,7 +57,8 @@ Mã Cố định cản lại, nhưng Hắc Lang đã nổi giận, nắm đấm 
 
 **Thông tin chương:**
 - Số chương: 157
-- Thời gian cập nhật: 2026-01-17 10:15:08
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-157](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-157)
+- Thời gian scrape: 2026-01-17 10:15:08
 
 <div class="chapter-nav">
     <a href="chuong_156.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_158.html" class="nav-btn">Chương sau →</a>

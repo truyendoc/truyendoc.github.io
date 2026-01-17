@@ -4,9 +4,6 @@ title: Chương 155: Cá râu rồng
 chapter_number: 155
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Thấy cần câu đột nhiên bị kéo mạnh, Lục Thanh lại chẳng mấy bất ngờ.
-Loài cá ở dị giới này rất thích đánh lén, hắn đã sớm quen với điều đó rồi.
-Điều khiến hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -73,7 +70,8 @@ Sau khi ăn no, tiểu Ly không quấn lấy hắn nữa mà chạy đi chơi c
 
 **Thông tin chương:**
 - Số chương: 155
-- Thời gian cập nhật: 2026-01-17 10:15:03
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-155](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-155)
+- Thời gian scrape: 2026-01-17 10:15:03
 
 <div class="chapter-nav">
     <a href="chuong_154.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_156.html" class="nav-btn">Chương sau →</a>

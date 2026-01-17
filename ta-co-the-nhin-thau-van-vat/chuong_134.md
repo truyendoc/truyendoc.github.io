@@ -4,9 +4,6 @@ title: Chương 134: Cứu người
 chapter_number: 134
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Lục huynh, sao ngươi lại xuất hiện ở đây?”
-“Ta vào núi hái dược liệu, tình cờ gặp các người,” Lục Thanh đáp.
-Từ khi bước vào hậu thiên cốt cảnh, Lục Thanh đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,7 +72,8 @@ Trước khi rời hang, Lục Thanh nói:
 
 **Thông tin chương:**
 - Số chương: 134
-- Thời gian cập nhật: 2026-01-17 10:14:03
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-134](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-134)
+- Thời gian scrape: 2026-01-17 10:14:03
 
 <div class="chapter-nav">
     <a href="chuong_133.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_135.html" class="nav-btn">Chương sau →</a>

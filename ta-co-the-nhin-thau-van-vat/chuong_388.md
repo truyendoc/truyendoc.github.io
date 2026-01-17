@@ -4,8 +4,6 @@ title: Chương 388: Điềm báo tử kiếp
 chapter_number: 388
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Vừa rồi đệ tử cảm nhận được,” Hồ cô nương dường như giữa hai hàng mày xuất hiện một tia hắc khí, tựa như sắp có đại hung giáng xuống.
-Thế nhưng lạ thay, khí...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -77,7 +75,8 @@ Cổ xa lại lao đi. Khoảng cách một hai nghìn dặm tưởng xa nhưng 
 
 **Thông tin chương:**
 - Số chương: 388
-- Thời gian cập nhật: 2026-01-17 10:25:22
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-388](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-388)
+- Thời gian scrape: 2026-01-17 10:25:22
 
 <div class="chapter-nav">
     <a href="chuong_387.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_389.html" class="nav-btn">Chương sau →</a>

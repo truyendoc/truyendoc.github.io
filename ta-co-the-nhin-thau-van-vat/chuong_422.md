@@ -4,8 +4,6 @@ title: Chương 422: Gặp lại Cố Nhân
 chapter_number: 422
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Nhìn nhanh! Có những luồng quang mang đang bay về phía Thánh Thành!”
-Trong Thánh Thành, tất cả võ giả đang chú ý đến biến hóa của bạch sắc huyễn xoáy, khi t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -106,7 +104,8 @@ Trong thoáng chốc, đám Tiên Thiên đang tham lam liền chấn động t�
 
 **Thông tin chương:**
 - Số chương: 422
-- Thời gian cập nhật: 2026-01-17 10:27:04
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-422](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-422)
+- Thời gian scrape: 2026-01-17 10:27:04
 
 <div class="chapter-nav">
     <a href="chuong_421.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_423.html" class="nav-btn">Chương sau →</a>

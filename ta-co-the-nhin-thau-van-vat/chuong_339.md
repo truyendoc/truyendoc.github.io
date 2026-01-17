@@ -4,8 +4,6 @@ title: Chương 339: Kén máu
 chapter_number: 339
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trong tửu quán, có vô số thi thể nằm la liệt, tất cả đều chết trong tình trạng vô cùng thê thảm.
-Tuy gần đây Tiểu Nhan đã nhìn thấy không ít người chết, Lục ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,7 +107,8 @@ Người đeo kiếm chưa từng thấy cảnh tượng quỷ dị như vậy, 
 
 **Thông tin chương:**
 - Số chương: 339
-- Thời gian cập nhật: 2026-01-17 10:23:05
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-339](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-339)
+- Thời gian scrape: 2026-01-17 10:23:05
 
 <div class="chapter-nav">
     <a href="chuong_338.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_340.html" class="nav-btn">Chương sau →</a>

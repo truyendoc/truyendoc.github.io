@@ -4,9 +4,6 @@ title: Chương 366: Đại Nhàn Kiếm (2)
 chapter_number: 366
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Hắn tuyệt đối không thể vì một môn công pháp chỉ tạm được ở tầng Tiên Thiên mà tự phế bỏ tu vi của mình.
-Làm vậy chẳng khác nào bỏ dưa hấu đi nhặt hạt mè.
-Dĩ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -108,7 +105,8 @@ Luyện xong một bài Dưỡng Thể Quyền, Lục Thanh bỗng cảm thấy 
 
 **Thông tin chương:**
 - Số chương: 366
-- Thời gian cập nhật: 2026-01-17 10:24:18
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-366](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-366)
+- Thời gian scrape: 2026-01-17 10:24:18
 
 <div class="chapter-nav">
     <a href="chuong_365.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_367.html" class="nav-btn">Chương sau →</a>

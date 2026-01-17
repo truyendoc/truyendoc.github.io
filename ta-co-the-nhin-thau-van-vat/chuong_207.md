@@ -4,9 +4,6 @@ title: Chương 207: Chỉ có sức mạnh của bản thân mới là sức m�
 chapter_number: 207
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “An nhi, con… con nói sao? Gia chủ Ngụy gia muốn tổ chức một lễ bái sư long trọng cho con ư?”
-Mã Cố lắp bắp hỏi, vẻ mặt đầy kinh ngạc.
-“Vâng, sư phụ,” Ngụy T...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -119,7 +116,8 @@ Một lúc lâu sau, y mới sực nhớ phải quay về báo cho tổng quản
 
 **Thông tin chương:**
 - Số chương: 207
-- Thời gian cập nhật: 2026-01-17 10:17:20
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-207](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-207)
+- Thời gian scrape: 2026-01-17 10:17:20
 
 <div class="chapter-nav">
     <a href="chuong_206.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_208.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 36: Quy tắc khi ra ngoài
 chapter_number: 36
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đại An ca! Đại An ca! Huynh có ở nhà không?”
-Trước căn nhà đất nhỏ, Lục Thanh đứng gọi lớn.
-“Ai đó, ai gọi ta thế?” — một giọng trầm vang lên, rồi từ trong ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -123,7 +120,8 @@ bước thẳng về hướng chợ phiên.
 
 **Thông tin chương:**
 - Số chương: 36
-- Thời gian cập nhật: 2026-01-17 10:09:04
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-36](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-36)
+- Thời gian scrape: 2026-01-17 10:09:04
 
 <div class="chapter-nav">
     <a href="chuong_35.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_37.html" class="nav-btn">Chương sau →</a>

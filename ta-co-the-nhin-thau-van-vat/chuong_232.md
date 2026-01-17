@@ -4,10 +4,6 @@ title: Chương 232: Phôi Kiếm Thần Binh
 chapter_number: 232
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Hậu viện Chúc Tâm Phường tĩnh lặng.
-Mọi người chăm chú nhìn về vị trí lò số một.
-Tại đó, Lâm sư phụ thở hổn hển, mồ hôi nhễ nhại, trông như sắp ngã quỵ.
-Dù t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -107,7 +103,8 @@ Một ngày, họ mới đề xuất rời khỏi phủ Ngụy.
 
 **Thông tin chương:**
 - Số chương: 232
-- Thời gian cập nhật: 2026-01-17 10:18:31
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-232](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-232)
+- Thời gian scrape: 2026-01-17 10:18:31
 
 <div class="chapter-nav">
     <a href="chuong_231.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_233.html" class="nav-btn">Chương sau →</a>

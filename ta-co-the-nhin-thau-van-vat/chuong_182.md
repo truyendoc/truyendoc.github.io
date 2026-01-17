@@ -4,10 +4,6 @@ title: Chương 182: Thánh sơn
 chapter_number: 182
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “ Chi duệ tiên sinh, mời dùng trà.”
-Lục Thanh bưng lên một chén Mai Hoa Trà, cung kính dâng tới trước mặt thiếu niên áo vải.
-“Đa tạ.”
-Thiếu niên áo vải đón l...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -73,7 +69,8 @@ So với võ giả hậu thiên, thậm chí so với người thường, đã k
 
 **Thông tin chương:**
 - Số chương: 182
-- Thời gian cập nhật: 2026-01-17 10:16:16
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-182](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-182)
+- Thời gian scrape: 2026-01-17 10:16:16
 
 <div class="chapter-nav">
     <a href="chuong_181.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_183.html" class="nav-btn">Chương sau →</a>

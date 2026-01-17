@@ -4,8 +4,6 @@ title: Chương 372: Thái độ khác thường của Lục Thanh (2)
 chapter_number: 372
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Bởi vậy, đến khi Ngụy Tử An bưng hòm dược đến nơi, Lục Thanh đã nắn xương xong xuôi.
-Động tác nắn xương dịu dàng của hắn khiến cô gái hết sức bất ngờ, gần nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -112,7 +110,8 @@ Nhìn hai cô bé lớn nhỏ khen nhau ríu rít, Lục Thanh khẽ lắc đầ
 
 **Thông tin chương:**
 - Số chương: 372
-- Thời gian cập nhật: 2026-01-17 10:24:36
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-372](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-372)
+- Thời gian scrape: 2026-01-17 10:24:36
 
 <div class="chapter-nav">
     <a href="chuong_371.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_373.html" class="nav-btn">Chương sau →</a>

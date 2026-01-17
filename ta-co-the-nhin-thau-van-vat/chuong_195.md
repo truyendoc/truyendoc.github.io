@@ -4,8 +4,6 @@ title: Chương 195: Vào thành
 chapter_number: 195
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Không lâu trước đó, cách cổng thành một đoạn, trên tường thành—
-Chính tại nơi ấy, có hai người đang âm thầm quan sát tình hình phía cổng thành. Đó là Ngụy Sơ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,7 +97,8 @@ Phía xa vang lên tiếng gọi thân thiết:
 
 **Thông tin chương:**
 - Số chương: 195
-- Thời gian cập nhật: 2026-01-17 10:16:50
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-195](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-195)
+- Thời gian scrape: 2026-01-17 10:16:50
 
 <div class="chapter-nav">
     <a href="chuong_194.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_196.html" class="nav-btn">Chương sau →</a>

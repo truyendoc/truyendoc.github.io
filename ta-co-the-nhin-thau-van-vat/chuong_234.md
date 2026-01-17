@@ -4,8 +4,6 @@ title: Chương 234: Ra đi (2)
 chapter_number: 234
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “ ngươi có thấy mặt lão nhân không?” Nghiêm Xương hải vội hỏi.
-“ thuộc hạ không thấy,” hạ nhân trả lời. “Lão đội nón rộng vành che mặt, thuộc hạ chỉ nghe đượ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -70,7 +68,8 @@ Khi xe bò tới cổng làng, Lục Thanh nhảy xuống, tháo dây đỏ trê
 
 **Thông tin chương:**
 - Số chương: 234
-- Thời gian cập nhật: 2026-01-17 10:18:36
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-234](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-234)
+- Thời gian scrape: 2026-01-17 10:18:36
 
 <div class="chapter-nav">
     <a href="chuong_233.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_235.html" class="nav-btn">Chương sau →</a>

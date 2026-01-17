@@ -4,8 +4,6 @@ title: Chương 85: Bức thư
 chapter_number: 85
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Mã gia, chuyện ở Làng Hỉ Lạc đã được xử lý xong, nhưng mấy cô gái được cứu thì phải sắp xếp thế nào đây?”
-Đêm đó, trong sảnh lớn của phủ Mã gia, Tiểu Thiên ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -97,7 +95,8 @@ Ngụy quản gia hai tay dâng phong thư.
 
 **Thông tin chương:**
 - Số chương: 85
-- Thời gian cập nhật: 2026-01-17 10:11:40
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-85](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-85)
+- Thời gian scrape: 2026-01-17 10:11:40
 
 <div class="chapter-nav">
     <a href="chuong_84.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_86.html" class="nav-btn">Chương sau →</a>

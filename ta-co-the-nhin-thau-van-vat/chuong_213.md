@@ -4,9 +4,6 @@ title: Chương 213: Thiên tài bị thời đại bỏ rơi
 chapter_number: 213
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh lấy ra cuốn sổ ghi chép của lãng Khách trước tiên.
-Lần này, sau chuyến dạo quanh thành, hắn đã thu được lợi ích khổng lồ.
-Trong đó, hai món quý giá...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,7 +92,8 @@ Một luồng nhận thức đột ngột lóe lên trong tâm trí, khiến tim
 
 **Thông tin chương:**
 - Số chương: 213
-- Thời gian cập nhật: 2026-01-17 10:17:36
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-213](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-213)
+- Thời gian scrape: 2026-01-17 10:17:36
 
 <div class="chapter-nav">
     <a href="chuong_212.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_214.html" class="nav-btn">Chương sau →</a>

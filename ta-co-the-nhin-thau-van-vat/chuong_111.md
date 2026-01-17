@@ -4,8 +4,6 @@ title: Chương 111: Tiểu thiên
 chapter_number: 111
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Không có gì lạ khi Ngụy gia có thể từ một dòng họ nhỏ ở một huyện xa xôi mà vươn lên thành thế gia hùng mạnh,
-ảnh hưởng lan tới cả toàn huyện thành và thậm c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -145,7 +143,8 @@ và ngay khoảnh khắc đó, linh hồn hắn run rẩy dữ dội.
 
 **Thông tin chương:**
 - Số chương: 111
-- Thời gian cập nhật: 2026-01-17 10:12:56
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-111](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-111)
+- Thời gian scrape: 2026-01-17 10:12:56
 
 <div class="chapter-nav">
     <a href="chuong_110.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_112.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 253: Địa hành phù
 chapter_number: 253
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Đêm đó, Lục Thanh ngồi xếp bằng trên giường.
-Tinh thần tập trung, vẻ mặt trầm tĩnh.
-Hai tay hắn kết một đạo pháp ấn kỳ dị; từ mi tâm khẽ dấy lên từng tầng da...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +95,8 @@ Chuẩn bị xong xuôi, Lục Thanh mới lặng lẽ men theo sườn núi, b�
 
 **Thông tin chương:**
 - Số chương: 253
-- Thời gian cập nhật: 2026-01-17 10:19:29
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-253](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-253)
+- Thời gian scrape: 2026-01-17 10:19:29
 
 <div class="chapter-nav">
     <a href="chuong_252.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_254.html" class="nav-btn">Chương sau →</a>

@@ -4,10 +4,6 @@ title: Chương 283: Địa linh châu
 chapter_number: 283
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đây là gì vậy?”
-Trong mật thất, vật phẩm không nhiều, chỉ có mấy giá gỗ đơn sơ.
-Trên đó đặt binh khí, linh dược, thư tịch, cùng các loại bình bình lọ lọ.
-Nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,7 +99,8 @@ Thân thể nàng run bắn, ánh mắt dần trống rỗng… rồi lảo đ�
 
 **Thông tin chương:**
 - Số chương: 283
-- Thời gian cập nhật: 2026-01-17 10:20:43
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-283](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-283)
+- Thời gian scrape: 2026-01-17 10:20:43
 
 <div class="chapter-nav">
     <a href="chuong_282.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_284.html" class="nav-btn">Chương sau →</a>

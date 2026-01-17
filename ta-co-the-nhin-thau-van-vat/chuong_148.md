@@ -4,8 +4,6 @@ title: Chương 148: Tiên thiên (2)
 chapter_number: 148
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trần lão y đã uống Địa Mạch Linh Dịch, sinh cơ trong cơ thể dồi dào, khí huyết sung mãn, thân thể không có tổn hao, Khí Khiếu đã sớm trở nên lỏng mở.
-Vì vậy,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -68,7 +66,8 @@ Dù là lay động tâm – thần hay sương trắng Nguyên Khí,
 
 **Thông tin chương:**
 - Số chương: 148
-- Thời gian cập nhật: 2026-01-17 10:14:43
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-148](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-148)
+- Thời gian scrape: 2026-01-17 10:14:43
 
 <div class="chapter-nav">
     <a href="chuong_147.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_149.html" class="nav-btn">Chương sau →</a>

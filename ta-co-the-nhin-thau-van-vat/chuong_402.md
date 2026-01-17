@@ -4,10 +4,6 @@ title: Chương 402: Mã Cố đột phá
 chapter_number: 402
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Cô nương có thể cảm nhận được thứ gì đó trong Thánh Sơn đang gọi mình sao?”
-Lục Thanh hơi kinh ngạc.
-Trần lão y cũng nhìn sang.
-“Vâng, và sự gọi đó rất kỳ l...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,7 +95,8 @@ Cùng lúc, đôi mắt hắn mở ra, tràn đầy vui mừng.
 
 **Thông tin chương:**
 - Số chương: 402
-- Thời gian cập nhật: 2026-01-17 10:26:04
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-402](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-402)
+- Thời gian scrape: 2026-01-17 10:26:04
 
 <div class="chapter-nav">
     <a href="chuong_401.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_403.html" class="nav-btn">Chương sau →</a>

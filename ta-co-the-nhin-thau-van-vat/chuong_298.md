@@ -4,9 +4,6 @@ title: Chương 298: Linh khí hiển lộ
 chapter_number: 298
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Phương Đào chắp tay hành lễ.
-Mặc dù mấy ngày nay người của Lưu Vân Tông không đuổi theo nữa, hắn vẫn không dám lơ là.
-Giờ mưa đã tạnh, là thời điểm tốt để lê...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -120,7 +117,8 @@ Tên áo xám biến sắc, ánh mắt lập tức quét về phía xe ngựa c�
 
 **Thông tin chương:**
 - Số chương: 298
-- Thời gian cập nhật: 2026-01-17 10:21:20
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-298](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-298)
+- Thời gian scrape: 2026-01-17 10:21:20
 
 <div class="chapter-nav">
     <a href="chuong_297.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_299.html" class="nav-btn">Chương sau →</a>

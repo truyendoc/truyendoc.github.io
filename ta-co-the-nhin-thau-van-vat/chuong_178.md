@@ -4,9 +4,6 @@ title: Chương 178: Vết thương nặng khó lành
 chapter_number: 178
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Vậy nghĩa là Ninh Yên và Tử An, sinh mệnh của họ vẫn đang treo lơ lửng trên sợi chỉ?”
-Ngụy Sơn Hải nhăn mày hỏi.
-Ngay lúc này, Ngụy Tinh Hà vừa kể lại toàn ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -68,7 +65,8 @@ Vì vậy, ai cũng biết rằng có một điều cấm kỵ với các bậc 
 
 **Thông tin chương:**
 - Số chương: 178
-- Thời gian cập nhật: 2026-01-17 10:16:06
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-178](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-178)
+- Thời gian scrape: 2026-01-17 10:16:06
 
 <div class="chapter-nav">
     <a href="chuong_177.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_179.html" class="nav-btn">Chương sau →</a>

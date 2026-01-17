@@ -4,9 +4,6 @@ title: Chương 347: Đại Cơ Duyên
 chapter_number: 347
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đưa thần binh này cho ta?”
-Nhìn Lục Thanh đưa cây trường côn màu đen tới trước mặt, Ngụy Tử An sững sờ.
-“Đúng vậy, trong số chúng ta chỉ có ngươi dùng côn. ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -69,7 +66,8 @@ Nghe vậy, Ngụy Tử An mới hiểu: Lục Thanh dùng “lời mời học 
 
 **Thông tin chương:**
 - Số chương: 347
-- Thời gian cập nhật: 2026-01-17 10:23:25
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-347](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-347)
+- Thời gian scrape: 2026-01-17 10:23:25
 
 <div class="chapter-nav">
     <a href="chuong_346.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_348.html" class="nav-btn">Chương sau →</a>

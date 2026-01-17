@@ -4,9 +4,6 @@ title: Chương 74: Trừng phạt (2)
 chapter_number: 74
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trước sân nhà họ Lục, không khí hoàn toàn tĩnh lặng.
-Mọi ánh mắt đều dừng lại trên thi thể vô hồn của Hàn Vũ, nằm bất động trên mặt đất.
-Không ai ngờ rằng Lụ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -121,7 +118,8 @@ giờ đây đã thật sự trưởng thành.
 
 **Thông tin chương:**
 - Số chương: 74
-- Thời gian cập nhật: 2026-01-17 10:11:13
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-74](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-74)
+- Thời gian scrape: 2026-01-17 10:11:13
 
 <div class="chapter-nav">
     <a href="chuong_73.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_75.html" class="nav-btn">Chương sau →</a>

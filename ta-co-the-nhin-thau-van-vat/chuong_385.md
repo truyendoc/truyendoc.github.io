@@ -4,8 +4,6 @@ title: Chương 385: Long Huyết Mã
 chapter_number: 385
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Tiểu Ly vẫn chỉ là linh thú cấp Tiên Thiên, sức mạnh chưa đủ, nên như vậy cũng là bình thường.
-Lúc này, thân thể Tiểu Ly cũng bắt đầu thu nhỏ dần, nhanh chón...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -107,7 +105,8 @@ Sau khi Lục Thanh rời khỏi, một bóng người từ phía sau Triệu đ
 
 **Thông tin chương:**
 - Số chương: 385
-- Thời gian cập nhật: 2026-01-17 10:25:14
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-385](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-385)
+- Thời gian scrape: 2026-01-17 10:25:14
 
 <div class="chapter-nav">
     <a href="chuong_384.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_386.html" class="nav-btn">Chương sau →</a>

@@ -4,8 +4,6 @@ title: Chương 293: Dị tượng trên trời (2)
 chapter_number: 293
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trần lão y là bậc đại tông y đạo, kinh nghiệm hành y cực kỳ thâm hậu, thủ pháp định huyệt cũng vô cùng chuẩn xác.
-Dù có y phục, ông vẫn có thể hạ châm ổn địn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -101,7 +99,8 @@ Trong khoảnh khắc ấy, cả sư phụ lẫn đồ đệ đều chìm vào m
 
 **Thông tin chương:**
 - Số chương: 293
-- Thời gian cập nhật: 2026-01-17 10:21:08
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-293](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-293)
+- Thời gian scrape: 2026-01-17 10:21:08
 
 <div class="chapter-nav">
     <a href="chuong_292.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_294.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 329: Phá trận (2)
 chapter_number: 329
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “A—! Là ai dám tập kích ta!”
-Hắc y nhân xoay người giữa không trung, mượn lực lùi gấp rồi trực tiếp bước vào màn chắn xám, vừa phẫn nộ vừa kinh hãi.
-Hình dạn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -127,7 +124,8 @@ Trong lòng hắc y nhân lạnh buốt như rơi xuống hầm băng.
 
 **Thông tin chương:**
 - Số chương: 329
-- Thời gian cập nhật: 2026-01-17 10:22:39
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-329](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-329)
+- Thời gian scrape: 2026-01-17 10:22:39
 
 <div class="chapter-nav">
     <a href="chuong_328.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_330.html" class="nav-btn">Chương sau →</a>

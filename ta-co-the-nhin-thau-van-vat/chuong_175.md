@@ -4,8 +4,6 @@ title: Chương 175: Ngọc quyển đan thư
 chapter_number: 175
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Người nào dám thách thức uy quyền của hai tồn tại ở Cảnh Tiên Thiên?”
-Các võ giả đang bị áp lực từ hai bậc Cảnh Tiên Thiên ép đến gần như nghẹt thở nghe thấ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -66,7 +64,8 @@ Chẳng lẽ, còn có người đang ẩn trên mái hiên?
 
 **Thông tin chương:**
 - Số chương: 175
-- Thời gian cập nhật: 2026-01-17 10:15:57
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-175](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-175)
+- Thời gian scrape: 2026-01-17 10:15:57
 
 <div class="chapter-nav">
     <a href="chuong_174.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_176.html" class="nav-btn">Chương sau →</a>

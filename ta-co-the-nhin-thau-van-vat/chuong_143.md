@@ -4,10 +4,6 @@ title: Chương 143: Tử Khí Tụ Sát Quyết
 chapter_number: 143
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: 《Tử Khí Tụ Sát Quyết》.
-Đó là tên bí thuật được ghi trên tấm giấy da người.
-Nói chính xác hơn, đây không phải là công pháp thông thường, mà là bí thuật.
-Phươn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -78,7 +74,8 @@ Nam tử cường tráng đã kiểm tra thi thể, suy đoán.
 
 **Thông tin chương:**
 - Số chương: 143
-- Thời gian cập nhật: 2026-01-17 10:14:29
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-143](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-143)
+- Thời gian scrape: 2026-01-17 10:14:29
 
 <div class="chapter-nav">
     <a href="chuong_142.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_144.html" class="nav-btn">Chương sau →</a>

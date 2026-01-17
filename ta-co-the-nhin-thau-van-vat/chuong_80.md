@@ -4,8 +4,6 @@ title: Chương 80: Sói móc tim
 chapter_number: 80
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: [Ngụy Sơn: biệt danh “Sói Móc Tim”, Cửu Gia của Hắc Lang bang, đồng thời là trưởng làng Hỉ Lạc. Bản tính tàn bạo, xảo quyệt và tham lam vô độ.]
-[Tu vi: Hậu T...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,7 +107,8 @@ Cậu lao thẳng xuống, truy theo hướng Sói Móc Tim vừa bỏ chạy.
 
 **Thông tin chương:**
 - Số chương: 80
-- Thời gian cập nhật: 2026-01-17 10:11:29
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-80](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-80)
+- Thời gian scrape: 2026-01-17 10:11:29
 
 <div class="chapter-nav">
     <a href="chuong_79.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_81.html" class="nav-btn">Chương sau →</a>

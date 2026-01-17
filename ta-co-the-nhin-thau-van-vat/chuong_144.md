@@ -4,9 +4,6 @@ title: Chương 144: Sư phụ đột phá
 chapter_number: 144
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Như ngươi nói, chưa bao lâu sau khi tách khỏi Tam sư huynh, đã có người dễ dàng giết bọn họ.”
-“Rõ ràng, kẻ ra tay phải mạnh hơn Tam sư huynh rất nhiều.”
-Thi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -113,7 +110,8 @@ Lục Thanh không kìm được vui mừng.
 
 **Thông tin chương:**
 - Số chương: 144
-- Thời gian cập nhật: 2026-01-17 10:14:32
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-144](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-144)
+- Thời gian scrape: 2026-01-17 10:14:32
 
 <div class="chapter-nav">
     <a href="chuong_143.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_145.html" class="nav-btn">Chương sau →</a>

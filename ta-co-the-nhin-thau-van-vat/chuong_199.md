@@ -4,9 +4,6 @@ title: Chương 199: Vào phủ trị thương (2)
 chapter_number: 199
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Thì ra tiên sinh Chi duệ vẫn luôn âm thầm giúp đỡ chúng ta!”
-Ngụy Sơn Hải chợt bừng tỉnh.
-Nếu là người kia, vậy thì việc hắn có thể nhận ra thương thế của m...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -119,7 +116,8 @@ Ngụy Sơn Hải cảm thấy nơi ngực đau nhói, rồi ngay sau đó, toà
 
 **Thông tin chương:**
 - Số chương: 199
-- Thời gian cập nhật: 2026-01-17 10:17:00
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-199](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-199)
+- Thời gian scrape: 2026-01-17 10:17:00
 
 <div class="chapter-nav">
     <a href="chuong_198.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_200.html" class="nav-btn">Chương sau →</a>

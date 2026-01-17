@@ -4,9 +4,6 @@ title: Chương 274: Đại chiến tiên thiên , chém đứt tứ chi
 chapter_number: 274
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Không thể nào!”
-Trịnh Lão Thái thái ôm chặt cánh tay vừa bị chém đứt, ánh mắt tràn đầy kinh hoảng nhìn Lục Thanh.
-Lúc này, trên người Lục Thanh làm gì còn c...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -92,7 +89,8 @@ Cùng lúc đó, cách vài dặm, mấy vị lão giả khí độ nho nhã đa
 
 **Thông tin chương:**
 - Số chương: 274
-- Thời gian cập nhật: 2026-01-17 10:20:21
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-274](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-274)
+- Thời gian scrape: 2026-01-17 10:20:21
 
 <div class="chapter-nav">
     <a href="chuong_273.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_275.html" class="nav-btn">Chương sau →</a>

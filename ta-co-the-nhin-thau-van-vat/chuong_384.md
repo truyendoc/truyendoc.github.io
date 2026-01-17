@@ -4,8 +4,6 @@ title: Chương 384: Thần thông mới
 chapter_number: 384
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh mơ hồ nghe thấy một giọng trẻ con vang lên trong thần hồn, gọi khẽ: “A, A Thanh…”.
-Ban đầu, hắn tưởng mình đang nằm mơ. Nhưng ngay khoảnh khắc kế t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,7 +78,8 @@ Nhưng cũng dễ hiểu: với thân hình lớn như vậy, lượng lực lư
 
 **Thông tin chương:**
 - Số chương: 384
-- Thời gian cập nhật: 2026-01-17 10:25:10
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-384](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-384)
+- Thời gian scrape: 2026-01-17 10:25:10
 
 <div class="chapter-nav">
     <a href="chuong_383.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_385.html" class="nav-btn">Chương sau →</a>

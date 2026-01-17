@@ -4,10 +4,6 @@ title: Chương 84: Trở về
 chapter_number: 84
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ông ơi, ông ơi! A Thanh về rồi!”
-Vừa vào đến làng, Đại An chạy một mạch đến từ đường sáng đèn rồi hét lớn.
-“Gì cơ, A Thanh về rồi à?”
-“A Thanh không sao chứ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -119,7 +115,8 @@ Mai hãy nói tiếp.” – Trương lão nói, giọng đầy nhẹ nhõm.
 
 **Thông tin chương:**
 - Số chương: 84
-- Thời gian cập nhật: 2026-01-17 10:11:38
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-84](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-84)
+- Thời gian scrape: 2026-01-17 10:11:38
 
 <div class="chapter-nav">
     <a href="chuong_83.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_85.html" class="nav-btn">Chương sau →</a>

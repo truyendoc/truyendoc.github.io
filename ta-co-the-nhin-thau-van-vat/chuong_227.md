@@ -4,9 +4,6 @@ title: Chương 227: Thuật Dịch Cốt Dịch Nhục
 chapter_number: 227
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Gia chủ Tiền” lại tự chặt đứt tâm mạch của chính mình, khiến tất cả mọi người đều kinh hãi.
-Những lời cuối cùng của hắn càng làm không ít người chấn động.
-K...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,7 +92,8 @@ vậy thì kẻ thật sự mang thiên mệnh kia… rốt cuộc sẽ mạnh �
 
 **Thông tin chương:**
 - Số chương: 227
-- Thời gian cập nhật: 2026-01-17 10:18:16
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-227](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-227)
+- Thời gian scrape: 2026-01-17 10:18:16
 
 <div class="chapter-nav">
     <a href="chuong_226.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_228.html" class="nav-btn">Chương sau →</a>

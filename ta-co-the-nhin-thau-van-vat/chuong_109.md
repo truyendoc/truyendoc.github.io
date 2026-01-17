@@ -4,8 +4,6 @@ title: Chương 109: Khí huyết viên mãn
 chapter_number: 109
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Hai loại di sản mà hắn nhận được tuy không trực tiếp nâng cao thực lực, nhưng lại mở rộng tầm mắt của hắn vô cùng.
-Chúng mang đến cho Lục Thanh một nhận thức...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -136,7 +134,8 @@ trong mắt Lục Thanh bỗng lóe lên một tia sáng linh động.
 
 **Thông tin chương:**
 - Số chương: 109
-- Thời gian cập nhật: 2026-01-17 10:12:49
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-109](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-109)
+- Thời gian scrape: 2026-01-17 10:12:49
 
 <div class="chapter-nav">
     <a href="chuong_108.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_110.html" class="nav-btn">Chương sau →</a>

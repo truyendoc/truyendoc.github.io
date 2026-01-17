@@ -4,8 +4,6 @@ title: Chương 411: Đột phá quỷ dị, sát cơ hiện
 chapter_number: 411
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Bởi vì đây là Thánh Sơn, mà trên Thánh Sơn, thực lực của ba vị Thánh Sư gần như vô địch tuyệt đối.
-Cho dù các chủ nhân của mấy đại bí địa tự mình đến, họ cũn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -109,7 +107,8 @@ Bởi vì hắn cảm nhận được vài luồng khí tức âm thầm lén l�
 
 **Thông tin chương:**
 - Số chương: 411
-- Thời gian cập nhật: 2026-01-17 10:26:32
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-411](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-411)
+- Thời gian scrape: 2026-01-17 10:26:32
 
 <div class="chapter-nav">
     <a href="chuong_410.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_412.html" class="nav-btn">Chương sau →</a>

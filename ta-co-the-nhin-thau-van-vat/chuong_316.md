@@ -4,9 +4,6 @@ title: Chương 316: Mỹ vị
 chapter_number: 316
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Cái mùi gì vậy, thơm quá!”
-Khi hương thơm lan ra, vị trung niên viên tráng khịt mũi hai cái, kinh ngạc kêu lên.
-“Chắc là do đồ nhi của ta đang chuẩn bị bữa ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -92,7 +89,8 @@ Trần Lão y cũng nhận đĩa.
 
 **Thông tin chương:**
 - Số chương: 316
-- Thời gian cập nhật: 2026-01-17 10:22:07
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-316](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-316)
+- Thời gian scrape: 2026-01-17 10:22:07
 
 <div class="chapter-nav">
     <a href="chuong_315.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_317.html" class="nav-btn">Chương sau →</a>

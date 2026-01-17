@@ -4,10 +4,6 @@ title: Chương 31: Tiếng động trong đêm (2)
 chapter_number: 31
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Tiếng động bất ngờ vang lên khiến Lục Thanh giật mình, rồi lập tức trở nên cảnh giác.
-Đó là tiếng gì vậy?
-Người, thú, hay chuột?
-Hắn nhớ đến con thú nhỏ bí ẩ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -130,7 +126,8 @@ tiếng động đó lại vang lên một lần nữa.
 
 **Thông tin chương:**
 - Số chương: 31
-- Thời gian cập nhật: 2026-01-17 10:08:51
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-31](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-31)
+- Thời gian scrape: 2026-01-17 10:08:51
 
 <div class="chapter-nav">
     <a href="chuong_30.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_32.html" class="nav-btn">Chương sau →</a>

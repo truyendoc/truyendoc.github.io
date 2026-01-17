@@ -4,9 +4,6 @@ title: Chương 433: Cảnh giới Tiên Thiên
 chapter_number: 433
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đó là gì vậy?”
-Ngay khi Thần Hồn phù xuất hiện trước mặt Lục Thanh, Lâm Chi Duệ và Lâu chủ Thiên Cơ lâu trên tòa tháp lập tức chấn động.
-Từ Thần Hồn phù ấy,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -72,7 +69,8 @@ Hắn thực sự muốn biết, một người như Lục Thanh, sau khi vượ
 
 **Thông tin chương:**
 - Số chương: 433
-- Thời gian cập nhật: 2026-01-17 10:27:37
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-433](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-433)
+- Thời gian scrape: 2026-01-17 10:27:37
 
 <div class="chapter-nav">
     <a href="chuong_432.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_434.html" class="nav-btn">Chương sau →</a>

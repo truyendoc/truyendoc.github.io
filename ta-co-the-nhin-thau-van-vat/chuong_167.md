@@ -4,8 +4,6 @@ title: Chương 167: Dạy dỗ
 chapter_number: 167
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh không hề biết rằng sau khi hắn rời đi, Mã Cố đã trở thành sư phụ của Ngụy công tử.
-Trở về nhà, hắn vẫn âm thầm quan sát quanh thôn suốt mấy ngày, k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,7 +78,8 @@ Thấy đồ đệ đã đến giới hạn, Mã Cố khẽ nói.
 
 **Thông tin chương:**
 - Số chương: 167
-- Thời gian cập nhật: 2026-01-17 10:15:36
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-167](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-167)
+- Thời gian scrape: 2026-01-17 10:15:36
 
 <div class="chapter-nav">
     <a href="chuong_166.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_168.html" class="nav-btn">Chương sau →</a>

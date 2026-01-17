@@ -4,9 +4,6 @@ title: Chương 201: Hang động hỏa linh
 chapter_number: 201
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Xem bảo vật sao?”
-Trần lão y ngạc nhiên — ông không ngờ Ngụy Sơn Hải lại chủ động mời mình như vậy.
-“Đúng thế. Món bảo vật mà ta có được chứa một loại linh ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -94,7 +91,8 @@ cậu lặng lẽ khởi động năng lực, tập trung nhìn về phía Hỏa
 
 **Thông tin chương:**
 - Số chương: 201
-- Thời gian cập nhật: 2026-01-17 10:17:05
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-201](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-201)
+- Thời gian scrape: 2026-01-17 10:17:05
 
 <div class="chapter-nav">
     <a href="chuong_200.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_202.html" class="nav-btn">Chương sau →</a>

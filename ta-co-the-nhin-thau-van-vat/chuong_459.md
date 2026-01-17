@@ -4,8 +4,6 @@ title: Chương 459
 chapter_number: 459
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Thân ảnh xám không sao tin được, một thiếu niên vừa mới bước chân vào Tiên Thiên Cảnh, lại có thể nhìn thấu thật giả của Khôi Lỗi Pháp Thân.
-Phải biết rằng, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -96,7 +94,8 @@ Hai sợi Nguyên Khí lập tức bay ra từ trong ngọc bình, lao về phí
 
 **Thông tin chương:**
 - Số chương: 459
-- Thời gian cập nhật: 2026-01-17 10:28:53
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-459](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-459)
+- Thời gian scrape: 2026-01-17 10:28:53
 
 <div class="chapter-nav">
     <a href="chuong_458.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_460.html" class="nav-btn">Chương sau →</a>

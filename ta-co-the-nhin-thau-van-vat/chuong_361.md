@@ -4,8 +4,6 @@ title: Chương 361: Dấu hiệu hỗn loạn, cục diện Trung Châu
 chapter_number: 361
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Khi Trần lão y dẫn Lục Thanh, dựa theo hướng dao động từ Ngọc Phù, hai người men theo con đường chỉ dẫn mà đi.
-Tại một khu vực của Thanh Long Thành, trong mộ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -70,7 +68,8 @@ Giống như toàn thân hắn bị một tầng màn che kín, không thể th�
 
 **Thông tin chương:**
 - Số chương: 361
-- Thời gian cập nhật: 2026-01-17 10:24:03
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-361](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-361)
+- Thời gian scrape: 2026-01-17 10:24:03
 
 <div class="chapter-nav">
     <a href="chuong_360.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_362.html" class="nav-btn">Chương sau →</a>

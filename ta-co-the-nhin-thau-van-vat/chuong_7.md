@@ -4,8 +4,6 @@ title: Chương 7: Cá chiên
 chapter_number: 7
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Thấy mỡ trên phiến đá đã sôi, Lục Thanh cẩn thận gắp từng con cá nhỏ đặt lên, bắt đầu chiên chậm rãi.
-Thực ra, nếu thêm một chút muối vào mỡ trước khi chiên ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +96,8 @@ Một lúc sau, trong đầu hắn bỗng hiện lên một cái tên quen thu�
 
 **Thông tin chương:**
 - Số chương: 7
-- Thời gian cập nhật: 2026-01-17 10:07:50
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-7](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-7)
+- Thời gian scrape: 2026-01-17 10:07:50
 
 <div class="chapter-nav">
     <a href="chuong_6.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_8.html" class="nav-btn">Chương sau →</a>

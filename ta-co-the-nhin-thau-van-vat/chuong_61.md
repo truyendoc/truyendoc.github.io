@@ -4,9 +4,6 @@ title: Chương 61: Hình phạt nhẹ nhàng
 chapter_number: 61
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ngươi vừa nói… muốn cướp đồ của ta à?”
-Lục Thanh vác một bao lớn sau lưng, trong đầy hàng hóa, ánh mắt bình thản nhìn về phía trước.
-Trước mặt cậu là năm sá...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -146,7 +143,8 @@ cuối cùng lảo đảo rời khỏi con đường đầy bụi đất.
 
 **Thông tin chương:**
 - Số chương: 61
-- Thời gian cập nhật: 2026-01-17 10:10:05
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-61](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-61)
+- Thời gian scrape: 2026-01-17 10:10:05
 
 <div class="chapter-nav">
     <a href="chuong_60.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_62.html" class="nav-btn">Chương sau →</a>

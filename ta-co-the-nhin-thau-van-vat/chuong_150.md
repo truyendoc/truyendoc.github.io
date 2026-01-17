@@ -4,9 +4,6 @@ title: Chương 150: Tiên thiên (4)
 chapter_number: 150
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Cảnh giới Tiên Thiên sao?”
-Trên mặt Trần lão y hiện lên một biểu cảm khó diễn tả.
-“Đó là một cảnh giới huyền diệu. Nhưng cụ thể ra sao… để con tự cảm nhận t...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -71,7 +68,8 @@ Nếu ông không bước vào Tiên Thiên, có lẽ ông còn chưa ý thức 
 
 **Thông tin chương:**
 - Số chương: 150
-- Thời gian cập nhật: 2026-01-17 10:14:49
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-150](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-150)
+- Thời gian scrape: 2026-01-17 10:14:49
 
 <div class="chapter-nav">
     <a href="chuong_149.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_151.html" class="nav-btn">Chương sau →</a>

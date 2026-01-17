@@ -4,9 +4,6 @@ title: Chương 399: Bí địa Vân Thủy (2)
 chapter_number: 399
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Hắn cũng từng chú ý đến những tin tức này.
-Kết quả mà hắn thu được là Tứ Đại Bí Địa đều là bốn nơi vô cùng thần bí, không ai biết chúng tọa lạc ở đâu.
-Nhưng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -111,7 +108,8 @@ Lâm Chi Duệ  nghe xong, cả người khẽ chấn động.
 
 **Thông tin chương:**
 - Số chương: 399
-- Thời gian cập nhật: 2026-01-17 10:25:55
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-399](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-399)
+- Thời gian scrape: 2026-01-17 10:25:55
 
 <div class="chapter-nav">
     <a href="chuong_398.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_400.html" class="nav-btn">Chương sau →</a>

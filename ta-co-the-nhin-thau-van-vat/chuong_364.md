@@ -4,8 +4,6 @@ title: Chương 364: Đại khí vận chi tử (2)
 chapter_number: 364
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Ngay cả những cường giả Tiên Thiên của các đại tông môn ở Trung Châu cũng động dung khi nghe tin, lần lượt tới quan sát.
-Dù sao, vị tuyệt thế cường giả ấy từ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,7 +97,8 @@ Một ý niệm kỳ dị bỗng nảy lên trong lòng Huyền Cơ Tử.
 
 **Thông tin chương:**
 - Số chương: 364
-- Thời gian cập nhật: 2026-01-17 10:24:12
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-364](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-364)
+- Thời gian scrape: 2026-01-17 10:24:12
 
 <div class="chapter-nav">
     <a href="chuong_363.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_365.html" class="nav-btn">Chương sau →</a>

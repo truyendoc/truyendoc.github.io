@@ -4,9 +4,6 @@ title: Chương 50: Bắt được Dị ngư mới
 chapter_number: 50
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trần lão nhìn Lục Thanh như nhìn thấy một báu vật vô giá, trong mắt tràn đầy kích động lẫn kinh ngạc.
-“Sư phụ?”
-Bị ánh nhìn đầy nhiệt độ ấy làm bối rối, Lục ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +95,8 @@ toàn thân ánh lên sắc vàng ròng như được dát kim loại.
 
 **Thông tin chương:**
 - Số chương: 50
-- Thời gian cập nhật: 2026-01-17 10:09:38
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-50](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-50)
+- Thời gian scrape: 2026-01-17 10:09:38
 
 <div class="chapter-nav">
     <a href="chuong_49.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_51.html" class="nav-btn">Chương sau →</a>

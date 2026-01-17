@@ -4,7 +4,6 @@ title: Chương 126: Cuộc chiến
 chapter_number: 126
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Ngoài ra, thiếu niên mặc giáp da cũng tuyệt đối không tin rằng ở nơi hẻo lánh này lại có người nào sở hữu thiên phú võ học đủ để so sánh với hắn—một nội môn ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -97,7 +96,8 @@ Nếu không, tương lai sẽ là tai họa cho chính hắn, thậm chí cả 
 
 **Thông tin chương:**
 - Số chương: 126
-- Thời gian cập nhật: 2026-01-17 10:13:39
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-126](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-126)
+- Thời gian scrape: 2026-01-17 10:13:39
 
 <div class="chapter-nav">
     <a href="chuong_125.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_127.html" class="nav-btn">Chương sau →</a>

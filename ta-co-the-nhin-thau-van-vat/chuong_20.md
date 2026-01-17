@@ -4,9 +4,6 @@ title: Chương 20: Cơn sốt cá lớn trong thôn
 chapter_number: 20
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Cuối cùng, đám dân làng không đuổi kịp ba người Lục Thanh.
-Nhờ có Đại An phụ giúp, tốc độ của họ nhanh hơn hẳn —
-hơn nữa, con sông cũng chẳng cách làng bao x...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -145,7 +142,8 @@ có lẽ, đây là con đường mới để sinh sống.
 
 **Thông tin chương:**
 - Số chương: 20
-- Thời gian cập nhật: 2026-01-17 10:08:24
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-20](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-20)
+- Thời gian scrape: 2026-01-17 10:08:24
 
 <div class="chapter-nav">
     <a href="chuong_19.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_21.html" class="nav-btn">Chương sau →</a>

@@ -4,10 +4,6 @@ title: Chương 198: Vào phủ trị thương
 chapter_number: 198
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Xe bò dừng lại trước cổng Ngụy phủ, được hộ tống long trọng bởi đội Ngân giáp vệ đông đảo.
-“Mẫu thân, xuống xe đi.”
-Ngụy Tử An bước lên, đỡ mẹ mình xuống.
-Ha...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,7 +77,8 @@ Trần lão y và những người từ thôn Cửu Lý làm sao lại rõ?
 
 **Thông tin chương:**
 - Số chương: 198
-- Thời gian cập nhật: 2026-01-17 10:16:58
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-198](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-198)
+- Thời gian scrape: 2026-01-17 10:16:58
 
 <div class="chapter-nav">
     <a href="chuong_197.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_199.html" class="nav-btn">Chương sau →</a>

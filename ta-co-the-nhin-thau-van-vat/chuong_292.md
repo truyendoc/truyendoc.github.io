@@ -4,9 +4,6 @@ title: Chương 292: Dị tượng trên trời
 chapter_number: 292
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Nhanh lên, phía trước có một đạo quán, chúng ta vào đó tránh mưa!”
-“Tiểu Nhụy, cố chịu một chút, chúng ta sắp tìm được chỗ trú rồi!”
-“Đợi vào trong quán, nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -83,7 +80,8 @@ Nữ tử Khiên Lâm thấy Tiểu Nhan nhỏ như vậy, định từ chối, 
 
 **Thông tin chương:**
 - Số chương: 292
-- Thời gian cập nhật: 2026-01-17 10:21:05
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-292](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-292)
+- Thời gian scrape: 2026-01-17 10:21:05
 
 <div class="chapter-nav">
     <a href="chuong_291.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_293.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 135: Cứu người (2)
 chapter_number: 135
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Mã Cố dĩ nhiên không phản đối.
-Hắn biết Lục Thanh thường xuyên vào núi hái thuốc, quen thuộc địa hình hơn hắn rất nhiều.
-Nếu Lục Thanh muốn chọn đường đi, ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -116,7 +113,8 @@ phải dùng đến thứ mà hắn đã chuẩn bị trước đó.
 
 **Thông tin chương:**
 - Số chương: 135
-- Thời gian cập nhật: 2026-01-17 10:14:06
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-135](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-135)
+- Thời gian scrape: 2026-01-17 10:14:06
 
 <div class="chapter-nav">
     <a href="chuong_134.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_136.html" class="nav-btn">Chương sau →</a>

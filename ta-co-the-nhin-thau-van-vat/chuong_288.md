@@ -4,8 +4,6 @@ title: Chương 288: Dư chấn (2)
 chapter_number: 288
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sau khi luận bàn chiêu thức với hắn, Lục Thanh nói rằng mình có chút lĩnh ngộ nên muốn bế quan. Ai ngờ lần bế quan này lại kéo dài suốt bảy ngày.
-Lục Thanh v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,7 +97,8 @@ Có thể nói, Trịnh gia đã hoàn toàn diệt vong.”
 
 **Thông tin chương:**
 - Số chương: 288
-- Thời gian cập nhật: 2026-01-17 10:20:55
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-288](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-288)
+- Thời gian scrape: 2026-01-17 10:20:55
 
 <div class="chapter-nav">
     <a href="chuong_287.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_289.html" class="nav-btn">Chương sau →</a>

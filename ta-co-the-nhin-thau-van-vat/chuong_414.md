@@ -4,8 +4,6 @@ title: Chương 414: Nhổ cỏ phải nhổ tận gốc
 chapter_number: 414
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Lâu Chủ, người cho rằng ai đã phái sát thủ của Vô Gian Lâu đến ám sát chúng ta?”
-Lời của Lục Thanh khiến Lâu Chủ Thiên Cơ khựng lại, sau đó rơi vào trầm mặc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,7 +73,8 @@ Dù nói thế, nhưng Lâu Chủ Thiên Cơ lâu vẫn nhìn ra Lục Thanh và
 
 **Thông tin chương:**
 - Số chương: 414
-- Thời gian cập nhật: 2026-01-17 10:26:41
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-414](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-414)
+- Thời gian scrape: 2026-01-17 10:26:41
 
 <div class="chapter-nav">
     <a href="chuong_413.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_415.html" class="nav-btn">Chương sau →</a>

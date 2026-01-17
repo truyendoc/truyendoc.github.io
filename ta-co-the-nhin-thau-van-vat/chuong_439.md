@@ -4,9 +4,6 @@ title: Chương 439: Đối Chiến
 chapter_number: 439
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh đột nhiên xuất hiện ngay trước mặt Huyền Minh.
-Lần này, hắn không còn giữ lại chút sức nào.
-Toàn thân khí huyết bùng nổ, Chân Khí Tiên Thiên trong...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,7 +77,8 @@ Thấy Lục Thanh vứt bỏ chiến đao, lao lên bằng tay không, trên m�
 
 **Thông tin chương:**
 - Số chương: 439
-- Thời gian cập nhật: 2026-01-17 10:27:54
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-439](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-439)
+- Thời gian scrape: 2026-01-17 10:27:54
 
 <div class="chapter-nav">
     <a href="chuong_438.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_440.html" class="nav-btn">Chương sau →</a>

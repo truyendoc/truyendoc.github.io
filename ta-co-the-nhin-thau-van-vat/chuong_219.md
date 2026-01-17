@@ -4,9 +4,6 @@ title: Chương 219: Trước lễ bái sư
 chapter_number: 219
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Khi Lục Thanh và Ngụy đại quản gia rời khỏi Chúc Tâm Phường,
-Lâm đại sư đích thân dẫn theo đệ tử ra tiễn, vô cùng cung kính.
-Cảnh tượng ấy khiến viên chưởng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -108,7 +105,8 @@ vội vàng chạy vào trong phủ, hô lớn:
 
 **Thông tin chương:**
 - Số chương: 219
-- Thời gian cập nhật: 2026-01-17 10:17:52
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-219](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-219)
+- Thời gian scrape: 2026-01-17 10:17:52
 
 <div class="chapter-nav">
     <a href="chuong_218.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_220.html" class="nav-btn">Chương sau →</a>

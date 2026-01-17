@@ -4,9 +4,6 @@ title: Chương 334: Nghiền nát (1)
 chapter_number: 334
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Chuyện đó thì có gì là không thể?”
-Đối mặt với sự kinh hãi của hắc y nhân, Lục Thanh nở một nụ cười nhạt.
-Hắn khẩy cổ tay, tùy ý ném chiếc trường cung trong...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -77,7 +74,8 @@ Dù vậy, hắc y nhân vẫn chưa chết.
 
 **Thông tin chương:**
 - Số chương: 334
-- Thời gian cập nhật: 2026-01-17 10:22:52
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-334](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-334)
+- Thời gian scrape: 2026-01-17 10:22:52
 
 <div class="chapter-nav">
     <a href="chuong_333.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_335.html" class="nav-btn">Chương sau →</a>

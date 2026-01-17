@@ -4,9 +4,6 @@ title: Chương 62: Gặp nạn trên núi
 chapter_number: 62
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh bước chậm rãi trên con đường làng vắng lặng.
-Bề ngoài cậu trông bình tĩnh, nhưng trong lòng lại dậy sóng.
-Mấy tên côn đồ bị cậu đánh gãy tay chân, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -158,7 +155,8 @@ Ta có cách rồi — có lẽ còn cứu được ngụy công tử!”
 
 **Thông tin chương:**
 - Số chương: 62
-- Thời gian cập nhật: 2026-01-17 10:10:08
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-62](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-62)
+- Thời gian scrape: 2026-01-17 10:10:08
 
 <div class="chapter-nav">
     <a href="chuong_61.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_63.html" class="nav-btn">Chương sau →</a>

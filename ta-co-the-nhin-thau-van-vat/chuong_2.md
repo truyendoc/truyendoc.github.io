@@ -4,8 +4,6 @@ title: Chương 2: Năng lực kỳ lạ
 chapter_number: 2
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ôi không, đừng bay mất!”
-Trong sân nhỏ, được bao quanh bởi hàng rào gỗ đơn sơ, cô bé Tiểu Nhan đang lon ton đuổi theo một con bướm, đôi chân ngắn chạy loạng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -89,7 +87,8 @@ Một cần câu đơn giản đã ra đời trong tay Lục Thanh.
 
 **Thông tin chương:**
 - Số chương: 2
-- Thời gian cập nhật: 2026-01-17 10:07:37
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-2](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-2)
+- Thời gian scrape: 2026-01-17 10:07:37
 
 <div class="chapter-nav">
     <a href="chuong_1.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_3.html" class="nav-btn">Chương sau →</a>

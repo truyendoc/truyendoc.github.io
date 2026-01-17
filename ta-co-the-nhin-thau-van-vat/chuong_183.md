@@ -4,8 +4,6 @@ title: Chương 183: Thánh sơn (2)
 chapter_number: 183
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trong cảnh giới Tiên Thiên, phong cách chiến đấu đã không còn giới hạn ở quyền cước hay đao kiếm giao phong đơn thuần.
-Chỉ một cái vung tay, có thể hóa ra ki...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -69,7 +67,8 @@ Thấy thế, thiếu niên áo vải nhẹ giọng nói:
 
 **Thông tin chương:**
 - Số chương: 183
-- Thời gian cập nhật: 2026-01-17 10:16:19
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-183](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-183)
+- Thời gian scrape: 2026-01-17 10:16:19
 
 <div class="chapter-nav">
     <a href="chuong_182.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_184.html" class="nav-btn">Chương sau →</a>

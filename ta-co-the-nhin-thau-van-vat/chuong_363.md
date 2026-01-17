@@ -4,9 +4,6 @@ title: Chương 363: Đại khí vận chi tử
 chapter_number: 363
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Quyết định gì vậy?” Lục Thanh hỏi với vẻ hiếu kỳ.
-Trần lão y cũng lộ ra dáng vẻ chăm chú lắng nghe.
-“Ba vị Thánh Sư mang lòng thương thế gian, để tránh việc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -50,7 +47,8 @@ Lục Thanh nghe vậy mới hiểu nguồn gốc ba chữ kia. Nhưng hắn v�
 
 **Thông tin chương:**
 - Số chương: 363
-- Thời gian cập nhật: 2026-01-17 10:24:09
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-363](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-363)
+- Thời gian scrape: 2026-01-17 10:24:09
 
 <div class="chapter-nav">
     <a href="chuong_362.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_364.html" class="nav-btn">Chương sau →</a>

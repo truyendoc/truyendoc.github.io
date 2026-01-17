@@ -4,10 +4,6 @@ title: Chương 168: Nhất Tức Côn Pháp
 chapter_number: 168
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Hự!”
-Nghe vậy, Tử An không thể trụ vững nữa, toàn thân run rẩy rồi ngã phịch xuống đất, thở hổn hển.
-Thấy thế, Mã Cố khẽ gật đầu hài lòng.
-Trong mấy ngày qu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -96,7 +92,8 @@ Sáng sớm hôm nọ, trong rừng trúc, thân thể hắn khẽ rung lên, á
 
 **Thông tin chương:**
 - Số chương: 168
-- Thời gian cập nhật: 2026-01-17 10:15:38
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-168](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-168)
+- Thời gian scrape: 2026-01-17 10:15:38
 
 <div class="chapter-nav">
     <a href="chuong_167.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_169.html" class="nav-btn">Chương sau →</a>

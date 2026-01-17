@@ -4,9 +4,6 @@ title: Chương 256: Tiêu diệt
 chapter_number: 256
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Đối mặt với cuộc tấn công của những người Thất Sát Lâu, Lục Thanh vẫn bình thản.
-Khi đòn tấn công sắp chạm vào mình, khí tức của hắn bỗng bùng nổ.
-Thân hình ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -88,7 +85,8 @@ Dù Trịnh gia có quyền lực lớn, thậm chí được một số tông m
 
 **Thông tin chương:**
 - Số chương: 256
-- Thời gian cập nhật: 2026-01-17 10:19:36
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-256](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-256)
+- Thời gian scrape: 2026-01-17 10:19:36
 
 <div class="chapter-nav">
     <a href="chuong_255.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_257.html" class="nav-btn">Chương sau →</a>

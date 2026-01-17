@@ -4,9 +4,6 @@ title: Chương 139: Dập đầu tạ ơn
 chapter_number: 139
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Mẫu thân, người tỉnh rồi sao?”
-Ngụy Công tử nghe thấy tiếng động thì mừng rỡ, vội chạy vào trong hang.
-Khi Lục Thanh và Mã Cố bước vào, họ thấy ngụy Công tử...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -76,7 +73,8 @@ Lục Thanh đã dùng một loại linh dược vô cùng trân quý để cứ
 
 **Thông tin chương:**
 - Số chương: 139
-- Thời gian cập nhật: 2026-01-17 10:14:17
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-139](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-139)
+- Thời gian scrape: 2026-01-17 10:14:17
 
 <div class="chapter-nav">
     <a href="chuong_138.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_140.html" class="nav-btn">Chương sau →</a>

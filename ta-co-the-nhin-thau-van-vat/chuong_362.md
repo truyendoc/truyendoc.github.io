@@ -4,8 +4,6 @@ title: Chương 362: Dấu hiệu hỗn loạn , cục diện Trung Châu (2)
 chapter_number: 362
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trong lòng Huyền Cơ Tử khẽ chấn động, bởi khi gặp phải tình huống như thế này, thường chỉ có hai khả năng.
-Một là Lục Thanh đã tu luyện loại Bí pháp đặc thù ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -108,7 +106,8 @@ Bằng không, sao có thể dễ dàng trấn áp các tông môn đang nóng l
 
 **Thông tin chương:**
 - Số chương: 362
-- Thời gian cập nhật: 2026-01-17 10:24:06
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-362](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-362)
+- Thời gian scrape: 2026-01-17 10:24:06
 
 <div class="chapter-nav">
     <a href="chuong_361.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_363.html" class="nav-btn">Chương sau →</a>

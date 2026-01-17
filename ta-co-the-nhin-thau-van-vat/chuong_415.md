@@ -4,9 +4,6 @@ title: Chương 415: Nhổ cỏ phải nhổ tận gốc (2)
 chapter_number: 415
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Bạn còn 8 lượt đọc trên website
-Tuy Huyền Sơn bị tình nghi lớn, nhưng vẫn không thể hoàn toàn khẳng định bọn họ chính là hung thủ.
-“Ta chỉ mong các người trư...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -116,7 +113,8 @@ Bên trong, trái tim của hắn… đã biến mất.
 
 **Thông tin chương:**
 - Số chương: 415
-- Thời gian cập nhật: 2026-01-17 10:26:44
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-415](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-415)
+- Thời gian scrape: 2026-01-17 10:26:44
 
 <div class="chapter-nav">
     <a href="chuong_414.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_416.html" class="nav-btn">Chương sau →</a>

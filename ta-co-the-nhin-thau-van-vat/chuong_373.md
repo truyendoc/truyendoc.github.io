@@ -4,9 +4,6 @@ title: Chương 373: Người mang đại khí vận
 chapter_number: 373
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Nghe được giọng nói vang lên trong đầu, Lục Thanh cũng không lấy làm bất ngờ.
-Hắn biết đó là sư phụ đang dùng Thần Hồn Cảm Ứng Thuật để truyền âm với hắn.
-Lo...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -78,7 +75,8 @@ Dù sao, những kẻ bị bỏ lại phía sau sẽ không thể đuổi kịp 
 
 **Thông tin chương:**
 - Số chương: 373
-- Thời gian cập nhật: 2026-01-17 10:24:38
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-373](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-373)
+- Thời gian scrape: 2026-01-17 10:24:38
 
 <div class="chapter-nav">
     <a href="chuong_372.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_374.html" class="nav-btn">Chương sau →</a>

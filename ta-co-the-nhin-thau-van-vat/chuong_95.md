@@ -4,8 +4,6 @@ title: Chương 95: Lý vĩ thiên
 chapter_number: 95
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ngọc giản truyền thừa này quả thật thần diệu… chỉ một phiến nhỏ như vậy mà có thể chứa đựng lượng thông tin khổng lồ thế này sao!”
-Đôi mắt Lục Thanh ánh lên...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -113,7 +111,8 @@ tinh thần cạn kiệt, ngồi hóa trong hang, vĩnh viễn dừng lại ở 
 
 **Thông tin chương:**
 - Số chương: 95
-- Thời gian cập nhật: 2026-01-17 10:12:09
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-95](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-95)
+- Thời gian scrape: 2026-01-17 10:12:09
 
 <div class="chapter-nav">
     <a href="chuong_94.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_96.html" class="nav-btn">Chương sau →</a>

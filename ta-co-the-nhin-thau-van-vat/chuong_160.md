@@ -4,9 +4,6 @@ title: Chương 160: Tiêu diệt toàn bộ
 chapter_number: 160
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đại ca!”
-Nhìn Hắc Lang dựa lưng vào gốc cây, ngồi sụp xuống với thân hình gục rũ, tất cả thành viên Hắc Lang Bang không khỏi hét lên thất thanh.
-Trong lòng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -114,7 +111,8 @@ Ngay lập tức, một thiếu niên y trắng Bảo Quạt bước ra.
 
 **Thông tin chương:**
 - Số chương: 160
-- Thời gian cập nhật: 2026-01-17 10:15:18
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-160](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-160)
+- Thời gian scrape: 2026-01-17 10:15:18
 
 <div class="chapter-nav">
     <a href="chuong_159.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_161.html" class="nav-btn">Chương sau →</a>

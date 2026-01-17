@@ -4,8 +4,6 @@ title: Chương 305: Đạo tâm
 chapter_number: 305
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “ Huyền nhi… thật sự đã chết rồi sao?”
-Một thân ảnh tỏa ra khí tức kinh nhân, trong tay cầm một khối Ngọc Bài đã vỡ nát, gương mặt tràn đầy chấn kinh lẫn phẫ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,7 +91,8 @@ Chính là nơi thân ảnh nhỏ bé kia từng đứng.
 
 **Thông tin chương:**
 - Số chương: 305
-- Thời gian cập nhật: 2026-01-17 10:21:38
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-305](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-305)
+- Thời gian scrape: 2026-01-17 10:21:38
 
 <div class="chapter-nav">
     <a href="chuong_304.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_306.html" class="nav-btn">Chương sau →</a>

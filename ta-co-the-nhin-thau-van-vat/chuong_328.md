@@ -4,9 +4,6 @@ title: Chương 328: Phá trận
 chapter_number: 328
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Kiếm giả bị hắc bào nhân dùng trường côn đánh bay, thân ảnh lảo đảo lùi hơn mười trượng mới miễn cưỡng đứng vững.
-Nhìn đối diện, sắc mặt hắn lộ vẻ khó tin:
-“...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,7 +79,8 @@ Ba mũi tiễn của Lục Thanh cùng Kiếm Khí của Trần lão y đồng l
 
 **Thông tin chương:**
 - Số chương: 328
-- Thời gian cập nhật: 2026-01-17 10:22:37
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-328](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-328)
+- Thời gian scrape: 2026-01-17 10:22:37
 
 <div class="chapter-nav">
     <a href="chuong_327.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_329.html" class="nav-btn">Chương sau →</a>

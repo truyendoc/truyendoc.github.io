@@ -4,8 +4,6 @@ title: Chương 368: Cửa Khẩu đầu tiên
 chapter_number: 368
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Tuy nhiên, điều này lại hợp ý Lục Thanh.
-Dù sao thì trên thân cỗ xe ngựa của bọn họ có khắc trận văn. Dù hiện tại hắn đã tạm thời đóng trận đi, nhưng nếu nhì...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -106,7 +104,8 @@ Hắn chỉ thu ánh mắt lại, tiếp tục bước tới, bế chặt Tiểu
 
 **Thông tin chương:**
 - Số chương: 368
-- Thời gian cập nhật: 2026-01-17 10:24:24
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-368](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-368)
+- Thời gian scrape: 2026-01-17 10:24:24
 
 <div class="chapter-nav">
     <a href="chuong_367.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_369.html" class="nav-btn">Chương sau →</a>

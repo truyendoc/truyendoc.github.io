@@ -4,8 +4,6 @@ title: Chương 393: Khẩn cầu của Hồ Trạch Chi (2)
 chapter_number: 393
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Để trơ mắt nhìn một thiếu nữ chết trước mặt mình, bọn họ đương nhiên không thể làm được, huống chi Hồ cô nương lại là người quen biết.
-Nhưng Lâm Chi Duệ cũng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -97,7 +95,8 @@ Nghe thấy cái tên ấy, không chỉ Trần lão y và Lục Thanh mà cả 
 
 **Thông tin chương:**
 - Số chương: 393
-- Thời gian cập nhật: 2026-01-17 10:25:37
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-393](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-393)
+- Thời gian scrape: 2026-01-17 10:25:37
 
 <div class="chapter-nav">
     <a href="chuong_392.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_394.html" class="nav-btn">Chương sau →</a>

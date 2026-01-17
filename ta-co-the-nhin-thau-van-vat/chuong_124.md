@@ -4,9 +4,6 @@ title: Chương 124: Mũi tên (3)
 chapter_number: 124
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: May mà phát bắn vừa rồi vẫn mang lại hiệu quả nhất định.
-Thấy Mã Cố bị bắn ngã xuống, trong lòng thiếu niên giáp da trào lên cảm giác thỏa mãn.
-“Thứ hèn hạ, ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,7 +76,8 @@ Một giọng nói kinh ngạc vang lên từ bên cạnh:
 
 **Thông tin chương:**
 - Số chương: 124
-- Thời gian cập nhật: 2026-01-17 10:13:33
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-124](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-124)
+- Thời gian scrape: 2026-01-17 10:13:33
 
 <div class="chapter-nav">
     <a href="chuong_123.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_125.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 119: Mã cố xui xẻo
 chapter_number: 119
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Mã Cố cảm thấy mình thật sự xui xẻo.
-Lúc này, hắn đang nằm rạp trong một hố đất giữa rừng, toàn thân dính đầy bùn, bên trên phủ kín lá khô.
-Nhìn từ bên ngoài...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -123,7 +120,8 @@ ta có việc… cần nhờ ngươi giúp!”
 
 **Thông tin chương:**
 - Số chương: 119
-- Thời gian cập nhật: 2026-01-17 10:13:20
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-119](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-119)
+- Thời gian scrape: 2026-01-17 10:13:20
 
 <div class="chapter-nav">
     <a href="chuong_118.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_120.html" class="nav-btn">Chương sau →</a>

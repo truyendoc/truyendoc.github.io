@@ -4,8 +4,6 @@ title: Chương 233: Ra Đi
 chapter_number: 233
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Lục đại phu, Trần lão y, thật sự các người định rời đi sao?”
-Trong phủ Ngụy, Ngụy Tử An nghe tin Lục Thanh cùng nhóm dự định ra đi liền vội chạy tới Hữu Trú...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,7 +79,8 @@ Trong phủ thành chủ, Nghiêm Xương hải nhìn hạ nhân đến báo cá
 
 **Thông tin chương:**
 - Số chương: 233
-- Thời gian cập nhật: 2026-01-17 10:18:33
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-233](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-233)
+- Thời gian scrape: 2026-01-17 10:18:33
 
 <div class="chapter-nav">
     <a href="chuong_232.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_234.html" class="nav-btn">Chương sau →</a>

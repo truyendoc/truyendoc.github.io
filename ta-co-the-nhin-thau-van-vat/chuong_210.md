@@ -4,9 +4,6 @@ title: Chương 210: Quang mang màu tím
 chapter_number: 210
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ánh sáng tím… sao có thể chứ!”
-Lục Thanh nhìn chằm chằm vào túi tiền cũ kỹ trong tay lão nhân, trong mắt tràn đầy vẻ kinh ngạc.
-Lúc này, trong tầm nhìn của ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,7 +77,8 @@ Dứt lời, hắn cùng lão nhân rời khỏi con phố, để lại đám đ
 
 **Thông tin chương:**
 - Số chương: 210
-- Thời gian cập nhật: 2026-01-17 10:17:29
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-210](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-210)
+- Thời gian scrape: 2026-01-17 10:17:29
 
 <div class="chapter-nav">
     <a href="chuong_209.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_211.html" class="nav-btn">Chương sau →</a>

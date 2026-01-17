@@ -4,9 +4,6 @@ title: Chương 420: Âm thanh đại đạo vang vọng mười tám lần
 chapter_number: 420
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “ Lục Công tử , đây là chuyện gì?”
-Hồ Trạch Chi cũng nghe thấy Thiên Địa Đạo Âm, lập tức quay đầu nhìn Lục Thanh.
-Bởi vì nàng cảm nhận được dao động mênh môn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +95,8 @@ Tất cả những ai nhìn thấy cảnh tượng này đều sững sờ.
 
 **Thông tin chương:**
 - Số chương: 420
-- Thời gian cập nhật: 2026-01-17 10:26:58
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-420](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-420)
+- Thời gian scrape: 2026-01-17 10:26:58
 
 <div class="chapter-nav">
     <a href="chuong_419.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_421.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 14: Tơ Tuyết Tằm Linh
 chapter_number: 14
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sau một lúc chăm chú quan sát, sợi chỉ trong hộp khẽ phát ra ánh đỏ nhạt.
-[Tơ Tuyết Tằm Linh: Tơ do linh trùng Tuyết Tằm nhả ra, độ bền cực cao.]
-[Không thấm...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -105,7 +102,8 @@ Lục Thanh bật cười, xoa đầu em gái:
 
 **Thông tin chương:**
 - Số chương: 14
-- Thời gian cập nhật: 2026-01-17 10:08:08
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-14](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-14)
+- Thời gian scrape: 2026-01-17 10:08:08
 
 <div class="chapter-nav">
     <a href="chuong_13.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_15.html" class="nav-btn">Chương sau →</a>

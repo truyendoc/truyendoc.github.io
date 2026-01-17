@@ -4,8 +4,6 @@ title: Chương 6: Lòng tốt của dân làng
 chapter_number: 6
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sau khi Lục Thanh trở về nhà, thấy đám nhóc con đang nhìn mình với ánh mắt háo hức, hắn không chần chừ mà bắt đầu chia cá ngay.
-Hắn hái hai tàu lá chuối sau ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -96,7 +94,8 @@ Mỡ gặp nhiệt liền xèo xèo tan chảy, lan ra khắp mặt đá, tỏa 
 
 **Thông tin chương:**
 - Số chương: 6
-- Thời gian cập nhật: 2026-01-17 10:07:47
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-6](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-6)
+- Thời gian scrape: 2026-01-17 10:07:47
 
 <div class="chapter-nav">
     <a href="chuong_5.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_7.html" class="nav-btn">Chương sau →</a>

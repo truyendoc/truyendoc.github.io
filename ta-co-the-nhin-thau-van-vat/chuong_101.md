@@ -4,9 +4,6 @@ title: Chương 101: Dược liệu quý và bí mật trong núi
 chapter_number: 101
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Anh về rồi!”
-Vừa bước vào Tiểu viện Bán Sơn, Lục Thanh liền thấy một bóng nhỏ lao thẳng từ trong sân ra, nhào ngay vào lòng hắn.
-Hắn mỉm cười, đưa tay đỡ lấ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -139,7 +136,8 @@ con đã tìm thấy một loại Linh Dịch kỳ diệu trong hang động.”
 
 **Thông tin chương:**
 - Số chương: 101
-- Thời gian cập nhật: 2026-01-17 10:12:26
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-101](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-101)
+- Thời gian scrape: 2026-01-17 10:12:26
 
 <div class="chapter-nav">
     <a href="chuong_100.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_102.html" class="nav-btn">Chương sau →</a>

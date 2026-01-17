@@ -4,9 +4,6 @@ title: Chương 140: Di chuyển trong đêm
 chapter_number: 140
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Có lẽ ta phải tìm cơ hội hỏi tử an xem Lục công tử đã cho ta loại linh dược gì, hiệu quả đúng là thần kỳ.
-Ngụy Phu nhân nghĩ thầm.
-“Mẫu thân, người có đói kh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,7 +83,8 @@ Dẫn họ qua một lối bí mật dưới sàn, vào mật thất đã chuẩ
 
 **Thông tin chương:**
 - Số chương: 140
-- Thời gian cập nhật: 2026-01-17 10:14:20
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-140](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-140)
+- Thời gian scrape: 2026-01-17 10:14:20
 
 <div class="chapter-nav">
     <a href="chuong_139.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_141.html" class="nav-btn">Chương sau →</a>

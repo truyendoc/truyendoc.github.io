@@ -4,9 +4,6 @@ title: Chương 242: Bầy Dị Ngư
 chapter_number: 242
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đó là cá chép huyết nguyệt sao?”
-Lục Thanh kinh ngạc nhìn bóng hình đỏ thẫm tuyệt đẹp đang treo trên lưỡi câu.
-Không ngờ lại chính là con Dị Ngư đầu tiên hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -113,7 +110,8 @@ Dù có lợi hại thế nào, trực giác chiến đấu của hắn làm sao
 
 **Thông tin chương:**
 - Số chương: 242
-- Thời gian cập nhật: 2026-01-17 10:18:59
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-242](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-242)
+- Thời gian scrape: 2026-01-17 10:18:59
 
 <div class="chapter-nav">
     <a href="chuong_241.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_243.html" class="nav-btn">Chương sau →</a>

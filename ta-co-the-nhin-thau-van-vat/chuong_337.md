@@ -4,8 +4,6 @@ title: Chương 337: Tâm người khó lường, Thánh Lệnh trở nên vô d
 chapter_number: 337
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Tiền bối cũng hiểu y thuật sao?” người đàn ông mang kiếm kinh ngạc hỏi.
-Với tu vi thâm sâu khó lường của vị lão y, y thuật mà ông nắm giữ ắt hẳn cũng phi ph...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,7 +98,8 @@ Thấy Lục Thanh im lặng, người mang kiếm do dự một lát rồi cấ
 
 **Thông tin chương:**
 - Số chương: 337
-- Thời gian cập nhật: 2026-01-17 10:22:59
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-337](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-337)
+- Thời gian scrape: 2026-01-17 10:22:59
 
 <div class="chapter-nav">
     <a href="chuong_336.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_338.html" class="nav-btn">Chương sau →</a>

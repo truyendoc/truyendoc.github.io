@@ -4,9 +4,6 @@ title: Chương 34: Một trăm lượng bạc
 chapter_number: 34
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Vừa bước vào phòng, Lục Thanh đã thấy một chiếc nồi sắt lớn, mới tinh, đặt ngay ngắn ở đó.
-Trần lão xoay người vào buồng trong, rồi mang ra một túi vải.
-“Đây...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -105,7 +102,8 @@ Mọi thứ… đều đã đổi khác.
 
 **Thông tin chương:**
 - Số chương: 34
-- Thời gian cập nhật: 2026-01-17 10:08:59
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-34](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-34)
+- Thời gian scrape: 2026-01-17 10:08:59
 
 <div class="chapter-nav">
     <a href="chuong_33.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_35.html" class="nav-btn">Chương sau →</a>

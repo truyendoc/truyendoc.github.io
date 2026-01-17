@@ -4,9 +4,6 @@ title: Chương 3: Cần câu và người phụ nữ hàng xóm
 chapter_number: 3
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Anh ơi, cái này là gì vậy?”
-Cô bé Tiểu Nhan nãy giờ vẫn ngồi yên quan sát, thấy Lục Thanh bận rộn suốt một lúc lâu, đến khi hắn hoàn thành thì tò mò hỏi.
-“C...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,7 +100,8 @@ Ngược lại, mấy đứa trẻ lớn trong làng lại hứng thú, tò mò 
 
 **Thông tin chương:**
 - Số chương: 3
-- Thời gian cập nhật: 2026-01-17 10:07:40
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-3](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-3)
+- Thời gian scrape: 2026-01-17 10:07:40
 
 <div class="chapter-nav">
     <a href="chuong_2.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_4.html" class="nav-btn">Chương sau →</a>

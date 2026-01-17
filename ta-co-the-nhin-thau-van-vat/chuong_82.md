@@ -4,9 +4,6 @@ title: Chương 82: Kết cục
 chapter_number: 82
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Thấy Lục Thanh chém rụng đầu một người chỉ bằng một nhát đao,
-rồi nhìn quanh — khắp mặt đất là xác người ngổn ngang, máu tràn thành dòng, đầu người lăn lóc,
-...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -119,7 +116,8 @@ mang theo thanh chiến đao trên vai, lặng lẽ rời khỏi Làng Hỉ Lạ
 
 **Thông tin chương:**
 - Số chương: 82
-- Thời gian cập nhật: 2026-01-17 10:11:33
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-82](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-82)
+- Thời gian scrape: 2026-01-17 10:11:33
 
 <div class="chapter-nav">
     <a href="chuong_81.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_83.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 392: Khẩn cầu của Hồ Trạch Chi
 chapter_number: 392
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Hồ Trạch Chi nhất thời hoang mang khi nghe cuộc đối thoại giữa Lâm Chi Duệ và Trần lão y.
-“Tại sao lại nói ta có hắc khí, còn phải gặp đại kiếp nạn?”
-Chẳng l...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -83,7 +80,8 @@ Nhưng hắn cũng hiểu tính tình Lục Thanh và Trần lão y…
 
 **Thông tin chương:**
 - Số chương: 392
-- Thời gian cập nhật: 2026-01-17 10:25:34
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-392](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-392)
+- Thời gian scrape: 2026-01-17 10:25:34
 
 <div class="chapter-nav">
     <a href="chuong_391.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_393.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 172: Đại chiến (2)
 chapter_number: 172
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Tại huyện Thương, phủ Ngụy.
-Phủ Ngụy từng oai danh lẫy lừng, người người kính sợ, nay đã biến thành một mảnh hỗn loạn, máu me loang lổ khắp nơi.
-Thi thể nằm ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -92,7 +89,8 @@ Phía sau hắn, hàng ngũ thị vệ nhanh chóng sắp xếp, chân khí tư�
 
 **Thông tin chương:**
 - Số chương: 172
-- Thời gian cập nhật: 2026-01-17 10:15:50
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-172](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-172)
+- Thời gian scrape: 2026-01-17 10:15:50
 
 <div class="chapter-nav">
     <a href="chuong_171.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_173.html" class="nav-btn">Chương sau →</a>

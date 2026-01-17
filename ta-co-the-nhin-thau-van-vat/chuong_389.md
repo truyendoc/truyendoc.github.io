@@ -4,8 +4,6 @@ title: Chương 389: Điềm báo tử kiếp (2)
 chapter_number: 389
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Khi đến gần Thánh Sơn, Lục Thanh cũng cảm thấy linh khí trong không gian xung quanh trở nên vô cùng nồng đậm.
-Chỉ mới đứng trong phạm vi ấy, cảnh giới của hắ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -105,7 +103,8 @@ Từ từ, nụ cười vui sướng hiện rõ trên mặt hắn.
 
 **Thông tin chương:**
 - Số chương: 389
-- Thời gian cập nhật: 2026-01-17 10:25:25
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-389](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-389)
+- Thời gian scrape: 2026-01-17 10:25:25
 
 <div class="chapter-nav">
     <a href="chuong_388.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_390.html" class="nav-btn">Chương sau →</a>

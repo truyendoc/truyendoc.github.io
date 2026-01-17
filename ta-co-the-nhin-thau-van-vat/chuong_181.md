@@ -4,8 +4,6 @@ title: Chương 181: Khách lạ đến thăm
 chapter_number: 181
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Phu nhân nói rất đúng.” – Lục Thanh khẽ gật đầu tán thưởng.
-Dù phu nhân họ Ngụy không hiểu biết sâu về võ đạo, nhưng có thể giữ được đầu óc tỉnh táo sau khi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -102,7 +100,8 @@ Vì vậy, ông thu lấy cánh rụng, phơi khô để pha trà.
 
 **Thông tin chương:**
 - Số chương: 181
-- Thời gian cập nhật: 2026-01-17 10:16:14
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-181](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-181)
+- Thời gian scrape: 2026-01-17 10:16:14
 
 <div class="chapter-nav">
     <a href="chuong_180.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_182.html" class="nav-btn">Chương sau →</a>

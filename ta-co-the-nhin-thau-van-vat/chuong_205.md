@@ -4,7 +4,6 @@ title: Chương 205: Liên tục chấn động
 chapter_number: 205
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Chư vị, không cần hoảng hốt. Vừa rồi tôi chỉ đang luyện quyền buổi sáng, nhân lúc lĩnh ngộ được một chút mà đột phá nhẹ thôi, không phải có địch nhân xâm nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,7 +74,8 @@ Một thiếu niên mười sáu tuổi, bước vào hậu thiên nội cảnh,
 
 **Thông tin chương:**
 - Số chương: 205
-- Thời gian cập nhật: 2026-01-17 10:17:15
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-205](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-205)
+- Thời gian scrape: 2026-01-17 10:17:15
 
 <div class="chapter-nav">
     <a href="chuong_204.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_206.html" class="nav-btn">Chương sau →</a>

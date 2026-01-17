@@ -4,8 +4,6 @@ title: Chương 194: Long tiềm bảng
 chapter_number: 194
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Nhưng khi nghe những lời ấy, sắc mặt của Vương Thương Dực càng trở nên khó coi hơn.
-Nếu để tên thiếu niên áo vải kia báo tin chi tiết trận chiến lên Thiên Cơ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,7 +91,8 @@ Ngay khoảnh khắc sau đó — một luồng áp lực kinh khủng thuộc c
 
 **Thông tin chương:**
 - Số chương: 194
-- Thời gian cập nhật: 2026-01-17 10:16:47
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-194](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-194)
+- Thời gian scrape: 2026-01-17 10:16:47
 
 <div class="chapter-nav">
     <a href="chuong_193.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_195.html" class="nav-btn">Chương sau →</a>

@@ -4,7 +4,6 @@ title: Chương 355: Tiểu Ly tỉnh lại, lại có thêm một thần thông
 chapter_number: 355
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “ Lục Thanh huynh, cỗ xe này sau khi được khắc trận pháp đúng là thần kỳ thật,” Mã Cố cảm thán khi bọn họ dừng nghỉ trong khu rừng lúc hoàng hôn. “Ta ước chừ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -72,7 +71,8 @@ Vừa thấy cá khô, mắt nó lập tức sáng lên, lao đến ôm cả ch�
 
 **Thông tin chương:**
 - Số chương: 355
-- Thời gian cập nhật: 2026-01-17 10:23:46
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-355](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-355)
+- Thời gian scrape: 2026-01-17 10:23:46
 
 <div class="chapter-nav">
     <a href="chuong_354.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_356.html" class="nav-btn">Chương sau →</a>

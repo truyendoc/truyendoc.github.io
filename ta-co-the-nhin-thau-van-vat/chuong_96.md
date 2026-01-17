@@ -4,9 +4,6 @@ title: Chương 96: Phù văn
 chapter_number: 96
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Đọc xong toàn bộ trải nghiệm của Lý Vĩ Thiên, Lục Thanh lại rơi vào trầm mặc.
-Hắn khẽ thở dài — vị tiền bối này quả thật vận mệnh quá nghiệt ngã.
-Nếu như thọ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -115,7 +112,8 @@ rồi quả quyết chọn “Học tập”.
 
 **Thông tin chương:**
 - Số chương: 96
-- Thời gian cập nhật: 2026-01-17 10:12:12
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-96](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-96)
+- Thời gian scrape: 2026-01-17 10:12:12
 
 <div class="chapter-nav">
     <a href="chuong_95.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_97.html" class="nav-btn">Chương sau →</a>

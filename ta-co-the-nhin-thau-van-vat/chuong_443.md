@@ -4,9 +4,6 @@ title: Chương 443: Liều Mạng Giao Chiến
 chapter_number: 443
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Tam Thánh cầm trường kiếm trong tay, khí thế toàn thân lập tức trở nên sắc bén hơn hẳn.
-Đối diện Chiến Đao của Lục Thanh, ông đột nhiên đâm kiếm ra.
-Theo một...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,7 +76,8 @@ Còn hiện tại, chỉ dựa vào thực lực bây giờ, muốn cản ta man
 
 **Thông tin chương:**
 - Số chương: 443
-- Thời gian cập nhật: 2026-01-17 10:28:06
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-443](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-443)
+- Thời gian scrape: 2026-01-17 10:28:06
 
 <div class="chapter-nav">
     <a href="chuong_442.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_444.html" class="nav-btn">Chương sau →</a>

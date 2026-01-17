@@ -4,9 +4,6 @@ title: Chương 455
 chapter_number: 455
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sáng sớm, Lục Thanh ngồi trong sân.
-Tay trái cầm một khối ngọc bài, tay phải cầm dao khắc, hắn đang cẩn thận chạm trổ.
-Một lúc sau, Hồ Trạch Chi với dáng vẻ ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,7 +97,8 @@ Dù sao đó cũng là một trong Tứ Đại Bí Địa, thế lực đã tồ
 
 **Thông tin chương:**
 - Số chương: 455
-- Thời gian cập nhật: 2026-01-17 10:28:41
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-455](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-455)
+- Thời gian scrape: 2026-01-17 10:28:41
 
 <div class="chapter-nav">
     <a href="chuong_454.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_456.html" class="nav-btn">Chương sau →</a>

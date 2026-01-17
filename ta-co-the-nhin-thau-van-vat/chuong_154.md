@@ -4,9 +4,6 @@ title: Chương 154: Câu cá (2)
 chapter_number: 154
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: ---
-Đáng tiếc, kể từ sau khi câu được hai con cá chạch vàng kia, hắn chưa từng bắt thêm được con Dị Ngư nào nữa.
-Trước đây, Lục Thanh vẫn nghĩ sông ngoài thô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -64,7 +61,8 @@ Cùng lúc đó, mắt Tiểu Ly tròn xoe, sáng rực lên.
 
 **Thông tin chương:**
 - Số chương: 154
-- Thời gian cập nhật: 2026-01-17 10:15:00
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-154](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-154)
+- Thời gian scrape: 2026-01-17 10:15:00
 
 <div class="chapter-nav">
     <a href="chuong_153.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_155.html" class="nav-btn">Chương sau →</a>

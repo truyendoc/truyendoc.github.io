@@ -4,9 +4,6 @@ title: Chương 105: Tiểu nhan
 chapter_number: 105
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Anh ơi, cái này là gì vậy?”
-Chiều hôm đó, tại nhà họ Lục, sau bữa cơm tối, Tiểu Nhan tò mò nhìn chiếc bình ngọc trong tay Lục Thanh.
-“Đồ ngon đấy, món tráng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -114,7 +111,8 @@ trước cả khi cô bé kịp khoe với hắn.
 
 **Thông tin chương:**
 - Số chương: 105
-- Thời gian cập nhật: 2026-01-17 10:12:37
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-105](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-105)
+- Thời gian scrape: 2026-01-17 10:12:37
 
 <div class="chapter-nav">
     <a href="chuong_104.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_106.html" class="nav-btn">Chương sau →</a>

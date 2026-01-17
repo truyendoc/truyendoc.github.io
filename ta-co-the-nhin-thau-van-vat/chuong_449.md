@@ -4,8 +4,6 @@ title: Chương 449: Hoá Giải Tai hoạ (2)
 chapter_number: 449
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lần này tại Thánh Thành, đã xảy ra quá nhiều chuyện.
-Bất kể là sự tồn tại của Nguyên Khí hay việc cường giả Ma đạo xuất hiện, ông đều phải nhanh chóng quay v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -115,7 +113,8 @@ Cùng lắm thì lại đi theo con đường của tiền nhân, trảm yêu tr
 
 **Thông tin chương:**
 - Số chương: 449
-- Thời gian cập nhật: 2026-01-17 10:28:22
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-449](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-449)
+- Thời gian scrape: 2026-01-17 10:28:22
 
 <div class="chapter-nav">
     <a href="chuong_448.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_450.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 391: Không thể suy đoán
 chapter_number: 391
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh nói nửa thật nửa giả.
-“Ý của tiểu hữu Lục Thanh là dị tượng thiên tượng mấy đêm trước sao?” Ánh mắt Lâm Chi Duệ hơi dao động.
-“Đúng vậy. Hai con ng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,7 +76,8 @@ Kết quả lại là thiên cơ bị che lấp, tuyệt nhiên không thể suy
 
 **Thông tin chương:**
 - Số chương: 391
-- Thời gian cập nhật: 2026-01-17 10:25:31
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-391](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-391)
+- Thời gian scrape: 2026-01-17 10:25:31
 
 <div class="chapter-nav">
     <a href="chuong_390.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_392.html" class="nav-btn">Chương sau →</a>

@@ -4,8 +4,6 @@ title: Chương 315: Đồng hành
 chapter_number: 315
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đúng vậy, hữu duyên gặp gỡ,” Trần lão y bước lên, hòa hoãn mở lời.
-“Nơi này vẫn còn chỗ. Ngôi miếu nhìn bên ngoài thì nhỏ, nhưng bên trong khá rộng. Nếu khô...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -103,7 +101,8 @@ Không bao lâu sau, mùi hương nồng đậm đã tỏa ra, dần dần lan k
 
 **Thông tin chương:**
 - Số chương: 315
-- Thời gian cập nhật: 2026-01-17 10:22:04
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-315](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-315)
+- Thời gian scrape: 2026-01-17 10:22:04
 
 <div class="chapter-nav">
     <a href="chuong_314.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_316.html" class="nav-btn">Chương sau →</a>

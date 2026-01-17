@@ -4,8 +4,6 @@ title: Chương 348: Đại Cơ Duyên (2)
 chapter_number: 348
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Xe ngựa vẫn lăn bánh đều đặn, thỉnh thoảng khẽ xóc vì mặt đường gập ghềnh.
-Sau một loạt trận chiến, sự mệt mỏi của Trần lão y cũng không hề nhỏ; ông hơi nhắm...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,7 +80,8 @@ Với tu vi của chúng ta, nếu bước ra, lập tức sẽ bị quy tắc m
 
 **Thông tin chương:**
 - Số chương: 348
-- Thời gian cập nhật: 2026-01-17 10:23:27
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-348](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-348)
+- Thời gian scrape: 2026-01-17 10:23:27
 
 <div class="chapter-nav">
     <a href="chuong_347.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_349.html" class="nav-btn">Chương sau →</a>

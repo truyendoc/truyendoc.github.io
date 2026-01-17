@@ -4,8 +4,6 @@ title: Chương 296: Khoảng thời gian an tĩnh
 chapter_number: 296
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Trần lão y, nói thẳng ra thì, ta và các đệ tử không phải đang du hành. Thực ra chúng ta đang bị truy sát…”
-Phương Đào liền nói hết mọi chuyện cho Trần lão y...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,7 +84,8 @@ Mà cách đó hàng trăm dặm, trong một hang đá tối tăm, một thân 
 
 **Thông tin chương:**
 - Số chương: 296
-- Thời gian cập nhật: 2026-01-17 10:21:16
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-296](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-296)
+- Thời gian scrape: 2026-01-17 10:21:16
 
 <div class="chapter-nav">
     <a href="chuong_295.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_297.html" class="nav-btn">Chương sau →</a>

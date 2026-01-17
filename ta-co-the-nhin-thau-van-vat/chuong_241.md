@@ -4,9 +4,6 @@ title: Chương 241: Thỏa Thuận Đạt Được
 chapter_number: 241
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Giao dịch gì?”
-Lão giả râu dài lập tức sinh cảnh giác trong lòng.
-Vị sư thúc này vốn có tính tình quái gở, kỳ dị vô thường, khiến người ta không thể đoán nổ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -91,7 +88,8 @@ Không bao lâu, một bóng cá tuyệt đẹp bị hắn giật lên không tr
 
 **Thông tin chương:**
 - Số chương: 241
-- Thời gian cập nhật: 2026-01-17 10:18:56
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-241](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-241)
+- Thời gian scrape: 2026-01-17 10:18:56
 
 <div class="chapter-nav">
     <a href="chuong_240.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_242.html" class="nav-btn">Chương sau →</a>

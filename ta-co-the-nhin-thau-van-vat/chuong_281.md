@@ -4,10 +4,6 @@ title: Chương 281: Càn quét báu vật
 chapter_number: 281
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Chuyện gì xảy ra vậy?”
-Đòn tập kích bất ngờ khiến tất cả mọi người trở tay không kịp.
-Không ai nhìn thấy luồng năng lượng mạnh mẽ kia phát ra từ đâu.
-Gia ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -85,7 +81,8 @@ Hắn tiến lên phía trước, một màn sáng hiện ra trong tay. Hắn qu
 
 **Thông tin chương:**
 - Số chương: 281
-- Thời gian cập nhật: 2026-01-17 10:20:38
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-281](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-281)
+- Thời gian scrape: 2026-01-17 10:20:38
 
 <div class="chapter-nav">
     <a href="chuong_280.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_282.html" class="nav-btn">Chương sau →</a>

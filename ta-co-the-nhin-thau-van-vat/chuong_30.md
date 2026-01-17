@@ -4,9 +4,6 @@ title: Chương 30: Tiếng động trong đêm
 chapter_number: 30
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Khi Lục Thanh dắt Tiểu Nhan trở về làng, thấy dân làng tụ tập dưới gốc cây to giữa sân đang nói chuyện rôm rả,
-mọi người đều nở nụ cười chào đón.
-“Lục Thanh ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -104,7 +101,8 @@ thì bỗng nghe thấy một tiếng động lạ vang lên từ bên ngoài.
 
 **Thông tin chương:**
 - Số chương: 30
-- Thời gian cập nhật: 2026-01-17 10:08:49
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-30](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-30)
+- Thời gian scrape: 2026-01-17 10:08:49
 
 <div class="chapter-nav">
     <a href="chuong_29.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_31.html" class="nav-btn">Chương sau →</a>

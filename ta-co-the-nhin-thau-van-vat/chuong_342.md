@@ -4,8 +4,6 @@ title: Chương 342: Diệt môn, tìm bảo
 chapter_number: 342
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Ầm!
-Bị một quyền đánh trúng ngực, quyền kình mãnh liệt bộc phát, ngực của Mặc Chấn sụp xuống hoàn toàn, thân thể hắn bị đánh bay ra ngoài không thể khống chế...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -71,7 +69,8 @@ Trước mắt hắn, Mặc Chấn đã biến thành một khối thịt nát k
 
 **Thông tin chương:**
 - Số chương: 342
-- Thời gian cập nhật: 2026-01-17 10:23:12
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-342](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-342)
+- Thời gian scrape: 2026-01-17 10:23:12
 
 <div class="chapter-nav">
     <a href="chuong_341.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_343.html" class="nav-btn">Chương sau →</a>

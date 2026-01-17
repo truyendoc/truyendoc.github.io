@@ -4,9 +4,6 @@ title: Chương 229: Sóng ngầm nổi lên
 chapter_number: 229
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Biến động chưa từng xuất hiện trong vạn năm là gì vậy?”
-Trong một tiểu viện, mấy đệ tử Thanh Vân Kiếm Các tụ lại, nhỏ giọng bàn luận.
-“Không rõ. Nhưng Thiên...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -107,7 +104,8 @@ Nghe vậy, sắc mặt Nghiêm xương Hải biến đổi dữ dội.
 
 **Thông tin chương:**
 - Số chương: 229
-- Thời gian cập nhật: 2026-01-17 10:18:21
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-229](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-229)
+- Thời gian scrape: 2026-01-17 10:18:21
 
 <div class="chapter-nav">
     <a href="chuong_228.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_230.html" class="nav-btn">Chương sau →</a>

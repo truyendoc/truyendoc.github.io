@@ -4,9 +4,6 @@ title: Chương 24: Cá Chép Huyết Nguyệt và giá trị trăm lượng b�
 chapter_number: 24
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ngay ngoài con sông sau thôn thôi ạ. Hôm qua, cháu với Tiểu Nhan ra câu thì tình cờ bắt được.”
-Lục Thanh trả lời.
-“Sau thôn mà cũng có cá Giáp Xanh sống lâu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -118,7 +115,8 @@ người giàu luôn có cách tiêu tiền khiến kẻ khác lặng người.
 
 **Thông tin chương:**
 - Số chương: 24
-- Thời gian cập nhật: 2026-01-17 10:08:34
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-24](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-24)
+- Thời gian scrape: 2026-01-17 10:08:34
 
 <div class="chapter-nav">
     <a href="chuong_23.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_25.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 200: Tiệc rượu
 chapter_number: 200
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Khi Trần lão y rút luồng kiếm khí ra khỏi kinh mạch của Ngụy Sơn Hải,
-Lục Thanh và Ngụy Tinh Hà đều trông thấy một cảnh tượng kỳ lạ.
-Trên đầu ngón tay của Tr...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,7 +81,8 @@ Nghe vậy, Trần lão y thoáng giật mình.
 
 **Thông tin chương:**
 - Số chương: 200
-- Thời gian cập nhật: 2026-01-17 10:17:02
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-200](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-200)
+- Thời gian scrape: 2026-01-17 10:17:02
 
 <div class="chapter-nav">
     <a href="chuong_199.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_201.html" class="nav-btn">Chương sau →</a>

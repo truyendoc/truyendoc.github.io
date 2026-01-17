@@ -4,7 +4,6 @@ title: Chương 47: Nhân sâm
 chapter_number: 47
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: [Luận Huyệt Đạo: Một cuốn sách ghi chép lượng lớn lý thuyết về các huyệt vị trên cơ thể con người.] [Đọc kỹ cuốn sách này có thể giúp hiểu rõ ràng và toàn di...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -97,7 +96,8 @@ Khi thấy rõ hàng chữ hiện lên, đôi mắt Lục Thanh lập tức mở
 
 **Thông tin chương:**
 - Số chương: 47
-- Thời gian cập nhật: 2026-01-17 10:09:31
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-47](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-47)
+- Thời gian scrape: 2026-01-17 10:09:31
 
 <div class="chapter-nav">
     <a href="chuong_46.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_48.html" class="nav-btn">Chương sau →</a>

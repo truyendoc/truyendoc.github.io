@@ -4,9 +4,6 @@ title: Chương 128: Cuộc chiến (3)
 chapter_number: 128
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Làm sao… có thể như vậy?!
-Thiếu niên mặc giáp da sững sờ đến tột độ.
-Rõ ràng hắn đã cảm nhận đao pháp của Lục Thanh là loại đường đao rộng, mạnh, thiên hướng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -111,7 +108,8 @@ Một tiếng gầm đau đớn, phẫn nộ nổ tung từ trên vách núi v�
 
 **Thông tin chương:**
 - Số chương: 128
-- Thời gian cập nhật: 2026-01-17 10:13:45
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-128](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-128)
+- Thời gian scrape: 2026-01-17 10:13:45
 
 <div class="chapter-nav">
     <a href="chuong_127.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_129.html" class="nav-btn">Chương sau →</a>

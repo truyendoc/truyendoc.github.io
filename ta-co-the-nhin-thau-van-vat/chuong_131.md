@@ -4,9 +4,6 @@ title: Chương 131: Tiểu ly ra tay (2)
 chapter_number: 131
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trong khoảnh khắc, hai bàn tay của hắn đã hoàn toàn vô dụng.
-Mồ hôi lạnh chảy khắp người đại hán trung niên, trái tim như bị nỗi sợ tột độ siết chặt.
-Hắn chư...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -94,7 +91,8 @@ Trái tim… đã biến mất.
 
 **Thông tin chương:**
 - Số chương: 131
-- Thời gian cập nhật: 2026-01-17 10:13:53
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-131](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-131)
+- Thời gian scrape: 2026-01-17 10:13:53
 
 <div class="chapter-nav">
     <a href="chuong_130.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_132.html" class="nav-btn">Chương sau →</a>

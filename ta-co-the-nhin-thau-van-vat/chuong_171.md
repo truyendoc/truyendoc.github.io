@@ -4,9 +4,6 @@ title: Chương 171: Đại chiến bắt đầu
 chapter_number: 171
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Hùng nhi, thế nào rồi, ngọc Hoa đã trở về chưa?”
-Trong một phủ đệ nào đó trong huyện thành, sắc mặt Vương Thương Dực âm trầm đến cực điểm.
-Hắn đã phái nhị đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -96,7 +93,8 @@ Cánh cổng lớn của phủ Ngụy nổ tung, văng thành từng mảnh vụ
 
 **Thông tin chương:**
 - Số chương: 171
-- Thời gian cập nhật: 2026-01-17 10:15:46
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-171](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-171)
+- Thời gian scrape: 2026-01-17 10:15:46
 
 <div class="chapter-nav">
     <a href="chuong_170.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_172.html" class="nav-btn">Chương sau →</a>

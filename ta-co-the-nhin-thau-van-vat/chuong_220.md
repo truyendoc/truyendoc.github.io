@@ -4,9 +4,6 @@ title: Chương 220: Thanh vân kiếm các
 chapter_number: 220
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Hạo Nhi trở về rồi sao?”
-Nghe được tin này, Ngụy Tinh Hà cũng hết sức kinh ngạc.
-“Không chỉ vậy, đại công tử còn mang theo mấy đồng môn cùng trở về, hơn nữa...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -95,7 +92,8 @@ Ngụy Tử Hạo lập tức rùng mình — hắn tuyệt đối không dám p
 
 **Thông tin chương:**
 - Số chương: 220
-- Thời gian cập nhật: 2026-01-17 10:17:55
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-220](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-220)
+- Thời gian scrape: 2026-01-17 10:17:55
 
 <div class="chapter-nav">
     <a href="chuong_219.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_221.html" class="nav-btn">Chương sau →</a>

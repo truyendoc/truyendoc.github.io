@@ -4,8 +4,6 @@ title: Chương 290: Thoát nạn trong gang tấc
 chapter_number: 290
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đây chính là thôn làng mà tiểu tử tên Lục Thanh trốn tránh sao?”
-“Một nơi tầm thường như thế, vậy mà có thể sinh ra một thiên tài tuyệt thế. Thiên Đạo khí v...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,7 +82,8 @@ Người dân lại càng không biết rằng họ vừa thoát khỏi một ki
 
 **Thông tin chương:**
 - Số chương: 290
-- Thời gian cập nhật: 2026-01-17 10:21:00
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-290](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-290)
+- Thời gian scrape: 2026-01-17 10:21:00
 
 <div class="chapter-nav">
     <a href="chuong_289.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_291.html" class="nav-btn">Chương sau →</a>

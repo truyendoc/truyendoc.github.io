@@ -4,8 +4,6 @@ title: Chương 451
 chapter_number: 451
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Thông thường, tu sĩ Phù Đạo có thể ngưng tụ phù lục ngay từ cảnh Hậu Thiên,
-nhưng muốn ngưng tụ Linh Khí Phù Lục thì nhất định phải chờ Thần Hồn Phù chuyển ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -116,7 +114,8 @@ Và phương pháp tu luyện chúng, cũng đã sẵn sàng hiện lên trong t
 
 **Thông tin chương:**
 - Số chương: 451
-- Thời gian cập nhật: 2026-01-17 10:28:29
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-451](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-451)
+- Thời gian scrape: 2026-01-17 10:28:29
 
 <div class="chapter-nav">
     <a href="chuong_450.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_452.html" class="nav-btn">Chương sau →</a>

@@ -4,8 +4,6 @@ title: Chương 222: Bữa tiệc
 chapter_number: 222
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sáng sớm hôm sau, ngụy phủ tràn ngập không khí hân hoan.
-Trong ngoài phủ đều treo đèn kết hoa, rực rỡ náo nhiệt. Ngay cả bọn người hầu, tỳ nữ cũng ai nấy mặt...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -75,7 +73,8 @@ Người bị hỏi thoáng lúng túng: “Ta… cũng không rõ, chỉ thấy
 
 **Thông tin chương:**
 - Số chương: 222
-- Thời gian cập nhật: 2026-01-17 10:18:01
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-222](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-222)
+- Thời gian scrape: 2026-01-17 10:18:01
 
 <div class="chapter-nav">
     <a href="chuong_221.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_223.html" class="nav-btn">Chương sau →</a>

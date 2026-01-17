@@ -4,8 +4,6 @@ title: Chương 457
 chapter_number: 457
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lâu chủ Thiên Cơ cầm ngọc bình trong tay, trên thân bình khắc đầy những phù văn huyền bí.
-Từ bên trong lờ mờ tỏa ra một luồng khí tức kỳ dị, hiển nhiên thứ đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -94,7 +92,8 @@ Ngay cả hai con Long Huyết Mã cũng trở nên bất an.
 
 **Thông tin chương:**
 - Số chương: 457
-- Thời gian cập nhật: 2026-01-17 10:28:47
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-457](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-457)
+- Thời gian scrape: 2026-01-17 10:28:47
 
 <div class="chapter-nav">
     <a href="chuong_456.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_458.html" class="nav-btn">Chương sau →</a>

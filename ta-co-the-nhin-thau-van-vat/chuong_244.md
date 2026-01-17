@@ -4,8 +4,6 @@ title: Chương 244: Trọng thương (2)
 chapter_number: 244
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Đối mặt với phản kích của “Ảnh”, Lục Thanh vẫn bình thản. Khi thanh đoản đao sắp đâm vào nắm đấm hắn, đột nhiên hắn hạ vai né lưỡi đao.
-Rồi hắn bật ngón tay,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +96,8 @@ Hắn còn mô tả rất chi tiết các cơ chế được bố trí ở đó.
 
 **Thông tin chương:**
 - Số chương: 244
-- Thời gian cập nhật: 2026-01-17 10:19:05
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-244](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-244)
+- Thời gian scrape: 2026-01-17 10:19:05
 
 <div class="chapter-nav">
     <a href="chuong_243.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_245.html" class="nav-btn">Chương sau →</a>

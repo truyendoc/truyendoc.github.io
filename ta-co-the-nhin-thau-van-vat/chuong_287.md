@@ -4,9 +4,6 @@ title: Chương 287: Dư chấn
 chapter_number: 287
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Trần lão y, vừa rồi là chuyện gì vậy?”
-Ngụy Sơn Hải kinh ngạc hỏi, mặt mũi tràn đầy chấn động.
-Vốn dĩ hai người đang ngồi dưới tán mai uống trà, thì bất ngờ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -74,7 +71,8 @@ Quả thật đã nhiều ngày rồi nó chưa được gặp Lục Thanh.
 
 **Thông tin chương:**
 - Số chương: 287
-- Thời gian cập nhật: 2026-01-17 10:20:53
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-287](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-287)
+- Thời gian scrape: 2026-01-17 10:20:53
 
 <div class="chapter-nav">
     <a href="chuong_286.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_288.html" class="nav-btn">Chương sau →</a>

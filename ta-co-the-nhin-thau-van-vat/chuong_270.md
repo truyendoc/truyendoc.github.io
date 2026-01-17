@@ -4,9 +4,6 @@ title: Chương 270: Viếng thăm
 chapter_number: 270
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Quả thật không tệ.”
-Nhìn cảnh nhộn nhịp trước mắt, xe ngựa tấp nập, Lục Thanh không khỏi thốt lên thêm một lần nữa.
-Nơi này thịnh vượng gấp mười lần so với ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -108,7 +105,8 @@ Với một chuyển động nhẹ của Tâm và Thần, một cây Cung dài x
 
 **Thông tin chương:**
 - Số chương: 270
-- Thời gian cập nhật: 2026-01-17 10:20:11
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-270](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-270)
+- Thời gian scrape: 2026-01-17 10:20:11
 
 <div class="chapter-nav">
     <a href="chuong_269.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_271.html" class="nav-btn">Chương sau →</a>

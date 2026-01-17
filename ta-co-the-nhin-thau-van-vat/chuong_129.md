@@ -4,8 +4,6 @@ title: Chương 129: Cuộc chiến (4)
 chapter_number: 129
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Thiếu niên mặc giáp da cuối cùng cũng bị Lục Thanh chém rơi đầu.
-Khi nhìn thấy cái đầu lăn trên không trung, trong lòng Mã Cố vừa chấn động vừa ngổn ngang cả...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -89,7 +87,8 @@ Hắn không ngờ Lục Thanh khống lực chính xác đến mức này, có 
 
 **Thông tin chương:**
 - Số chương: 129
-- Thời gian cập nhật: 2026-01-17 10:13:48
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-129](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-129)
+- Thời gian scrape: 2026-01-17 10:13:48
 
 <div class="chapter-nav">
     <a href="chuong_128.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_130.html" class="nav-btn">Chương sau →</a>

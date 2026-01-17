@@ -4,9 +4,6 @@ title: Chương 306: Vân châu
 chapter_number: 306
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Nhìn bóng lưng sư phụ rời đi, Lục Thanh hơi ngẩn người.
-Trước đó, vì sao hắn lại cố chấp tranh luận, ép đám đệ tử Lưu Vân Tông tự mình thú tội?
-Kỳ thực, khôn...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -81,7 +78,8 @@ Ba tông môn này đều có lão tổ Tiên Thiên tọa trấn.
 
 **Thông tin chương:**
 - Số chương: 306
-- Thời gian cập nhật: 2026-01-17 10:21:40
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-306](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-306)
+- Thời gian scrape: 2026-01-17 10:21:40
 
 <div class="chapter-nav">
     <a href="chuong_305.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_307.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 418: Sóng ngầm dâng lên , Đại đạo vang vọng
 chapter_number: 418
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Khi Lục Thanh đang xử lý chuyện của mình, tại một tòa kiến trúc hùng vĩ trong Thánh Thành.
-Một nhóm người mang theo khí tức cường đại đang tụ họp.
-Ở giữa họ,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -82,7 +79,8 @@ Chưa đợi Huyền Minh trả lời, vị tăng nhân cường tráng đã h�
 
 **Thông tin chương:**
 - Số chương: 418
-- Thời gian cập nhật: 2026-01-17 10:26:52
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-418](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-418)
+- Thời gian scrape: 2026-01-17 10:26:52
 
 <div class="chapter-nav">
     <a href="chuong_417.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_419.html" class="nav-btn">Chương sau →</a>

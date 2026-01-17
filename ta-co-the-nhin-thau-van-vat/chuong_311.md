@@ -4,9 +4,6 @@ title: Chương 311: Đối chiến (2)
 chapter_number: 311
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Vút!
-Mùi máu tanh lan trong không khí khi lưỡi đao dữ dội của Mã Cố chém đôi một con chiến mã cao lớn ngay tại eo!
-Giết ngựa trong một đao, Mã Cố không hề dừ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -108,7 +105,8 @@ Trên mặt Lục Thanh đột nhiên lộ ra vẻ kỳ lạ.
 
 **Thông tin chương:**
 - Số chương: 311
-- Thời gian cập nhật: 2026-01-17 10:21:53
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-311](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-311)
+- Thời gian scrape: 2026-01-17 10:21:53
 
 <div class="chapter-nav">
     <a href="chuong_310.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_312.html" class="nav-btn">Chương sau →</a>

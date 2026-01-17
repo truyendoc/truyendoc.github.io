@@ -4,8 +4,6 @@ title: Chương 116: Ngụy gia
 chapter_number: 116
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Nhờ Địa Mạch Linh Dịch tăng cường tiềm năng, Lục Thanh tin rằng việc vượt qua Mã Cố chỉ còn là vấn đề thời gian.
-Thậm chí ngay lúc này, nếu thật sự giao thủ,...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -168,7 +166,8 @@ nếu không… đừng trách chúng ta không nể mặt!”
 
 **Thông tin chương:**
 - Số chương: 116
-- Thời gian cập nhật: 2026-01-17 10:13:11
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-116](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-116)
+- Thời gian scrape: 2026-01-17 10:13:11
 
 <div class="chapter-nav">
     <a href="chuong_115.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_117.html" class="nav-btn">Chương sau →</a>

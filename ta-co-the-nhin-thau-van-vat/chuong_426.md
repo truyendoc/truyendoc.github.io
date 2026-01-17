@@ -4,9 +4,6 @@ title: Chương 426: Cơ duyên hay tai hoạ (2)
 chapter_number: 426
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Thân thể Vương Thương Dực co giật dữ dội, hơi thở vốn đã mong manh hoàn toàn tắt hẳn, khí tức sinh mệnh chậm rãi tiêu tán.
-“Sư phụ!”
-Triệu Hùng hai mắt như m...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -121,7 +118,8 @@ Ngay lúc ấy, trên người Trần lão y bỗng bộc phát một cỗ khí 
 
 **Thông tin chương:**
 - Số chương: 426
-- Thời gian cập nhật: 2026-01-17 10:27:17
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-426](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-426)
+- Thời gian scrape: 2026-01-17 10:27:17
 
 <div class="chapter-nav">
     <a href="chuong_425.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_427.html" class="nav-btn">Chương sau →</a>

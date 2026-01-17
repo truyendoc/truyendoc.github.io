@@ -4,8 +4,6 @@ title: Chương 338: Trừ ác
 chapter_number: 338
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Người mang kiếm trước đó đã chú ý đến trạng thái cái chết khác biệt rõ rệt của hai huynh đệ Mặc Hổ.
-Lão mũi ưng đã bị chém đầu chỉ với một nhát kiếm, trên th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -87,7 +85,8 @@ Lục Thanh hỏi: “Nhan tiền bối, sư phụ ta đã xong việc điều t
 
 **Thông tin chương:**
 - Số chương: 338
-- Thời gian cập nhật: 2026-01-17 10:23:02
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-338](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-338)
+- Thời gian scrape: 2026-01-17 10:23:02
 
 <div class="chapter-nav">
     <a href="chuong_337.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_339.html" class="nav-btn">Chương sau →</a>

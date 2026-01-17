@@ -4,8 +4,6 @@ title: Chương 209: Dạo phố
 chapter_number: 209
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trong lúc Lục Thanh kích hoạt Siêu năng lực, các cuốn sách trên kệ bắt đầu phát ra “Ánh sáng Siêu năng lực” tương ứng.
-Phần lớn sách tỏa ra ánh sáng trắng nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -114,7 +112,8 @@ Khi định thu hồi Siêu năng lực, ánh mắt hắn quét qua lão ông c�
 
 **Thông tin chương:**
 - Số chương: 209
-- Thời gian cập nhật: 2026-01-17 10:17:26
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-209](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-209)
+- Thời gian scrape: 2026-01-17 10:17:26
 
 <div class="chapter-nav">
     <a href="chuong_208.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_210.html" class="nav-btn">Chương sau →</a>

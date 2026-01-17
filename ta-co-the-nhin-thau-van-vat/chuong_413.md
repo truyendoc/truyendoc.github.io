@@ -4,8 +4,6 @@ title: Chương 413: Vô Gian Lâu
 chapter_number: 413
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Nếu có cơ hội, ta quả thực cần phải thăm dò một phen.”
-Tuy Lục Thanh sở hữu dị năng, nhưng đối với một nơi kỳ diệu có thể thần kỳ tăng cường ngộ tính như th...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -104,7 +102,8 @@ Lục Thanh không để ý đến ánh mắt ấy, trầm ngâm một lúc rồ
 
 **Thông tin chương:**
 - Số chương: 413
-- Thời gian cập nhật: 2026-01-17 10:26:38
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-413](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-413)
+- Thời gian scrape: 2026-01-17 10:26:38
 
 <div class="chapter-nav">
     <a href="chuong_412.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_414.html" class="nav-btn">Chương sau →</a>

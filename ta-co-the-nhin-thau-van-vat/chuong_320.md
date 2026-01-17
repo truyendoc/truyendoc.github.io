@@ -4,8 +4,6 @@ title: Chương 320: Đại Nguy
 chapter_number: 320
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Đợi đến khi Mã Cố và Ngụy Tử An xử lý xong đám sơn tặc còn sót lại, vị trung niên viên tráng cùng các đệ tử của ông ta mới từ từ lấy lại tinh thần.
-Nhìn sân ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -90,7 +88,8 @@ rõ ràng đã trải qua không ít trận sinh tử.
 
 **Thông tin chương:**
 - Số chương: 320
-- Thời gian cập nhật: 2026-01-17 10:22:17
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-320](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-320)
+- Thời gian scrape: 2026-01-17 10:22:17
 
 <div class="chapter-nav">
     <a href="chuong_319.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_321.html" class="nav-btn">Chương sau →</a>

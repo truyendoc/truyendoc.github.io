@@ -4,9 +4,6 @@ title: Chương 416: Kiểm Kê Thu Hoạch
 chapter_number: 416
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Chuyện này... sao có thể như vậy?”
-Bóng người kia khó tin nhìn lỗ thủng lớn trên ngực mình.
-Hắn không hề cảm nhận bất kỳ công kích nào, vậy tại sao tim lại ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,7 +81,8 @@ So với những người tu luyện chân chính đến Đại Thành, bọn ch
 
 **Thông tin chương:**
 - Số chương: 416
-- Thời gian cập nhật: 2026-01-17 10:26:46
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-416](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-416)
+- Thời gian scrape: 2026-01-17 10:26:46
 
 <div class="chapter-nav">
     <a href="chuong_415.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_417.html" class="nav-btn">Chương sau →</a>

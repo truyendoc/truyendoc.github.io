@@ -4,8 +4,6 @@ title: Chương 115: Đột phá
 chapter_number: 115
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Các võ giả trong thành cuối cùng đã hình thành thế giằng co với Ngụy phủ, điều này nằm ngoài dự liệu của Lục Thanh.
-Ban đầu hắn tưởng hai phe sẽ sớm giao chi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -119,7 +117,8 @@ sức mạnh của hắn sẽ sớm bước vào thời kỳ tăng tiến vượ
 
 **Thông tin chương:**
 - Số chương: 115
-- Thời gian cập nhật: 2026-01-17 10:13:08
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-115](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-115)
+- Thời gian scrape: 2026-01-17 10:13:08
 
 <div class="chapter-nav">
     <a href="chuong_114.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_116.html" class="nav-btn">Chương sau →</a>

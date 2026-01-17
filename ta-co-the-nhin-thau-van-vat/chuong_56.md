@@ -4,9 +4,6 @@ title: Chương 56: Luyện đao
 chapter_number: 56
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Đêm hôm đó, sau khi Tiểu Nhan đã ngủ say và con thú đen nhỏ cũng được cho ăn,
-Lục Thanh thắp đèn dầu, lấy ra bí tịch “Tứ Phương Đao”.
-Cần nói thêm rằng, tối ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -100,7 +97,8 @@ Cậu bật cười khẽ:
 
 **Thông tin chương:**
 - Số chương: 56
-- Thời gian cập nhật: 2026-01-17 10:09:53
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-56](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-56)
+- Thời gian scrape: 2026-01-17 10:09:53
 
 <div class="chapter-nav">
     <a href="chuong_55.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_57.html" class="nav-btn">Chương sau →</a>

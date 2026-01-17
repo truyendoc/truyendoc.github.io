@@ -4,8 +4,6 @@ title: Chương 121: Mã cố xui xẻo (3)
 chapter_number: 121
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Ngụy Phu nhân bị một nhát đao chém ngang thắt lưng khi họ phá vòng vây.
-Dù đã được rắc thuốc cầm máu sơ bộ, nhưng vì không có y sư chăm sóc kịp thời, đến khi...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,7 +77,8 @@ nuốt xuống.
 
 **Thông tin chương:**
 - Số chương: 121
-- Thời gian cập nhật: 2026-01-17 10:13:25
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-121](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-121)
+- Thời gian scrape: 2026-01-17 10:13:25
 
 <div class="chapter-nav">
     <a href="chuong_120.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_122.html" class="nav-btn">Chương sau →</a>

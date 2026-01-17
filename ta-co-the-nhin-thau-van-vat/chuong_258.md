@@ -4,8 +4,6 @@ title: Chương 258: Lá bài tẩy mới! Tổ tiên của Trịnh gia
 chapter_number: 258
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Khi Lục Thanh trở về thôn Cửu Lý, trời vẫn còn tối, bình minh vẫn chưa tới.
-Không ai biết rằng chỉ trong một đêm, hắn đã vượt hơn ngàn dặm, rồi tiêu diệt sạc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +96,8 @@ Câu hỏi như tiếng gầm từ cửu u, lạnh thấu xương.
 
 **Thông tin chương:**
 - Số chương: 258
-- Thời gian cập nhật: 2026-01-17 10:19:41
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-258](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-258)
+- Thời gian scrape: 2026-01-17 10:19:41
 
 <div class="chapter-nav">
     <a href="chuong_257.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_259.html" class="nav-btn">Chương sau →</a>

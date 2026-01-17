@@ -4,8 +4,6 @@ title: Chương 370: Chạm mặt bất ngờ
 chapter_number: 370
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Bởi vì không ai có thể chịu đựng được áp lực khó hiểu trong thung lũng khe núi quá lâu.
-Nếu ở lại quá lâu, e rằng đúng thật sẽ xảy ra vấn đề với tâm và thần....
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -106,7 +104,8 @@ Trên khuôn mặt xinh đẹp của thiếu nữ hiện lên vẻ hoang mang kh
 
 **Thông tin chương:**
 - Số chương: 370
-- Thời gian cập nhật: 2026-01-17 10:24:30
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-370](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-370)
+- Thời gian scrape: 2026-01-17 10:24:30
 
 <div class="chapter-nav">
     <a href="chuong_369.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_371.html" class="nav-btn">Chương sau →</a>

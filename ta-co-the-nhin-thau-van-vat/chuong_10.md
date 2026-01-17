@@ -4,9 +4,6 @@ title: Chương 10: Quyền pháp của Trần lão
 chapter_number: 10
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh đột nhiên nhận ra — có lẽ mình đã thật sự trọng sinh vào một thế giới có năng lực siêu nhiên.
-Trong lòng hắn vừa vui mừng, vừa kinh ngạc.
-Vui là vì...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -111,7 +108,8 @@ Lục Thanh cũng nhìn theo, chờ câu trả lời...
 
 **Thông tin chương:**
 - Số chương: 10
-- Thời gian cập nhật: 2026-01-17 10:07:57
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-10](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-10)
+- Thời gian scrape: 2026-01-17 10:07:57
 
 <div class="chapter-nav">
     <a href="chuong_9.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_11.html" class="nav-btn">Chương sau →</a>

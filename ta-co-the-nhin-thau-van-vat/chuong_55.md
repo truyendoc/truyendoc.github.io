@@ -4,9 +4,6 @@ title: Chương 55: Đao pháp
 chapter_number: 55
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Pháp tu luyện và kỹ chiến đấu?” — Lục Thanh ngạc nhiên hỏi.
-“Đúng vậy.” — Trần lão gật đầu.
-“Cái gọi là phương pháp tu luyện, hay còn gọi là thuật dưỡng, nh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -107,7 +104,8 @@ Nếu không có siêu năng lực, e rằng cậu chẳng thể khiến sư ph�
 
 **Thông tin chương:**
 - Số chương: 55
-- Thời gian cập nhật: 2026-01-17 10:09:51
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-55](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-55)
+- Thời gian scrape: 2026-01-17 10:09:51
 
 <div class="chapter-nav">
     <a href="chuong_54.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_56.html" class="nav-btn">Chương sau →</a>

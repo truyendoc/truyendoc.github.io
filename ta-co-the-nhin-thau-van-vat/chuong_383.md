@@ -4,9 +4,6 @@ title: Chương 383: Hoàng giả Chi Dịch, Nguyệt Quy tắc
 chapter_number: 383
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Về phần Tiểu Ly, đôi mắt nó mở to, chăm chú nhìn vào Ngọc Bình.
-“Ca ca, mùi này thơm quá.”
-Tiểu Nhan cũng nheo mắt lại đầy thích thú, vẻ mặt tràn ngập hưởng ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -125,7 +122,8 @@ Mơ hồ không biết khi nào, trong nửa tỉnh nửa mê, hắn dường nh
 
 **Thông tin chương:**
 - Số chương: 383
-- Thời gian cập nhật: 2026-01-17 10:25:07
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-383](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-383)
+- Thời gian scrape: 2026-01-17 10:25:07
 
 <div class="chapter-nav">
     <a href="chuong_382.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_384.html" class="nav-btn">Chương sau →</a>

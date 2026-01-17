@@ -4,8 +4,6 @@ title: Chương 230: Trở lại chúc tâm phường
 chapter_number: 230
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Lục công tử, ta đã tìm đủ toàn bộ dược liệu ngài yêu cầu rồi.” Ngụy tinh Hà ngày thứ ba sau lễ bái sư, với vẻ vô cùng vui mừng, đi tới nơi ở của Lục Thanh.
-...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +96,8 @@ Khi Lâm đại sư nhìn rõ vật kia, ông ngừng lại một chút, rồi h
 
 **Thông tin chương:**
 - Số chương: 230
-- Thời gian cập nhật: 2026-01-17 10:18:24
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-230](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-230)
+- Thời gian scrape: 2026-01-17 10:18:24
 
 <div class="chapter-nav">
     <a href="chuong_229.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_231.html" class="nav-btn">Chương sau →</a>

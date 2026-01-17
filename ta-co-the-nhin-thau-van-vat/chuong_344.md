@@ -4,9 +4,6 @@ title: Chương 344: Nhiều Bảo Vật Quá
 chapter_number: 344
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “ Tàng Bảo Các… đúng là tông phái lớn có khác, dám bày mấy thứ bảo vật lộ liễu thế này à?”
-Lục Thanh ngẩng đầu nhìn tòa lầu, khẽ lẩm bẩm.
-Tất nhiên, hắn cũng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -90,7 +87,8 @@ Sau đó, hắn tiếp tục nhìn đến những món còn lại…
 
 **Thông tin chương:**
 - Số chương: 344
-- Thời gian cập nhật: 2026-01-17 10:23:17
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-344](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-344)
+- Thời gian scrape: 2026-01-17 10:23:17
 
 <div class="chapter-nav">
     <a href="chuong_343.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_345.html" class="nav-btn">Chương sau →</a>

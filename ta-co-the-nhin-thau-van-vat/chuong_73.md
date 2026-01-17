@@ -4,10 +4,6 @@ title: Chương 73: Trừng phạt
 chapter_number: 73
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “A Thanh?!”
-Dân làng Cửu Lý đều tưởng rằng Đại An sắp bị tên mặt nốt ruồi kia tát cho nát mặt,
-nào ngờ giữa lúc ấy, có người bước ra chắn đòn.
-Điều khiến họ ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -119,7 +115,8 @@ Trong giây phút cuối cùng, hắn nghe giọng nói lạnh lẽo của Lục
 
 **Thông tin chương:**
 - Số chương: 73
-- Thời gian cập nhật: 2026-01-17 10:11:10
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-73](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-73)
+- Thời gian scrape: 2026-01-17 10:11:10
 
 <div class="chapter-nav">
     <a href="chuong_72.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_74.html" class="nav-btn">Chương sau →</a>

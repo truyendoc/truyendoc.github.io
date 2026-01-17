@@ -4,9 +4,6 @@ title: Chương 48: Nhân sâm (2)
 chapter_number: 48
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Nhân sâm trăm năm!
-Khi đọc xong dòng thông tin hiện lên trong tầm nhìn siêu năng, Lục Thanh không khỏi kinh hãi.
-Thì ra thứ rễ cây trong tay cậu chính là nhâ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -99,7 +96,8 @@ vậy... giá trị của nó là bao nhiêu ạ?”
 
 **Thông tin chương:**
 - Số chương: 48
-- Thời gian cập nhật: 2026-01-17 10:09:34
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-48](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-48)
+- Thời gian scrape: 2026-01-17 10:09:34
 
 <div class="chapter-nav">
     <a href="chuong_47.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_49.html" class="nav-btn">Chương sau →</a>

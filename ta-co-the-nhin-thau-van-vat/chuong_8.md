@@ -4,8 +4,6 @@ title: Chương 8: Trần lão
 chapter_number: 8
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trong đầu Lục Thanh hiện lên hình ảnh một ông lão gầy gò, hiền hậu — thầy y Trần lão.
-Ông là thầy thuốc duy nhất phụ trách mấy thôn quanh vùng. Tay nghề rất ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -88,7 +86,8 @@ Một chuyện như vậy, ngay cả thầy y Trần lão từng trải cả đ�
 
 **Thông tin chương:**
 - Số chương: 8
-- Thời gian cập nhật: 2026-01-17 10:07:53
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-8](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-8)
+- Thời gian scrape: 2026-01-17 10:07:53
 
 <div class="chapter-nav">
     <a href="chuong_7.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_9.html" class="nav-btn">Chương sau →</a>

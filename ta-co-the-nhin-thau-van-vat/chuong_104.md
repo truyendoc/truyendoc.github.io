@@ -4,9 +4,6 @@ title: Chương 104: Luyện thần quyết
 chapter_number: 104
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Bộ ‘Luyện Thần Quyết’ này, đệ tử xin dâng lên sư phụ.”
-Lục Thanh hai tay đưa bản công pháp Tiên Thiên vừa chép xong.
-Trần lão y đón lấy, ánh mắt trầm ngâm r...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -141,7 +138,8 @@ còn hắn thì nuôi sư phụ đắc đạo.
 
 **Thông tin chương:**
 - Số chương: 104
-- Thời gian cập nhật: 2026-01-17 10:12:35
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-104](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-104)
+- Thời gian scrape: 2026-01-17 10:12:35
 
 <div class="chapter-nav">
     <a href="chuong_103.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_105.html" class="nav-btn">Chương sau →</a>

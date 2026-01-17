@@ -4,8 +4,6 @@ title: Chương 453
 chapter_number: 453
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sau khi kiểm tra xong bình ngọc đen, Lục Thanh cầm lấy bình ngọc trắng để xem xét.
-Bình ngọc trắng cũng có cấm chế, nhưng do Huyền Minh đã chết, nên cấm chế ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -111,7 +109,8 @@ không ngừng rèn luyện và tinh luyện.
 
 **Thông tin chương:**
 - Số chương: 453
-- Thời gian cập nhật: 2026-01-17 10:28:36
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-453](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-453)
+- Thời gian scrape: 2026-01-17 10:28:36
 
 <div class="chapter-nav">
     <a href="chuong_452.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_454.html" class="nav-btn">Chương sau →</a>

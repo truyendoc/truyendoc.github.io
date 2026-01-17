@@ -4,10 +4,6 @@ title: Chương 26: Tải xuống Kinh Bách Thảo
 chapter_number: 26
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: [Có muốn tải xuống không?]
-Khi dòng chữ ấy hiện lên, Lục Thanh sững người.
-Rồi hắn khẽ mỉm cười.
-Đôi mắt kỳ dị kia của hắn, đúng là thích tạo bất ngờ vào nhữ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -135,7 +131,8 @@ rồi chậm rãi tỉnh táo,
 
 **Thông tin chương:**
 - Số chương: 26
-- Thời gian cập nhật: 2026-01-17 10:08:39
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-26](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-26)
+- Thời gian scrape: 2026-01-17 10:08:39
 
 <div class="chapter-nav">
     <a href="chuong_25.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_27.html" class="nav-btn">Chương sau →</a>

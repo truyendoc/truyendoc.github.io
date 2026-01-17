@@ -4,8 +4,6 @@ title: Chương 221: Trực giác của Ngụy tử hạo
 chapter_number: 221
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Con về đúng lúc lắm. Ngày mai là lễ bái sư của Tử An, với tư cách là ca ca, con có thể giúp đón tiếp khách khứa,” Ngụy Tinh Hà nói.
-“Phụ thân,” Ngụy Tử Hạo ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -80,7 +78,8 @@ Trong viện, Lục Thanh khép sách lại, cảm nhận được hai huynh đ�
 
 **Thông tin chương:**
 - Số chương: 221
-- Thời gian cập nhật: 2026-01-17 10:17:58
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-221](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-221)
+- Thời gian scrape: 2026-01-17 10:17:58
 
 <div class="chapter-nav">
     <a href="chuong_220.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_222.html" class="nav-btn">Chương sau →</a>

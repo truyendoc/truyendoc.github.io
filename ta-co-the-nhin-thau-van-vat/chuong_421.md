@@ -4,9 +4,6 @@ title: Chương 421: Cơ duyên kinh thiên
 chapter_number: 421
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đó là gì vậy?”
-Mọi người đều ngây người nhìn vào vòng xoáy trắng khổng lồ phía trên Thánh Sơn.
-Không chỉ vì vòng xoáy trắng to lớn đến mức kinh người, mà qu...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -102,7 +99,8 @@ Bởi vì mọi người đều phát hiện — có một phần luồng sáng 
 
 **Thông tin chương:**
 - Số chương: 421
-- Thời gian cập nhật: 2026-01-17 10:27:01
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-421](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-421)
+- Thời gian scrape: 2026-01-17 10:27:01
 
 <div class="chapter-nav">
     <a href="chuong_420.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_422.html" class="nav-btn">Chương sau →</a>

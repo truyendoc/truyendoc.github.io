@@ -4,9 +4,6 @@ title: Chương 251: Nhân sâm khai linh trí
 chapter_number: 251
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Với thực lực hiện tại của Lục Thanh, việc ra vào rừng núi đã trở nên vô cùng dễ dàng.
-Không mất bao lâu, thôn Cửu Lý đã vào tầm mắt.
-Vừa đặt chân vào thôn, h...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -117,7 +114,8 @@ A Thanh, củ sâm này phải được nuôi dưỡng thật tốt, sau này s�
 
 **Thông tin chương:**
 - Số chương: 251
-- Thời gian cập nhật: 2026-01-17 10:19:24
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-251](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-251)
+- Thời gian scrape: 2026-01-17 10:19:24
 
 <div class="chapter-nav">
     <a href="chuong_250.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_252.html" class="nav-btn">Chương sau →</a>

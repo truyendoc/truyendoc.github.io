@@ -4,9 +4,6 @@ title: Chương 22: Viên Thạch Ngư
 chapter_number: 22
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Viên Thạch Ngư trong cổ họng cá Giáp Xanh vẫn chưa được Lục Thanh lấy ra lúc Đại An còn ở đó.
-Không phải hắn keo kiệt hay giấu giếm,
-mà thật sự khó giải thíc...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -143,7 +140,8 @@ rơi nhẹ xuống sân,
 
 **Thông tin chương:**
 - Số chương: 22
-- Thời gian cập nhật: 2026-01-17 10:08:29
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-22](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-22)
+- Thời gian scrape: 2026-01-17 10:08:29
 
 <div class="chapter-nav">
     <a href="chuong_21.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_23.html" class="nav-btn">Chương sau →</a>

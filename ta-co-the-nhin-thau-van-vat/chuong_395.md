@@ -4,8 +4,6 @@ title: Chương 395: Thiên đăng thang , thập đại kiệt xuất Trung ch�
 chapter_number: 395
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Nghĩ nhiều tất tự hại thân, rất dễ làm tổn hao khí huyết. Trần lão y nhẹ giọng an ủi nàng.
-Lục Thanh cũng gật đầu, nói thêm rằng chỉ cần nàng không rời quá x...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -43,7 +41,8 @@ Bạch Bất Phàm thu Ngọc Phiến, nụ cười tan biến, thản nhiên đ
 
 **Thông tin chương:**
 - Số chương: 395
-- Thời gian cập nhật: 2026-01-17 10:25:43
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-395](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-395)
+- Thời gian scrape: 2026-01-17 10:25:43
 
 <div class="chapter-nav">
     <a href="chuong_394.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_396.html" class="nav-btn">Chương sau →</a>

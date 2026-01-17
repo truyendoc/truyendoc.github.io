@@ -4,9 +4,6 @@ title: Chương 323: Miệng lưỡi sắc bén
 chapter_number: 323
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Một đại hán vác búa lớn đập bàn, giận dữ đứng bật dậy.
-“Triệu tiền bối nói sai rồi.
-Lưu Vân Tông chúng ta xưa nay lấy nhiệt tình hiếu khách nổi danh, tuyệt k...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -124,7 +121,8 @@ Ngay cả Phó Điện Chủ Bách Hoa cung cũng kinh hãi, vội vàng cất t
 
 **Thông tin chương:**
 - Số chương: 323
-- Thời gian cập nhật: 2026-01-17 10:22:24
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-323](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-323)
+- Thời gian scrape: 2026-01-17 10:22:24
 
 <div class="chapter-nav">
     <a href="chuong_322.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_324.html" class="nav-btn">Chương sau →</a>

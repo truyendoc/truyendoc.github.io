@@ -4,8 +4,6 @@ title: Chương 263: Kỳ Tích Xuất Hiện
 chapter_number: 263
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sáng sớm hôm ấy, Lục Thanh dẫn Tiểu Nhan và Tiểu Ly đến Tiểu Viện Bán Sơn.
-Vừa đến nơi, hắn liền thấy Tổ Tông của Ngụy gia cũng đang ngồi đó, còn Trần lão y ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -93,7 +91,8 @@ Thấy Lục Thanh đã nghe lọt tai, Ngụy Sơn Hải tiếp tục kể:
 
 **Thông tin chương:**
 - Số chương: 263
-- Thời gian cập nhật: 2026-01-17 10:19:53
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-263](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-263)
+- Thời gian scrape: 2026-01-17 10:19:53
 
 <div class="chapter-nav">
     <a href="chuong_262.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_264.html" class="nav-btn">Chương sau →</a>

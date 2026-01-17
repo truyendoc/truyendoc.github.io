@@ -4,8 +4,6 @@ title: Chương 294: Nội tình
 chapter_number: 294
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Sư phụ, đệ tử thấy thương thế của Tiểu thư Phương Nhụy không hề đơn giản. Vết thương kia rõ ràng là vết đao 
-Hơn nữa, vị Phương Đào kia có tu vi thâm hậu, đ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -67,7 +65,8 @@ Vì Lục Thanh đổi gác nửa đêm, hắn cũng tiện dậy nấu bữa s�
 
 **Thông tin chương:**
 - Số chương: 294
-- Thời gian cập nhật: 2026-01-17 10:21:10
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-294](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-294)
+- Thời gian scrape: 2026-01-17 10:21:10
 
 <div class="chapter-nav">
     <a href="chuong_293.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_295.html" class="nav-btn">Chương sau →</a>

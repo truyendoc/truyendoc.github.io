@@ -4,8 +4,6 @@ title: Chương 97: Phù văn (2)
 chapter_number: 97
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Khi Lục Thanh chọn “Học tập”, một luồng thông tin và cảm ngộ cuồn cuộn lại tràn ngập trong đầu hắn.
-Và lần này, dòng tri thức ấy mạnh mẽ hơn hẳn những lần tr...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -119,7 +117,8 @@ lặng lẽ chờ đợi nó tỉnh lại.
 
 **Thông tin chương:**
 - Số chương: 97
-- Thời gian cập nhật: 2026-01-17 10:12:16
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-97](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-97)
+- Thời gian scrape: 2026-01-17 10:12:16
 
 <div class="chapter-nav">
     <a href="chuong_96.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_98.html" class="nav-btn">Chương sau →</a>

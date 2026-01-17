@@ -4,8 +4,6 @@ title: Chương 136: Cứu người (3)
 chapter_number: 136
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sau khi suy nghĩ một lúc, Lục Thanh bắt đầu tiến hành trị liệu cho ngụy phu nhân.
-Thấy sắc mặt đau đớn của ngụy phu nhân, hắn trước tiên dùng ngân châm châm ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -84,7 +82,8 @@ Ngụy Thiếu gia hỏi khẽ:
 
 **Thông tin chương:**
 - Số chương: 136
-- Thời gian cập nhật: 2026-01-17 10:14:09
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-136](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-136)
+- Thời gian scrape: 2026-01-17 10:14:09
 
 <div class="chapter-nav">
     <a href="chuong_135.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_137.html" class="nav-btn">Chương sau →</a>

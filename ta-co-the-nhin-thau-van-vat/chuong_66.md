@@ -4,10 +4,6 @@ title: Chương 66: Tỉnh lại
 chapter_number: 66
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Thiếu gia! Thiếu gia!”
-Tổng quản họ Ngụy thấy mí mắt Ngụy công tử khẽ động liền gọi khẽ.
-Cuối cùng, sau tiếng gọi ấy, Ngụy công tử từ từ mở mắt.
-Ban đầu ánh...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -129,7 +125,8 @@ Ngẩng đầu lên — trên xà nhà, một đôi mắt tròn sáng long lanh 
 
 **Thông tin chương:**
 - Số chương: 66
-- Thời gian cập nhật: 2026-01-17 10:10:26
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-66](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-66)
+- Thời gian scrape: 2026-01-17 10:10:26
 
 <div class="chapter-nav">
     <a href="chuong_65.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_67.html" class="nav-btn">Chương sau →</a>

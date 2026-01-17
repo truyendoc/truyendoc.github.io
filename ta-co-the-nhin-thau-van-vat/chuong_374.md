@@ -4,8 +4,6 @@ title: Chương 374: Người mang đại khí vận (2)
 chapter_number: 374
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sau khi cỗ xe bắt đầu lăn bánh, gần như không dừng lại lần nào; ngay cả bữa trưa bọn họ cũng ăn ngay trên xe.
-Do linh khí ở Trung Châu quá mức nồng đậm, lực ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -108,7 +106,8 @@ Trong khoảnh khắc, đầu óc Hồ Trạch Chi lại rối loạn hoàn toà
 
 **Thông tin chương:**
 - Số chương: 374
-- Thời gian cập nhật: 2026-01-17 10:24:42
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-374](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-374)
+- Thời gian scrape: 2026-01-17 10:24:42
 
 <div class="chapter-nav">
     <a href="chuong_373.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_375.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 332
 chapter_number: 332
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Không ổn!”
-Cảm nhận được sự sắc bén xuyên thấu của Kiếm Khí do Trần lão y phát ra, lão mũi ưng kinh hãi cực độ.
-Kiếm Khí đến quá nhanh, quá đột ngột, khiến ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -96,7 +93,8 @@ Chờ bắt được ngươi, ta sẽ tự tay chặt từng tay từng chân c�
 
 **Thông tin chương:**
 - Số chương: 332
-- Thời gian cập nhật: 2026-01-17 10:22:47
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-332](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-332)
+- Thời gian scrape: 2026-01-17 10:22:47
 
 <div class="chapter-nav">
     <a href="chuong_331.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_333.html" class="nav-btn">Chương sau →</a>

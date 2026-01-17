@@ -4,8 +4,6 @@ title: Chương 434: Cảnh giới Tiên Thiên (2)
 chapter_number: 434
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Bên ngoài Thiên Cơ Lâu, Huyền Minh hòa thượng và những người khác đã hoàn toàn sững sờ.
-“Chín đạo thiên lôi, đây đã là cực hạn mà Quy Tắc Thiên Địa hiện tại ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -115,7 +113,8 @@ Còn Huyền Nộ hòa thượng bên cạnh liền hét lớn:
 
 **Thông tin chương:**
 - Số chương: 434
-- Thời gian cập nhật: 2026-01-17 10:27:40
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-434](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-434)
+- Thời gian scrape: 2026-01-17 10:27:40
 
 <div class="chapter-nav">
     <a href="chuong_433.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_435.html" class="nav-btn">Chương sau →</a>

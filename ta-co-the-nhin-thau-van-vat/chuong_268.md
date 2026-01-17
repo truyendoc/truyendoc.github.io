@@ -4,8 +4,6 @@ title: Chương 268: Hơi Chiếm Thế Thượng Phong
 chapter_number: 268
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trong Vô Danh Cốc, Lục Thanh và Ngụy Sơn Hải đang giao thủ kịch liệt, thế trận khó phân cao thấp.
-Kiếm khí b*n r* tứ phía cùng sóng lực mạnh mẽ đã khắc lên l...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -86,7 +84,8 @@ Lý do thực sự khiến hắn mời Ngụy Sơn Hải luận võ chính là m
 
 **Thông tin chương:**
 - Số chương: 268
-- Thời gian cập nhật: 2026-01-17 10:20:05
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-268](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-268)
+- Thời gian scrape: 2026-01-17 10:20:05
 
 <div class="chapter-nav">
     <a href="chuong_267.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_269.html" class="nav-btn">Chương sau →</a>

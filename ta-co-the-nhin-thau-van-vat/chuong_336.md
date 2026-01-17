@@ -4,9 +4,6 @@ title: Chương 336: Tâm người khó lường, Thánh Lệnh trở nên vô d
 chapter_number: 336
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Sư huynh!”
-Khi thấy lão giả mũi ưng bị chém rơi đầu chỉ bằng một nhát kiếm, hắc y nhân lập tức hiện rõ vẻ kinh hoàng, thần hồn lực cuồn cuộn tán ra dữ dội.
-...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -79,7 +76,8 @@ Nếu không phải vậy, hắn đã chẳng chậm trễ lâu như thế ở q
 
 **Thông tin chương:**
 - Số chương: 336
-- Thời gian cập nhật: 2026-01-17 10:22:57
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-336](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-336)
+- Thời gian scrape: 2026-01-17 10:22:57
 
 <div class="chapter-nav">
     <a href="chuong_335.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_337.html" class="nav-btn">Chương sau →</a>

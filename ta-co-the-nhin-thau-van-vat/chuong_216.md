@@ -4,7 +4,6 @@ title: Chương 216: Rèn binh khí
 chapter_number: 216
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ngụy tổng quản đã nói, Lục công tử là thượng khách của Ngụy phủ, lại rất hứng thú với nghề đúc khí, nên muốn đến xem thử lò rèn giỏi nhất trong huyện. Vì vậ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +97,8 @@ Lâm sư phụ nhìn mà mắt càng lúc càng mở lớn, cuối cùng hoàn t
 
 **Thông tin chương:**
 - Số chương: 216
-- Thời gian cập nhật: 2026-01-17 10:17:44
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-216](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-216)
+- Thời gian scrape: 2026-01-17 10:17:44
 
 <div class="chapter-nav">
     <a href="chuong_215.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_217.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 86: Ngân giáp vệ
 chapter_number: 86
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Mã Cố? Là người chi nhánh của Mã gia suýt bị đuổi đi năm trước à?”
-Người đàn ông trung niên râu đen nhận lấy phong thư, vừa mở miệng hỏi.
-“Vâng, chính là ng...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -166,7 +163,8 @@ chỉ việc xông vào bắt người là xong.
 
 **Thông tin chương:**
 - Số chương: 86
-- Thời gian cập nhật: 2026-01-17 10:11:43
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-86](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-86)
+- Thời gian scrape: 2026-01-17 10:11:43
 
 <div class="chapter-nav">
     <a href="chuong_85.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_87.html" class="nav-btn">Chương sau →</a>

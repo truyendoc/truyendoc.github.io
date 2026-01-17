@@ -4,8 +4,6 @@ title: Chương 365: Đại Nhàn Kiếm
 chapter_number: 365
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Sư phụ, đệ tử không ngờ rằng chỉ vì linh khí khôi phục mà Trung Châu lại rối loạn đến mức này.
-Chẳng trách các châu khác đều xảy ra biến cố, vậy mà Thánh Sơ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -62,7 +60,8 @@ Người muốn luyện nó phải tự phế tu vi, tu lại căn cơ từ đ�
 
 **Thông tin chương:**
 - Số chương: 365
-- Thời gian cập nhật: 2026-01-17 10:24:15
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-365](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-365)
+- Thời gian scrape: 2026-01-17 10:24:15
 
 <div class="chapter-nav">
     <a href="chuong_364.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_366.html" class="nav-btn">Chương sau →</a>

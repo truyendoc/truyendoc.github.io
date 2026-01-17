@@ -4,8 +4,6 @@ title: Chương 271: Mũi tên xuyên thủng quan tài
 chapter_number: 271
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Lục Thanh đứng trên đỉnh tháp cao, nhẹ nhàng v**t v* bảo cung trong tay, giọng trầm thấp:
-“Bảo cung, theo ta đã gần hai năm… hôm nay rốt cuộc cũng đến lúc ch...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +96,8 @@ Lão thái gào lên đầy tuyệt vọng và cuồng nộ.
 
 **Thông tin chương:**
 - Số chương: 271
-- Thời gian cập nhật: 2026-01-17 10:20:13
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-271](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-271)
+- Thời gian scrape: 2026-01-17 10:20:13
 
 <div class="chapter-nav">
     <a href="chuong_270.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_272.html" class="nav-btn">Chương sau →</a>

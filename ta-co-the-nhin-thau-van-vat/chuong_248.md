@@ -4,10 +4,6 @@ title: Chương 248: Hai năm trôi qua
 chapter_number: 248
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Sâu trong núi lớn, tại thung lũng kỳ dị nơi Lý Vĩ Thiên được an táng,
-Lục Thanh cùng Tiểu Ly xuất hiện.
-“Đã nửa năm không đến, nơi này chẳng thay đổi gì.”
-Lụ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -97,7 +93,8 @@ Tâm – Thần của hắn bị dao động cuốn đi, chìm vào một trạn
 
 **Thông tin chương:**
 - Số chương: 248
-- Thời gian cập nhật: 2026-01-17 10:19:16
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-248](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-248)
+- Thời gian scrape: 2026-01-17 10:19:16
 
 <div class="chapter-nav">
     <a href="chuong_247.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_249.html" class="nav-btn">Chương sau →</a>

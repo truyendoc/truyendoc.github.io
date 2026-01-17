@@ -4,7 +4,6 @@ title: Chương 261: Cuồng Loạn (2)
 chapter_number: 261
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Trịnh lão thái biết tin liền hóa điên, lập tức đuổi theo kẻ sát nhân. Bà truy đuổi tên đó hơn ba trăm dặm, rồi dùng một chiêu liều mạng đồng quy vu tận, cuối...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -108,7 +107,8 @@ Cảm nhận sát khí bạo động cùng ánh mắt điên loạn kia, sắc m
 
 **Thông tin chương:**
 - Số chương: 261
-- Thời gian cập nhật: 2026-01-17 10:19:48
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-261](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-261)
+- Thời gian scrape: 2026-01-17 10:19:48
 
 <div class="chapter-nav">
     <a href="chuong_260.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_262.html" class="nav-btn">Chương sau →</a>

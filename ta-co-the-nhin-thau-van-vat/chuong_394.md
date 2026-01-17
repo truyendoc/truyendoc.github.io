@@ -4,7 +4,6 @@ title: Chương 394: Thiên đăng Thang , Thập đại kiệt xuất Trung Ch�
 chapter_number: 394
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Đối với Vương Thương Dực, Lục Thanh cùng mọi người tự nhiên đều ấn tượng rất sâu. Ngày đó, bọn họ từng hạ quyết tâm lớn mới dám đến huyện thành trợ giúp gia ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -37,7 +36,8 @@ Chỉ có Hồ Trạch Chi hơi do dự, nhớ tới vận số báo hiệu ki�
 
 **Thông tin chương:**
 - Số chương: 394
-- Thời gian cập nhật: 2026-01-17 10:25:40
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-394](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-394)
+- Thời gian scrape: 2026-01-17 10:25:40
 
 <div class="chapter-nav">
     <a href="chuong_393.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_395.html" class="nav-btn">Chương sau →</a>

@@ -4,9 +4,6 @@ title: Chương 69: Lễ vật
 chapter_number: 69
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Đa tạ Trần lão y đã tận tâm chăm sóc mấy ngày qua.”
-Trong tiểu viện Bán Sơn, Ngụy công tử được gia nhân đỡ đứng dậy, khẽ cúi người hành lễ cảm tạ.
-“Không cầ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -106,7 +103,8 @@ Tổng quản đi cuối, trước khi rời khỏi cổng viện còn quay lạ
 
 **Thông tin chương:**
 - Số chương: 69
-- Thời gian cập nhật: 2026-01-17 10:10:38
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-69](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-69)
+- Thời gian scrape: 2026-01-17 10:10:38
 
 <div class="chapter-nav">
     <a href="chuong_68.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_70.html" class="nav-btn">Chương sau →</a>

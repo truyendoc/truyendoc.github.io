@@ -4,8 +4,6 @@ title: Chương 117: Ngụy phủ (2)
 chapter_number: 117
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: “Ngụy Tinh Hà, kỳ hạn nửa tháng của ngươi đã đến rồi.”
-Giọng nói vang vọng trên không trung như sấm dậy, mang theo một luồng áp lực khủng khiếp — rõ ràng chỉ...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -98,7 +96,8 @@ Nếu ngươi rời đi, sức chiến đấu của chúng ta giảm phân nửa
 
 **Thông tin chương:**
 - Số chương: 117
-- Thời gian cập nhật: 2026-01-17 10:13:14
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-117](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-117)
+- Thời gian scrape: 2026-01-17 10:13:14
 
 <div class="chapter-nav">
     <a href="chuong_116.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_118.html" class="nav-btn">Chương sau →</a>

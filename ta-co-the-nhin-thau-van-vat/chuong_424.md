@@ -4,9 +4,6 @@ title: Chương 424: Nhát chém (2)
 chapter_number: 424
 story_title: TA CÓ THỂ NHÌN THẤU VẠN VẬT
 story_slug: ta-co-the-nhin-thau-van-vat
-description: Cả người hắn bị đánh bay ngược ra ngoài với tốc độ còn nhanh hơn lúc lao tới, trực tiếp va thẳng vào người phía sau.
-“Sư phụ!”
-Kẻ theo sát sau Vương Thương D...
 ---
 
 # TA CÓ THỂ NHÌN THẤU VẠN VẬT
@@ -105,7 +102,8 @@ Một giọng nói bỗng vang lên:
 
 **Thông tin chương:**
 - Số chương: 424
-- Thời gian cập nhật: 2026-01-17 10:27:11
+- URL gốc: [https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-424](https://truyenmoiz.org/ta-co-the-nhin-thau-van-vat/chuong-424)
+- Thời gian scrape: 2026-01-17 10:27:11
 
 <div class="chapter-nav">
     <a href="chuong_423.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_425.html" class="nav-btn">Chương sau →</a>
