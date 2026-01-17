@@ -1,6 +1,9 @@
-
-
-[← Chương 503](chuong_503.md) | [📚 Mục lục](README.md) | [Chương 505 →](chuong_505.md)
+---
+layout: default
+title: Chương 504: Phản đồ Trương Khiết xuất động
+chapter_number: 504
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Trương Khiết tiếp tục nói: "Tào Côn nghe xong, lúc ấy nhìn ta ch�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-504](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-504)
 - Thời gian scrape: 2026-01-13 22:09:39
 
-
-[← Chương 503](chuong_503.md) | [📚 Mục lục](README.md) | [Chương 505 →](chuong_505.md)
-
+<div class="chapter-nav">
+    <a href="chuong_503.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_505.html" class="nav-btn">Chương sau →</a>
+</div>

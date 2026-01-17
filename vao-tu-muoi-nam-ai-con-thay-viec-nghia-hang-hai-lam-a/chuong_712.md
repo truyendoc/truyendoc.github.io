@@ -1,6 +1,9 @@
-
-
-[← Chương 711](chuong_711.md) | [📚 Mục lục](README.md) | [Chương 713 →](chuong_713.md)
+---
+layout: default
+title: Chương 712: Bạch kiếm một cái ân cứu mạng
+chapter_number: 712
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Hắn ho khan một tiếng, than nhẹ nói: "Ngạch. . . Mộ Dung tiên sinh
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-712](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-712)
 - Thời gian scrape: 2026-01-13 22:21:36
 
-
-[← Chương 711](chuong_711.md) | [📚 Mục lục](README.md) | [Chương 713 →](chuong_713.md)
-
+<div class="chapter-nav">
+    <a href="chuong_711.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_713.html" class="nav-btn">Chương sau →</a>
+</div>

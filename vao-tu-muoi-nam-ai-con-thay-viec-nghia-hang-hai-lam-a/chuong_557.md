@@ -1,6 +1,9 @@
-
-
-[← Chương 556](chuong_556.md) | [📚 Mục lục](README.md) | [Chương 558 →](chuong_558.md)
+---
+layout: default
+title: Chương 557: Ta là thẳng nam
+chapter_number: 557
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Nhìn xem Trương Oánh phát tới cái tin tức này, Tào Côn miệng mộ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-557](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-557)
 - Thời gian scrape: 2026-01-13 22:12:39
 
-
-[← Chương 556](chuong_556.md) | [📚 Mục lục](README.md) | [Chương 558 →](chuong_558.md)
-
+<div class="chapter-nav">
+    <a href="chuong_556.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_558.html" class="nav-btn">Chương sau →</a>
+</div>

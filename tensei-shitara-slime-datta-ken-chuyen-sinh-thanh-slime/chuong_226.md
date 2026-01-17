@@ -1,6 +1,9 @@
-
-
-[← Chương 225](chuong_225.md) | [📚 Mục lục](README.md) | [Chương 227 →](chuong_227.md)
+---
+layout: default
+title: Chương 226
+chapter_number: 226
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -490,6 +493,6 @@ Và thế là, cuộc chiến lặng lẽ bắt đầu.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-226](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-226)
 - Thời gian scrape: 2026-01-17 09:48:26
 
-
-[← Chương 225](chuong_225.md) | [📚 Mục lục](README.md) | [Chương 227 →](chuong_227.md)
-
+<div class="chapter-nav">
+    <a href="chuong_225.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_227.html" class="nav-btn">Chương sau →</a>
+</div>

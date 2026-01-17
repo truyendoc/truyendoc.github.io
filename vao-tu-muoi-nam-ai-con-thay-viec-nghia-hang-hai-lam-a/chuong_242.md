@@ -1,6 +1,9 @@
-
-
-[← Chương 241](chuong_241.md) | [📚 Mục lục](README.md) | [Chương 243 →](chuong_243.md)
+---
+layout: default
+title: Chương 242: Ta muốn ngươi tám quốc công quán
+chapter_number: 242
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Tại Tào Côn trước mặt, hắn chính là một cái trong sạch ngườ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-242](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-242)
 - Thời gian scrape: 2026-01-13 21:54:13
 
-
-[← Chương 241](chuong_241.md) | [📚 Mục lục](README.md) | [Chương 243 →](chuong_243.md)
-
+<div class="chapter-nav">
+    <a href="chuong_241.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_243.html" class="nav-btn">Chương sau →</a>
+</div>

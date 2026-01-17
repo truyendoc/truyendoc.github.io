@@ -1,6 +1,9 @@
-
-
-[← Chương 586](chuong_586.md) | [📚 Mục lục](README.md) | [Chương 588 →](chuong_588.md)
+---
+layout: default
+title: Chương 587: Tiểu tử, ngươi tại làm khó ta trọc người nào đó
+chapter_number: 587
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Lão bản thật vất vả cho ta như thế một cái cơ hội biểu hiệ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-587](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-587)
 - Thời gian scrape: 2026-01-13 22:14:23
 
-
-[← Chương 586](chuong_586.md) | [📚 Mục lục](README.md) | [Chương 588 →](chuong_588.md)
-
+<div class="chapter-nav">
+    <a href="chuong_586.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_588.html" class="nav-btn">Chương sau →</a>
+</div>

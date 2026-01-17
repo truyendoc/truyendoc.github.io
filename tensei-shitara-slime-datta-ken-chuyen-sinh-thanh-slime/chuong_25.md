@@ -1,6 +1,9 @@
-
-
-[← Chương 24](chuong_24.md) | [📚 Mục lục](README.md) | [Chương 26 →](chuong_26.md)
+---
+layout: default
+title: Chương 25
+chapter_number: 25
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -582,6 +585,6 @@ Chú thích:
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-25](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-25)
 - Thời gian scrape: 2026-01-17 09:39:02
 
-
-[← Chương 24](chuong_24.md) | [📚 Mục lục](README.md) | [Chương 26 →](chuong_26.md)
-
+<div class="chapter-nav">
+    <a href="chuong_24.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_26.html" class="nav-btn">Chương sau →</a>
+</div>

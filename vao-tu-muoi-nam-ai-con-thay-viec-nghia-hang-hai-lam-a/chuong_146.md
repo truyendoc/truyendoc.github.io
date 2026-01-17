@@ -1,6 +1,9 @@
-
-
-[← Chương 145](chuong_145.md) | [📚 Mục lục](README.md) | [Chương 147 →](chuong_147.md)
+---
+layout: default
+title: Chương 146: Hảo huynh đệ sau cùng điên cuồng
+chapter_number: 146
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Mà Hải ca bên này cũng không làm phiền, trực tiếp cho hắn 20 v�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-146](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-146)
 - Thời gian scrape: 2026-01-13 21:48:07
 
-
-[← Chương 145](chuong_145.md) | [📚 Mục lục](README.md) | [Chương 147 →](chuong_147.md)
-
+<div class="chapter-nav">
+    <a href="chuong_145.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_147.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 154](chuong_154.md) | [📚 Mục lục](README.md) | [Chương 156 →](chuong_156.md)
+---
+layout: default
+title: Chương 155: Tôn Vĩ cha mẹ đến
+chapter_number: 155
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Mã lặc qua bích, điểm hơn bốn trăm khối tiền, gần năm trăm đ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-155](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-155)
 - Thời gian scrape: 2026-01-13 21:48:47
 
-
-[← Chương 154](chuong_154.md) | [📚 Mục lục](README.md) | [Chương 156 →](chuong_156.md)
-
+<div class="chapter-nav">
+    <a href="chuong_154.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_156.html" class="nav-btn">Chương sau →</a>
+</div>

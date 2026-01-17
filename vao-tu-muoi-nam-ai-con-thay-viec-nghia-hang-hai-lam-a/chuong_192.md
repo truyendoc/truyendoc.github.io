@@ -1,6 +1,9 @@
-
-
-[← Chương 191](chuong_191.md) | [📚 Mục lục](README.md) | [Chương 193 →](chuong_193.md)
+---
+layout: default
+title: Chương 192: Chu Lôi lão bà tới
+chapter_number: 192
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Hai đầu lớn họa cánh tay đặc biệt dễ thấy, xem xét lúc còn t
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-192](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-192)
 - Thời gian scrape: 2026-01-13 21:50:48
 
-
-[← Chương 191](chuong_191.md) | [📚 Mục lục](README.md) | [Chương 193 →](chuong_193.md)
-
+<div class="chapter-nav">
+    <a href="chuong_191.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_193.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 161](chuong_161.md) | [📚 Mục lục](README.md) | [Chương 163 →](chuong_163.md)
+---
+layout: default
+title: Chương 162: Nhỏ cái vị hôn phu ăn dấm
+chapter_number: 162
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Lầm bầm lầu bầu nói xong lời nói này, Tào Côn hừ phát vui vẻ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-162](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-162)
 - Thời gian scrape: 2026-01-13 21:49:10
 
-
-[← Chương 161](chuong_161.md) | [📚 Mục lục](README.md) | [Chương 163 →](chuong_163.md)
-
+<div class="chapter-nav">
+    <a href="chuong_161.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_163.html" class="nav-btn">Chương sau →</a>
+</div>

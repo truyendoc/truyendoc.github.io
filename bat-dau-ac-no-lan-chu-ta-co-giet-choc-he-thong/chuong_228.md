@@ -1,6 +1,9 @@
-
-
-[← Chương 227](chuong_227.md) | [📚 Mục lục](README.md) | [Chương 229 →](chuong_229.md)
+---
+layout: default
+title: Chương 228: Mạnh mời (1)
+chapter_number: 228
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -99,6 +102,6 @@ Rất nhanh, từng đạo mỹ vị món ngon được đưa vào bao sương.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-228](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-228)
 - Thời gian scrape: 2026-01-13 00:33:44
 
-
-[← Chương 227](chuong_227.md) | [📚 Mục lục](README.md) | [Chương 229 →](chuong_229.md)
-
+<div class="chapter-nav">
+    <a href="chuong_227.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_229.html" class="nav-btn">Chương sau →</a>
+</div>

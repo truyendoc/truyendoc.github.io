@@ -1,6 +1,9 @@
-
-
-[← Chương 84](chuong_84.md) | [📚 Mục lục](README.md) | [Chương 86 →](chuong_86.md)
+---
+layout: default
+title: Chương 85: tan tác
+chapter_number: 85
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -257,6 +260,6 @@ Hay là đem tin tức báo cáo đi lên, để trong giáo Nguyên Thần cao 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-85](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-85)
 - Thời gian scrape: 2026-01-13 00:27:27
 
-
-[← Chương 84](chuong_84.md) | [📚 Mục lục](README.md) | [Chương 86 →](chuong_86.md)
-
+<div class="chapter-nav">
+    <a href="chuong_84.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_86.html" class="nav-btn">Chương sau →</a>
+</div>

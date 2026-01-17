@@ -1,6 +1,9 @@
-
-
-[← Chương 335](chuong_335.md) | [📚 Mục lục](README.md) | [Chương 337 →](chuong_337.md)
+---
+layout: default
+title: Chương 336: Lần nữa nhảy lầu Bốc Hạnh Phúc
+chapter_number: 336
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -209,6 +212,6 @@ Mà về phần Tào Côn, rất lâu đều không có tới tám quốc công 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-336](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-336)
 - Thời gian scrape: 2026-01-13 21:59:48
 
-
-[← Chương 335](chuong_335.md) | [📚 Mục lục](README.md) | [Chương 337 →](chuong_337.md)
-
+<div class="chapter-nav">
+    <a href="chuong_335.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_337.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 41](chuong_41.md) | [📚 Mục lục](README.md) | [Chương 43 →](chuong_43.md)
+---
+layout: default
+title: Chương 42: Mẫu nữ ân đoạn nghĩa tuyệt
+chapter_number: 42
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Nói xong, Bạch Tĩnh một sạch sẽ lưu loát quay người, thở phì p
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-42](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-42)
 - Thời gian scrape: 2026-01-13 21:41:44
 
-
-[← Chương 41](chuong_41.md) | [📚 Mục lục](README.md) | [Chương 43 →](chuong_43.md)
-
+<div class="chapter-nav">
+    <a href="chuong_41.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_43.html" class="nav-btn">Chương sau →</a>
+</div>

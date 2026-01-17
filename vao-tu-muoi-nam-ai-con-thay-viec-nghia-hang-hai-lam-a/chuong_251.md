@@ -1,6 +1,9 @@
-
-
-[← Chương 250](chuong_250.md) | [📚 Mục lục](README.md) | [Chương 252 →](chuong_252.md)
+---
+layout: default
+title: Chương 251: Từ Kiều Kiều Mercedes-Benz G
+chapter_number: 251
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Cứ như vậy nói đi, đêm qua, hắn một tay nâng Mã Tiểu Vi, để 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-251](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-251)
 - Thời gian scrape: 2026-01-13 21:54:42
 
-
-[← Chương 250](chuong_250.md) | [📚 Mục lục](README.md) | [Chương 252 →](chuong_252.md)
-
+<div class="chapter-nav">
+    <a href="chuong_250.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_252.html" class="nav-btn">Chương sau →</a>
+</div>

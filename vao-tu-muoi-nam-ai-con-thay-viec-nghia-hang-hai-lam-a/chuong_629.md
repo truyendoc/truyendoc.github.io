@@ -1,6 +1,9 @@
-
-
-[← Chương 628](chuong_628.md) | [📚 Mục lục](README.md) | [Chương 630 →](chuong_630.md)
+---
+layout: default
+title: Chương 629: Chó nữ nhân yêu đương
+chapter_number: 629
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Theo Đoàn Minh câu nói này ra miệng, Vương San San nước mắt chảy
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-629](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-629)
 - Thời gian scrape: 2026-01-13 22:16:47
 
-
-[← Chương 628](chuong_628.md) | [📚 Mục lục](README.md) | [Chương 630 →](chuong_630.md)
-
+<div class="chapter-nav">
+    <a href="chuong_628.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_630.html" class="nav-btn">Chương sau →</a>
+</div>

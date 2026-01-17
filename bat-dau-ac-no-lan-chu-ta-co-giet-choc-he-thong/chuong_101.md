@@ -1,6 +1,9 @@
-
-
-[← Chương 100](chuong_100.md) | [📚 Mục lục](README.md) | [Chương 102 →](chuong_102.md)
+---
+layout: default
+title: Chương 101: cậu tới
+chapter_number: 101
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -213,6 +216,6 @@ Thế là, Thẩm Dục gật gật đầu: “Tốt mẫu thân, ta cái này p
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-101](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-101)
 - Thời gian scrape: 2026-01-13 00:28:13
 
-
-[← Chương 100](chuong_100.md) | [📚 Mục lục](README.md) | [Chương 102 →](chuong_102.md)
-
+<div class="chapter-nav">
+    <a href="chuong_100.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_102.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 71](chuong_71.md) | [📚 Mục lục](README.md) | [Chương 73 →](chuong_73.md)
+---
+layout: default
+title: Chương 72: Sàn đêm, Lưu đỏ
+chapter_number: 72
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Bất quá, đây là nói sau, tối thiểu cũng muốn ba năm sau mới có
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-72](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-72)
 - Thời gian scrape: 2026-01-13 21:43:24
 
-
-[← Chương 71](chuong_71.md) | [📚 Mục lục](README.md) | [Chương 73 →](chuong_73.md)
-
+<div class="chapter-nav">
+    <a href="chuong_71.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_73.html" class="nav-btn">Chương sau →</a>
+</div>

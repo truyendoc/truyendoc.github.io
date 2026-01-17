@@ -1,6 +1,9 @@
-
-
-[← Chương 168](chuong_168.md) | [📚 Mục lục](README.md) | [Chương 170 →](chuong_170.md)
+---
+layout: default
+title: Chương 169
+chapter_number: 169
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -378,6 +381,6 @@ Cận Vệ Hoàng Gia hạng 2: Damrada muốn tự mình kết liễu hắn.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-169](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-169)
 - Thời gian scrape: 2026-01-17 09:45:44
 
-
-[← Chương 168](chuong_168.md) | [📚 Mục lục](README.md) | [Chương 170 →](chuong_170.md)
-
+<div class="chapter-nav">
+    <a href="chuong_168.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_170.html" class="nav-btn">Chương sau →</a>
+</div>

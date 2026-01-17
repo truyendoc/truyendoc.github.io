@@ -1,6 +1,9 @@
-
-
-[← Chương 111](chuong_111.md) | [📚 Mục lục](README.md) | [Chương 113 →](chuong_113.md)
+---
+layout: default
+title: Chương 112
+chapter_number: 112
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -378,6 +381,6 @@ Và do đó, trận đấu thứ ba trong ngày, dù cho nó kết thúc với m
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-112](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-112)
 - Thời gian scrape: 2026-01-17 09:43:02
 
-
-[← Chương 111](chuong_111.md) | [📚 Mục lục](README.md) | [Chương 113 →](chuong_113.md)
-
+<div class="chapter-nav">
+    <a href="chuong_111.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_113.html" class="nav-btn">Chương sau →</a>
+</div>

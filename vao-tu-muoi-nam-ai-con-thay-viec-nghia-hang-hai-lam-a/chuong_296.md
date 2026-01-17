@@ -1,6 +1,9 @@
-
-
-[← Chương 295](chuong_295.md) | [📚 Mục lục](README.md) | [Chương 297 →](chuong_297.md)
+---
+layout: default
+title: Chương 296: Chết thảm cha, bị mạnh mẹ
+chapter_number: 296
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -145,6 +148,6 @@ Bất quá, gặp Lâm Thi Hàm cũng không có xen vào đánh gãy, chỉ là
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-296](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-296)
 - Thời gian scrape: 2026-01-13 21:57:28
 
-
-[← Chương 295](chuong_295.md) | [📚 Mục lục](README.md) | [Chương 297 →](chuong_297.md)
-
+<div class="chapter-nav">
+    <a href="chuong_295.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_297.html" class="nav-btn">Chương sau →</a>
+</div>

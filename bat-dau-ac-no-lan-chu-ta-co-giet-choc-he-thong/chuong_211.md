@@ -1,6 +1,9 @@
-
-
-[← Chương 210](chuong_210.md) | [📚 Mục lục](README.md) | [Chương 212 →](chuong_212.md)
+---
+layout: default
+title: Chương 211: lại gặp khí vận chi tử
+chapter_number: 211
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -211,6 +214,6 @@ Không nói trước song phương không oán không cừu, thứ yếu, đối
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-211](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-211)
 - Thời gian scrape: 2026-01-13 00:33:04
 
-
-[← Chương 210](chuong_210.md) | [📚 Mục lục](README.md) | [Chương 212 →](chuong_212.md)
-
+<div class="chapter-nav">
+    <a href="chuong_210.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_212.html" class="nav-btn">Chương sau →</a>
+</div>

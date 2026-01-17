@@ -1,6 +1,9 @@
-
-
-[← Chương 494](chuong_494.md) | [📚 Mục lục](README.md) | [Chương 496 →](chuong_496.md)
+---
+layout: default
+title: Chương 495: Chân ái là cái tâm cơ trà xanh biểu?
+chapter_number: 495
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -143,6 +146,6 @@ Hắn dùng sức cắn một chút răng nói: "Cho nên, nàng có một cái 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-495](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-495)
 - Thời gian scrape: 2026-01-13 22:09:08
 
-
-[← Chương 494](chuong_494.md) | [📚 Mục lục](README.md) | [Chương 496 →](chuong_496.md)
-
+<div class="chapter-nav">
+    <a href="chuong_494.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_496.html" class="nav-btn">Chương sau →</a>
+</div>

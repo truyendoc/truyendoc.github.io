@@ -1,6 +1,9 @@
-
-
-[← Chương 325](chuong_325.md) | [📚 Mục lục](README.md) | [Chương 327 →](chuong_327.md)
+---
+layout: default
+title: Chương 326: Hả? Có sát khí
+chapter_number: 326
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Quá hiếm có!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-326](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-326)
 - Thời gian scrape: 2026-01-13 21:59:14
 
-
-[← Chương 325](chuong_325.md) | [📚 Mục lục](README.md) | [Chương 327 →](chuong_327.md)
-
+<div class="chapter-nav">
+    <a href="chuong_325.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_327.html" class="nav-btn">Chương sau →</a>
+</div>

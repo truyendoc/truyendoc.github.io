@@ -1,6 +1,9 @@
-
-
-[← Chương 592](chuong_592.md) | [📚 Mục lục](README.md) | [Chương 594 →](chuong_594.md)
+---
+layout: default
+title: Chương 593: Trạm thứ hai, Lý Song Nhi
+chapter_number: 593
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -149,6 +152,6 @@ Cho nên, cái này trạm thứ hai, khẳng định phải vấn an Lý Song N
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-593](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-593)
 - Thời gian scrape: 2026-01-13 22:14:41
 
-
-[← Chương 592](chuong_592.md) | [📚 Mục lục](README.md) | [Chương 594 →](chuong_594.md)
-
+<div class="chapter-nav">
+    <a href="chuong_592.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_594.html" class="nav-btn">Chương sau →</a>
+</div>

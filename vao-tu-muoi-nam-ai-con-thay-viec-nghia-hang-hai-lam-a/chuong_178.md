@@ -1,6 +1,9 @@
-
-
-[← Chương 177](chuong_177.md) | [📚 Mục lục](README.md) | [Chương 179 →](chuong_179.md)
+---
+layout: default
+title: Chương 178: Sắp nhìn thấy Trình Dao Dao
+chapter_number: 178
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Trình Dao Dao đến cấp tính bệnh bạch huyết, là có thể bị tri�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-178](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-178)
 - Thời gian scrape: 2026-01-13 21:50:01
 
-
-[← Chương 177](chuong_177.md) | [📚 Mục lục](README.md) | [Chương 179 →](chuong_179.md)
-
+<div class="chapter-nav">
+    <a href="chuong_177.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_179.html" class="nav-btn">Chương sau →</a>
+</div>

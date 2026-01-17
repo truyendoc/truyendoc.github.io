@@ -1,6 +1,9 @@
-
-
-[← Chương 184](chuong_184.md) | [📚 Mục lục](README.md) | [Chương 186 →](chuong_186.md)
+---
+layout: default
+title: Chương 185: Tất cả đều là nữ cao quản
+chapter_number: 185
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -151,6 +154,6 @@ Huống hồ, lão bản còn còn trẻ như vậy suất khí, nhàn rỗi kh�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-185](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-185)
 - Thời gian scrape: 2026-01-13 21:50:25
 
-
-[← Chương 184](chuong_184.md) | [📚 Mục lục](README.md) | [Chương 186 →](chuong_186.md)
-
+<div class="chapter-nav">
+    <a href="chuong_184.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_186.html" class="nav-btn">Chương sau →</a>
+</div>

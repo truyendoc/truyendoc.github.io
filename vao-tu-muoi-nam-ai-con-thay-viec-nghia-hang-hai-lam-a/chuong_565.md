@@ -1,6 +1,9 @@
-
-
-[← Chương 564](chuong_564.md) | [📚 Mục lục](README.md) | [Chương 566 →](chuong_566.md)
+---
+layout: default
+title: Chương 565: Càng thêm quá phận Lý Tố Linh
+chapter_number: 565
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Tốt bao nhiêu huynh đệ a, khắp nơi vì chính mình suy nghĩ!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-565](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-565)
 - Thời gian scrape: 2026-01-13 22:13:08
 
-
-[← Chương 564](chuong_564.md) | [📚 Mục lục](README.md) | [Chương 566 →](chuong_566.md)
-
+<div class="chapter-nav">
+    <a href="chuong_564.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_566.html" class="nav-btn">Chương sau →</a>
+</div>

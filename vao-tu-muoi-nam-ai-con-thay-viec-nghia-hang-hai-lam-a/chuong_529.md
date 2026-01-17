@@ -1,6 +1,9 @@
-
-
-[← Chương 528](chuong_528.md) | [📚 Mục lục](README.md) | [Chương 530 →](chuong_530.md)
+---
+layout: default
+title: Chương 529: Thu mua toàn bộ Trương gia
+chapter_number: 529
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Dù là đối với mình vô dụng, cái này trở tay vừa ra tay, đều 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-529](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-529)
 - Thời gian scrape: 2026-01-13 22:11:05
 
-
-[← Chương 528](chuong_528.md) | [📚 Mục lục](README.md) | [Chương 530 →](chuong_530.md)
-
+<div class="chapter-nav">
+    <a href="chuong_528.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_530.html" class="nav-btn">Chương sau →</a>
+</div>

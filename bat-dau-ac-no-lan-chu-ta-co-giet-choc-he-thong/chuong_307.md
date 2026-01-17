@@ -1,6 +1,9 @@
-
-
-[← Chương 306](chuong_306.md) | [📚 Mục lục](README.md) | [Chương 308 →](chuong_308.md)
+---
+layout: default
+title: Chương 307: Tuyệt hậu mắc (2)
+chapter_number: 307
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -157,6 +160,6 @@ Lại góp nhặt một chút g·iết chóc dẫn ngươi, hẳn là liền có
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-307](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-307)
 - Thời gian scrape: 2026-01-13 00:22:49
 
-
-[← Chương 306](chuong_306.md) | [📚 Mục lục](README.md) | [Chương 308 →](chuong_308.md)
-
+<div class="chapter-nav">
+    <a href="chuong_306.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_308.html" class="nav-btn">Chương sau →</a>
+</div>

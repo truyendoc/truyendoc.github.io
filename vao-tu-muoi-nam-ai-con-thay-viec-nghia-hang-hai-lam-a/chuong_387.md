@@ -1,6 +1,9 @@
-
-
-[← Chương 386](chuong_386.md) | [📚 Mục lục](README.md) | [Chương 388 →](chuong_388.md)
+---
+layout: default
+title: Chương 387: Liễu Truyền Tâm bị trói
+chapter_number: 387
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -195,6 +198,6 @@ Chính là cái này bức!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-387](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-387)
 - Thời gian scrape: 2026-01-13 22:02:53
 
-
-[← Chương 386](chuong_386.md) | [📚 Mục lục](README.md) | [Chương 388 →](chuong_388.md)
-
+<div class="chapter-nav">
+    <a href="chuong_386.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_388.html" class="nav-btn">Chương sau →</a>
+</div>

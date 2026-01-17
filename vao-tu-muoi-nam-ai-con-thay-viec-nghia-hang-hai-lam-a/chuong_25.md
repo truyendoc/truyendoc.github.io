@@ -1,6 +1,9 @@
-
-
-[← Chương 24](chuong_24.md) | [📚 Mục lục](README.md) | [Chương 26 →](chuong_26.md)
+---
+layout: default
+title: Chương 25: Sắp gặp nạn hoàng mao
+chapter_number: 25
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Mà về phần mặt khác hai tên côn đồ, đã sớm không có ấn tư�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-25](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-25)
 - Thời gian scrape: 2026-01-13 21:40:45
 
-
-[← Chương 24](chuong_24.md) | [📚 Mục lục](README.md) | [Chương 26 →](chuong_26.md)
-
+<div class="chapter-nav">
+    <a href="chuong_24.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_26.html" class="nav-btn">Chương sau →</a>
+</div>

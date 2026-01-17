@@ -1,6 +1,9 @@
-
-
-[← Chương 498](chuong_498.md) | [📚 Mục lục](README.md) | [Chương 500 →](chuong_500.md)
+---
+layout: default
+title: Chương 499: Hữu tình người cuối cùng thành thân thuộc
+chapter_number: 499
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Bị Đoàn Minh như thế một trận nói, Khải thúc xấu hổ cúi đ�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-499](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-499)
 - Thời gian scrape: 2026-01-13 22:09:21
 
-
-[← Chương 498](chuong_498.md) | [📚 Mục lục](README.md) | [Chương 500 →](chuong_500.md)
-
+<div class="chapter-nav">
+    <a href="chuong_498.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_500.html" class="nav-btn">Chương sau →</a>
+</div>

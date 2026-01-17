@@ -1,6 +1,9 @@
-
-
-[← Chương 347](chuong_347.md) | [📚 Mục lục](README.md) | [Chương 349 →](chuong_349.md)
+---
+layout: default
+title: Chương 348: Nam Cương đạo quan viên thiện ý (1)
+chapter_number: 348
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -119,6 +122,6 @@ Bởi vậy, cho đến bây giờ, cả nước vượt qua Cửu Thành địa
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-348](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-348)
 - Thời gian scrape: 2026-01-13 00:24:26
 
-
-[← Chương 347](chuong_347.md) | [📚 Mục lục](README.md) | [Chương 349 →](chuong_349.md)
-
+<div class="chapter-nav">
+    <a href="chuong_347.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_349.html" class="nav-btn">Chương sau →</a>
+</div>

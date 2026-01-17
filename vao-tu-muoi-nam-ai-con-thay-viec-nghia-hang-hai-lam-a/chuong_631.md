@@ -1,6 +1,9 @@
-
-
-[← Chương 630](chuong_630.md) | [📚 Mục lục](README.md) | [Chương 632 →](chuong_632.md)
+---
+layout: default
+title: Chương 631: Dương Nhật Bố cùng Đích Lý Bá rồi
+chapter_number: 631
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Nhìn xem Khương Mẫn hiếu kì dáng vẻ, Tào Côn cười nói: "Trong v
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-631](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-631)
 - Thời gian scrape: 2026-01-13 22:16:55
 
-
-[← Chương 630](chuong_630.md) | [📚 Mục lục](README.md) | [Chương 632 →](chuong_632.md)
-
+<div class="chapter-nav">
+    <a href="chuong_630.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_632.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 599](chuong_599.md) | [📚 Mục lục](README.md) | [Chương 601 →](chuong_601.md)
+---
+layout: default
+title: Chương 600: Kiếp trước bạn cũ
+chapter_number: 600
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Tào Côn: ? ? ? ? ?
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-600](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-600)
 - Thời gian scrape: 2026-01-13 22:15:11
 
-
-[← Chương 599](chuong_599.md) | [📚 Mục lục](README.md) | [Chương 601 →](chuong_601.md)
-
+<div class="chapter-nav">
+    <a href="chuong_599.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_601.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 97](chuong_97.md) | [📚 Mục lục](README.md) | [Chương 99 →](chuong_99.md)
+---
+layout: default
+title: Chương 98: Thích nhất đối mỹ nữ phụ trách
+chapter_number: 98
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Chẳng lẽ, mình tại tam nữ trong mắt, ngoại trừ phương diện n�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-98](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-98)
 - Thời gian scrape: 2026-01-13 21:45:21
 
-
-[← Chương 97](chuong_97.md) | [📚 Mục lục](README.md) | [Chương 99 →](chuong_99.md)
-
+<div class="chapter-nav">
+    <a href="chuong_97.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_99.html" class="nav-btn">Chương sau →</a>
+</div>

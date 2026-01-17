@@ -1,6 +1,9 @@
-
-
-[← Chương 74](chuong_74.md) | [📚 Mục lục](README.md) | [Chương 76 →](chuong_76.md)
+---
+layout: default
+title: Chương 75: trang đầu bọn họ giấu bạc thủ đoạn
+chapter_number: 75
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -227,6 +230,6 @@ Trực tiếp đem đối phương chém g·iết, cũng đem Lưu Quả Phụ c
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-75](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-75)
 - Thời gian scrape: 2026-01-13 21:17:12
 
-
-[← Chương 74](chuong_74.md) | [📚 Mục lục](README.md) | [Chương 76 →](chuong_76.md)
-
+<div class="chapter-nav">
+    <a href="chuong_74.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_76.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 134](chuong_134.md) | [📚 Mục lục](README.md) | [Chương 136 →](chuong_136.md)
+---
+layout: default
+title: Chương 135
+chapter_number: 135
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -460,6 +463,6 @@ Khi Leon nghĩ về tương lai, hoàn toàn thiếu mất bóng dáng của th�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-135](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-135)
 - Thời gian scrape: 2026-01-17 09:44:08
 
-
-[← Chương 134](chuong_134.md) | [📚 Mục lục](README.md) | [Chương 136 →](chuong_136.md)
-
+<div class="chapter-nav">
+    <a href="chuong_134.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_136.html" class="nav-btn">Chương sau →</a>
+</div>

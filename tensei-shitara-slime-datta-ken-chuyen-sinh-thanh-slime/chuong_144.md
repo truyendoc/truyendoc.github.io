@@ -1,6 +1,9 @@
-
-
-[← Chương 143](chuong_143.md) | [📚 Mục lục](README.md) | [Chương 145 →](chuong_145.md)
+---
+layout: default
+title: Chương 144
+chapter_number: 144
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -442,6 +445,6 @@ Là hiện thân của sự Sợ hãi
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-144](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-144)
 - Thời gian scrape: 2026-01-17 09:44:34
 
-
-[← Chương 143](chuong_143.md) | [📚 Mục lục](README.md) | [Chương 145 →](chuong_145.md)
-
+<div class="chapter-nav">
+    <a href="chuong_143.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_145.html" class="nav-btn">Chương sau →</a>
+</div>

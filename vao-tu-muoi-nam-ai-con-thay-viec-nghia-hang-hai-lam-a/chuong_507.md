@@ -1,6 +1,9 @@
-
-
-[← Chương 506](chuong_506.md) | [📚 Mục lục](README.md) | [Chương 508 →](chuong_508.md)
+---
+layout: default
+title: Chương 507: Đem hắn lắc lư què
+chapter_number: 507
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -187,6 +190,6 @@ Mình đây là thật gặp được cao nhân rồi?
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-507](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-507)
 - Thời gian scrape: 2026-01-13 22:09:50
 
-
-[← Chương 506](chuong_506.md) | [📚 Mục lục](README.md) | [Chương 508 →](chuong_508.md)
-
+<div class="chapter-nav">
+    <a href="chuong_506.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_508.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 122](chuong_122.md) | [📚 Mục lục](README.md) | [Chương 124 →](chuong_124.md)
+---
+layout: default
+title: Chương 123: về vân thủy phủ
+chapter_number: 123
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -215,6 +218,6 @@ Mắt thấy Lâm Thiên Hữu do dự, nàng lại đề nghị, nàng cảm th
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-123](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-123)
 - Thời gian scrape: 2026-01-13 00:29:19
 
-
-[← Chương 122](chuong_122.md) | [📚 Mục lục](README.md) | [Chương 124 →](chuong_124.md)
-
+<div class="chapter-nav">
+    <a href="chuong_122.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_124.html" class="nav-btn">Chương sau →</a>
+</div>

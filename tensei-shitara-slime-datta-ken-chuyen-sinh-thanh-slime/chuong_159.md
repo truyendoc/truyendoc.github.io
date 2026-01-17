@@ -1,6 +1,9 @@
-
-
-[← Chương 158](chuong_158.md) | [📚 Mục lục](README.md) | [Chương 160 →](chuong_160.md)
+---
+layout: default
+title: Chương 159
+chapter_number: 159
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -406,6 +409,6 @@ Tổng số người sống sót, là 0.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-159](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-159)
 - Thời gian scrape: 2026-01-17 09:45:15
 
-
-[← Chương 158](chuong_158.md) | [📚 Mục lục](README.md) | [Chương 160 →](chuong_160.md)
-
+<div class="chapter-nav">
+    <a href="chuong_158.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_160.html" class="nav-btn">Chương sau →</a>
+</div>

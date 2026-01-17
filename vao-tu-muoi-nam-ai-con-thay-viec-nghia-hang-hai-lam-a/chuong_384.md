@@ -1,6 +1,9 @@
-
-
-[← Chương 383](chuong_383.md) | [📚 Mục lục](README.md) | [Chương 385 →](chuong_385.md)
+---
+layout: default
+title: Chương 384: Chủ động Phan Dĩnh
+chapter_number: 384
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Gửi đi một đầu pm.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-384](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-384)
 - Thời gian scrape: 2026-01-13 22:02:40
 
-
-[← Chương 383](chuong_383.md) | [📚 Mục lục](README.md) | [Chương 385 →](chuong_385.md)
-
+<div class="chapter-nav">
+    <a href="chuong_383.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_385.html" class="nav-btn">Chương sau →</a>
+</div>

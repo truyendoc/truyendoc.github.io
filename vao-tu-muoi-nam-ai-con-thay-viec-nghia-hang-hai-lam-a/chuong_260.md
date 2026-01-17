@@ -1,6 +1,9 @@
-
-
-[← Chương 259](chuong_259.md) | [📚 Mục lục](README.md) | [Chương 261 →](chuong_261.md)
+---
+layout: default
+title: Chương 260: Liễu gia hiệu ăn bạo tạc án cáo phá
+chapter_number: 260
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Tào Côn ngậm lấy điếu thuốc, cũng là cấp ra sát có việc kinh 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-260](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-260)
 - Thời gian scrape: 2026-01-13 21:55:13
 
-
-[← Chương 259](chuong_259.md) | [📚 Mục lục](README.md) | [Chương 261 →](chuong_261.md)
-
+<div class="chapter-nav">
+    <a href="chuong_259.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_261.html" class="nav-btn">Chương sau →</a>
+</div>

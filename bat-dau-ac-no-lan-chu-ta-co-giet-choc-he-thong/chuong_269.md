@@ -1,6 +1,9 @@
-
-
-[← Chương 268](chuong_268.md) | [📚 Mục lục](README.md) | [Chương 270 →](chuong_270.md)
+---
+layout: default
+title: Chương 269: Mới nhậm chức, ba không thể trêu chọc (2)
+chapter_number: 269
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -91,6 +94,6 @@ Từ đó sau, Mạnh Dương còn nhiều phiên nhằm vào chúng ta trấn y
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-269](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-269)
 - Thời gian scrape: 2026-01-13 00:35:23
 
-
-[← Chương 268](chuong_268.md) | [📚 Mục lục](README.md) | [Chương 270 →](chuong_270.md)
-
+<div class="chapter-nav">
+    <a href="chuong_268.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_270.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 441](chuong_441.md) | [📚 Mục lục](README.md) | [Chương 443 →](chuong_443.md)
+---
+layout: default
+title: Chương 442: Dương Tam Đao tang lễ
+chapter_number: 442
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Mộng ảo biệt thự cư xá, số tám trong biệt thự, Lam Khả Tâm l
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-442](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-442)
 - Thời gian scrape: 2026-01-13 22:05:57
 
-
-[← Chương 441](chuong_441.md) | [📚 Mục lục](README.md) | [Chương 443 →](chuong_443.md)
-
+<div class="chapter-nav">
+    <a href="chuong_441.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_443.html" class="nav-btn">Chương sau →</a>
+</div>

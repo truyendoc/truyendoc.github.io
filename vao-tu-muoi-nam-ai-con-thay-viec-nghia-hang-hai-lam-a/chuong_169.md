@@ -1,6 +1,9 @@
-
-
-[← Chương 168](chuong_168.md) | [📚 Mục lục](README.md) | [Chương 170 →](chuong_170.md)
+---
+layout: default
+title: Chương 169: Ngươi trấn không được quầy rượu
+chapter_number: 169
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Tào Côn tiếp tục nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-169](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-169)
 - Thời gian scrape: 2026-01-13 21:49:30
 
-
-[← Chương 168](chuong_168.md) | [📚 Mục lục](README.md) | [Chương 170 →](chuong_170.md)
-
+<div class="chapter-nav">
+    <a href="chuong_168.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_170.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 573](chuong_573.md) | [📚 Mục lục](README.md) | [Chương 575 →](chuong_575.md)
+---
+layout: default
+title: Chương 574: Cám ơn ngươi, anh hùng của ta
+chapter_number: 574
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Nghe vậy, Tào Côn cười ôm ngược ở Khương Mẫn, nói: "Đừng kh
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-574](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-574)
 - Thời gian scrape: 2026-01-13 22:13:38
 
-
-[← Chương 573](chuong_573.md) | [📚 Mục lục](README.md) | [Chương 575 →](chuong_575.md)
-
+<div class="chapter-nav">
+    <a href="chuong_573.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_575.html" class="nav-btn">Chương sau →</a>
+</div>

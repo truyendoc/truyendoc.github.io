@@ -1,6 +1,9 @@
-
-
-[← Chương 525](chuong_525.md) | [📚 Mục lục](README.md) | [Chương 527 →](chuong_527.md)
+---
+layout: default
+title: Chương 526: Cái thứ hai hảo huynh đệ
+chapter_number: 526
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Lưu Kim Thành nhanh chóng ghi lại Hạ huyện cùng phúc tinh châu báu 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-526](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-526)
 - Thời gian scrape: 2026-01-13 22:10:55
 
-
-[← Chương 525](chuong_525.md) | [📚 Mục lục](README.md) | [Chương 527 →](chuong_527.md)
-
+<div class="chapter-nav">
+    <a href="chuong_525.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_527.html" class="nav-btn">Chương sau →</a>
+</div>

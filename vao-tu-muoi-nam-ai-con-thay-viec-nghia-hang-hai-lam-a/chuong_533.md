@@ -1,6 +1,9 @@
-
-
-[← Chương 532](chuong_532.md) | [📚 Mục lục](README.md) | [Chương 534 →](chuong_534.md)
+---
+layout: default
+title: Chương 533: Lại tiếp một trận tang lễ sống
+chapter_number: 533
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Không có vấn đề a, việc này ta là chuyên nghiệp!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-533](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-533)
 - Thời gian scrape: 2026-01-13 22:11:20
 
-
-[← Chương 532](chuong_532.md) | [📚 Mục lục](README.md) | [Chương 534 →](chuong_534.md)
-
+<div class="chapter-nav">
+    <a href="chuong_532.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_534.html" class="nav-btn">Chương sau →</a>
+</div>

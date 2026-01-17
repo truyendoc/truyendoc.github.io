@@ -1,6 +1,9 @@
-
-
-[← Chương 192](chuong_192.md) | [📚 Mục lục](README.md) | [Chương 194 →](chuong_194.md)
+---
+layout: default
+title: Chương 193: Cả hai cùng có lợi? Không, ta muốn độc thắng!
+chapter_number: 193
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -211,6 +214,6 @@ Tào Côn mỉm cười nói: "Trong này ghi chép, đều là ngươi muốn m
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-193](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-193)
 - Thời gian scrape: 2026-01-13 21:50:51
 
-
-[← Chương 192](chuong_192.md) | [📚 Mục lục](README.md) | [Chương 194 →](chuong_194.md)
-
+<div class="chapter-nav">
+    <a href="chuong_192.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_194.html" class="nav-btn">Chương sau →</a>
+</div>

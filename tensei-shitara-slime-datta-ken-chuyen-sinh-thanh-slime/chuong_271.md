@@ -1,6 +1,9 @@
-
-
-[← Chương 270](chuong_270.md) | [📚 Mục lục](README.md) | [Chương 272 →](chuong_272.md)
+---
+layout: default
+title: Chương 271
+chapter_number: 271
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -470,6 +473,6 @@ Và khi các giáo viên đã chuẩn bị tinh thần, cuộc họp trong tư�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-271](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-271)
 - Thời gian scrape: 2026-01-17 09:50:39
 
-
-[← Chương 270](chuong_270.md) | [📚 Mục lục](README.md) | [Chương 272 →](chuong_272.md)
-
+<div class="chapter-nav">
+    <a href="chuong_270.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_272.html" class="nav-btn">Chương sau →</a>
+</div>

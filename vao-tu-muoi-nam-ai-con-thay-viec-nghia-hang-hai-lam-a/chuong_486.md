@@ -1,6 +1,9 @@
-
-
-[← Chương 485](chuong_485.md) | [📚 Mục lục](README.md) | [Chương 487 →](chuong_487.md)
+---
+layout: default
+title: Chương 486: Chúng ta là đứng đắn người làm ăn
+chapter_number: 486
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Thậm chí, hai bên mặt đều có chút khác biệt trình độ sưng.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-486](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-486)
 - Thời gian scrape: 2026-01-13 22:08:39
 
-
-[← Chương 485](chuong_485.md) | [📚 Mục lục](README.md) | [Chương 487 →](chuong_487.md)
-
+<div class="chapter-nav">
+    <a href="chuong_485.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_487.html" class="nav-btn">Chương sau →</a>
+</div>

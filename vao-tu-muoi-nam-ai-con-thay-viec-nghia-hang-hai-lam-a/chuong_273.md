@@ -1,6 +1,9 @@
-
-
-[← Chương 272](chuong_272.md) | [📚 Mục lục](README.md) | [Chương 274 →](chuong_274.md)
+---
+layout: default
+title: Chương 273: 12 năm trước từ con dân án
+chapter_number: 273
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Nói, Cẩu Nhất Vĩ đem trong túi hồ sơ văn kiện tư liệu, tất c�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-273](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-273)
 - Thời gian scrape: 2026-01-13 21:56:01
 
-
-[← Chương 272](chuong_272.md) | [📚 Mục lục](README.md) | [Chương 274 →](chuong_274.md)
-
+<div class="chapter-nav">
+    <a href="chuong_272.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_274.html" class="nav-btn">Chương sau →</a>
+</div>

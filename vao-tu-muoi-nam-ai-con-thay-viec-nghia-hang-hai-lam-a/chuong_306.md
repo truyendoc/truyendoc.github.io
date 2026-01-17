@@ -1,6 +1,9 @@
-
-
-[← Chương 305](chuong_305.md) | [📚 Mục lục](README.md) | [Chương 307 →](chuong_307.md)
+---
+layout: default
+title: Chương 306: Hai nữ nhân này, không thể động
+chapter_number: 306
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -139,6 +142,6 @@ Nói xong, Phương Tử Dương cười xông mộ bia khoát tay áo, sau đó
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-306](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-306)
 - Thời gian scrape: 2026-01-13 21:58:03
 
-
-[← Chương 305](chuong_305.md) | [📚 Mục lục](README.md) | [Chương 307 →](chuong_307.md)
-
+<div class="chapter-nav">
+    <a href="chuong_305.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_307.html" class="nav-btn">Chương sau →</a>
+</div>

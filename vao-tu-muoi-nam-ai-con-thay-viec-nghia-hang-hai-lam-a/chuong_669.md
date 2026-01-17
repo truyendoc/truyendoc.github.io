@@ -1,6 +1,9 @@
-
-
-[← Chương 668](chuong_668.md) | [📚 Mục lục](README.md) | [Chương 670 →](chuong_670.md)
+---
+layout: default
+title: Chương 669: Ngươi thật đúng là cái tốt lão bản
+chapter_number: 669
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Dương Ngọc Đình nhìn xem Tào Côn con mắt, đột nhiên cười một
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-669](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-669)
 - Thời gian scrape: 2026-01-13 22:19:09
 
-
-[← Chương 668](chuong_668.md) | [📚 Mục lục](README.md) | [Chương 670 →](chuong_670.md)
-
+<div class="chapter-nav">
+    <a href="chuong_668.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_670.html" class="nav-btn">Chương sau →</a>
+</div>

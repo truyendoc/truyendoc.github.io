@@ -1,6 +1,9 @@
-
-
-[← Chương 693](chuong_693.md) | [📚 Mục lục](README.md) | [Chương 695 →](chuong_695.md)
+---
+layout: default
+title: Chương 694: Mã Vũ Thiến tính tiền
+chapter_number: 694
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Mike nghe xong, không hề nghĩ ngợi, nói thẳng:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-694](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-694)
 - Thời gian scrape: 2026-01-13 22:20:38
 
-
-[← Chương 693](chuong_693.md) | [📚 Mục lục](README.md) | [Chương 695 →](chuong_695.md)
-
+<div class="chapter-nav">
+    <a href="chuong_693.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_695.html" class="nav-btn">Chương sau →</a>
+</div>

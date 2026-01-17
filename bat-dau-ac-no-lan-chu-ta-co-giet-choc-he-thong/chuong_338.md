@@ -1,6 +1,9 @@
-
-
-[← Chương 337](chuong_337.md) | [📚 Mục lục](README.md) | [Chương 339 →](chuong_339.md)
+---
+layout: default
+title: Chương 338: Nếu không ngươi đi vào chờ lâu mấy năm (1)
+chapter_number: 338
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -117,6 +120,6 @@ Mắt thấy uống đến không sai biệt lắm.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-338](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-338)
 - Thời gian scrape: 2026-01-13 00:24:03
 
-
-[← Chương 337](chuong_337.md) | [📚 Mục lục](README.md) | [Chương 339 →](chuong_339.md)
-
+<div class="chapter-nav">
+    <a href="chuong_337.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_339.html" class="nav-btn">Chương sau →</a>
+</div>

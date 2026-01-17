@@ -1,6 +1,9 @@
-
-
-[← Chương 612](chuong_612.md) | [📚 Mục lục](README.md) | [Chương 614 →](chuong_614.md)
+---
+layout: default
+title: Chương 613: Bọn hắn khả năng vẫn luôn tại
+chapter_number: 613
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Coi là Tào Côn là đến muốn kết quả, Ngốc Cẩu vội vàng báo c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-613](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-613)
 - Thời gian scrape: 2026-01-13 22:15:52
 
-
-[← Chương 612](chuong_612.md) | [📚 Mục lục](README.md) | [Chương 614 →](chuong_614.md)
-
+<div class="chapter-nav">
+    <a href="chuong_612.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_614.html" class="nav-btn">Chương sau →</a>
+</div>

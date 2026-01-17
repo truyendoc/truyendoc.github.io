@@ -1,6 +1,9 @@
-
-
-[← Chương 715](chuong_715.md) | [📚 Mục lục](README.md) | [Chương 717 →](chuong_717.md)
+---
+layout: default
+title: Chương 716: Chân chính cao nhân
+chapter_number: 716
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Cái này sóng máu kiếm nha!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-716](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-716)
 - Thời gian scrape: 2026-01-13 22:21:50
 
-
-[← Chương 715](chuong_715.md) | [📚 Mục lục](README.md) | [Chương 717 →](chuong_717.md)
-
+<div class="chapter-nav">
+    <a href="chuong_715.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_717.html" class="nav-btn">Chương sau →</a>
+</div>

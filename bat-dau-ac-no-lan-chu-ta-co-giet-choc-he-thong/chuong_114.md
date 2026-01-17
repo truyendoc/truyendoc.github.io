@@ -1,6 +1,9 @@
-
-
-[← Chương 113](chuong_113.md) | [📚 Mục lục](README.md) | [Chương 115 →](chuong_115.md)
+---
+layout: default
+title: Chương 114: nhiệm vụ tới
+chapter_number: 114
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -221,6 +224,6 @@ Sau đó ở ngoài thành hơn mười dặm hội hợp, cưỡi lên yêu mã
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-114](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-114)
 - Thời gian scrape: 2026-01-13 00:28:51
 
-
-[← Chương 113](chuong_113.md) | [📚 Mục lục](README.md) | [Chương 115 →](chuong_115.md)
-
+<div class="chapter-nav">
+    <a href="chuong_113.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_115.html" class="nav-btn">Chương sau →</a>
+</div>

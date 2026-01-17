@@ -1,6 +1,9 @@
-
-
-[← Chương 21](chuong_21.md) | [📚 Mục lục](README.md) | [Chương 23 →](chuong_23.md)
+---
+layout: default
+title: Chương 22: khi lão Lục
+chapter_number: 22
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -281,6 +284,6 @@ Thẩm Dục thầm nghĩ, sau đó liền đem tu vi của mình ẩn tàng đ�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-22](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-22)
 - Thời gian scrape: 2026-01-13 21:10:07
 
-
-[← Chương 21](chuong_21.md) | [📚 Mục lục](README.md) | [Chương 23 →](chuong_23.md)
-
+<div class="chapter-nav">
+    <a href="chuong_21.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_23.html" class="nav-btn">Chương sau →</a>
+</div>

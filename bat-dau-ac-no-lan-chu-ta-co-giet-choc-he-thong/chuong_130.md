@@ -1,6 +1,9 @@
-
-
-[← Chương 129](chuong_129.md) | [📚 Mục lục](README.md) | [Chương 131 →](chuong_131.md)
+---
+layout: default
+title: Chương 130: tiến vào bí cảnh
+chapter_number: 130
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -263,6 +266,6 @@ Còn có một cái thần binh cùng ba kiện bảo binh.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-130](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-130)
 - Thời gian scrape: 2026-01-13 00:29:39
 
-
-[← Chương 129](chuong_129.md) | [📚 Mục lục](README.md) | [Chương 131 →](chuong_131.md)
-
+<div class="chapter-nav">
+    <a href="chuong_129.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_131.html" class="nav-btn">Chương sau →</a>
+</div>

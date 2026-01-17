@@ -1,6 +1,9 @@
-
-
-[← Chương 234](chuong_234.md) | [📚 Mục lục](README.md) | [Chương 236 →](chuong_236.md)
+---
+layout: default
+title: Chương 235: Trần chi đình bị bắt (2)
+chapter_number: 235
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -137,6 +140,6 @@ Liền chuyển giao cho đông tám khu Thiên Hộ Sở đi điều tra.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-235](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-235)
 - Thời gian scrape: 2026-01-13 00:34:01
 
-
-[← Chương 234](chuong_234.md) | [📚 Mục lục](README.md) | [Chương 236 →](chuong_236.md)
-
+<div class="chapter-nav">
+    <a href="chuong_234.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_236.html" class="nav-btn">Chương sau →</a>
+</div>

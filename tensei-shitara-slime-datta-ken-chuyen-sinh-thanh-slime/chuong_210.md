@@ -1,6 +1,9 @@
-
-
-[← Chương 209](chuong_209.md) | [📚 Mục lục](README.md) | [Chương 211 →](chuong_211.md)
+---
+layout: default
+title: Chương 210
+chapter_number: 210
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -330,6 +333,6 @@ Sức mạnh của quân đoàn khổng lồ quét qua chiến địa.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-210](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-210)
 - Thời gian scrape: 2026-01-17 09:47:39
 
-
-[← Chương 209](chuong_209.md) | [📚 Mục lục](README.md) | [Chương 211 →](chuong_211.md)
-
+<div class="chapter-nav">
+    <a href="chuong_209.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_211.html" class="nav-btn">Chương sau →</a>
+</div>

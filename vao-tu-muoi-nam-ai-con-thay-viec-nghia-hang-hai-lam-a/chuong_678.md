@@ -1,6 +1,9 @@
-
-
-[← Chương 677](chuong_677.md) | [📚 Mục lục](README.md) | [Chương 679 →](chuong_679.md)
+---
+layout: default
+title: Chương 678: Để cái kia người chết Tiêu Đình điểm
+chapter_number: 678
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Bởi vì Áo Uy quốc tế người còn phải chờ một hồi mới đến
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-678](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-678)
 - Thời gian scrape: 2026-01-13 22:19:40
 
-
-[← Chương 677](chuong_677.md) | [📚 Mục lục](README.md) | [Chương 679 →](chuong_679.md)
-
+<div class="chapter-nav">
+    <a href="chuong_677.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_679.html" class="nav-btn">Chương sau →</a>
+</div>

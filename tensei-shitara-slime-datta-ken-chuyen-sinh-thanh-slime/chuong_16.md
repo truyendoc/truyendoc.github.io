@@ -1,6 +1,9 @@
-
-
-[← Chương 15](chuong_15.md) | [📚 Mục lục](README.md) | [Chương 17 →](chuong_17.md)
+---
+layout: default
+title: Chương 16
+chapter_number: 16
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -384,6 +387,6 @@ Và một lời hứa được lập ra là một lời hứa phải được gi
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-16](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-16)
 - Thời gian scrape: 2026-01-17 09:38:35
 
-
-[← Chương 15](chuong_15.md) | [📚 Mục lục](README.md) | [Chương 17 →](chuong_17.md)
-
+<div class="chapter-nav">
+    <a href="chuong_15.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_17.html" class="nav-btn">Chương sau →</a>
+</div>

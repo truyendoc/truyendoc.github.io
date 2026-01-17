@@ -1,6 +1,9 @@
-
-
-[← Chương 194](chuong_194.md) | [📚 Mục lục](README.md) | [Chương 196 →](chuong_196.md)
+---
+layout: default
+title: Chương 195
+chapter_number: 195
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -964,6 +967,6 @@ Sau khi chuyển giao lại công việc, chúng tôi quay về Tempest.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-195](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-195)
 - Thời gian scrape: 2026-01-17 09:46:57
 
-
-[← Chương 194](chuong_194.md) | [📚 Mục lục](README.md) | [Chương 196 →](chuong_196.md)
-
+<div class="chapter-nav">
+    <a href="chuong_194.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_196.html" class="nav-btn">Chương sau →</a>
+</div>

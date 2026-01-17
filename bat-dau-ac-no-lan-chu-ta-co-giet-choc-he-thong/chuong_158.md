@@ -1,6 +1,9 @@
-
-
-[← Chương 157](chuong_157.md) | [📚 Mục lục](README.md) | [Chương 159 →](chuong_159.md)
+---
+layout: default
+title: Chương 158: Ninh Bắc Huyền
+chapter_number: 158
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -217,6 +220,6 @@ Cho nên, Thẩm Dục liền trực tiếp hướng trên tường thành phón
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-158](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-158)
 - Thời gian scrape: 2026-01-13 00:30:57
 
-
-[← Chương 157](chuong_157.md) | [📚 Mục lục](README.md) | [Chương 159 →](chuong_159.md)
-
+<div class="chapter-nav">
+    <a href="chuong_157.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_159.html" class="nav-btn">Chương sau →</a>
+</div>

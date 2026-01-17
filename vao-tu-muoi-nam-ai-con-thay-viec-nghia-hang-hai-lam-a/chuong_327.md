@@ -1,6 +1,9 @@
-
-
-[← Chương 326](chuong_326.md) | [📚 Mục lục](README.md) | [Chương 328 →](chuong_328.md)
+---
+layout: default
+title: Chương 327: Cao nhan trị nữ sát thủ
+chapter_number: 327
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Bất quá, lo lắng có người đến, Tào Côn cũng không có ở trong 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-327](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-327)
 - Thời gian scrape: 2026-01-13 21:59:17
 
-
-[← Chương 326](chuong_326.md) | [📚 Mục lục](README.md) | [Chương 328 →](chuong_328.md)
-
+<div class="chapter-nav">
+    <a href="chuong_326.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_328.html" class="nav-btn">Chương sau →</a>
+</div>

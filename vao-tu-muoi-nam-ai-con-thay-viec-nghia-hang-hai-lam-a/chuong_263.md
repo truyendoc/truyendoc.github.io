@@ -1,6 +1,9 @@
-
-
-[← Chương 262](chuong_262.md) | [📚 Mục lục](README.md) | [Chương 264 →](chuong_264.md)
+---
+layout: default
+title: Chương 263: Gian phu dâm phụ mưu đồ bí mật
+chapter_number: 263
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Tào Côn thật sẽ vì mình lưu lại như thế một cái tai hoạ ngầ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-263](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-263)
 - Thời gian scrape: 2026-01-13 21:55:24
 
-
-[← Chương 262](chuong_262.md) | [📚 Mục lục](README.md) | [Chương 264 →](chuong_264.md)
-
+<div class="chapter-nav">
+    <a href="chuong_262.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_264.html" class="nav-btn">Chương sau →</a>
+</div>

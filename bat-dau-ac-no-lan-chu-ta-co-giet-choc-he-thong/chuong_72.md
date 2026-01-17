@@ -1,6 +1,9 @@
-
-
-[← Chương 71](chuong_71.md) | [📚 Mục lục](README.md) | [Chương 73 →](chuong_73.md)
+---
+layout: default
+title: Chương 72: giết gà giật mình khỉ
+chapter_number: 72
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -249,6 +252,6 @@ Lập tức, đám người này đều là câm như hến, giữ im lặng, th
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-72](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-72)
 - Thời gian scrape: 2026-01-13 21:17:00
 
-
-[← Chương 71](chuong_71.md) | [📚 Mục lục](README.md) | [Chương 73 →](chuong_73.md)
-
+<div class="chapter-nav">
+    <a href="chuong_71.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_73.html" class="nav-btn">Chương sau →</a>
+</div>

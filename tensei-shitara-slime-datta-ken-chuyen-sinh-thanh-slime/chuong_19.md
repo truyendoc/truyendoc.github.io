@@ -1,6 +1,9 @@
-
-
-[← Chương 18](chuong_18.md) | [📚 Mục lục](README.md) | [Chương 20 →](chuong_20.md)
+---
+layout: default
+title: Chương 19
+chapter_number: 19
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -128,6 +131,6 @@ Phía sau của thành công, luôn là những nỗ lực, chính là vậy đ�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-19](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-19)
 - Thời gian scrape: 2026-01-17 09:38:45
 
-
-[← Chương 18](chuong_18.md) | [📚 Mục lục](README.md) | [Chương 20 →](chuong_20.md)
-
+<div class="chapter-nav">
+    <a href="chuong_18.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_20.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 186](chuong_186.md) | [📚 Mục lục](README.md) | [Chương 188 →](chuong_188.md)
+---
+layout: default
+title: Chương 187
+chapter_number: 187
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -436,6 +439,6 @@ Hai người bọn tôi đứng đối mặt, lặng lẽ chuẩn bị tâm th�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-187](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-187)
 - Thời gian scrape: 2026-01-17 09:46:34
 
-
-[← Chương 186](chuong_186.md) | [📚 Mục lục](README.md) | [Chương 188 →](chuong_188.md)
-
+<div class="chapter-nav">
+    <a href="chuong_186.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_188.html" class="nav-btn">Chương sau →</a>
+</div>

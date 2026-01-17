@@ -1,6 +1,9 @@
-
-
-[← Chương 123](chuong_123.md) | [📚 Mục lục](README.md) | [Chương 125 →](chuong_125.md)
+---
+layout: default
+title: Chương 124: Bạn trai cũ đúng là nữ
+chapter_number: 124
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -187,6 +190,6 @@ Tất cả mọi người là người văn minh, động thủ nhiều không v
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-124](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-124)
 - Thời gian scrape: 2026-01-13 21:46:43
 
-
-[← Chương 123](chuong_123.md) | [📚 Mục lục](README.md) | [Chương 125 →](chuong_125.md)
-
+<div class="chapter-nav">
+    <a href="chuong_123.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_125.html" class="nav-btn">Chương sau →</a>
+</div>

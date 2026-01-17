@@ -1,6 +1,9 @@
-
-
-[← Chương 271](chuong_271.md) | [📚 Mục lục](README.md) | [Chương 273 →](chuong_273.md)
+---
+layout: default
+title: Chương 272: Ăn béo điểm rất tốt
+chapter_number: 272
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Cẩu Nhất Vĩ cười nói: "Một cái dùng Tề Bạch Thạch đại sư 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-272](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-272)
 - Thời gian scrape: 2026-01-13 21:55:58
 
-
-[← Chương 271](chuong_271.md) | [📚 Mục lục](README.md) | [Chương 273 →](chuong_273.md)
-
+<div class="chapter-nav">
+    <a href="chuong_271.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_273.html" class="nav-btn">Chương sau →</a>
+</div>

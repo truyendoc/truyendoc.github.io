@@ -1,6 +1,9 @@
-
-
-[← Chương 67](chuong_67.md) | [📚 Mục lục](README.md) | [Chương 69 →](chuong_69.md)
+---
+layout: default
+title: Chương 68: Lý Văn Văn, Vương San San ngươi mập
+chapter_number: 68
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Thậm chí, thẳng đến Tào Côn đi đều năm sáu phần giờ, nàng m
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-68](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-68)
 - Thời gian scrape: 2026-01-13 21:43:11
 
-
-[← Chương 67](chuong_67.md) | [📚 Mục lục](README.md) | [Chương 69 →](chuong_69.md)
-
+<div class="chapter-nav">
+    <a href="chuong_67.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_69.html" class="nav-btn">Chương sau →</a>
+</div>

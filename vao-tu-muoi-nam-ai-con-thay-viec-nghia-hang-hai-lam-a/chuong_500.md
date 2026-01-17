@@ -1,6 +1,9 @@
-
-
-[← Chương 499](chuong_499.md) | [📚 Mục lục](README.md) | [Chương 501 →](chuong_501.md)
+---
+layout: default
+title: Chương 500: Hải Thành lão đại
+chapter_number: 500
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Nghe được Khải thúc nói như vậy, Đoàn Minh đầu tiên là trầm 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-500](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-500)
 - Thời gian scrape: 2026-01-13 22:09:24
 
-
-[← Chương 499](chuong_499.md) | [📚 Mục lục](README.md) | [Chương 501 →](chuong_501.md)
-
+<div class="chapter-nav">
+    <a href="chuong_499.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_501.html" class="nav-btn">Chương sau →</a>
+</div>

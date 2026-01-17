@@ -1,6 +1,9 @@
-
-
-[← Chương 238](chuong_238.md) | [📚 Mục lục](README.md) | [Chương 240 →](chuong_240.md)
+---
+layout: default
+title: Chương 239: Pháp tướng cảnh bát trọng (2)
+chapter_number: 239
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -135,6 +138,6 @@ Thẩm Dục nhớ một chút, chính mình tiên binh mảnh vỡ đã có 86 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-239](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-239)
 - Thời gian scrape: 2026-01-13 00:34:10
 
-
-[← Chương 238](chuong_238.md) | [📚 Mục lục](README.md) | [Chương 240 →](chuong_240.md)
-
+<div class="chapter-nav">
+    <a href="chuong_238.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_240.html" class="nav-btn">Chương sau →</a>
+</div>

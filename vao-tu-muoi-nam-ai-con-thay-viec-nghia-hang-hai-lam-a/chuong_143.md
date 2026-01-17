@@ -1,6 +1,9 @@
-
-
-[← Chương 142](chuong_142.md) | [📚 Mục lục](README.md) | [Chương 144 →](chuong_144.md)
+---
+layout: default
+title: Chương 143: Lớn ngu xuẩn là Vương San San
+chapter_number: 143
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Hợp lấy, đêm qua cái kia lớn ngu xuẩn, nguyên lai là Vương San Sa
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-143](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-143)
 - Thời gian scrape: 2026-01-13 21:47:56
 
-
-[← Chương 142](chuong_142.md) | [📚 Mục lục](README.md) | [Chương 144 →](chuong_144.md)
-
+<div class="chapter-nav">
+    <a href="chuong_142.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_144.html" class="nav-btn">Chương sau →</a>
+</div>

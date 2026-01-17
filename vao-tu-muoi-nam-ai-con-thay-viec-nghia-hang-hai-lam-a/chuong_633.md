@@ -1,6 +1,9 @@
-
-
-[← Chương 632](chuong_632.md) | [📚 Mục lục](README.md) | [Chương 634 →](chuong_634.md)
+---
+layout: default
+title: Chương 633: Chuyện xưa nhắc lại
+chapter_number: 633
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Bị Dương Nhật Bố hỏi tới cái kia nhân vật ảo c·hết đi, Tà
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-633](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-633)
 - Thời gian scrape: 2026-01-13 22:17:01
 
-
-[← Chương 632](chuong_632.md) | [📚 Mục lục](README.md) | [Chương 634 →](chuong_634.md)
-
+<div class="chapter-nav">
+    <a href="chuong_632.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_634.html" class="nav-btn">Chương sau →</a>
+</div>

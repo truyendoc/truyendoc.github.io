@@ -1,6 +1,9 @@
-
-
-[← Chương 705](chuong_705.md) | [📚 Mục lục](README.md) | [Chương 707 →](chuong_707.md)
+---
+layout: default
+title: Chương 706: Ngươi vẫn như cũ là ta yêu nhất nữ hài
+chapter_number: 706
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Chế tạo một loại, mưa ta không dưa giả tượng.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-706](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-706)
 - Thời gian scrape: 2026-01-13 22:21:14
 
-
-[← Chương 705](chuong_705.md) | [📚 Mục lục](README.md) | [Chương 707 →](chuong_707.md)
-
+<div class="chapter-nav">
+    <a href="chuong_705.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_707.html" class="nav-btn">Chương sau →</a>
+</div>

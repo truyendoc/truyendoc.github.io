@@ -1,6 +1,9 @@
-
-
-[← Chương 295](chuong_295.md) | [📚 Mục lục](README.md) | [Chương 297 →](chuong_297.md)
+---
+layout: default
+title: Chương 296: Hốt hoảng chỉ huy sứ (1)
+chapter_number: 296
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -111,6 +114,6 @@ Trong đó, linh dược 22 gốc, bảo dược 1 gốc.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-296](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-296)
 - Thời gian scrape: 2026-01-13 00:22:23
 
-
-[← Chương 295](chuong_295.md) | [📚 Mục lục](README.md) | [Chương 297 →](chuong_297.md)
-
+<div class="chapter-nav">
+    <a href="chuong_295.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_297.html" class="nav-btn">Chương sau →</a>
+</div>

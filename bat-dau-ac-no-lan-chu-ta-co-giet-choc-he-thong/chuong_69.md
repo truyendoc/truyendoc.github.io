@@ -1,6 +1,9 @@
-
-
-[← Chương 68](chuong_68.md) | [📚 Mục lục](README.md) | [Chương 70 →](chuong_70.md)
+---
+layout: default
+title: Chương 69: một hai cũng không thể thiếu
+chapter_number: 69
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -203,6 +206,6 @@ Sau đó, Thẩm Dục tự mình đem Thẩm Huy cùng dưới trướng hắn 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-69](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-69)
 - Thời gian scrape: 2026-01-13 21:16:50
 
-
-[← Chương 68](chuong_68.md) | [📚 Mục lục](README.md) | [Chương 70 →](chuong_70.md)
-
+<div class="chapter-nav">
+    <a href="chuong_68.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_70.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 583](chuong_583.md) | [📚 Mục lục](README.md) | [Chương 585 →](chuong_585.md)
+---
+layout: default
+title: Chương 584: Không thể để cho nàng như thế thoải mái
+chapter_number: 584
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Nghe vậy, Lý Tố Linh cả người trong nháy mắt liền lại có tinh 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-584](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-584)
 - Thời gian scrape: 2026-01-13 22:14:12
 
-
-[← Chương 583](chuong_583.md) | [📚 Mục lục](README.md) | [Chương 585 →](chuong_585.md)
-
+<div class="chapter-nav">
+    <a href="chuong_583.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_585.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 157](chuong_157.md) | [📚 Mục lục](README.md) | [Chương 159 →](chuong_159.md)
+---
+layout: default
+title: Chương 158
+chapter_number: 158
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -414,6 +417,6 @@ Và rồi, những cư dân của chốn địa ngục này sẽ kiên nhẫn đ
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-158](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-158)
 - Thời gian scrape: 2026-01-17 09:45:12
 
-
-[← Chương 157](chuong_157.md) | [📚 Mục lục](README.md) | [Chương 159 →](chuong_159.md)
-
+<div class="chapter-nav">
+    <a href="chuong_157.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_159.html" class="nav-btn">Chương sau →</a>
+</div>

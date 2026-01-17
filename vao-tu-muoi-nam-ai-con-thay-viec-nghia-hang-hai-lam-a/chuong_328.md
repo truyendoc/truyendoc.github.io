@@ -1,6 +1,9 @@
-
-
-[← Chương 327](chuong_327.md) | [📚 Mục lục](README.md) | [Chương 329 →](chuong_329.md)
+---
+layout: default
+title: Chương 328: Thật sát thủ, giả Hạng Nam Nguyệt
+chapter_number: 328
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Bất quá, có thể khẳng định là, nàng khẳng định sống đây n�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-328](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-328)
 - Thời gian scrape: 2026-01-13 21:59:21
 
-
-[← Chương 327](chuong_327.md) | [📚 Mục lục](README.md) | [Chương 329 →](chuong_329.md)
-
+<div class="chapter-nav">
+    <a href="chuong_327.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_329.html" class="nav-btn">Chương sau →</a>
+</div>

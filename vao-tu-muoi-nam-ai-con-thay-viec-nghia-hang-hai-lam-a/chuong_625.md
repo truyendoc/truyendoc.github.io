@@ -1,6 +1,9 @@
-
-
-[← Chương 624](chuong_624.md) | [📚 Mục lục](README.md) | [Chương 626 →](chuong_626.md)
+---
+layout: default
+title: Chương 625: Chữa trị giải phẫu sớm
+chapter_number: 625
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Nhìn thấy Tào Côn căn biệt thự này bên trong duy nhất giống đ�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-625](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-625)
 - Thời gian scrape: 2026-01-13 22:16:34
 
-
-[← Chương 624](chuong_624.md) | [📚 Mục lục](README.md) | [Chương 626 →](chuong_626.md)
-
+<div class="chapter-nav">
+    <a href="chuong_624.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_626.html" class="nav-btn">Chương sau →</a>
+</div>

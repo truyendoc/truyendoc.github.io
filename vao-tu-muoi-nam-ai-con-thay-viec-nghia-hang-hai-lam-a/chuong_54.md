@@ -1,6 +1,9 @@
-
-
-[← Chương 53](chuong_53.md) | [📚 Mục lục](README.md) | [Chương 55 →](chuong_55.md)
+---
+layout: default
+title: Chương 54: Tính tiền Phong Ba
+chapter_number: 54
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Bạch Tĩnh phốc thử cười một tiếng, bận bịu kéo căng im miệ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-54](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-54)
 - Thời gian scrape: 2026-01-13 21:42:20
 
-
-[← Chương 53](chuong_53.md) | [📚 Mục lục](README.md) | [Chương 55 →](chuong_55.md)
-
+<div class="chapter-nav">
+    <a href="chuong_53.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_55.html" class="nav-btn">Chương sau →</a>
+</div>

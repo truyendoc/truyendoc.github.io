@@ -1,6 +1,9 @@
-
-
-[← Chương 285](chuong_285.md) | [📚 Mục lục](README.md) | [Chương 287 →](chuong_287.md)
+---
+layout: default
+title: Chương 286: Lại không thắng tửu lực!
+chapter_number: 286
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Lần nữa cùng Tào Côn uống một chén rượu về sau, Cẩu Nhất V�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-286](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-286)
 - Thời gian scrape: 2026-01-13 21:56:56
 
-
-[← Chương 285](chuong_285.md) | [📚 Mục lục](README.md) | [Chương 287 →](chuong_287.md)
-
+<div class="chapter-nav">
+    <a href="chuong_285.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_287.html" class="nav-btn">Chương sau →</a>
+</div>

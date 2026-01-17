@@ -1,6 +1,9 @@
-
-
-[← Chương 60](chuong_60.md) | [📚 Mục lục](README.md) | [Chương 62 →](chuong_62.md)
+---
+layout: default
+title: Chương 61
+chapter_number: 61
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -498,6 +501,6 @@ Chỗ này, Clown-san đánh máy nhầm thành Cloning, thay vì Molecular Mani
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-61](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-61)
 - Thời gian scrape: 2026-01-17 09:40:40
 
-
-[← Chương 60](chuong_60.md) | [📚 Mục lục](README.md) | [Chương 62 →](chuong_62.md)
-
+<div class="chapter-nav">
+    <a href="chuong_60.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_62.html" class="nav-btn">Chương sau →</a>
+</div>

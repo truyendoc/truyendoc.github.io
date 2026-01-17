@@ -1,6 +1,9 @@
-
-
-[← Chương 695](chuong_695.md) | [📚 Mục lục](README.md) | [Chương 697 →](chuong_697.md)
+---
+layout: default
+title: Chương 696: Họa thủy đông dẫn
+chapter_number: 696
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Tào Côn vừa nói xong, Triệu Xảo Thiến liền mở miệng, nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-696](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-696)
 - Thời gian scrape: 2026-01-13 22:20:43
 
-
-[← Chương 695](chuong_695.md) | [📚 Mục lục](README.md) | [Chương 697 →](chuong_697.md)
-
+<div class="chapter-nav">
+    <a href="chuong_695.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_697.html" class="nav-btn">Chương sau →</a>
+</div>

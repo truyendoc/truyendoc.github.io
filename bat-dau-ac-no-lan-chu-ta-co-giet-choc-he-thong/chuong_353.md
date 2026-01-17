@@ -1,6 +1,9 @@
-
-
-[← Chương 352](chuong_352.md) | [📚 Mục lục](README.md) | [Chương 354 →](chuong_354.md)
+---
+layout: default
+title: Chương 353: Lục Loan Loan thăm dò (2)
+chapter_number: 353
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -125,6 +128,6 @@ Thấy thế, lục Loan Loan trên mặt vẻ mặt lại không có mảy may 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-353](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-353)
 - Thời gian scrape: 2026-01-13 00:24:38
 
-
-[← Chương 352](chuong_352.md) | [📚 Mục lục](README.md) | [Chương 354 →](chuong_354.md)
-
+<div class="chapter-nav">
+    <a href="chuong_352.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_354.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 118](chuong_118.md) | [📚 Mục lục](README.md) | [Chương 120 →](chuong_120.md)
+---
+layout: default
+title: Chương 119: Hoàng Đông Mai tự mình hạ tràng bồi tửu
+chapter_number: 119
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Thấy thế, Lưu Hồng khóe miệng giơ lên, cũng không nói thêm cái 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-119](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-119)
 - Thời gian scrape: 2026-01-13 21:46:28
 
-
-[← Chương 118](chuong_118.md) | [📚 Mục lục](README.md) | [Chương 120 →](chuong_120.md)
-
+<div class="chapter-nav">
+    <a href="chuong_118.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_120.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 287](chuong_287.md) | [📚 Mục lục](README.md) | [Chương 289 →](chuong_289.md)
+---
+layout: default
+title: Chương 288: Chịu huấn Trương Uyển Thanh
+chapter_number: 288
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Theo Trương Uyển Thanh cuối cùng câu nói này nói xong, 14 cái dáng 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-288](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-288)
 - Thời gian scrape: 2026-01-13 21:57:02
 
-
-[← Chương 287](chuong_287.md) | [📚 Mục lục](README.md) | [Chương 289 →](chuong_289.md)
-
+<div class="chapter-nav">
+    <a href="chuong_287.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_289.html" class="nav-btn">Chương sau →</a>
+</div>

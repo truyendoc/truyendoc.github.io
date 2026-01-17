@@ -1,6 +1,9 @@
-
-
-[← Chương 408](chuong_408.md) | [📚 Mục lục](README.md) | [Chương 410 →](chuong_410.md)
+---
+layout: default
+title: Chương 409: Tiêu Văn Tĩnh tới cửa xin giúp đỡ
+chapter_number: 409
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Nghe vậy, Tiêu Văn Tĩnh nhìn về phía Tào Côn ánh mắt, đều nhanh
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-409](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-409)
 - Thời gian scrape: 2026-01-13 22:04:05
 
-
-[← Chương 408](chuong_408.md) | [📚 Mục lục](README.md) | [Chương 410 →](chuong_410.md)
-
+<div class="chapter-nav">
+    <a href="chuong_408.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_410.html" class="nav-btn">Chương sau →</a>
+</div>

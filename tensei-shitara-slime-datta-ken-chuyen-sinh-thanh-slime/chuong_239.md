@@ -1,6 +1,9 @@
-
-
-[← Chương 238](chuong_238.md) | [📚 Mục lục](README.md) | [Chương 240 →](chuong_240.md)
+---
+layout: default
+title: Chương 239
+chapter_number: 239
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -412,6 +415,6 @@ Giọng nói đó tràn đầy hy vọng và thổi bay mọi tuyệt vọng.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-239](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-239)
 - Thời gian scrape: 2026-01-17 09:49:05
 
-
-[← Chương 238](chuong_238.md) | [📚 Mục lục](README.md) | [Chương 240 →](chuong_240.md)
-
+<div class="chapter-nav">
+    <a href="chuong_238.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_240.html" class="nav-btn">Chương sau →</a>
+</div>

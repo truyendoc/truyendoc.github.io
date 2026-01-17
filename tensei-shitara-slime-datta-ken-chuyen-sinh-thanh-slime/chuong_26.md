@@ -1,6 +1,9 @@
-
-
-[← Chương 25](chuong_25.md) | [📚 Mục lục](README.md) | [Chương 27 →](chuong_27.md)
+---
+layout: default
+title: Chương 26
+chapter_number: 26
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -262,6 +265,6 @@ Thế là, trong thế giới này, tôi đã có được một cơ thể nhân
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-26](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-26)
 - Thời gian scrape: 2026-01-17 09:39:04
 
-
-[← Chương 25](chuong_25.md) | [📚 Mục lục](README.md) | [Chương 27 →](chuong_27.md)
-
+<div class="chapter-nav">
+    <a href="chuong_25.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_27.html" class="nav-btn">Chương sau →</a>
+</div>

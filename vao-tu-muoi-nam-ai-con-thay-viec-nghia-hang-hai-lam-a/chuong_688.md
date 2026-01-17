@@ -1,6 +1,9 @@
-
-
-[← Chương 687](chuong_687.md) | [📚 Mục lục](README.md) | [Chương 689 →](chuong_689.md)
+---
+layout: default
+title: Chương 688: Dẫn vào mạnh đẹp tập đoàn
+chapter_number: 688
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Nghe vậy, Okamoto ba tấc càng là kích động.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-688](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-688)
 - Thời gian scrape: 2026-01-13 22:20:17
 
-
-[← Chương 687](chuong_687.md) | [📚 Mục lục](README.md) | [Chương 689 →](chuong_689.md)
-
+<div class="chapter-nav">
+    <a href="chuong_687.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_689.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 126](chuong_126.md) | [📚 Mục lục](README.md) | [Chương 128 →](chuong_128.md)
+---
+layout: default
+title: Chương 127: Gặp quỷ thứ tư ngăn
+chapter_number: 127
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -209,6 +212,6 @@ Cũng lười cho Tôn Phỉ Phỉ hồi phục, Tào Côn chọn lấy một c�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-127](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-127)
 - Thời gian scrape: 2026-01-13 21:46:52
 
-
-[← Chương 126](chuong_126.md) | [📚 Mục lục](README.md) | [Chương 128 →](chuong_128.md)
-
+<div class="chapter-nav">
+    <a href="chuong_126.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_128.html" class="nav-btn">Chương sau →</a>
+</div>

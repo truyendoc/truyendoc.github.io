@@ -1,6 +1,9 @@
-
-
-[← Chương 609](chuong_609.md) | [📚 Mục lục](README.md) | [Chương 611 →](chuong_611.md)
+---
+layout: default
+title: Chương 610: Chân tướng thì ra là thế
+chapter_number: 610
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Thế là, liền dẫn đến nhìn, La Tài Hoa tựa như là bị xếp vào
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-610](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-610)
 - Thời gian scrape: 2026-01-13 22:15:43
 
-
-[← Chương 609](chuong_609.md) | [📚 Mục lục](README.md) | [Chương 611 →](chuong_611.md)
-
+<div class="chapter-nav">
+    <a href="chuong_609.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_611.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 222](chuong_222.md) | [📚 Mục lục](README.md) | [Chương 224 →](chuong_224.md)
+---
+layout: default
+title: Chương 223
+chapter_number: 223
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -562,6 +565,6 @@ Tiếc thay, tiếng hét đầy giận dữ của Ruminas không bao giờ ch�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-223](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-223)
 - Thời gian scrape: 2026-01-17 09:48:17
 
-
-[← Chương 222](chuong_222.md) | [📚 Mục lục](README.md) | [Chương 224 →](chuong_224.md)
-
+<div class="chapter-nav">
+    <a href="chuong_222.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_224.html" class="nav-btn">Chương sau →</a>
+</div>

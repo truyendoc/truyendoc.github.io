@@ -1,6 +1,9 @@
-
-
-[← Chương 33](chuong_33.md) | [📚 Mục lục](README.md) | [Chương 35 →](chuong_35.md)
+---
+layout: default
+title: Chương 34: Định ngày hẹn hoàng mao cha mẹ
+chapter_number: 34
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -197,6 +200,6 @@ Mà cái này, không phải Tào Côn lần thứ nhất cùng bọn hắn gặ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-34](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-34)
 - Thời gian scrape: 2026-01-13 21:41:14
 
-
-[← Chương 33](chuong_33.md) | [📚 Mục lục](README.md) | [Chương 35 →](chuong_35.md)
-
+<div class="chapter-nav">
+    <a href="chuong_33.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_35.html" class="nav-btn">Chương sau →</a>
+</div>

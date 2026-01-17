@@ -1,6 +1,9 @@
-
-
-[← Chương 25](chuong_25.md) | [📚 Mục lục](README.md) | [Chương 27 →](chuong_27.md)
+---
+layout: default
+title: Chương 26: Hoàng mao lại chết
+chapter_number: 26
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Tào Côn nhếch miệng cười một tiếng, Hàm Hàm nói: "Tốt, vậy t
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-26](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-26)
 - Thời gian scrape: 2026-01-13 21:40:48
 
-
-[← Chương 25](chuong_25.md) | [📚 Mục lục](README.md) | [Chương 27 →](chuong_27.md)
-
+<div class="chapter-nav">
+    <a href="chuong_25.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_27.html" class="nav-btn">Chương sau →</a>
+</div>

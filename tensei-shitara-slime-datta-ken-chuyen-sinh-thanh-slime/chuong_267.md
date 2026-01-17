@@ -1,6 +1,9 @@
-
-
-[← Chương 266](chuong_266.md) | [📚 Mục lục](README.md) | [Chương 268 →](chuong_268.md)
+---
+layout: default
+title: Chương 267
+chapter_number: 267
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -332,6 +335,6 @@ Tiếng gào rú điên cuồng của một con mãnh thú hung bạo như xé t
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-267](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-267)
 - Thời gian scrape: 2026-01-17 09:50:27
 
-
-[← Chương 266](chuong_266.md) | [📚 Mục lục](README.md) | [Chương 268 →](chuong_268.md)
-
+<div class="chapter-nav">
+    <a href="chuong_266.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_268.html" class="nav-btn">Chương sau →</a>
+</div>

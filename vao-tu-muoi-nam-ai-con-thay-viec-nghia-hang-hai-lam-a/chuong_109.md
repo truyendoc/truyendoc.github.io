@@ -1,6 +1,9 @@
-
-
-[← Chương 108](chuong_108.md) | [📚 Mục lục](README.md) | [Chương 110 →](chuong_110.md)
+---
+layout: default
+title: Chương 109: Sàn đêm nhân vật truyền kỳ
+chapter_number: 109
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Sở dĩ biết nàng, là bởi vì nàng là Hải Thành sàn đêm truyền 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-109](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-109)
 - Thời gian scrape: 2026-01-13 21:45:56
 
-
-[← Chương 108](chuong_108.md) | [📚 Mục lục](README.md) | [Chương 110 →](chuong_110.md)
-
+<div class="chapter-nav">
+    <a href="chuong_108.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_110.html" class="nav-btn">Chương sau →</a>
+</div>

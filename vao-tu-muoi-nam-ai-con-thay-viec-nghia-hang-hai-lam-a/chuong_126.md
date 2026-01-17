@@ -1,6 +1,9 @@
-
-
-[← Chương 125](chuong_125.md) | [📚 Mục lục](README.md) | [Chương 127 →](chuong_127.md)
+---
+layout: default
+title: Chương 126: Chỉ có ngươi một cái nam nhân
+chapter_number: 126
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Lưu Hồng hé miệng cười một tiếng, nói: "Cũng thế, cái kia. . .
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-126](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-126)
 - Thời gian scrape: 2026-01-13 21:46:49
 
-
-[← Chương 125](chuong_125.md) | [📚 Mục lục](README.md) | [Chương 127 →](chuong_127.md)
-
+<div class="chapter-nav">
+    <a href="chuong_125.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_127.html" class="nav-btn">Chương sau →</a>
+</div>

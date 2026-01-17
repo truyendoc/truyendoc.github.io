@@ -1,6 +1,9 @@
-
-
-[← Chương 333](chuong_333.md) | [📚 Mục lục](README.md) | [Chương 335 →](chuong_335.md)
+---
+layout: default
+title: Chương 334: Nhị hoàng tử lần nữa tới chơi (1)
+chapter_number: 334
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -119,6 +122,6 @@ Tại hao phí thời gian nửa năm, hắn đem nhân quả phi đao tăng lê
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-334](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-334)
 - Thời gian scrape: 2026-01-13 00:23:53
 
-
-[← Chương 333](chuong_333.md) | [📚 Mục lục](README.md) | [Chương 335 →](chuong_335.md)
-
+<div class="chapter-nav">
+    <a href="chuong_333.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_335.html" class="nav-btn">Chương sau →</a>
+</div>

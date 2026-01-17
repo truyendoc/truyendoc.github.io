@@ -1,6 +1,9 @@
-
-
-[← Chương 68](chuong_68.md) | [📚 Mục lục](README.md) | [Chương 70 →](chuong_70.md)
+---
+layout: default
+title: Chương 69: Ai còn không phải cái bảo bối
+chapter_number: 69
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Mà nếu như là đại hán gọi hắn bảo bối, càng có tình cảm, h
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-69](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-69)
 - Thời gian scrape: 2026-01-13 21:43:13
 
-
-[← Chương 68](chuong_68.md) | [📚 Mục lục](README.md) | [Chương 70 →](chuong_70.md)
-
+<div class="chapter-nav">
+    <a href="chuong_68.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_70.html" class="nav-btn">Chương sau →</a>
+</div>

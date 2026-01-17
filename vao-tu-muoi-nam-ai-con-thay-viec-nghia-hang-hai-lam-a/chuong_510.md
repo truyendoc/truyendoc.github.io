@@ -1,6 +1,9 @@
-
-
-[← Chương 509](chuong_509.md) | [📚 Mục lục](README.md) | [Chương 511 →](chuong_511.md)
+---
+layout: default
+title: Chương 510: Nghịch thiên cải mệnh Trương Bách Mộ
+chapter_number: 510
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Lầu ba, Tào Côn chuyên môn trước gian phòng, vẫn như cũ là đầu
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-510](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-510)
 - Thời gian scrape: 2026-01-13 22:09:59
 
-
-[← Chương 509](chuong_509.md) | [📚 Mục lục](README.md) | [Chương 511 →](chuong_511.md)
-
+<div class="chapter-nav">
+    <a href="chuong_509.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_511.html" class="nav-btn">Chương sau →</a>
+</div>

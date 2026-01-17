@@ -1,6 +1,9 @@
-
-
-[← Chương 416](chuong_416.md) | [📚 Mục lục](README.md) | [Chương 418 →](chuong_418.md)
+---
+layout: default
+title: Chương 417: 80 ức tới tay
+chapter_number: 417
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Lần nữa hàn huyên vài câu, Tào Côn cuối cùng cùng với Liễu Tru
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-417](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-417)
 - Thời gian scrape: 2026-01-13 22:04:29
 
-
-[← Chương 416](chuong_416.md) | [📚 Mục lục](README.md) | [Chương 418 →](chuong_418.md)
-
+<div class="chapter-nav">
+    <a href="chuong_416.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_418.html" class="nav-btn">Chương sau →</a>
+</div>

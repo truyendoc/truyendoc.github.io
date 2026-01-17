@@ -1,6 +1,9 @@
-
-
-[← Chương 136](chuong_136.md) | [📚 Mục lục](README.md) | [Chương 138 →](chuong_138.md)
+---
+layout: default
+title: Chương 137: giết chết Tiết Càn
+chapter_number: 137
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -241,6 +244,6 @@ Cũng liền thời gian mấy hơi thở, liền có ba bốn trăm Ma Vân Gi�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-137](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-137)
 - Thời gian scrape: 2026-01-13 00:30:01
 
-
-[← Chương 136](chuong_136.md) | [📚 Mục lục](README.md) | [Chương 138 →](chuong_138.md)
-
+<div class="chapter-nav">
+    <a href="chuong_136.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_138.html" class="nav-btn">Chương sau →</a>
+</div>

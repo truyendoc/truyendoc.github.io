@@ -1,6 +1,9 @@
-
-
-[← Chương 595](chuong_595.md) | [📚 Mục lục](README.md) | [Chương 597 →](chuong_597.md)
+---
+layout: default
+title: Chương 596: Làm giải phẫu tuyển phủ điền hệ
+chapter_number: 596
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Thì ra là thế!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-596](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-596)
 - Thời gian scrape: 2026-01-13 22:14:52
 
-
-[← Chương 595](chuong_595.md) | [📚 Mục lục](README.md) | [Chương 597 →](chuong_597.md)
-
+<div class="chapter-nav">
+    <a href="chuong_595.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_597.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 534](chuong_534.md) | [📚 Mục lục](README.md) | [Chương 536 →](chuong_536.md)
+---
+layout: default
+title: Chương 535: Không bằng liếm chó côn
+chapter_number: 535
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -195,6 +198,6 @@ Tại phòng ăn, ngươi cũng không thể vì hiện ra tài lực hùng hậ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-535](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-535)
 - Thời gian scrape: 2026-01-13 22:11:26
 
-
-[← Chương 534](chuong_534.md) | [📚 Mục lục](README.md) | [Chương 536 →](chuong_536.md)
-
+<div class="chapter-nav">
+    <a href="chuong_534.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_536.html" class="nav-btn">Chương sau →</a>
+</div>

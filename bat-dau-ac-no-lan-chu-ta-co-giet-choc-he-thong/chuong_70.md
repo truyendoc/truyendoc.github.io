@@ -1,6 +1,9 @@
-
-
-[← Chương 69](chuong_69.md) | [📚 Mục lục](README.md) | [Chương 71 →](chuong_71.md)
+---
+layout: default
+title: Chương 70: tham lam vô độ
+chapter_number: 70
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -177,6 +180,6 @@ Hiện tại tốt, cái kia 500. 000 lượng bạc vẫn như cũ muốn một
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-70](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-70)
 - Thời gian scrape: 2026-01-13 21:16:53
 
-
-[← Chương 69](chuong_69.md) | [📚 Mục lục](README.md) | [Chương 71 →](chuong_71.md)
-
+<div class="chapter-nav">
+    <a href="chuong_69.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_71.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 54](chuong_54.md) | [📚 Mục lục](README.md) | [Chương 56 →](chuong_56.md)
+---
+layout: default
+title: Chương 55: liên hoan
+chapter_number: 55
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -295,6 +298,6 @@ Về phần Thẩm Dục thì lấy ra một đầu Hắc Giao cá sấu, bắt 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-55](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-55)
 - Thời gian scrape: 2026-01-13 21:16:03
 
-
-[← Chương 54](chuong_54.md) | [📚 Mục lục](README.md) | [Chương 56 →](chuong_56.md)
-
+<div class="chapter-nav">
+    <a href="chuong_54.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_56.html" class="nav-btn">Chương sau →</a>
+</div>

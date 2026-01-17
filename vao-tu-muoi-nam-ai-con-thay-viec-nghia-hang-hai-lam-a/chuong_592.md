@@ -1,6 +1,9 @@
-
-
-[← Chương 591](chuong_591.md) | [📚 Mục lục](README.md) | [Chương 593 →](chuong_593.md)
+---
+layout: default
+title: Chương 592: Trạm thứ nhất, Bàng Hồng Na
+chapter_number: 592
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Nhìn xem Bàng Hồng Na vui vẻ cùng kích động dáng vẻ, Tào Côn cư
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-592](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-592)
 - Thời gian scrape: 2026-01-13 22:14:38
 
-
-[← Chương 591](chuong_591.md) | [📚 Mục lục](README.md) | [Chương 593 →](chuong_593.md)
-
+<div class="chapter-nav">
+    <a href="chuong_591.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_593.html" class="nav-btn">Chương sau →</a>
+</div>

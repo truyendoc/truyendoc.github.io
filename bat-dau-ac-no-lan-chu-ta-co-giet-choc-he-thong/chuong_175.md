@@ -1,6 +1,9 @@
-
-
-[← Chương 174](chuong_174.md) | [📚 Mục lục](README.md) | [Chương 176 →](chuong_176.md)
+---
+layout: default
+title: Chương 175: hệ thống hai lần thăng cấp
+chapter_number: 175
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -289,6 +292,6 @@ Vì không dẫn tới phiền toái không cần thiết, liền đem đối ph
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-175](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-175)
 - Thời gian scrape: 2026-01-13 00:31:39
 
-
-[← Chương 174](chuong_174.md) | [📚 Mục lục](README.md) | [Chương 176 →](chuong_176.md)
-
+<div class="chapter-nav">
+    <a href="chuong_174.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_176.html" class="nav-btn">Chương sau →</a>
+</div>

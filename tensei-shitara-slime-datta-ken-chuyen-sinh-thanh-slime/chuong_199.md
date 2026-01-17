@@ -1,6 +1,9 @@
-
-
-[← Chương 198](chuong_198.md) | [📚 Mục lục](README.md) | [Chương 200 →](chuong_200.md)
+---
+layout: default
+title: Chương 199
+chapter_number: 199
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -534,6 +537,6 @@ Tôi vội vàng tới đó, cố kiềm chế Milim trước khi quá muộn.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-199](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-199)
 - Thời gian scrape: 2026-01-17 09:47:08
 
-
-[← Chương 198](chuong_198.md) | [📚 Mục lục](README.md) | [Chương 200 →](chuong_200.md)
-
+<div class="chapter-nav">
+    <a href="chuong_198.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_200.html" class="nav-btn">Chương sau →</a>
+</div>

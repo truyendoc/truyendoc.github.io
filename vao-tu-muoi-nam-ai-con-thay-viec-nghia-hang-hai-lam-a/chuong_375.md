@@ -1,6 +1,9 @@
-
-
-[← Chương 374](chuong_374.md) | [📚 Mục lục](README.md) | [Chương 376 →](chuong_376.md)
+---
+layout: default
+title: Chương 375: pp bán phát nổ
+chapter_number: 375
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Cũng không trách Lâm Thi Hàm sẽ như thế chấn kinh cùng không dám 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-375](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-375)
 - Thời gian scrape: 2026-01-13 22:02:10
 
-
-[← Chương 374](chuong_374.md) | [📚 Mục lục](README.md) | [Chương 376 →](chuong_376.md)
-
+<div class="chapter-nav">
+    <a href="chuong_374.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_376.html" class="nav-btn">Chương sau →</a>
+</div>

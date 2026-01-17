@@ -1,6 +1,9 @@
-
-
-[← Chương 138](chuong_138.md) | [📚 Mục lục](README.md) | [Chương 140 →](chuong_140.md)
+---
+layout: default
+title: Chương 139: Thẩm Dục phía sau có cao nhân
+chapter_number: 139
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -229,6 +232,6 @@ Huống chi, mấy tháng trước hắn mới Đoán Thể cảnh, cho nên, tr
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-139](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-139)
 - Thời gian scrape: 2026-01-13 00:30:06
 
-
-[← Chương 138](chuong_138.md) | [📚 Mục lục](README.md) | [Chương 140 →](chuong_140.md)
-
+<div class="chapter-nav">
+    <a href="chuong_138.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_140.html" class="nav-btn">Chương sau →</a>
+</div>

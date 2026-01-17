@@ -1,6 +1,9 @@
-
-
-[← Chương 57](chuong_57.md) | [📚 Mục lục](README.md) | [Chương 59 →](chuong_59.md)
+---
+layout: default
+title: Chương 58: Thật sự là tiện a
+chapter_number: 58
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Tiểu thái muội ngậm miệng nhẹ gật đầu, vẫn như cũ hơi cúi 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-58](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-58)
 - Thời gian scrape: 2026-01-13 21:42:32
 
-
-[← Chương 57](chuong_57.md) | [📚 Mục lục](README.md) | [Chương 59 →](chuong_59.md)
-
+<div class="chapter-nav">
+    <a href="chuong_57.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_59.html" class="nav-btn">Chương sau →</a>
+</div>

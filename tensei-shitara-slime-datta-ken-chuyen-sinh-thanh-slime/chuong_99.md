@@ -1,6 +1,9 @@
-
-
-[← Chương 98](chuong_98.md) | [📚 Mục lục](README.md) | [Chương 100 →](chuong_100.md)
+---
+layout: default
+title: Chương 99
+chapter_number: 99
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -460,6 +463,6 @@ Và như thế, những tháng ngày buồn tẻ của Myormiles đã chấm d�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-99](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-99)
 - Thời gian scrape: 2026-01-17 09:42:25
 
-
-[← Chương 98](chuong_98.md) | [📚 Mục lục](README.md) | [Chương 100 →](chuong_100.md)
-
+<div class="chapter-nav">
+    <a href="chuong_98.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_100.html" class="nav-btn">Chương sau →</a>
+</div>

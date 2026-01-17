@@ -1,6 +1,9 @@
-
-
-[← Chương 706](chuong_706.md) | [📚 Mục lục](README.md) | [Chương 708 →](chuong_708.md)
+---
+layout: default
+title: Chương 707: Ta mẹ nó thật đúng là một thiên tài nội ứng
+chapter_number: 707
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Cho nên, trân quý cuộc sống bây giờ đi.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-707](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-707)
 - Thời gian scrape: 2026-01-13 22:21:19
 
-
-[← Chương 706](chuong_706.md) | [📚 Mục lục](README.md) | [Chương 708 →](chuong_708.md)
-
+<div class="chapter-nav">
+    <a href="chuong_706.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_708.html" class="nav-btn">Chương sau →</a>
+</div>

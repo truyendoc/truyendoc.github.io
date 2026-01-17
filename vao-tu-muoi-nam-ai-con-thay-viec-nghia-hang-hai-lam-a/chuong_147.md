@@ -1,6 +1,9 @@
-
-
-[← Chương 146](chuong_146.md) | [📚 Mục lục](README.md) | [Chương 148 →](chuong_148.md)
+---
+layout: default
+title: Chương 147: Cược hai tay hai chân, 100 vạn
+chapter_number: 147
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -203,6 +206,6 @@ Về phần Tôn Vĩ bị mang đi về sau, sẽ tao ngộ cái gì, cũng căn
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-147](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-147)
 - Thời gian scrape: 2026-01-13 21:48:11
 
-
-[← Chương 146](chuong_146.md) | [📚 Mục lục](README.md) | [Chương 148 →](chuong_148.md)
-
+<div class="chapter-nav">
+    <a href="chuong_146.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_148.html" class="nav-btn">Chương sau →</a>
+</div>

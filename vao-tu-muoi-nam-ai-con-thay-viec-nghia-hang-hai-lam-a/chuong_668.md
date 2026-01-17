@@ -1,6 +1,9 @@
-
-
-[← Chương 667](chuong_667.md) | [📚 Mục lục](README.md) | [Chương 669 →](chuong_669.md)
+---
+layout: default
+title: Chương 668: May không phải thân nữ nhi
+chapter_number: 668
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -191,6 +194,6 @@ Không phải là nàng muốn làm khối kia nông trường có đầu mối.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-668](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-668)
 - Thời gian scrape: 2026-01-13 22:19:05
 
-
-[← Chương 667](chuong_667.md) | [📚 Mục lục](README.md) | [Chương 669 →](chuong_669.md)
-
+<div class="chapter-nav">
+    <a href="chuong_667.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_669.html" class="nav-btn">Chương sau →</a>
+</div>

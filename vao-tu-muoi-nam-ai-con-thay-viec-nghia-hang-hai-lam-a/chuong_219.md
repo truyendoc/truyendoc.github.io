@@ -1,6 +1,9 @@
-
-
-[← Chương 218](chuong_218.md) | [📚 Mục lục](README.md) | [Chương 220 →](chuong_220.md)
+---
+layout: default
+title: Chương 219: Trái mù lòa, dát!
+chapter_number: 219
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Mà cùng lúc đó!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-219](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-219)
 - Thời gian scrape: 2026-01-13 21:52:50
 
-
-[← Chương 218](chuong_218.md) | [📚 Mục lục](README.md) | [Chương 220 →](chuong_220.md)
-
+<div class="chapter-nav">
+    <a href="chuong_218.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_220.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 234](chuong_234.md) | [📚 Mục lục](README.md) | [Chương 236 →](chuong_236.md)
+---
+layout: default
+title: Chương 235: Mẫu nữ lần nữa đối tuyến, huyết mạch áp chế
+chapter_number: 235
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Nghe vậy, Bạch Tĩnh cười đánh Tào Côn một chút, sau đó liền �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-235](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-235)
 - Thời gian scrape: 2026-01-13 21:53:48
 
-
-[← Chương 234](chuong_234.md) | [📚 Mục lục](README.md) | [Chương 236 →](chuong_236.md)
-
+<div class="chapter-nav">
+    <a href="chuong_234.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_236.html" class="nav-btn">Chương sau →</a>
+</div>

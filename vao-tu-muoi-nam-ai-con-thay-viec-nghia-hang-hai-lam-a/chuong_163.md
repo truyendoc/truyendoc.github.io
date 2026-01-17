@@ -1,6 +1,9 @@
-
-
-[← Chương 162](chuong_162.md) | [📚 Mục lục](README.md) | [Chương 164 →](chuong_164.md)
+---
+layout: default
+title: Chương 163: Lưu Giai Mẫn bộ thứ nhất tác phẩm
+chapter_number: 163
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Dù sao, ai bảo vị gia này nắm giữ lấy có thể đem mình làm đi 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-163](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-163)
 - Thời gian scrape: 2026-01-13 21:49:12
 
-
-[← Chương 162](chuong_162.md) | [📚 Mục lục](README.md) | [Chương 164 →](chuong_164.md)
-
+<div class="chapter-nav">
+    <a href="chuong_162.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_164.html" class="nav-btn">Chương sau →</a>
+</div>

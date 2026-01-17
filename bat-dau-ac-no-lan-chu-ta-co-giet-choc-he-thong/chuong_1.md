@@ -1,6 +1,9 @@
-
-
-[📚 Mục lục](README.md) | [Chương 2 →](chuong_2.md)
+---
+layout: default
+title: Chương 1: giết chóc hệ thống
+chapter_number: 1
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -265,6 +268,6 @@ Trùng điệp đem đĩa đặt lên bàn, sau đó ngữ khí không nhịn đ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-1](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-1)
 - Thời gian scrape: 2026-01-13 21:09:07
 
-
-[📚 Mục lục](README.md) | [Chương 2 →](chuong_2.md)
-
+<div class="chapter-nav">
+    <a href="#" class="nav-btn disabled">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_2.html" class="nav-btn">Chương sau →</a>
+</div>

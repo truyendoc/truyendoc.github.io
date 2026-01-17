@@ -1,6 +1,9 @@
-
-
-[← Chương 10](chuong_10.md) | [📚 Mục lục](README.md) | [Chương 12 →](chuong_12.md)
+---
+layout: default
+title: Chương 11: 2400 vạn, quay con thoi
+chapter_number: 11
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Loại cục diện này, thay cái đồ đần đến đều biết quay con t
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-11](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-11)
 - Thời gian scrape: 2026-01-13 21:40:00
 
-
-[← Chương 10](chuong_10.md) | [📚 Mục lục](README.md) | [Chương 12 →](chuong_12.md)
-
+<div class="chapter-nav">
+    <a href="chuong_10.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_12.html" class="nav-btn">Chương sau →</a>
+</div>

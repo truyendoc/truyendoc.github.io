@@ -1,6 +1,9 @@
-
-
-[← Chương 80](chuong_80.md) | [📚 Mục lục](README.md) | [Chương 82 →](chuong_82.md)
+---
+layout: default
+title: Chương 81: trực tiếp giải trừ hôn ước
+chapter_number: 81
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -231,6 +234,6 @@ Cùng trì hoãn hôn ước, không bằng trực tiếp giải trừ tốt.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-81](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-81)
 - Thời gian scrape: 2026-01-13 00:27:15
 
-
-[← Chương 80](chuong_80.md) | [📚 Mục lục](README.md) | [Chương 82 →](chuong_82.md)
-
+<div class="chapter-nav">
+    <a href="chuong_80.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_82.html" class="nav-btn">Chương sau →</a>
+</div>

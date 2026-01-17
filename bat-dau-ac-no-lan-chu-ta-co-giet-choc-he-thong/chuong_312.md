@@ -1,6 +1,9 @@
-
-
-[← Chương 311](chuong_311.md) | [📚 Mục lục](README.md) | [Chương 313 →](chuong_313.md)
+---
+layout: default
+title: Chương 312: Nam Cương nói lễ vật (1)
+chapter_number: 312
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Bất quá, cái này mấy chi Yêu Tộc bên trong, chỉ có Xà Tộc cùng
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-312](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-312)
 - Thời gian scrape: 2026-01-13 00:23:01
 
-
-[← Chương 311](chuong_311.md) | [📚 Mục lục](README.md) | [Chương 313 →](chuong_313.md)
-
+<div class="chapter-nav">
+    <a href="chuong_311.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_313.html" class="nav-btn">Chương sau →</a>
+</div>

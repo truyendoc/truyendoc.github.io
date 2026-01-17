@@ -1,6 +1,9 @@
-
-
-[← Chương 197](chuong_197.md) | [📚 Mục lục](README.md) | [Chương 199 →](chuong_199.md)
+---
+layout: default
+title: Chương 198: Triệu Tuyết đùa ác
+chapter_number: 198
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Nguyên bản vẫn chỉ là nghĩ gõ hai lần cửa bỏ chạy Triệu Tuy�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-198](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-198)
 - Thời gian scrape: 2026-01-13 21:51:09
 
-
-[← Chương 197](chuong_197.md) | [📚 Mục lục](README.md) | [Chương 199 →](chuong_199.md)
-
+<div class="chapter-nav">
+    <a href="chuong_197.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_199.html" class="nav-btn">Chương sau →</a>
+</div>

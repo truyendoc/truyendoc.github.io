@@ -1,6 +1,9 @@
-
-
-[← Chương 89](chuong_89.md) | [📚 Mục lục](README.md) | [Chương 91 →](chuong_91.md)
+---
+layout: default
+title: Chương 90: Tất cả đều là số đào hoa
+chapter_number: 90
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Nói không chừng, đều đã đang chuẩn bị chạy trốn.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-90](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-90)
 - Thời gian scrape: 2026-01-13 21:44:52
 
-
-[← Chương 89](chuong_89.md) | [📚 Mục lục](README.md) | [Chương 91 →](chuong_91.md)
-
+<div class="chapter-nav">
+    <a href="chuong_89.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_91.html" class="nav-btn">Chương sau →</a>
+</div>

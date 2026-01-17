@@ -1,6 +1,9 @@
-
-
-[← Chương 310](chuong_310.md) | [📚 Mục lục](README.md) | [Chương 312 →](chuong_312.md)
+---
+layout: default
+title: Chương 311: Coi như vì ta nhi tử tích đức
+chapter_number: 311
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Cái này nào chỉ là bệnh thiếu máu a!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-311](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-311)
 - Thời gian scrape: 2026-01-13 21:58:20
 
-
-[← Chương 310](chuong_310.md) | [📚 Mục lục](README.md) | [Chương 312 →](chuong_312.md)
-
+<div class="chapter-nav">
+    <a href="chuong_310.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_312.html" class="nav-btn">Chương sau →</a>
+</div>

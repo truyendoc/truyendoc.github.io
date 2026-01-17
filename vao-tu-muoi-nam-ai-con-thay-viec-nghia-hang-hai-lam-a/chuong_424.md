@@ -1,6 +1,9 @@
-
-
-[← Chương 423](chuong_423.md) | [📚 Mục lục](README.md) | [Chương 425 →](chuong_425.md)
+---
+layout: default
+title: Chương 424: Tàn bạo Hạng Nam Nguyệt
+chapter_number: 424
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Khẳng định rất tàn bạo!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-424](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-424)
 - Thời gian scrape: 2026-01-13 22:04:54
 
-
-[← Chương 423](chuong_423.md) | [📚 Mục lục](README.md) | [Chương 425 →](chuong_425.md)
-
+<div class="chapter-nav">
+    <a href="chuong_423.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_425.html" class="nav-btn">Chương sau →</a>
+</div>

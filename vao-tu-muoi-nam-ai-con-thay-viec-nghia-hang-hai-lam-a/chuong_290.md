@@ -1,6 +1,9 @@
-
-
-[← Chương 289](chuong_289.md) | [📚 Mục lục](README.md) | [Chương 291 →](chuong_291.md)
+---
+layout: default
+title: Chương 290: Lại cứu một cái
+chapter_number: 290
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Thấy thế, Trương Uyển Thanh phủi một chút miệng, cũng đi theo n
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-290](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-290)
 - Thời gian scrape: 2026-01-13 21:57:09
 
-
-[← Chương 289](chuong_289.md) | [📚 Mục lục](README.md) | [Chương 291 →](chuong_291.md)
-
+<div class="chapter-nav">
+    <a href="chuong_289.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_291.html" class="nav-btn">Chương sau →</a>
+</div>

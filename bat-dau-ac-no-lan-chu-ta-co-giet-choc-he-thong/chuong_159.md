@@ -1,6 +1,9 @@
-
-
-[← Chương 158](chuong_158.md) | [📚 Mục lục](README.md) | [Chương 160 →](chuong_160.md)
+---
+layout: default
+title: Chương 159: tiến vào yêu thú lãnh địa đi săn
+chapter_number: 159
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -253,6 +256,6 @@ Thẩm Dục tuyển cái nơi thích hợp, lấy ra hai bao yêu thú dẫn đ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-159](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-159)
 - Thời gian scrape: 2026-01-13 00:31:00
 
-
-[← Chương 158](chuong_158.md) | [📚 Mục lục](README.md) | [Chương 160 →](chuong_160.md)
-
+<div class="chapter-nav">
+    <a href="chuong_158.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_160.html" class="nav-btn">Chương sau →</a>
+</div>

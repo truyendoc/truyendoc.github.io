@@ -1,6 +1,9 @@
-
-
-[← Chương 689](chuong_689.md) | [📚 Mục lục](README.md) | [Chương 691 →](chuong_691.md)
+---
+layout: default
+title: Chương 690: Đột nhiên liền thay lòng
+chapter_number: 690
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Thật coi tự mình làm từ thiện nha!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-690](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-690)
 - Thời gian scrape: 2026-01-13 22:20:24
 
-
-[← Chương 689](chuong_689.md) | [📚 Mục lục](README.md) | [Chương 691 →](chuong_691.md)
-
+<div class="chapter-nav">
+    <a href="chuong_689.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_691.html" class="nav-btn">Chương sau →</a>
+</div>

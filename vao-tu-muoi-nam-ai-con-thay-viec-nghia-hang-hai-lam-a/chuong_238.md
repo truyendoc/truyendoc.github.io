@@ -1,6 +1,9 @@
-
-
-[← Chương 237](chuong_237.md) | [📚 Mục lục](README.md) | [Chương 239 →](chuong_239.md)
+---
+layout: default
+title: Chương 238: Đầu óc tiến phân Lý Thiếu Vĩ
+chapter_number: 238
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Dương Tam Đao mi tâm vặn lên, một bên rút xì gà, một bên ngữ t
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-238](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-238)
 - Thời gian scrape: 2026-01-13 21:53:59
 
-
-[← Chương 237](chuong_237.md) | [📚 Mục lục](README.md) | [Chương 239 →](chuong_239.md)
-
+<div class="chapter-nav">
+    <a href="chuong_237.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_239.html" class="nav-btn">Chương sau →</a>
+</div>

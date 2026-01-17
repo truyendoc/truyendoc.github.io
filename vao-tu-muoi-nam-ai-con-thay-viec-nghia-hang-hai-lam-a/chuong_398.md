@@ -1,6 +1,9 @@
-
-
-[← Chương 397](chuong_397.md) | [📚 Mục lục](README.md) | [Chương 399 →](chuong_399.md)
+---
+layout: default
+title: Chương 398: Chân chính mưu đồ
+chapter_number: 398
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Nếu như không thể khống chế Lý Đại Lượng bên kia hành động
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-398](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-398)
 - Thời gian scrape: 2026-01-13 22:03:29
 
-
-[← Chương 397](chuong_397.md) | [📚 Mục lục](README.md) | [Chương 399 →](chuong_399.md)
-
+<div class="chapter-nav">
+    <a href="chuong_397.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_399.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 406](chuong_406.md) | [📚 Mục lục](README.md) | [Chương 408 →](chuong_408.md)
+---
+layout: default
+title: Chương 407: Ép khô Liễu gia
+chapter_number: 407
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Tào Côn nhìn về phía Liễu Truyền Sĩ, khẽ nhíu mày nói: "Liễu l
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-407](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-407)
 - Thời gian scrape: 2026-01-13 22:03:59
 
-
-[← Chương 406](chuong_406.md) | [📚 Mục lục](README.md) | [Chương 408 →](chuong_408.md)
-
+<div class="chapter-nav">
+    <a href="chuong_406.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_408.html" class="nav-btn">Chương sau →</a>
+</div>

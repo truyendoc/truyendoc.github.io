@@ -1,6 +1,9 @@
-
-
-[← Chương 130](chuong_130.md) | [📚 Mục lục](README.md) | [Chương 132 →](chuong_132.md)
+---
+layout: default
+title: Chương 131: Quyền cao chức trọng Tôn Phỉ Phỉ
+chapter_number: 131
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Mà Tôn Phỉ Phỉ, thì là một con. . . Bạch Hổ!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-131](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-131)
 - Thời gian scrape: 2026-01-13 21:47:04
 
-
-[← Chương 130](chuong_130.md) | [📚 Mục lục](README.md) | [Chương 132 →](chuong_132.md)
-
+<div class="chapter-nav">
+    <a href="chuong_130.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_132.html" class="nav-btn">Chương sau →</a>
+</div>

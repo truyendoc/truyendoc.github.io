@@ -1,6 +1,9 @@
-
-
-[← Chương 91](chuong_91.md) | [📚 Mục lục](README.md) | [Chương 93 →](chuong_93.md)
+---
+layout: default
+title: Chương 92: Hắc Phong trộm tận thế
+chapter_number: 92
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -231,6 +234,6 @@ Không nghĩ tới lại là chạy tới Phi Long Huyện, tiếp tục làm s�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-92](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-92)
 - Thời gian scrape: 2026-01-13 00:27:47
 
-
-[← Chương 91](chuong_91.md) | [📚 Mục lục](README.md) | [Chương 93 →](chuong_93.md)
-
+<div class="chapter-nav">
+    <a href="chuong_91.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_93.html" class="nav-btn">Chương sau →</a>
+</div>

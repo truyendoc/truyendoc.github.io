@@ -1,6 +1,9 @@
-
-
-[← Chương 20](chuong_20.md) | [📚 Mục lục](README.md) | [Chương 22 →](chuong_22.md)
+---
+layout: default
+title: Chương 21
+chapter_number: 21
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -392,6 +395,6 @@ Chúng tôi, đang bước đi bước đầu tiên tạo nên một quốc gia 
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-21](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-21)
 - Thời gian scrape: 2026-01-17 09:38:51
 
-
-[← Chương 20](chuong_20.md) | [📚 Mục lục](README.md) | [Chương 22 →](chuong_22.md)
-
+<div class="chapter-nav">
+    <a href="chuong_20.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_22.html" class="nav-btn">Chương sau →</a>
+</div>

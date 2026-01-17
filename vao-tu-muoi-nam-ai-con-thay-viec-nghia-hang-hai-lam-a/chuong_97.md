@@ -1,6 +1,9 @@
-
-
-[← Chương 96](chuong_96.md) | [📚 Mục lục](README.md) | [Chương 98 →](chuong_98.md)
+---
+layout: default
+title: Chương 97: Trong một tháng, tất diệt Lang ca
+chapter_number: 97
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Tào Côn trịnh trọng nhẹ gật đầu:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-97](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-97)
 - Thời gian scrape: 2026-01-13 21:45:18
 
-
-[← Chương 96](chuong_96.md) | [📚 Mục lục](README.md) | [Chương 98 →](chuong_98.md)
-
+<div class="chapter-nav">
+    <a href="chuong_96.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_98.html" class="nav-btn">Chương sau →</a>
+</div>

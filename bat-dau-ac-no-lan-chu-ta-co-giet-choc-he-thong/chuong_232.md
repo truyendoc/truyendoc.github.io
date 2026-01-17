@@ -1,6 +1,9 @@
-
-
-[← Chương 231](chuong_231.md) | [📚 Mục lục](README.md) | [Chương 233 →](chuong_233.md)
+---
+layout: default
+title: Chương 232: Trần chi đình bắt đầu không may (1)
+chapter_number: 232
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -121,6 +124,6 @@ Lần này linh nỏ mất trộm, có nội tặc sự tình, tất cả mọi 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-232](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-232)
 - Thời gian scrape: 2026-01-13 00:33:54
 
-
-[← Chương 231](chuong_231.md) | [📚 Mục lục](README.md) | [Chương 233 →](chuong_233.md)
-
+<div class="chapter-nav">
+    <a href="chuong_231.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_233.html" class="nav-btn">Chương sau →</a>
+</div>

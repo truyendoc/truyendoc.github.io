@@ -1,6 +1,9 @@
-
-
-[← Chương 174](chuong_174.md) | [📚 Mục lục](README.md) | [Chương 176 →](chuong_176.md)
+---
+layout: default
+title: Chương 175: Trên thế giới tốt nhất thúc thúc
+chapter_number: 175
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Tào Côn cười phun ra một ngụm màu trắng nhạt sương mù, nói: "T
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-175](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-175)
 - Thời gian scrape: 2026-01-13 21:49:51
 
-
-[← Chương 174](chuong_174.md) | [📚 Mục lục](README.md) | [Chương 176 →](chuong_176.md)
-
+<div class="chapter-nav">
+    <a href="chuong_174.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_176.html" class="nav-btn">Chương sau →</a>
+</div>

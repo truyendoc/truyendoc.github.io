@@ -1,6 +1,9 @@
-
-
-[← Chương 547](chuong_547.md) | [📚 Mục lục](README.md) | [Chương 549 →](chuong_549.md)
+---
+layout: default
+title: Chương 548: Thừa dịp tang lễ chạy trốn
+chapter_number: 548
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Chưa chừng, tiểu tử này hiện tại cũng đã ở trên trời!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-548](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-548)
 - Thời gian scrape: 2026-01-13 22:12:12
 
-
-[← Chương 547](chuong_547.md) | [📚 Mục lục](README.md) | [Chương 549 →](chuong_549.md)
-
+<div class="chapter-nav">
+    <a href="chuong_547.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_549.html" class="nav-btn">Chương sau →</a>
+</div>

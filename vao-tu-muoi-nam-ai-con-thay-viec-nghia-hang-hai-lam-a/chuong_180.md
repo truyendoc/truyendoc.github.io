@@ -1,6 +1,9 @@
-
-
-[← Chương 179](chuong_179.md) | [📚 Mục lục](README.md) | [Chương 181 →](chuong_181.md)
+---
+layout: default
+title: Chương 180: Trình Dao Dao hiểu lầm, nghĩ vừa em ta?
+chapter_number: 180
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -195,6 +198,6 @@ Trình Dương chăm chú nghĩ một lát, lắc đầu nói: "Không có, anh 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-180](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-180)
 - Thời gian scrape: 2026-01-13 21:50:08
 
-
-[← Chương 179](chuong_179.md) | [📚 Mục lục](README.md) | [Chương 181 →](chuong_181.md)
-
+<div class="chapter-nav">
+    <a href="chuong_179.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_181.html" class="nav-btn">Chương sau →</a>
+</div>

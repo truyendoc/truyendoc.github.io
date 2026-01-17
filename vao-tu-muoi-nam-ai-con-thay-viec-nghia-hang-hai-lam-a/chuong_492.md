@@ -1,6 +1,9 @@
-
-
-[← Chương 491](chuong_491.md) | [📚 Mục lục](README.md) | [Chương 493 →](chuong_493.md)
+---
+layout: default
+title: Chương 492: Tất cả đều không tính sự tình
+chapter_number: 492
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Nghe được Tào Côn nói như vậy, Vương San San vội vàng gật đầ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-492](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-492)
 - Thời gian scrape: 2026-01-13 22:08:58
 
-
-[← Chương 491](chuong_491.md) | [📚 Mục lục](README.md) | [Chương 493 →](chuong_493.md)
-
+<div class="chapter-nav">
+    <a href="chuong_491.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_493.html" class="nav-btn">Chương sau →</a>
+</div>

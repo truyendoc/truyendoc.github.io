@@ -1,6 +1,9 @@
-
-
-[← Chương 292](chuong_292.md) | [📚 Mục lục](README.md) | [Chương 294 →](chuong_294.md)
+---
+layout: default
+title: Chương 293: Cẩu Nhất Vĩ phụ thân quyển nhật ký
+chapter_number: 293
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -143,6 +146,6 @@ Chỉ là giới hạn không có để nàng ngất đi mà thôi.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-293](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-293)
 - Thời gian scrape: 2026-01-13 21:57:19
 
-
-[← Chương 292](chuong_292.md) | [📚 Mục lục](README.md) | [Chương 294 →](chuong_294.md)
-
+<div class="chapter-nav">
+    <a href="chuong_292.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_294.html" class="nav-btn">Chương sau →</a>
+</div>

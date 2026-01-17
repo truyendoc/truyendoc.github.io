@@ -1,6 +1,9 @@
-
-
-[← Chương 467](chuong_467.md) | [📚 Mục lục](README.md) | [Chương 469 →](chuong_469.md)
+---
+layout: default
+title: Chương 468: Bận rộn lễ Giáng Sinh
+chapter_number: 468
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -195,6 +198,6 @@ Mà là, một loạt mỗi người đều mang đặc sắc nữ tính gợi c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-468](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-468)
 - Thời gian scrape: 2026-01-13 22:07:37
 
-
-[← Chương 467](chuong_467.md) | [📚 Mục lục](README.md) | [Chương 469 →](chuong_469.md)
-
+<div class="chapter-nav">
+    <a href="chuong_467.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_469.html" class="nav-btn">Chương sau →</a>
+</div>

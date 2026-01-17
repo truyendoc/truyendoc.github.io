@@ -1,6 +1,9 @@
-
-
-[← Chương 74](chuong_74.md) | [📚 Mục lục](README.md) | [Chương 76 →](chuong_76.md)
+---
+layout: default
+title: Chương 75
+chapter_number: 75
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -708,6 +711,6 @@ Sẽ có một cuộc họp quan trọng sẽ quyết định số phận của 
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-75](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-75)
 - Thời gian scrape: 2026-01-17 09:41:18
 
-
-[← Chương 74](chuong_74.md) | [📚 Mục lục](README.md) | [Chương 76 →](chuong_76.md)
-
+<div class="chapter-nav">
+    <a href="chuong_74.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_76.html" class="nav-btn">Chương sau →</a>
+</div>

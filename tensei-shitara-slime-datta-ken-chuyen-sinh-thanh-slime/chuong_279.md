@@ -1,6 +1,9 @@
-
-
-[← Chương 278](chuong_278.md) | [📚 Mục lục](README.md) | [Chương 280 →](chuong_280.md)
+---
+layout: default
+title: Chương 279
+chapter_number: 279
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -470,6 +473,6 @@ Túm lại thì, cơn hỗn loạn vẫn còn kéo dài thêm một lúc lâu n�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-279](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-279)
 - Thời gian scrape: 2026-01-17 09:51:01
 
-
-[← Chương 278](chuong_278.md) | [📚 Mục lục](README.md) | [Chương 280 →](chuong_280.md)
-
+<div class="chapter-nav">
+    <a href="chuong_278.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_280.html" class="nav-btn">Chương sau →</a>
+</div>

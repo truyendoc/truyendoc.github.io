@@ -1,6 +1,9 @@
-
-
-[← Chương 81](chuong_81.md) | [📚 Mục lục](README.md) | [Chương 83 →](chuong_83.md)
+---
+layout: default
+title: Chương 82: Mercedes-Benz G giáo hoa?
+chapter_number: 82
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Căn cứ đánh giả suy nghĩ, Tào Côn từ bỏ chui rừng trúc, quay ng
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-82](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-82)
 - Thời gian scrape: 2026-01-13 21:44:27
 
-
-[← Chương 81](chuong_81.md) | [📚 Mục lục](README.md) | [Chương 83 →](chuong_83.md)
-
+<div class="chapter-nav">
+    <a href="chuong_81.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_83.html" class="nav-btn">Chương sau →</a>
+</div>

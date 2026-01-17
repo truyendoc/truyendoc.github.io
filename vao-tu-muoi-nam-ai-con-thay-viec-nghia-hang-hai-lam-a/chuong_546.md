@@ -1,6 +1,9 @@
-
-
-[← Chương 545](chuong_545.md) | [📚 Mục lục](README.md) | [Chương 547 →](chuong_547.md)
+---
+layout: default
+title: Chương 546: Năm trước một lần cuối cùng tang lễ
+chapter_number: 546
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Dưới loại tình huống này, đổi thành ai cũng đoán chừng đều 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-546](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-546)
 - Thời gian scrape: 2026-01-13 22:12:06
 
-
-[← Chương 545](chuong_545.md) | [📚 Mục lục](README.md) | [Chương 547 →](chuong_547.md)
-
+<div class="chapter-nav">
+    <a href="chuong_545.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_547.html" class="nav-btn">Chương sau →</a>
+</div>

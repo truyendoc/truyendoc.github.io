@@ -1,6 +1,9 @@
-
-
-[← Chương 286](chuong_286.md) | [📚 Mục lục](README.md) | [Chương 288 →](chuong_288.md)
+---
+layout: default
+title: Chương 287: Hôm nay Âu hoàng (2)
+chapter_number: 287
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -121,6 +124,6 @@ Bất quá, hắn vẫn là để người thông tri hạ hai vị di nương, 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-287](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-287)
 - Thời gian scrape: 2026-01-13 00:22:01
 
-
-[← Chương 286](chuong_286.md) | [📚 Mục lục](README.md) | [Chương 288 →](chuong_288.md)
-
+<div class="chapter-nav">
+    <a href="chuong_286.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_288.html" class="nav-btn">Chương sau →</a>
+</div>

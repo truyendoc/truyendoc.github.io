@@ -1,6 +1,9 @@
-
-
-[← Chương 224](chuong_224.md) | [📚 Mục lục](README.md) | [Chương 226 →](chuong_226.md)
+---
+layout: default
+title: Chương 225: đến Kinh Thành
+chapter_number: 225
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -227,6 +230,6 @@ Nhìn xem cái kia hai phiến khí phái cửa lớn, Thẩm Dục vô ý thứ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-225](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-225)
 - Thời gian scrape: 2026-01-13 00:33:37
 
-
-[← Chương 224](chuong_224.md) | [📚 Mục lục](README.md) | [Chương 226 →](chuong_226.md)
-
+<div class="chapter-nav">
+    <a href="chuong_224.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_226.html" class="nav-btn">Chương sau →</a>
+</div>

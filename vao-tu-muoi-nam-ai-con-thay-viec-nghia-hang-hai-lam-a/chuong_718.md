@@ -1,6 +1,9 @@
-
-
-[← Chương 717](chuong_717.md) | [📚 Mục lục](README.md) | [Chương 719 →](chuong_719.md)
+---
+layout: default
+title: Chương 718: Mũ thúc thúc lại tới
+chapter_number: 718
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Nữ mũ thúc thúc một bên nhanh chóng ghi chép Tào Côn khẩu cung, m�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-718](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-718)
 - Thời gian scrape: 2026-01-13 22:21:56
 
-
-[← Chương 717](chuong_717.md) | [📚 Mục lục](README.md) | [Chương 719 →](chuong_719.md)
-
+<div class="chapter-nav">
+    <a href="chuong_717.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_719.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 185](chuong_185.md) | [📚 Mục lục](README.md) | [Chương 187 →](chuong_187.md)
+---
+layout: default
+title: Chương 186: Quán bar nội bộ thanh lý
+chapter_number: 186
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Bởi vì cái gọi là, diệt bên ngoài thì trước hết phải yên bê
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-186](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-186)
 - Thời gian scrape: 2026-01-13 21:50:28
 
-
-[← Chương 185](chuong_185.md) | [📚 Mục lục](README.md) | [Chương 187 →](chuong_187.md)
-
+<div class="chapter-nav">
+    <a href="chuong_185.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_187.html" class="nav-btn">Chương sau →</a>
+</div>

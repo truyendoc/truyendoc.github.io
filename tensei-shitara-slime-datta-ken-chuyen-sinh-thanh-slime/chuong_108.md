@@ -1,6 +1,9 @@
-
-
-[← Chương 107](chuong_107.md) | [📚 Mục lục](README.md) | [Chương 109 →](chuong_109.md)
+---
+layout: default
+title: Chương 108
+chapter_number: 108
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -484,6 +487,6 @@ Và tôi chấp tay lại nguyện cầu.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-108](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-108)
 - Thời gian scrape: 2026-01-17 09:42:51
 
-
-[← Chương 107](chuong_107.md) | [📚 Mục lục](README.md) | [Chương 109 →](chuong_109.md)
-
+<div class="chapter-nav">
+    <a href="chuong_107.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_109.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 557](chuong_557.md) | [📚 Mục lục](README.md) | [Chương 559 →](chuong_559.md)
+---
+layout: default
+title: Chương 558: Tốt
+chapter_number: 558
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Theo Tào Côn gõ hai lần cửa phòng, rất nhanh, cửa phòng liền mở
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-558](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-558)
 - Thời gian scrape: 2026-01-13 22:12:43
 
-
-[← Chương 557](chuong_557.md) | [📚 Mục lục](README.md) | [Chương 559 →](chuong_559.md)
-
+<div class="chapter-nav">
+    <a href="chuong_557.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_559.html" class="nav-btn">Chương sau →</a>
+</div>

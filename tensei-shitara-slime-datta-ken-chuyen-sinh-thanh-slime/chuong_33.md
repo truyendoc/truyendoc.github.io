@@ -1,6 +1,9 @@
-
-
-[← Chương 32](chuong_32.md) | [📚 Mục lục](README.md) | [Chương 34 →](chuong_34.md)
+---
+layout: default
+title: Chương 33
+chapter_number: 33
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -422,6 +425,6 @@ Thế là, bức màn của sự hỗn loạn đã được kéo lên.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-33](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-33)
 - Thời gian scrape: 2026-01-17 09:39:23
 
-
-[← Chương 32](chuong_32.md) | [📚 Mục lục](README.md) | [Chương 34 →](chuong_34.md)
-
+<div class="chapter-nav">
+    <a href="chuong_32.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_34.html" class="nav-btn">Chương sau →</a>
+</div>

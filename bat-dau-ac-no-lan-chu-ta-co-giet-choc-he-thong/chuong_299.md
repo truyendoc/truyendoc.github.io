@@ -1,6 +1,9 @@
-
-
-[← Chương 298](chuong_298.md) | [📚 Mục lục](README.md) | [Chương 300 →](chuong_300.md)
+---
+layout: default
+title: Chương 299: Vu tộc tính toán (2)
+chapter_number: 299
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -107,6 +110,6 @@ Chỉ cần Yêu Tộc không cùng bọn hắn cứng đối cứng, bọn hắ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-299](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-299)
 - Thời gian scrape: 2026-01-13 00:22:30
 
-
-[← Chương 298](chuong_298.md) | [📚 Mục lục](README.md) | [Chương 300 →](chuong_300.md)
-
+<div class="chapter-nav">
+    <a href="chuong_298.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_300.html" class="nav-btn">Chương sau →</a>
+</div>

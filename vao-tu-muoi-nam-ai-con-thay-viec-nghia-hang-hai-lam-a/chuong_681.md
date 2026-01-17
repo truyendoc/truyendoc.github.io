@@ -1,6 +1,9 @@
-
-
-[← Chương 680](chuong_680.md) | [📚 Mục lục](README.md) | [Chương 682 →](chuong_682.md)
+---
+layout: default
+title: Chương 681: Cho ta ba ngày thời gian
+chapter_number: 681
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Olivia một chút cười ha ha lên, nói: "Đúng đúng đúng, ta có thể
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-681](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-681)
 - Thời gian scrape: 2026-01-13 22:19:54
 
-
-[← Chương 680](chuong_680.md) | [📚 Mục lục](README.md) | [Chương 682 →](chuong_682.md)
-
+<div class="chapter-nav">
+    <a href="chuong_680.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_682.html" class="nav-btn">Chương sau →</a>
+</div>

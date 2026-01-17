@@ -1,6 +1,9 @@
-
-
-[← Chương 343](chuong_343.md) | [📚 Mục lục](README.md) | [Chương 345 →](chuong_345.md)
+---
+layout: default
+title: Chương 344: Cấm dục Dương Tam Đao
+chapter_number: 344
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Nghe vậy, Tào Côn cùng Lâm Thi Hàm khẽ giật mình, tất cả đều 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-344](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-344)
 - Thời gian scrape: 2026-01-13 22:00:18
 
-
-[← Chương 343](chuong_343.md) | [📚 Mục lục](README.md) | [Chương 345 →](chuong_345.md)
-
+<div class="chapter-nav">
+    <a href="chuong_343.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_345.html" class="nav-btn">Chương sau →</a>
+</div>

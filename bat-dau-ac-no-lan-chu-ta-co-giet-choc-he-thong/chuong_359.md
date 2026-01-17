@@ -1,6 +1,9 @@
-
-
-[← Chương 358](chuong_358.md) | [📚 Mục lục](README.md) | [Chương 360 →](chuong_360.md)
+---
+layout: default
+title: Chương 359: Thái Thượng Hoàng đến (2)
+chapter_number: 359
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -95,6 +98,6 @@ Nhưng Ngao Thanh Sương lại quyết định cùng hắn cùng đi.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-359](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-359)
 - Thời gian scrape: 2026-01-13 00:24:52
 
-
-[← Chương 358](chuong_358.md) | [📚 Mục lục](README.md) | [Chương 360 →](chuong_360.md)
-
+<div class="chapter-nav">
+    <a href="chuong_358.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_360.html" class="nav-btn">Chương sau →</a>
+</div>

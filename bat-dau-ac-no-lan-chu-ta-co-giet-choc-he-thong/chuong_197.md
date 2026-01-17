@@ -1,6 +1,9 @@
-
-
-[← Chương 196](chuong_196.md) | [📚 Mục lục](README.md) | [Chương 198 →](chuong_198.md)
+---
+layout: default
+title: Chương 197: lang yêu
+chapter_number: 197
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -245,6 +248,6 @@ Trong đó liền gặp được nhiều lần liên quan tới lang yêu, cho n
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-197](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-197)
 - Thời gian scrape: 2026-01-13 00:32:31
 
-
-[← Chương 196](chuong_196.md) | [📚 Mục lục](README.md) | [Chương 198 →](chuong_198.md)
-
+<div class="chapter-nav">
+    <a href="chuong_196.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_198.html" class="nav-btn">Chương sau →</a>
+</div>

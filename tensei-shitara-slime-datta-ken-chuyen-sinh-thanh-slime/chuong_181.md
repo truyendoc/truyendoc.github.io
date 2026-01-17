@@ -1,6 +1,9 @@
-
-
-[← Chương 180](chuong_180.md) | [📚 Mục lục](README.md) | [Chương 182 →](chuong_182.md)
+---
+layout: default
+title: Chương 181
+chapter_number: 181
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -432,6 +435,6 @@ Thế rồi, đúng như Veyron đã dự trước, cặp đôi Quỷ Vương th
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-181](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-181)
 - Thời gian scrape: 2026-01-17 09:46:17
 
-
-[← Chương 180](chuong_180.md) | [📚 Mục lục](README.md) | [Chương 182 →](chuong_182.md)
-
+<div class="chapter-nav">
+    <a href="chuong_180.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_182.html" class="nav-btn">Chương sau →</a>
+</div>

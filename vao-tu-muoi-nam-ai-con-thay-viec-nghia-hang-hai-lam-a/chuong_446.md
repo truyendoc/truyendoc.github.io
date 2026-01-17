@@ -1,6 +1,9 @@
-
-
-[← Chương 445](chuong_445.md) | [📚 Mục lục](README.md) | [Chương 447 →](chuong_447.md)
+---
+layout: default
+title: Chương 446: Đưa tới cửa Quách gia
+chapter_number: 446
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Cho nên, tự nhiên cũng liền không cần cái gì máy bay không ngườ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-446](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-446)
 - Thời gian scrape: 2026-01-13 22:06:10
 
-
-[← Chương 445](chuong_445.md) | [📚 Mục lục](README.md) | [Chương 447 →](chuong_447.md)
-
+<div class="chapter-nav">
+    <a href="chuong_445.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_447.html" class="nav-btn">Chương sau →</a>
+</div>

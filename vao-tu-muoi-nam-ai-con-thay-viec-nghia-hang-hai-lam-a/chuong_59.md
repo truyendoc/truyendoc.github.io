@@ -1,6 +1,9 @@
-
-
-[← Chương 58](chuong_58.md) | [📚 Mục lục](README.md) | [Chương 60 →](chuong_60.md)
+---
+layout: default
+title: Chương 59: Bạch Tĩnh cùng Lưu Ngọc Linh gặp mặt
+chapter_number: 59
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Nói, Tào Côn lại vì Lưu Ngọc Linh làm giới thiệu: "Bạch Tĩnh, t
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-59](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-59)
 - Thời gian scrape: 2026-01-13 21:42:42
 
-
-[← Chương 58](chuong_58.md) | [📚 Mục lục](README.md) | [Chương 60 →](chuong_60.md)
-
+<div class="chapter-nav">
+    <a href="chuong_58.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_60.html" class="nav-btn">Chương sau →</a>
+</div>

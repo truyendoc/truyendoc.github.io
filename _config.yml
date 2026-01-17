@@ -1,0 +1,16 @@
+title: Truyện Đọc
+description: Kho truyện convert cập nhật tự động
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+# Navigation settings
+header_pages:
+  - index.html
+
+# Exclude list
+exclude:
+  - Gemfile
+  - Gemfile.lock

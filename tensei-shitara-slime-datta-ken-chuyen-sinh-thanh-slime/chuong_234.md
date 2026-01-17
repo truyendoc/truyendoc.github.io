@@ -1,6 +1,9 @@
-
-
-[← Chương 233](chuong_233.md) | [📚 Mục lục](README.md) | [Chương 235 →](chuong_235.md)
+---
+layout: default
+title: Chương 234
+chapter_number: 234
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -414,6 +417,6 @@ Và thế là cô thầm cầu nguyện, ước rằng Dino sẽ lại là bạn
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-234](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-234)
 - Thời gian scrape: 2026-01-17 09:48:51
 
-
-[← Chương 233](chuong_233.md) | [📚 Mục lục](README.md) | [Chương 235 →](chuong_235.md)
-
+<div class="chapter-nav">
+    <a href="chuong_233.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_235.html" class="nav-btn">Chương sau →</a>
+</div>

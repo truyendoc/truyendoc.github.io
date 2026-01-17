@@ -1,6 +1,9 @@
-
-
-[← Chương 189](chuong_189.md) | [📚 Mục lục](README.md) | [Chương 191 →](chuong_191.md)
+---
+layout: default
+title: Chương 190: Thi Quỷ
+chapter_number: 190
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -251,6 +254,6 @@ Ba lần tiến hóa càng thêm khó lường, đã có được Thông Mạch 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-190](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-190)
 - Thời gian scrape: 2026-01-13 00:32:15
 
-
-[← Chương 189](chuong_189.md) | [📚 Mục lục](README.md) | [Chương 191 →](chuong_191.md)
-
+<div class="chapter-nav">
+    <a href="chuong_189.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_191.html" class="nav-btn">Chương sau →</a>
+</div>

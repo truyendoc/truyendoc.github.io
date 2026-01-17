@@ -1,6 +1,9 @@
-
-
-[← Chương 78](chuong_78.md) | [📚 Mục lục](README.md) | [Chương 80 →](chuong_80.md)
+---
+layout: default
+title: Chương 79: Vương Tâm Thiền từ hôn
+chapter_number: 79
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -205,6 +208,6 @@ Bây giờ nàng đã là Xích Diễm Tông đệ tử, hiện tại, nàng ph�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-79](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-79)
 - Thời gian scrape: 2026-01-13 00:27:10
 
-
-[← Chương 78](chuong_78.md) | [📚 Mục lục](README.md) | [Chương 80 →](chuong_80.md)
-
+<div class="chapter-nav">
+    <a href="chuong_78.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_80.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 56](chuong_56.md) | [📚 Mục lục](README.md) | [Chương 58 →](chuong_58.md)
+---
+layout: default
+title: Chương 57
+chapter_number: 57
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -490,6 +493,6 @@ Cướp truy đuổi: ở đây, ý Rimuru là bọn cướp dùng ngựa, xe…
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-57](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-57)
 - Thời gian scrape: 2026-01-17 09:40:29
 
-
-[← Chương 56](chuong_56.md) | [📚 Mục lục](README.md) | [Chương 58 →](chuong_58.md)
-
+<div class="chapter-nav">
+    <a href="chuong_56.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_58.html" class="nav-btn">Chương sau →</a>
+</div>

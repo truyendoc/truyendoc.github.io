@@ -1,6 +1,9 @@
-
-
-[← Chương 111](chuong_111.md) | [📚 Mục lục](README.md) | [Chương 113 →](chuong_113.md)
+---
+layout: default
+title: Chương 112: tiền nhiệm Trấn Yêu Ti tiểu kỳ
+chapter_number: 112
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -201,6 +204,6 @@ Các loại Triệu Binh rời đi, Thẩm Dục liền bắt đầu lật xem l
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-112](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-112)
 - Thời gian scrape: 2026-01-13 00:28:46
 
-
-[← Chương 111](chuong_111.md) | [📚 Mục lục](README.md) | [Chương 113 →](chuong_113.md)
-
+<div class="chapter-nav">
+    <a href="chuong_111.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_113.html" class="nav-btn">Chương sau →</a>
+</div>

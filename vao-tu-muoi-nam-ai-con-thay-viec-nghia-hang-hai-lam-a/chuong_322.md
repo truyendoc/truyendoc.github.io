@@ -1,6 +1,9 @@
-
-
-[← Chương 321](chuong_321.md) | [📚 Mục lục](README.md) | [Chương 323 →](chuong_323.md)
+---
+layout: default
+title: Chương 322: Được hoan nghênh Vương Nhất Phu
+chapter_number: 322
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Cho nên, Tào Côn dự định, cho hắn vốn là đã kích thích ngục g
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-322](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-322)
 - Thời gian scrape: 2026-01-13 21:59:01
 
-
-[← Chương 321](chuong_321.md) | [📚 Mục lục](README.md) | [Chương 323 →](chuong_323.md)
-
+<div class="chapter-nav">
+    <a href="chuong_321.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_323.html" class="nav-btn">Chương sau →</a>
+</div>

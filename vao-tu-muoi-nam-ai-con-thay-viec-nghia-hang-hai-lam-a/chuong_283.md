@@ -1,6 +1,9 @@
-
-
-[← Chương 282](chuong_282.md) | [📚 Mục lục](README.md) | [Chương 284 →](chuong_284.md)
+---
+layout: default
+title: Chương 283: Bị ghét bỏ Lam Khả Tâm
+chapter_number: 283
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Lam Khả Tâm hai mắt lớn trừng, mặt mũi tràn đầy không thể tư
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-283](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-283)
 - Thời gian scrape: 2026-01-13 21:56:47
 
-
-[← Chương 282](chuong_282.md) | [📚 Mục lục](README.md) | [Chương 284 →](chuong_284.md)
-
+<div class="chapter-nav">
+    <a href="chuong_282.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_284.html" class="nav-btn">Chương sau →</a>
+</div>

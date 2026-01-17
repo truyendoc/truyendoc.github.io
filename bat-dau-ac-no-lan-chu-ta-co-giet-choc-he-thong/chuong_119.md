@@ -1,6 +1,9 @@
-
-
-[← Chương 118](chuong_118.md) | [📚 Mục lục](README.md) | [Chương 120 →](chuong_120.md)
+---
+layout: default
+title: Chương 119: Hắc Bạch Song Sát
+chapter_number: 119
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -217,6 +220,6 @@ Ngu Tuyết Oánh sắc mặt cũng là đột nhiên đại biến, bởi vì n
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-119](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-119)
 - Thời gian scrape: 2026-01-13 00:29:07
 
-
-[← Chương 118](chuong_118.md) | [📚 Mục lục](README.md) | [Chương 120 →](chuong_120.md)
-
+<div class="chapter-nav">
+    <a href="chuong_118.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_120.html" class="nav-btn">Chương sau →</a>
+</div>

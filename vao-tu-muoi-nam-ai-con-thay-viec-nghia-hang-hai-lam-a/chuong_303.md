@@ -1,6 +1,9 @@
-
-
-[← Chương 302](chuong_302.md) | [📚 Mục lục](README.md) | [Chương 304 →](chuong_304.md)
+---
+layout: default
+title: Chương 303: Cẩu Nhất Vĩ tử kỳ đến rồi
+chapter_number: 303
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Bởi vì điện báo biểu hiện, chính là Cẩu Nhất Vĩ!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-303](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-303)
 - Thời gian scrape: 2026-01-13 21:57:48
 
-
-[← Chương 302](chuong_302.md) | [📚 Mục lục](README.md) | [Chương 304 →](chuong_304.md)
-
+<div class="chapter-nav">
+    <a href="chuong_302.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_304.html" class="nav-btn">Chương sau →</a>
+</div>

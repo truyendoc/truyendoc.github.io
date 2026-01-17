@@ -1,6 +1,9 @@
-
-
-[← Chương 476](chuong_476.md) | [📚 Mục lục](README.md) | [Chương 478 →](chuong_478.md)
+---
+layout: default
+title: Chương 477: Hạng Nam Nguyệt nhập bọn
+chapter_number: 477
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Mà chúng nữ cũng đều đều có các xe thể thao, cũng không biết 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-477](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-477)
 - Thời gian scrape: 2026-01-13 22:08:09
 
-
-[← Chương 476](chuong_476.md) | [📚 Mục lục](README.md) | [Chương 478 →](chuong_478.md)
-
+<div class="chapter-nav">
+    <a href="chuong_476.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_478.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 165](chuong_165.md) | [📚 Mục lục](README.md) | [Chương 167 →](chuong_167.md)
+---
+layout: default
+title: Chương 166: Có thể hay không đem vị hôn phu ta coi là người
+chapter_number: 166
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -213,6 +216,6 @@ Cho nên, mới không phải nàng khác nhau đối đãi đâu!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-166](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-166)
 - Thời gian scrape: 2026-01-13 21:49:21
 
-
-[← Chương 165](chuong_165.md) | [📚 Mục lục](README.md) | [Chương 167 →](chuong_167.md)
-
+<div class="chapter-nav">
+    <a href="chuong_165.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_167.html" class="nav-btn">Chương sau →</a>
+</div>

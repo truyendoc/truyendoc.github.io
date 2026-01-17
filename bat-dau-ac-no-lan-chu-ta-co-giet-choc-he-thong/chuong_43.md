@@ -1,6 +1,9 @@
-
-
-[← Chương 42](chuong_42.md) | [📚 Mục lục](README.md) | [Chương 44 →](chuong_44.md)
+---
+layout: default
+title: Chương 43: u oán Phong Uyển Nhi
+chapter_number: 43
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -249,6 +252,6 @@ Nhìn thấy một mặt bình tĩnh Thẩm Dục, Phong Uyển Nhi ngữ khí u
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-43](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-43)
 - Thời gian scrape: 2026-01-13 21:14:14
 
-
-[← Chương 42](chuong_42.md) | [📚 Mục lục](README.md) | [Chương 44 →](chuong_44.md)
-
+<div class="chapter-nav">
+    <a href="chuong_42.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_44.html" class="nav-btn">Chương sau →</a>
+</div>

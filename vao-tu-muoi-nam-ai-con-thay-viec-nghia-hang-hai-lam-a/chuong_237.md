@@ -1,6 +1,9 @@
-
-
-[← Chương 236](chuong_236.md) | [📚 Mục lục](README.md) | [Chương 238 →](chuong_238.md)
+---
+layout: default
+title: Chương 237: Đánh sinh cái cọc tâm phúc
+chapter_number: 237
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Nghe vậy, Tiêu Văn Tĩnh đều khí cười, nói: "Dương Tam Đao, ngư�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-237](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-237)
 - Thời gian scrape: 2026-01-13 21:53:56
 
-
-[← Chương 236](chuong_236.md) | [📚 Mục lục](README.md) | [Chương 238 →](chuong_238.md)
-
+<div class="chapter-nav">
+    <a href="chuong_236.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_238.html" class="nav-btn">Chương sau →</a>
+</div>

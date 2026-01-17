@@ -1,6 +1,9 @@
-
-
-[← Chương 124](chuong_124.md) | [📚 Mục lục](README.md) | [Chương 126 →](chuong_126.md)
+---
+layout: default
+title: Chương 125: thế cục đột biến
+chapter_number: 125
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -225,6 +228,6 @@ Sau đó phản quân nắm lấy cơ hội từ Ô Lâm Huyện g·iết ra, đ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-125](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-125)
 - Thời gian scrape: 2026-01-13 00:29:25
 
-
-[← Chương 124](chuong_124.md) | [📚 Mục lục](README.md) | [Chương 126 →](chuong_126.md)
-
+<div class="chapter-nav">
+    <a href="chuong_124.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_126.html" class="nav-btn">Chương sau →</a>
+</div>

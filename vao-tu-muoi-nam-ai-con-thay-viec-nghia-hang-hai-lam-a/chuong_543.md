@@ -1,6 +1,9 @@
-
-
-[← Chương 542](chuong_542.md) | [📚 Mục lục](README.md) | [Chương 544 →](chuong_544.md)
+---
+layout: default
+title: Chương 543: Lão bản là cao thủ?
+chapter_number: 543
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Nhìn thấy Tào Côn xuống xe để Ngốc Cẩu lái xe rời đi, Bàng H�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-543](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-543)
 - Thời gian scrape: 2026-01-13 22:11:55
 
-
-[← Chương 542](chuong_542.md) | [📚 Mục lục](README.md) | [Chương 544 →](chuong_544.md)
-
+<div class="chapter-nav">
+    <a href="chuong_542.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_544.html" class="nav-btn">Chương sau →</a>
+</div>

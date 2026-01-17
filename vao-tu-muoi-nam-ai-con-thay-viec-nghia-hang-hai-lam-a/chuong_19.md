@@ -1,6 +1,9 @@
-
-
-[← Chương 18](chuong_18.md) | [📚 Mục lục](README.md) | [Chương 20 →](chuong_20.md)
+---
+layout: default
+title: Chương 19: Ngươi thật biết vợ ngươi là hạng người gì sao
+chapter_number: 19
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Cho nên, Tào Côn rất vững tin, hắn cái tin tức này một phát qua 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-19](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-19)
 - Thời gian scrape: 2026-01-13 21:40:26
 
-
-[← Chương 18](chuong_18.md) | [📚 Mục lục](README.md) | [Chương 20 →](chuong_20.md)
-
+<div class="chapter-nav">
+    <a href="chuong_18.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_20.html" class="nav-btn">Chương sau →</a>
+</div>

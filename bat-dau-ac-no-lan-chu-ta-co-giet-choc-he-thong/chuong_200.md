@@ -1,6 +1,9 @@
-
-
-[← Chương 199](chuong_199.md) | [📚 Mục lục](README.md) | [Chương 201 →](chuong_201.md)
+---
+layout: default
+title: Chương 200: giết vào Kim Lang tộc lão tổ
+chapter_number: 200
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -217,6 +220,6 @@ Thẩm Dục thần thức đảo qua trong thành những cái kia Nguyên Đan
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-200](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-200)
 - Thời gian scrape: 2026-01-13 00:32:38
 
-
-[← Chương 199](chuong_199.md) | [📚 Mục lục](README.md) | [Chương 201 →](chuong_201.md)
-
+<div class="chapter-nav">
+    <a href="chuong_199.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_201.html" class="nav-btn">Chương sau →</a>
+</div>

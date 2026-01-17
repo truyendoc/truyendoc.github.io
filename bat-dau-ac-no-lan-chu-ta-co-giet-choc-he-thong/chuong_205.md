@@ -1,6 +1,9 @@
-
-
-[← Chương 204](chuong_204.md) | [📚 Mục lục](README.md) | [Chương 206 →](chuong_206.md)
+---
+layout: default
+title: Chương 205: phản sát
+chapter_number: 205
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -253,6 +256,6 @@ Dù sao thịt muỗi cũng là thịt, đây chính là hành tẩu điểm g·
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-205](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-205)
 - Thời gian scrape: 2026-01-13 00:32:50
 
-
-[← Chương 204](chuong_204.md) | [📚 Mục lục](README.md) | [Chương 206 →](chuong_206.md)
-
+<div class="chapter-nav">
+    <a href="chuong_204.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_206.html" class="nav-btn">Chương sau →</a>
+</div>

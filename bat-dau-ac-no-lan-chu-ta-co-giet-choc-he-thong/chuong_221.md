@@ -1,6 +1,9 @@
-
-
-[← Chương 220](chuong_220.md) | [📚 Mục lục](README.md) | [Chương 222 →](chuong_222.md)
+---
+layout: default
+title: Chương 221: tiểu trấn bị tập kích
+chapter_number: 221
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -233,6 +236,6 @@ Lý Linh Nhi lập tức mặc quần áo tử tế tiến về Thẩm Lâm Th�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-221](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-221)
 - Thời gian scrape: 2026-01-13 00:33:28
 
-
-[← Chương 220](chuong_220.md) | [📚 Mục lục](README.md) | [Chương 222 →](chuong_222.md)
-
+<div class="chapter-nav">
+    <a href="chuong_220.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_222.html" class="nav-btn">Chương sau →</a>
+</div>

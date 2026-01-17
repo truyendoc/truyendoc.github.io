@@ -1,6 +1,9 @@
-
-
-[← Chương 283](chuong_283.md) | [📚 Mục lục](README.md) | [Chương 285 →](chuong_285.md)
+---
+layout: default
+title: Chương 284: Ta thế nhưng là truyền thống bảo thủ nữ nhân
+chapter_number: 284
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Nghe được Cẩu Nhất Vĩ nói như vậy, Tào Côn một ngụm đáp ứ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-284](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-284)
 - Thời gian scrape: 2026-01-13 21:56:49
 
-
-[← Chương 283](chuong_283.md) | [📚 Mục lục](README.md) | [Chương 285 →](chuong_285.md)
-
+<div class="chapter-nav">
+    <a href="chuong_283.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_285.html" class="nav-btn">Chương sau →</a>
+</div>

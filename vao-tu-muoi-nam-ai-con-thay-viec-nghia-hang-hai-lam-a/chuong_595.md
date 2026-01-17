@@ -1,6 +1,9 @@
-
-
-[← Chương 594](chuong_594.md) | [📚 Mục lục](README.md) | [Chương 596 →](chuong_596.md)
+---
+layout: default
+title: Chương 595: Thứ ba trạm, chó nữ nhân
+chapter_number: 595
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Tào Côn nhẹ gật đầu, nói: "Được rồi, cái gì cũng đừng nói
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-595](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-595)
 - Thời gian scrape: 2026-01-13 22:14:47
 
-
-[← Chương 594](chuong_594.md) | [📚 Mục lục](README.md) | [Chương 596 →](chuong_596.md)
-
+<div class="chapter-nav">
+    <a href="chuong_594.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_596.html" class="nav-btn">Chương sau →</a>
+</div>

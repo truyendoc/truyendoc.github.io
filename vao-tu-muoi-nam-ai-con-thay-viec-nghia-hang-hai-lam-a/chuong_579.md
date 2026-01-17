@@ -1,6 +1,9 @@
-
-
-[← Chương 578](chuong_578.md) | [📚 Mục lục](README.md) | [Chương 580 →](chuong_580.md)
+---
+layout: default
+title: Chương 579: Cho hảo huynh đệ tìm tốt luật sư
+chapter_number: 579
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Tào Côn nghĩ nghĩ, lắc đầu nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-579](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-579)
 - Thời gian scrape: 2026-01-13 22:13:56
 
-
-[← Chương 578](chuong_578.md) | [📚 Mục lục](README.md) | [Chương 580 →](chuong_580.md)
-
+<div class="chapter-nav">
+    <a href="chuong_578.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_580.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 339](chuong_339.md) | [📚 Mục lục](README.md) | [Chương 341 →](chuong_341.md)
+---
+layout: default
+title: Chương 340: Tự nhận cao minh mở ra Nguyên Đế (1)
+chapter_number: 340
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -115,6 +118,6 @@ Thân ở trong đội ngũ Thẩm Dục ánh mắt đảo qua cửa thành hai 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-340](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-340)
 - Thời gian scrape: 2026-01-13 00:24:07
 
-
-[← Chương 339](chuong_339.md) | [📚 Mục lục](README.md) | [Chương 341 →](chuong_341.md)
-
+<div class="chapter-nav">
+    <a href="chuong_339.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_341.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 412](chuong_412.md) | [📚 Mục lục](README.md) | [Chương 414 →](chuong_414.md)
+---
+layout: default
+title: Chương 413: Thu mua lòng người
+chapter_number: 413
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Thật!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-413](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-413)
 - Thời gian scrape: 2026-01-13 22:04:17
 
-
-[← Chương 412](chuong_412.md) | [📚 Mục lục](README.md) | [Chương 414 →](chuong_414.md)
-
+<div class="chapter-nav">
+    <a href="chuong_412.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_414.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 496](chuong_496.md) | [📚 Mục lục](README.md) | [Chương 498 →](chuong_498.md)
+---
+layout: default
+title: Chương 497: Hắn thích chính là mẹ ta
+chapter_number: 497
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Thấy thế, Đoàn Minh cười ha ha, nói: "Tốt tốt tốt, ta không h�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-497](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-497)
 - Thời gian scrape: 2026-01-13 22:09:14
 
-
-[← Chương 496](chuong_496.md) | [📚 Mục lục](README.md) | [Chương 498 →](chuong_498.md)
-
+<div class="chapter-nav">
+    <a href="chuong_496.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_498.html" class="nav-btn">Chương sau →</a>
+</div>

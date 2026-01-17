@@ -1,6 +1,9 @@
-
-
-[← Chương 49](chuong_49.md) | [📚 Mục lục](README.md) | [Chương 51 →](chuong_51.md)
+---
+layout: default
+title: Chương 50
+chapter_number: 50
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -484,6 +487,6 @@ Theo quan niệm người Nhật, linh hồn người chết phải qua con sôn
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-50](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-50)
 - Thời gian scrape: 2026-01-17 09:40:11
 
-
-[← Chương 49](chuong_49.md) | [📚 Mục lục](README.md) | [Chương 51 →](chuong_51.md)
-
+<div class="chapter-nav">
+    <a href="chuong_49.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_51.html" class="nav-btn">Chương sau →</a>
+</div>

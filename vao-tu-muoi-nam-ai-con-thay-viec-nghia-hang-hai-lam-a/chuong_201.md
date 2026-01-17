@@ -1,6 +1,9 @@
-
-
-[← Chương 200](chuong_200.md) | [📚 Mục lục](README.md) | [Chương 202 →](chuong_202.md)
+---
+layout: default
+title: Chương 201: Gió êm sóng lặng một đêm
+chapter_number: 201
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Dù sao, đã là ngày thứ ba.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-201](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-201)
 - Thời gian scrape: 2026-01-13 21:51:18
 
-
-[← Chương 200](chuong_200.md) | [📚 Mục lục](README.md) | [Chương 202 →](chuong_202.md)
-
+<div class="chapter-nav">
+    <a href="chuong_200.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_202.html" class="nav-btn">Chương sau →</a>
+</div>

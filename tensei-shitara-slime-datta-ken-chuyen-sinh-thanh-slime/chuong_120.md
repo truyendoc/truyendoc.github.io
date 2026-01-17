@@ -1,6 +1,9 @@
-
-
-[← Chương 119](chuong_119.md) | [📚 Mục lục](README.md) | [Chương 121 →](chuong_121.md)
+---
+layout: default
+title: Chương 120
+chapter_number: 120
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -390,6 +393,6 @@ Sau khi nghe được những tin đó, những ngày thái bình đã qua rồi
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-120](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-120)
 - Thời gian scrape: 2026-01-17 09:43:26
 
-
-[← Chương 119](chuong_119.md) | [📚 Mục lục](README.md) | [Chương 121 →](chuong_121.md)
-
+<div class="chapter-nav">
+    <a href="chuong_119.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_121.html" class="nav-btn">Chương sau →</a>
+</div>

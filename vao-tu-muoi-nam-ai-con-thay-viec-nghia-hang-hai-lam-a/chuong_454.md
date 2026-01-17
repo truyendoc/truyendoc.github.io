@@ -1,6 +1,9 @@
-
-
-[← Chương 453](chuong_453.md) | [📚 Mục lục](README.md) | [Chương 455 →](chuong_455.md)
+---
+layout: default
+title: Chương 454: Lại thêm 80 ức
+chapter_number: 454
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -151,6 +154,6 @@ Nói, Tiêu Văn Tĩnh nhìn về phía Liễu Truyền Sĩ cùng Liễu Truyề
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-454](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-454)
 - Thời gian scrape: 2026-01-13 22:06:36
 
-
-[← Chương 453](chuong_453.md) | [📚 Mục lục](README.md) | [Chương 455 →](chuong_455.md)
-
+<div class="chapter-nav">
+    <a href="chuong_453.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_455.html" class="nav-btn">Chương sau →</a>
+</div>

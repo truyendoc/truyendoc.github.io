@@ -1,6 +1,9 @@
-
-
-[← Chương 148](chuong_148.md) | [📚 Mục lục](README.md) | [Chương 150 →](chuong_150.md)
+---
+layout: default
+title: Chương 149: Nguyện Thiên Đường không có du thuyền cùng Đại Hải
+chapter_number: 149
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Nói một mình xong, Lưu Hồng đứng lên, vừa đi theo đi hướng bà
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-149](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-149)
 - Thời gian scrape: 2026-01-13 21:48:20
 
-
-[← Chương 148](chuong_148.md) | [📚 Mục lục](README.md) | [Chương 150 →](chuong_150.md)
-
+<div class="chapter-nav">
+    <a href="chuong_148.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_150.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 588](chuong_588.md) | [📚 Mục lục](README.md) | [Chương 590 →](chuong_590.md)
+---
+layout: default
+title: Chương 589: Xuất phát, trong đêm về Hải Thành!
+chapter_number: 589
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Xuất phát, trong đêm về Hải Thành!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-589](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-589)
 - Thời gian scrape: 2026-01-13 22:14:29
 
-
-[← Chương 588](chuong_588.md) | [📚 Mục lục](README.md) | [Chương 590 →](chuong_590.md)
-
+<div class="chapter-nav">
+    <a href="chuong_588.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_590.html" class="nav-btn">Chương sau →</a>
+</div>

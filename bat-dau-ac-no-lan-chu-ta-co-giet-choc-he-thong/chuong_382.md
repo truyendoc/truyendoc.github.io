@@ -1,6 +1,9 @@
-
-
-[← Chương 381](chuong_381.md) | [📚 Mục lục](README.md) | [Chương 383 →](chuong_383.md)
+---
+layout: default
+title: Chương 382: Trần Bình an (1)
+chapter_number: 382
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -135,6 +138,6 @@ Tại phía sau hắn, thì là hai cái ôm trường kiếm thiếu nữ.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-382](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-382)
 - Thời gian scrape: 2026-01-13 00:25:46
 
-
-[← Chương 381](chuong_381.md) | [📚 Mục lục](README.md) | [Chương 383 →](chuong_383.md)
-
+<div class="chapter-nav">
+    <a href="chuong_381.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_383.html" class="nav-btn">Chương sau →</a>
+</div>

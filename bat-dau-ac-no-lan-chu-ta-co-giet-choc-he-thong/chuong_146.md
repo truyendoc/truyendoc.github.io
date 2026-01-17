@@ -1,6 +1,9 @@
-
-
-[← Chương 145](chuong_145.md) | [📚 Mục lục](README.md) | [Chương 147 →](chuong_147.md)
+---
+layout: default
+title: Chương 146: bị người mưu hại
+chapter_number: 146
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -221,6 +224,6 @@ Hắn đương nhiên sẽ không như vậy bỏ qua.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-146](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-146)
 - Thời gian scrape: 2026-01-13 00:30:26
 
-
-[← Chương 145](chuong_145.md) | [📚 Mục lục](README.md) | [Chương 147 →](chuong_147.md)
-
+<div class="chapter-nav">
+    <a href="chuong_145.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_147.html" class="nav-btn">Chương sau →</a>
+</div>

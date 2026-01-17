@@ -1,6 +1,9 @@
-
-
-[← Chương 254](chuong_254.md) | [📚 Mục lục](README.md) | [Chương 256 →](chuong_256.md)
+---
+layout: default
+title: Chương 255: Toàn viên đến đông đủ
+chapter_number: 255
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Bếp sau cũng sớm đã chuẩn bị xong, gặp Dương Tam Đao bên này �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-255](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-255)
 - Thời gian scrape: 2026-01-13 21:54:56
 
-
-[← Chương 254](chuong_254.md) | [📚 Mục lục](README.md) | [Chương 256 →](chuong_256.md)
-
+<div class="chapter-nav">
+    <a href="chuong_254.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_256.html" class="nav-btn">Chương sau →</a>
+</div>

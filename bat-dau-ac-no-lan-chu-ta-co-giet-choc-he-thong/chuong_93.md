@@ -1,6 +1,9 @@
-
-
-[← Chương 92](chuong_92.md) | [📚 Mục lục](README.md) | [Chương 94 →](chuong_94.md)
+---
+layout: default
+title: Chương 93: Ôn Dịch Cổ
+chapter_number: 93
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -263,6 +266,6 @@ Một cái toàn thân bao phủ tại trong áo bào đen người thần bí x
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-93](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-93)
 - Thời gian scrape: 2026-01-13 00:27:50
 
-
-[← Chương 92](chuong_92.md) | [📚 Mục lục](README.md) | [Chương 94 →](chuong_94.md)
-
+<div class="chapter-nav">
+    <a href="chuong_92.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_94.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 232](chuong_232.md) | [📚 Mục lục](README.md) | [Chương 234 →](chuong_234.md)
+---
+layout: default
+title: Chương 233: Ba Bao lão bả chuột
+chapter_number: 233
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Mà Tôn Trạch Thành, tại mua xong cái này ba bao thuốc diệt chuột 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-233](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-233)
 - Thời gian scrape: 2026-01-13 21:53:41
 
-
-[← Chương 232](chuong_232.md) | [📚 Mục lục](README.md) | [Chương 234 →](chuong_234.md)
-
+<div class="chapter-nav">
+    <a href="chuong_232.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_234.html" class="nav-btn">Chương sau →</a>
+</div>

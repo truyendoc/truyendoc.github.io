@@ -1,6 +1,9 @@
-
-
-[← Chương 442](chuong_442.md) | [📚 Mục lục](README.md) | [Chương 444 →](chuong_444.md)
+---
+layout: default
+title: Chương 443: Có thần bí lực lượng tại săn giết
+chapter_number: 443
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Một người mặc đạo bào đạo sĩ, chính khoanh chân ngồi tại t�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-443](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-443)
 - Thời gian scrape: 2026-01-13 22:06:00
 
-
-[← Chương 442](chuong_442.md) | [📚 Mục lục](README.md) | [Chương 444 →](chuong_444.md)
-
+<div class="chapter-nav">
+    <a href="chuong_442.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_444.html" class="nav-btn">Chương sau →</a>
+</div>

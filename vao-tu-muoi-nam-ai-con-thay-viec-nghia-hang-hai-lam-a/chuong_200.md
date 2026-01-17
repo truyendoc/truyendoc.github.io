@@ -1,6 +1,9 @@
-
-
-[← Chương 199](chuong_199.md) | [📚 Mục lục](README.md) | [Chương 201 →](chuong_201.md)
+---
+layout: default
+title: Chương 200: Có giấu cự ngạc số 8 nhà lầu
+chapter_number: 200
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Nói xong, Tào Côn cưỡng ép ôm Tôn Phỉ Phỉ bờ eo thon, cùng nàng
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-200](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-200)
 - Thời gian scrape: 2026-01-13 21:51:15
 
-
-[← Chương 199](chuong_199.md) | [📚 Mục lục](README.md) | [Chương 201 →](chuong_201.md)
-
+<div class="chapter-nav">
+    <a href="chuong_199.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_201.html" class="nav-btn">Chương sau →</a>
+</div>

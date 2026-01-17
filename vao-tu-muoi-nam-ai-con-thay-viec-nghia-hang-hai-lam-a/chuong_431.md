@@ -1,6 +1,9 @@
-
-
-[← Chương 430](chuong_430.md) | [📚 Mục lục](README.md) | [Chương 432 →](chuong_432.md)
+---
+layout: default
+title: Chương 431: Phí bịt miệng 100 ức
+chapter_number: 431
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Mình không chỉ có muốn Dương Nhật Bố, còn muốn. . . Đích đấ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-431](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-431)
 - Thời gian scrape: 2026-01-13 22:05:20
 
-
-[← Chương 430](chuong_430.md) | [📚 Mục lục](README.md) | [Chương 432 →](chuong_432.md)
-
+<div class="chapter-nav">
+    <a href="chuong_430.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_432.html" class="nav-btn">Chương sau →</a>
+</div>

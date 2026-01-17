@@ -1,6 +1,9 @@
-
-
-[← Chương 14](chuong_14.md) | [📚 Mục lục](README.md) | [Chương 16 →](chuong_16.md)
+---
+layout: default
+title: Chương 15: Tám phòng tới tay
+chapter_number: 15
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Gặp Tào Côn đưa tay kéo lên màn cửa, mở ra điều hoà không khí
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-15](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-15)
 - Thời gian scrape: 2026-01-13 21:40:12
 
-
-[← Chương 14](chuong_14.md) | [📚 Mục lục](README.md) | [Chương 16 →](chuong_16.md)
-
+<div class="chapter-nav">
+    <a href="chuong_14.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_16.html" class="nav-btn">Chương sau →</a>
+</div>

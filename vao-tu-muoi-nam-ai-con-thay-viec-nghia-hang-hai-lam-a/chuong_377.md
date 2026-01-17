@@ -1,6 +1,9 @@
-
-
-[← Chương 376](chuong_376.md) | [📚 Mục lục](README.md) | [Chương 378 →](chuong_378.md)
+---
+layout: default
+title: Chương 377: Có người đang tìm vô danh sách
+chapter_number: 377
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -147,6 +150,6 @@ Tào Côn nhìn thoáng qua Dương Bình, Thiển Thiển cười nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-377](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-377)
 - Thời gian scrape: 2026-01-13 22:02:16
 
-
-[← Chương 376](chuong_376.md) | [📚 Mục lục](README.md) | [Chương 378 →](chuong_378.md)
-
+<div class="chapter-nav">
+    <a href="chuong_376.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_378.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 239](chuong_239.md) | [📚 Mục lục](README.md) | [Chương 241 →](chuong_241.md)
+---
+layout: default
+title: Chương 240: Tam bào thai đại dương mã dụ hoặc
+chapter_number: 240
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Nghe vậy, Tiêu Văn Tĩnh phốc thử một tiếng liền che miệng bật
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-240](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-240)
 - Thời gian scrape: 2026-01-13 21:54:05
 
-
-[← Chương 239](chuong_239.md) | [📚 Mục lục](README.md) | [Chương 241 →](chuong_241.md)
-
+<div class="chapter-nav">
+    <a href="chuong_239.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_241.html" class="nav-btn">Chương sau →</a>
+</div>

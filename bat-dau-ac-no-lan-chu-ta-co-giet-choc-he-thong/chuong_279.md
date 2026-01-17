@@ -1,6 +1,9 @@
-
-
-[← Chương 278](chuong_278.md) | [📚 Mục lục](README.md) | [Chương 280 →](chuong_280.md)
+---
+layout: default
+title: Chương 279: Một tiễn bắn rơi Thiên phu trưởng (2)
+chapter_number: 279
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -119,6 +122,6 @@ Liền rốt cuộc nhịn không được, bịch âm thanh từ trên ngựa n
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-279](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-279)
 - Thời gian scrape: 2026-01-13 00:21:42
 
-
-[← Chương 278](chuong_278.md) | [📚 Mục lục](README.md) | [Chương 280 →](chuong_280.md)
-
+<div class="chapter-nav">
+    <a href="chuong_278.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_280.html" class="nav-btn">Chương sau →</a>
+</div>

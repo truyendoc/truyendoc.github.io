@@ -1,6 +1,9 @@
-
-
-[← Chương 336](chuong_336.md) | [📚 Mục lục](README.md) | [Chương 338 →](chuong_338.md)
+---
+layout: default
+title: Chương 337: Tân hoàng Khai Nguyên (2)
+chapter_number: 337
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -109,6 +112,6 @@ Sau đó hắn liền lấy ra một cái nguyên thạch nắm nơi tay, tu luy
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-337](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-337)
 - Thời gian scrape: 2026-01-13 00:24:00
 
-
-[← Chương 336](chuong_336.md) | [📚 Mục lục](README.md) | [Chương 338 →](chuong_338.md)
-
+<div class="chapter-nav">
+    <a href="chuong_336.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_338.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 243](chuong_243.md) | [📚 Mục lục](README.md) | [Chương 245 →](chuong_245.md)
+---
+layout: default
+title: Chương 244: Cùng Triệu Tuyết, Chu Nhã Lệ đấu địa chủ
+chapter_number: 244
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Không bao lâu, phòng chứa đồ đèn tắt. . .
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-244](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-244)
 - Thời gian scrape: 2026-01-13 21:54:19
 
-
-[← Chương 243](chuong_243.md) | [📚 Mục lục](README.md) | [Chương 245 →](chuong_245.md)
-
+<div class="chapter-nav">
+    <a href="chuong_243.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_245.html" class="nav-btn">Chương sau →</a>
+</div>

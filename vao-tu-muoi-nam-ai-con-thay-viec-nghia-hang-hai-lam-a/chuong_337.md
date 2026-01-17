@@ -1,6 +1,9 @@
-
-
-[← Chương 336](chuong_336.md) | [📚 Mục lục](README.md) | [Chương 338 →](chuong_338.md)
+---
+layout: default
+title: Chương 337: Cẩu nam nhân, ngươi tốt trang bức a
+chapter_number: 337
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Nghe vậy, Hạng Nam Nguyệt bĩu môi nói: "Ngươi sẽ như vậy quan t�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-337](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-337)
 - Thời gian scrape: 2026-01-13 21:59:52
 
-
-[← Chương 336](chuong_336.md) | [📚 Mục lục](README.md) | [Chương 338 →](chuong_338.md)
-
+<div class="chapter-nav">
+    <a href="chuong_336.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_338.html" class="nav-btn">Chương sau →</a>
+</div>

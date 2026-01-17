@@ -1,6 +1,9 @@
-
-
-[← Chương 212](chuong_212.md) | [📚 Mục lục](README.md) | [Chương 214 →](chuong_214.md)
+---
+layout: default
+title: Chương 213: Dương Tam Đao tới
+chapter_number: 213
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Biển B. 77777 chính là Dương Tam Đao chuyên môn biển số xe!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-213](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-213)
 - Thời gian scrape: 2026-01-13 21:52:30
 
-
-[← Chương 212](chuong_212.md) | [📚 Mục lục](README.md) | [Chương 214 →](chuong_214.md)
-
+<div class="chapter-nav">
+    <a href="chuong_212.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_214.html" class="nav-btn">Chương sau →</a>
+</div>

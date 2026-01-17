@@ -1,6 +1,9 @@
-
-
-[← Chương 260](chuong_260.md) | [📚 Mục lục](README.md) | [Chương 262 →](chuong_262.md)
+---
+layout: default
+title: Chương 261: Tuyệt vô cận hữu nhà mới
+chapter_number: 261
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Một bên, Tiêu Văn Tĩnh giải hoặc nói: "Đây là Hải Thành một c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-261](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-261)
 - Thời gian scrape: 2026-01-13 21:55:16
 
-
-[← Chương 260](chuong_260.md) | [📚 Mục lục](README.md) | [Chương 262 →](chuong_262.md)
-
+<div class="chapter-nav">
+    <a href="chuong_260.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_262.html" class="nav-btn">Chương sau →</a>
+</div>

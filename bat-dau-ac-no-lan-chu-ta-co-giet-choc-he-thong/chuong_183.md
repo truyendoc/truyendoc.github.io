@@ -1,6 +1,9 @@
-
-
-[← Chương 182](chuong_182.md) | [📚 Mục lục](README.md) | [Chương 184 →](chuong_184.md)
+---
+layout: default
+title: Chương 183: bị dọa sợ Chiến Đông Lai
+chapter_number: 183
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -259,6 +262,6 @@ Vừa tiến vào bí cảnh, Lý Linh Nhi liền không nhịn được phát r
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-183](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-183)
 - Thời gian scrape: 2026-01-13 00:31:58
 
-
-[← Chương 182](chuong_182.md) | [📚 Mục lục](README.md) | [Chương 184 →](chuong_184.md)
-
+<div class="chapter-nav">
+    <a href="chuong_182.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_184.html" class="nav-btn">Chương sau →</a>
+</div>

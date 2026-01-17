@@ -1,6 +1,9 @@
-
-
-[← Chương 608](chuong_608.md) | [📚 Mục lục](README.md) | [Chương 610 →](chuong_610.md)
+---
+layout: default
+title: Chương 609: Sợ bức Lý Nguyên Hà
+chapter_number: 609
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Trong lòng nhanh chóng hiện lên những ý niệm này, Tào Côn dứt kho
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-609](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-609)
 - Thời gian scrape: 2026-01-13 22:15:39
 
-
-[← Chương 608](chuong_608.md) | [📚 Mục lục](README.md) | [Chương 610 →](chuong_610.md)
-
+<div class="chapter-nav">
+    <a href="chuong_608.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_610.html" class="nav-btn">Chương sau →</a>
+</div>

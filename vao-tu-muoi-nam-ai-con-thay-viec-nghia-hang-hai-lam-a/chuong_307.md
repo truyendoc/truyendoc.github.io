@@ -1,6 +1,9 @@
-
-
-[← Chương 306](chuong_306.md) | [📚 Mục lục](README.md) | [Chương 308 →](chuong_308.md)
+---
+layout: default
+title: Chương 307: Cẩu Nhất Vĩ chết
+chapter_number: 307
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Nói, Phương Tử Dương giơ chân lên, đem Cẩu Nhất Vĩ một cái ta
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-307](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-307)
 - Thời gian scrape: 2026-01-13 21:58:06
 
-
-[← Chương 306](chuong_306.md) | [📚 Mục lục](README.md) | [Chương 308 →](chuong_308.md)
-
+<div class="chapter-nav">
+    <a href="chuong_306.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_308.html" class="nav-btn">Chương sau →</a>
+</div>

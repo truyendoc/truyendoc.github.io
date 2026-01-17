@@ -1,6 +1,9 @@
-
-
-[← Chương 287](chuong_287.md) | [📚 Mục lục](README.md) | [Chương 289 →](chuong_289.md)
+---
+layout: default
+title: Chương 288: Lý Linh nhi tấn thăng Nguyên Đan Cảnh (1)
+chapter_number: 288
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Chờ ngày mai thời gian kết thúc, tu vi của các nàng hẳn là đều
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-288](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-288)
 - Thời gian scrape: 2026-01-13 00:22:04
 
-
-[← Chương 287](chuong_287.md) | [📚 Mục lục](README.md) | [Chương 289 →](chuong_289.md)
-
+<div class="chapter-nav">
+    <a href="chuong_287.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_289.html" class="nav-btn">Chương sau →</a>
+</div>

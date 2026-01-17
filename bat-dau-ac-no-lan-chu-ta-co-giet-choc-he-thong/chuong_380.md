@@ -1,6 +1,9 @@
-
-
-[← Chương 379](chuong_379.md) | [📚 Mục lục](README.md) | [Chương 381 →](chuong_381.md)
+---
+layout: default
+title: Chương 380: Xuất phát bí cảnh (1)
+chapter_number: 380
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Nếu như nàng chỉ là một người, thật cũng không sợ.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-380](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-380)
 - Thời gian scrape: 2026-01-13 00:25:41
 
-
-[← Chương 379](chuong_379.md) | [📚 Mục lục](README.md) | [Chương 381 →](chuong_381.md)
-
+<div class="chapter-nav">
+    <a href="chuong_379.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_381.html" class="nav-btn">Chương sau →</a>
+</div>

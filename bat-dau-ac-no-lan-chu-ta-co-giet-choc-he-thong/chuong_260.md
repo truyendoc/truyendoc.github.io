@@ -1,6 +1,9 @@
-
-
-[← Chương 259](chuong_259.md) | [📚 Mục lục](README.md) | [Chương 261 →](chuong_261.md)
+---
+layout: default
+title: Chương 260: Đoan vương tặng lễ (1)
+chapter_number: 260
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -111,6 +114,6 @@ Nếu như ta đoán không sai lời nói, chúng ta lần này tiến về vư
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-260](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-260)
 - Thời gian scrape: 2026-01-13 00:35:01
 
-
-[← Chương 259](chuong_259.md) | [📚 Mục lục](README.md) | [Chương 261 →](chuong_261.md)
-
+<div class="chapter-nav">
+    <a href="chuong_259.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_261.html" class="nav-btn">Chương sau →</a>
+</div>

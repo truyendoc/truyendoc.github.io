@@ -1,6 +1,9 @@
-
-
-[← Chương 232](chuong_232.md) | [📚 Mục lục](README.md) | [Chương 234 →](chuong_234.md)
+---
+layout: default
+title: Chương 233: Trần chi đình bắt đầu không may (2)
+chapter_number: 233
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -103,6 +106,6 @@ Không để cho mình đột phá tới Nguyên Thần cảnh bát trọng.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-233](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-233)
 - Thời gian scrape: 2026-01-13 00:33:56
 
-
-[← Chương 232](chuong_232.md) | [📚 Mục lục](README.md) | [Chương 234 →](chuong_234.md)
-
+<div class="chapter-nav">
+    <a href="chuong_232.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_234.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 68](chuong_68.md) | [📚 Mục lục](README.md) | [Chương 70 →](chuong_70.md)
+---
+layout: default
+title: Chương 69
+chapter_number: 69
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -599,6 +602,6 @@ Nhưng nếu tôi tin nếu tôi cầu nguyện chân thành, mọi người s�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-69](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-69)
 - Thời gian scrape: 2026-01-17 09:41:02
 
-
-[← Chương 68](chuong_68.md) | [📚 Mục lục](README.md) | [Chương 70 →](chuong_70.md)
-
+<div class="chapter-nav">
+    <a href="chuong_68.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_70.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 636](chuong_636.md) | [📚 Mục lục](README.md) | [Chương 638 →](chuong_638.md)
+---
+layout: default
+title: Chương 637: Đặc hiệu thuốc phối phương
+chapter_number: 637
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Nhìn xem Bàng Hồng Na nói lời nói này lúc thần bí bộ dáng, Tào 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-637](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-637)
 - Thời gian scrape: 2026-01-13 22:17:15
 
-
-[← Chương 636](chuong_636.md) | [📚 Mục lục](README.md) | [Chương 638 →](chuong_638.md)
-
+<div class="chapter-nav">
+    <a href="chuong_636.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_638.html" class="nav-btn">Chương sau →</a>
+</div>

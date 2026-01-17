@@ -1,6 +1,9 @@
-
-
-[📚 Mục lục](README.md) | [Chương 2 →](chuong_2.md)
+---
+layout: default
+title: Chương 1: Buông xuống cục gạch, cầm điện thoại di động lên
+chapter_number: 1
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Cho nên, hắn cần hảo hảo loại bỏ một phen, nhìn xem có thể ha
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-1](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-1)
 - Thời gian scrape: 2026-01-13 21:39:29
 
-
-[📚 Mục lục](README.md) | [Chương 2 →](chuong_2.md)
-
+<div class="chapter-nav">
+    <a href="#" class="nav-btn disabled">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_2.html" class="nav-btn">Chương sau →</a>
+</div>

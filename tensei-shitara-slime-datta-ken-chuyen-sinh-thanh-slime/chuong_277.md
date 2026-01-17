@@ -1,6 +1,9 @@
-
-
-[← Chương 276](chuong_276.md) | [📚 Mục lục](README.md) | [Chương 278 →](chuong_278.md)
+---
+layout: default
+title: Chương 277
+chapter_number: 277
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -580,6 +583,6 @@ Với những dòng suy nghĩ ấy, tôi hướng mắt về nơi chiến trư�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-277](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-277)
 - Thời gian scrape: 2026-01-17 09:50:56
 
-
-[← Chương 276](chuong_276.md) | [📚 Mục lục](README.md) | [Chương 278 →](chuong_278.md)
-
+<div class="chapter-nav">
+    <a href="chuong_276.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_278.html" class="nav-btn">Chương sau →</a>
+</div>

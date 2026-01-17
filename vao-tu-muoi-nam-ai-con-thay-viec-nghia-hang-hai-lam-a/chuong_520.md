@@ -1,6 +1,9 @@
-
-
-[← Chương 519](chuong_519.md) | [📚 Mục lục](README.md) | [Chương 521 →](chuong_521.md)
+---
+layout: default
+title: Chương 520: Cho Trương đồng chí phong thư thứ hai
+chapter_number: 520
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Bởi vì, hắn một tuần khẳng định sẽ đến hai lần!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-520](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-520)
 - Thời gian scrape: 2026-01-13 22:10:32
 
-
-[← Chương 519](chuong_519.md) | [📚 Mục lục](README.md) | [Chương 521 →](chuong_521.md)
-
+<div class="chapter-nav">
+    <a href="chuong_519.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_521.html" class="nav-btn">Chương sau →</a>
+</div>

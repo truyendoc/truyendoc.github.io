@@ -1,6 +1,9 @@
-
-
-[← Chương 646](chuong_646.md) | [📚 Mục lục](README.md) | [Chương 648 →](chuong_648.md)
+---
+layout: default
+title: Chương 647: Cười, nàng lại cười
+chapter_number: 647
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Nàng đến cùng là dựa vào cái gì lộ ra loại nụ cười này a!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-647](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-647)
 - Thời gian scrape: 2026-01-13 22:17:48
 
-
-[← Chương 646](chuong_646.md) | [📚 Mục lục](README.md) | [Chương 648 →](chuong_648.md)
-
+<div class="chapter-nav">
+    <a href="chuong_646.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_648.html" class="nav-btn">Chương sau →</a>
+</div>

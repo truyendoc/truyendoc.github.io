@@ -1,6 +1,9 @@
-
-
-[← Chương 552](chuong_552.md) | [📚 Mục lục](README.md) | [Chương 554 →](chuong_554.md)
+---
+layout: default
+title: Chương 553: Nên sinh con
+chapter_number: 553
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Nghe vậy, Lâm Thi Hàm xinh đẹp gương mặt bên trên, xoát liền hi�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-553](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-553)
 - Thời gian scrape: 2026-01-13 22:12:27
 
-
-[← Chương 552](chuong_552.md) | [📚 Mục lục](README.md) | [Chương 554 →](chuong_554.md)
-
+<div class="chapter-nav">
+    <a href="chuong_552.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_554.html" class="nav-btn">Chương sau →</a>
+</div>

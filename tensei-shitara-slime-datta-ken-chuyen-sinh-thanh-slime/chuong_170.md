@@ -1,6 +1,9 @@
-
-
-[← Chương 169](chuong_169.md) | [📚 Mục lục](README.md) | [Chương 171 →](chuong_171.md)
+---
+layout: default
+title: Chương 170
+chapter_number: 170
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -604,6 +607,6 @@ Thời đại này sắp sửa chuyển mình trong một con sóng lớn, và t
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-170](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-170)
 - Thời gian scrape: 2026-01-17 09:45:47
 
-
-[← Chương 169](chuong_169.md) | [📚 Mục lục](README.md) | [Chương 171 →](chuong_171.md)
-
+<div class="chapter-nav">
+    <a href="chuong_169.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_171.html" class="nav-btn">Chương sau →</a>
+</div>

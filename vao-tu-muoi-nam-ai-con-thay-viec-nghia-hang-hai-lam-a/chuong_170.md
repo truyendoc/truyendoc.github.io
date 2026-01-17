@@ -1,6 +1,9 @@
-
-
-[← Chương 169](chuong_169.md) | [📚 Mục lục](README.md) | [Chương 171 →](chuong_171.md)
+---
+layout: default
+title: Chương 170: 9000 vạn, không bán cũng phải bán
+chapter_number: 170
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Tào Côn cười nói: "Ngươi nhìn, chính ngươi trong lòng rất rõ rà
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-170](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-170)
 - Thời gian scrape: 2026-01-13 21:49:33
 
-
-[← Chương 169](chuong_169.md) | [📚 Mục lục](README.md) | [Chương 171 →](chuong_171.md)
-
+<div class="chapter-nav">
+    <a href="chuong_169.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_171.html" class="nav-btn">Chương sau →</a>
+</div>

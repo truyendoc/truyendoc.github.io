@@ -1,6 +1,9 @@
-
-
-[← Chương 575](chuong_575.md) | [📚 Mục lục](README.md) | [Chương 577 →](chuong_577.md)
+---
+layout: default
+title: Chương 576: Pháp luật Tiểu Khoa phổ
+chapter_number: 576
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Nàng không xác định nói: "Tiểu Côn, ngươi, ngươi Trương thúc kh
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-576](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-576)
 - Thời gian scrape: 2026-01-13 22:13:45
 
-
-[← Chương 575](chuong_575.md) | [📚 Mục lục](README.md) | [Chương 577 →](chuong_577.md)
-
+<div class="chapter-nav">
+    <a href="chuong_575.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_577.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 7](chuong_7.md) | [📚 Mục lục](README.md) | [Chương 9 →](chuong_9.md)
+---
+layout: default
+title: Chương 8: chặn giết
+chapter_number: 8
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -261,6 +264,6 @@ Thẩm Dục gật gật đầu: “Vậy liền Lao Phiền Nương quan tâm!�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-8](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-8)
 - Thời gian scrape: 2026-01-13 21:09:29
 
-
-[← Chương 7](chuong_7.md) | [📚 Mục lục](README.md) | [Chương 9 →](chuong_9.md)
-
+<div class="chapter-nav">
+    <a href="chuong_7.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_9.html" class="nav-btn">Chương sau →</a>
+</div>

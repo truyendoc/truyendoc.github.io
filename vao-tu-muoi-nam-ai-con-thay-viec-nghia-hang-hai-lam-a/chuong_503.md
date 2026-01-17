@@ -1,6 +1,9 @@
-
-
-[← Chương 502](chuong_502.md) | [📚 Mục lục](README.md) | [Chương 504 →](chuong_504.md)
+---
+layout: default
+title: Chương 503: Nàng là cái không từ thủ đoạn nữ nhân
+chapter_number: 503
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Hôm nay lần này buổi trưa mệt c·hết nàng, nàng xác thực cần h
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-503](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-503)
 - Thời gian scrape: 2026-01-13 22:09:35
 
-
-[← Chương 502](chuong_502.md) | [📚 Mục lục](README.md) | [Chương 504 →](chuong_504.md)
-
+<div class="chapter-nav">
+    <a href="chuong_502.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_504.html" class="nav-btn">Chương sau →</a>
+</div>

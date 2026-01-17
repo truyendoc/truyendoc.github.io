@@ -1,6 +1,9 @@
-
-
-[← Chương 523](chuong_523.md) | [📚 Mục lục](README.md) | [Chương 525 →](chuong_525.md)
+---
+layout: default
+title: Chương 524: Trước thời hạn nửa năm?
+chapter_number: 524
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Vạn nhất hắn nhúng tay, tái dẫn phát hiệu ứng hồ điệp, sau �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-524](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-524)
 - Thời gian scrape: 2026-01-13 22:10:46
 
-
-[← Chương 523](chuong_523.md) | [📚 Mục lục](README.md) | [Chương 525 →](chuong_525.md)
-
+<div class="chapter-nav">
+    <a href="chuong_523.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_525.html" class="nav-btn">Chương sau →</a>
+</div>

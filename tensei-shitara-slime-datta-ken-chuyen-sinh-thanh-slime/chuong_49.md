@@ -1,6 +1,9 @@
-
-
-[← Chương 48](chuong_48.md) | [📚 Mục lục](README.md) | [Chương 50 →](chuong_50.md)
+---
+layout: default
+title: Chương 49
+chapter_number: 49
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -478,6 +481,6 @@ Tức là chỉ gọi tên, không thêm kính ngữ (-san, -chan, -kun…) nữ
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-49](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-49)
 - Thời gian scrape: 2026-01-17 09:40:08
 
-
-[← Chương 48](chuong_48.md) | [📚 Mục lục](README.md) | [Chương 50 →](chuong_50.md)
-
+<div class="chapter-nav">
+    <a href="chuong_48.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_50.html" class="nav-btn">Chương sau →</a>
+</div>

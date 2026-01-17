@@ -1,6 +1,9 @@
-
-
-[← Chương 240](chuong_240.md) | [📚 Mục lục](README.md) | [Chương 242 →](chuong_242.md)
+---
+layout: default
+title: Chương 241: Tào Côn đề nghị, toàn dát
+chapter_number: 241
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Tào Côn nhẹ gật đầu, nói: "So với ngươi nghĩ còn nghiêm trọng
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-241](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-241)
 - Thời gian scrape: 2026-01-13 21:54:10
 
-
-[← Chương 240](chuong_240.md) | [📚 Mục lục](README.md) | [Chương 242 →](chuong_242.md)
-
+<div class="chapter-nav">
+    <a href="chuong_240.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_242.html" class="nav-btn">Chương sau →</a>
+</div>

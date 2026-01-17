@@ -1,6 +1,9 @@
-
-
-[← Chương 243](chuong_243.md) | [📚 Mục lục](README.md) | [Chương 245 →](chuong_245.md)
+---
+layout: default
+title: Chương 244
+chapter_number: 244
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -420,6 +423,6 @@ Và thế là, trận chiến trên thiên giới đã chính thức bắt đầ
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-244](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-244)
 - Thời gian scrape: 2026-01-17 09:49:19
 
-
-[← Chương 243](chuong_243.md) | [📚 Mục lục](README.md) | [Chương 245 →](chuong_245.md)
-
+<div class="chapter-nav">
+    <a href="chuong_243.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_245.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 359](chuong_359.md) | [📚 Mục lục](README.md) | [Chương 361 →](chuong_361.md)
+---
+layout: default
+title: Chương 360: Gặp lại Tiêu Lâm (1)
+chapter_number: 360
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Nam Cương Đạo thành bên trong có ít nhất mấy trăm người tu hàn
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-360](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-360)
 - Thời gian scrape: 2026-01-13 00:24:54
 
-
-[← Chương 359](chuong_359.md) | [📚 Mục lục](README.md) | [Chương 361 →](chuong_361.md)
-
+<div class="chapter-nav">
+    <a href="chuong_359.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_361.html" class="nav-btn">Chương sau →</a>
+</div>

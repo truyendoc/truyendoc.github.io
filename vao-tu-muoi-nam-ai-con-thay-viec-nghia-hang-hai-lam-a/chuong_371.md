@@ -1,6 +1,9 @@
-
-
-[← Chương 370](chuong_370.md) | [📚 Mục lục](README.md) | [Chương 372 →](chuong_372.md)
+---
+layout: default
+title: Chương 371: Tất làm Liễu Truyền Sĩ
+chapter_number: 371
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Nhìn xem nói chuyện đều có chút cà lăm Cốc Thượng Minh, Tào Cô
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-371](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-371)
 - Thời gian scrape: 2026-01-13 22:01:57
 
-
-[← Chương 370](chuong_370.md) | [📚 Mục lục](README.md) | [Chương 372 →](chuong_372.md)
-
+<div class="chapter-nav">
+    <a href="chuong_370.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_372.html" class="nav-btn">Chương sau →</a>
+</div>

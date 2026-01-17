@@ -1,6 +1,9 @@
-
-
-[← Chương 19](chuong_19.md) | [📚 Mục lục](README.md) | [Chương 21 →](chuong_21.md)
+---
+layout: default
+title: Chương 20: huynh đệ Chu gia
+chapter_number: 20
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -267,6 +270,6 @@ Nghĩ đến hôm nay còn muốn dạy ba cái muội muội tu luyện, hắn 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-20](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-20)
 - Thời gian scrape: 2026-01-13 21:10:02
 
-
-[← Chương 19](chuong_19.md) | [📚 Mục lục](README.md) | [Chương 21 →](chuong_21.md)
-
+<div class="chapter-nav">
+    <a href="chuong_19.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_21.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 214](chuong_214.md) | [📚 Mục lục](README.md) | [Chương 216 →](chuong_216.md)
+---
+layout: default
+title: Chương 215: Ta chỉ là một đầu nghe lời chó
+chapter_number: 215
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Nói, Tào Côn lấy điện thoại di động ra, mở ra uy tín, tìm tìm,
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-215](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-215)
 - Thời gian scrape: 2026-01-13 21:52:37
 
-
-[← Chương 214](chuong_214.md) | [📚 Mục lục](README.md) | [Chương 216 →](chuong_216.md)
-
+<div class="chapter-nav">
+    <a href="chuong_214.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_216.html" class="nav-btn">Chương sau →</a>
+</div>

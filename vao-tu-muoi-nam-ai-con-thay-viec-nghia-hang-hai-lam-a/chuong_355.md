@@ -1,6 +1,9 @@
-
-
-[← Chương 354](chuong_354.md) | [📚 Mục lục](README.md) | [Chương 356 →](chuong_356.md)
+---
+layout: default
+title: Chương 355: Chụp lén 60 cái video
+chapter_number: 355
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Nếu không, lập tức liền phải lại bị phong.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-355](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-355)
 - Thời gian scrape: 2026-01-13 22:01:00
 
-
-[← Chương 354](chuong_354.md) | [📚 Mục lục](README.md) | [Chương 356 →](chuong_356.md)
-
+<div class="chapter-nav">
+    <a href="chuong_354.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_356.html" class="nav-btn">Chương sau →</a>
+</div>

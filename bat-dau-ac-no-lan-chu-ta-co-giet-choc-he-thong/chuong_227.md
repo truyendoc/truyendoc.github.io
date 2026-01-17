@@ -1,6 +1,9 @@
-
-
-[← Chương 226](chuong_226.md) | [📚 Mục lục](README.md) | [Chương 228 →](chuong_228.md)
+---
+layout: default
+title: Chương 227: linh nỏ mất trộm án
+chapter_number: 227
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -213,6 +216,6 @@ Tại đối phương dẫn đầu xuống, Thẩm Dục đăng thượng thiên
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-227](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-227)
 - Thời gian scrape: 2026-01-13 00:33:42
 
-
-[← Chương 226](chuong_226.md) | [📚 Mục lục](README.md) | [Chương 228 →](chuong_228.md)
-
+<div class="chapter-nav">
+    <a href="chuong_226.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_228.html" class="nav-btn">Chương sau →</a>
+</div>

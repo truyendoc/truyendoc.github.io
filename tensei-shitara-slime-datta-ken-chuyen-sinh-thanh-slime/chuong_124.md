@@ -1,6 +1,9 @@
-
-
-[← Chương 123](chuong_123.md) | [📚 Mục lục](README.md) | [Chương 125 →](chuong_125.md)
+---
+layout: default
+title: Chương 124
+chapter_number: 124
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -514,6 +517,6 @@ Cái chết của Hinata đánh dấu sự bùng nổ thời gian loạn lạc t
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-124](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-124)
 - Thời gian scrape: 2026-01-17 09:43:37
 
-
-[← Chương 123](chuong_123.md) | [📚 Mục lục](README.md) | [Chương 125 →](chuong_125.md)
-
+<div class="chapter-nav">
+    <a href="chuong_123.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_125.html" class="nav-btn">Chương sau →</a>
+</div>

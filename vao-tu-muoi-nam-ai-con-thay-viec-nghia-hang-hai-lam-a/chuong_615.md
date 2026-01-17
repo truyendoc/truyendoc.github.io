@@ -1,6 +1,9 @@
-
-
-[← Chương 614](chuong_614.md) | [📚 Mục lục](README.md) | [Chương 616 →](chuong_616.md)
+---
+layout: default
+title: Chương 615: Vạn người không được một luyện võ kỳ tài
+chapter_number: 615
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Ngoại trừ hắn là vạn người không được một luyện võ thiên 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-615](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-615)
 - Thời gian scrape: 2026-01-13 22:15:59
 
-
-[← Chương 614](chuong_614.md) | [📚 Mục lục](README.md) | [Chương 616 →](chuong_616.md)
-
+<div class="chapter-nav">
+    <a href="chuong_614.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_616.html" class="nav-btn">Chương sau →</a>
+</div>

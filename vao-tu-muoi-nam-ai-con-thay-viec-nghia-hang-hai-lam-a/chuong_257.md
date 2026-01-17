@@ -1,6 +1,9 @@
-
-
-[← Chương 256](chuong_256.md) | [📚 Mục lục](README.md) | [Chương 258 →](chuong_258.md)
+---
+layout: default
+title: Chương 257: Cái này an bài không hợp lý a
+chapter_number: 257
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Là Dương Tam Đao!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-257](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-257)
 - Thời gian scrape: 2026-01-13 21:55:04
 
-
-[← Chương 256](chuong_256.md) | [📚 Mục lục](README.md) | [Chương 258 →](chuong_258.md)
-
+<div class="chapter-nav">
+    <a href="chuong_256.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_258.html" class="nav-btn">Chương sau →</a>
+</div>

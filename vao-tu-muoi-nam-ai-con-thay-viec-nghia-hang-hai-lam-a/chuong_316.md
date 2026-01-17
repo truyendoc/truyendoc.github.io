@@ -1,6 +1,9 @@
-
-
-[← Chương 315](chuong_315.md) | [📚 Mục lục](README.md) | [Chương 317 →](chuong_317.md)
+---
+layout: default
+title: Chương 316: Bới Cẩu Thiên Hạo mộ phần
+chapter_number: 316
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Sau đó, Cẩu Thiên Hạo hủ tro cốt, lại thấy ánh mặt trời!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-316](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-316)
 - Thời gian scrape: 2026-01-13 21:58:39
 
-
-[← Chương 315](chuong_315.md) | [📚 Mục lục](README.md) | [Chương 317 →](chuong_317.md)
-
+<div class="chapter-nav">
+    <a href="chuong_315.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_317.html" class="nav-btn">Chương sau →</a>
+</div>

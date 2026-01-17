@@ -1,6 +1,9 @@
-
-
-[← Chương 514](chuong_514.md) | [📚 Mục lục](README.md) | [Chương 516 →](chuong_516.md)
+---
+layout: default
+title: Chương 515: Cái thứ nhất cố sự
+chapter_number: 515
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Trương Khiết tiếp tục nói: "Bởi vì bọn họ gia đình rất phổ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-515](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-515)
 - Thời gian scrape: 2026-01-13 22:10:16
 
-
-[← Chương 514](chuong_514.md) | [📚 Mục lục](README.md) | [Chương 516 →](chuong_516.md)
-
+<div class="chapter-nav">
+    <a href="chuong_514.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_516.html" class="nav-btn">Chương sau →</a>
+</div>

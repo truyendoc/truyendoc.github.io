@@ -1,6 +1,9 @@
-
-
-[← Chương 644](chuong_644.md) | [📚 Mục lục](README.md) | [Chương 646 →](chuong_646.md)
+---
+layout: default
+title: Chương 645: Bàng Hồng Na sư tỷ
+chapter_number: 645
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Bàng Hồng Na hé miệng cười một tiếng, nói: "Sư tỷ, ngươi cũn
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-645](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-645)
 - Thời gian scrape: 2026-01-13 22:17:41
 
-
-[← Chương 644](chuong_644.md) | [📚 Mục lục](README.md) | [Chương 646 →](chuong_646.md)
-
+<div class="chapter-nav">
+    <a href="chuong_644.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_646.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 235](chuong_235.md) | [📚 Mục lục](README.md) | [Chương 237 →](chuong_237.md)
+---
+layout: default
+title: Chương 236
+chapter_number: 236
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -406,6 +409,6 @@ Cùng với tín hiệu của Ramiris, bốn người đang ở trong Zero giả
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-236](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-236)
 - Thời gian scrape: 2026-01-17 09:48:57
 
-
-[← Chương 235](chuong_235.md) | [📚 Mục lục](README.md) | [Chương 237 →](chuong_237.md)
-
+<div class="chapter-nav">
+    <a href="chuong_235.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_237.html" class="nav-btn">Chương sau →</a>
+</div>

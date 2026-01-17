@@ -1,6 +1,9 @@
-
-
-[← Chương 718](chuong_718.md) | [📚 Mục lục](README.md) | [Chương 720 →](chuong_720.md)
+---
+layout: default
+title: Chương 719: Có thể so với nhà giàu nhất thuốc
+chapter_number: 719
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Tào Côn hít sâu một hơi, hắn lần nữa hút một hơi thuốc, nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-719](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-719)
 - Thời gian scrape: 2026-01-13 22:21:58
 
-
-[← Chương 718](chuong_718.md) | [📚 Mục lục](README.md) | [Chương 720 →](chuong_720.md)
-
+<div class="chapter-nav">
+    <a href="chuong_718.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_720.html" class="nav-btn">Chương sau →</a>
+</div>

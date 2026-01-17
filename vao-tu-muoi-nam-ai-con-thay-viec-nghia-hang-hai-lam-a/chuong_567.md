@@ -1,6 +1,9 @@
-
-
-[← Chương 566](chuong_566.md) | [📚 Mục lục](README.md) | [Chương 568 →](chuong_568.md)
+---
+layout: default
+title: Chương 567: Hai đầu chửi bới
+chapter_number: 567
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Tào Côn tiếp tục nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-567](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-567)
 - Thời gian scrape: 2026-01-13 22:13:15
 
-
-[← Chương 566](chuong_566.md) | [📚 Mục lục](README.md) | [Chương 568 →](chuong_568.md)
-
+<div class="chapter-nav">
+    <a href="chuong_566.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_568.html" class="nav-btn">Chương sau →</a>
+</div>

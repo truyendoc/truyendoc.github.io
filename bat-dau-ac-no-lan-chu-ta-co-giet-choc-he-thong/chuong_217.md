@@ -1,6 +1,9 @@
-
-
-[← Chương 216](chuong_216.md) | [📚 Mục lục](README.md) | [Chương 218 →](chuong_218.md)
+---
+layout: default
+title: Chương 217: ám toán Dương Thiên Tứ
+chapter_number: 217
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -241,6 +244,6 @@ Thẩm Dục thông qua thần thức thấy cảnh này, có chút tiếc nuố
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-217](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-217)
 - Thời gian scrape: 2026-01-13 00:33:18
 
-
-[← Chương 216](chuong_216.md) | [📚 Mục lục](README.md) | [Chương 218 →](chuong_218.md)
-
+<div class="chapter-nav">
+    <a href="chuong_216.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_218.html" class="nav-btn">Chương sau →</a>
+</div>

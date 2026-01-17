@@ -1,6 +1,9 @@
-
-
-[← Chương 117](chuong_117.md) | [📚 Mục lục](README.md) | [Chương 119 →](chuong_119.md)
+---
+layout: default
+title: Chương 118: Vừa thất tình đại soái bức
+chapter_number: 118
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Kim Đỉnh KTV một gian trong văn phòng, Lưu Hồng gõ hai lần cửa, �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-118](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-118)
 - Thời gian scrape: 2026-01-13 21:46:24
 
-
-[← Chương 117](chuong_117.md) | [📚 Mục lục](README.md) | [Chương 119 →](chuong_119.md)
-
+<div class="chapter-nav">
+    <a href="chuong_117.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_119.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 631](chuong_631.md) | [📚 Mục lục](README.md) | [Chương 633 →](chuong_633.md)
+---
+layout: default
+title: Chương 632: Dương Nhật Bố trở về
+chapter_number: 632
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Mà trò chuyện đối tượng, biểu hiện là Đích Lý Bá á!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-632](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-632)
 - Thời gian scrape: 2026-01-13 22:16:58
 
-
-[← Chương 631](chuong_631.md) | [📚 Mục lục](README.md) | [Chương 633 →](chuong_633.md)
-
+<div class="chapter-nav">
+    <a href="chuong_631.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_633.html" class="nav-btn">Chương sau →</a>
+</div>

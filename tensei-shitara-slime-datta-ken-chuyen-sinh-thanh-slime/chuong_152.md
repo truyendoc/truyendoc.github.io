@@ -1,6 +1,9 @@
-
-
-[← Chương 151](chuong_151.md) | [📚 Mục lục](README.md) | [Chương 153 →](chuong_153.md)
+---
+layout: default
+title: Chương 152
+chapter_number: 152
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -372,6 +375,6 @@ Một đại quân của Đế chế với quy mô chưa từng có tiền lệ 
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-152](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-152)
 - Thời gian scrape: 2026-01-17 09:44:56
 
-
-[← Chương 151](chuong_151.md) | [📚 Mục lục](README.md) | [Chương 153 →](chuong_153.md)
-
+<div class="chapter-nav">
+    <a href="chuong_151.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_153.html" class="nav-btn">Chương sau →</a>
+</div>

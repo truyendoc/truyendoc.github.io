@@ -1,6 +1,9 @@
-
-
-[← Chương 344](chuong_344.md) | [📚 Mục lục](README.md) | [Chương 346 →](chuong_346.md)
+---
+layout: default
+title: Chương 345: Tiên hạ thủ vi cường (2)
+chapter_number: 345
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -123,6 +126,6 @@ Thể nội năng lượng phun trào, trên người nhiễm phải kia đối 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-345](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-345)
 - Thời gian scrape: 2026-01-13 00:24:19
 
-
-[← Chương 344](chuong_344.md) | [📚 Mục lục](README.md) | [Chương 346 →](chuong_346.md)
-
+<div class="chapter-nav">
+    <a href="chuong_344.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_346.html" class="nav-btn">Chương sau →</a>
+</div>

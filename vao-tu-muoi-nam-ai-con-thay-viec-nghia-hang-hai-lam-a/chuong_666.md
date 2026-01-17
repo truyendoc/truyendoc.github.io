@@ -1,6 +1,9 @@
-
-
-[← Chương 665](chuong_665.md) | [📚 Mục lục](README.md) | [Chương 667 →](chuong_667.md)
+---
+layout: default
+title: Chương 666: Móc lão bản
+chapter_number: 666
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Nếu như nhất định phải chọn, nàng khẳng định càng hi vọng x
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-666](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-666)
 - Thời gian scrape: 2026-01-13 22:18:57
 
-
-[← Chương 665](chuong_665.md) | [📚 Mục lục](README.md) | [Chương 667 →](chuong_667.md)
-
+<div class="chapter-nav">
+    <a href="chuong_665.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_667.html" class="nav-btn">Chương sau →</a>
+</div>

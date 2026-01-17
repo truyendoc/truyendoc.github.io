@@ -1,6 +1,9 @@
-
-
-[← Chương 364](chuong_364.md) | [📚 Mục lục](README.md) | [Chương 366 →](chuong_366.md)
+---
+layout: default
+title: Chương 365: U Liên tới, U Liên chạy (2)
+chapter_number: 365
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -141,6 +144,6 @@ Tâm niệm vừa động, hệ thống bảng hiển hiện, hệ thống thăn
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-365](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-365)
 - Thời gian scrape: 2026-01-13 00:25:06
 
-
-[← Chương 364](chuong_364.md) | [📚 Mục lục](README.md) | [Chương 366 →](chuong_366.md)
-
+<div class="chapter-nav">
+    <a href="chuong_364.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_366.html" class="nav-btn">Chương sau →</a>
+</div>

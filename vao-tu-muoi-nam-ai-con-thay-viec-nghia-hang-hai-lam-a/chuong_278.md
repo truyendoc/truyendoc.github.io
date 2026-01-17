@@ -1,6 +1,9 @@
-
-
-[← Chương 277](chuong_277.md) | [📚 Mục lục](README.md) | [Chương 279 →](chuong_279.md)
+---
+layout: default
+title: Chương 278: Chỉ cần ngươi cố gắng, vận khí cũng sẽ tốt
+chapter_number: 278
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Cùng Cẩu Nhất Vĩ lần nữa giằng co một hồi, rốt cục, Tào Cô
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-278](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-278)
 - Thời gian scrape: 2026-01-13 21:56:23
 
-
-[← Chương 277](chuong_277.md) | [📚 Mục lục](README.md) | [Chương 279 →](chuong_279.md)
-
+<div class="chapter-nav">
+    <a href="chuong_277.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_279.html" class="nav-btn">Chương sau →</a>
+</div>

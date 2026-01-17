@@ -1,6 +1,9 @@
-
-
-[← Chương 163](chuong_163.md) | [📚 Mục lục](README.md) | [Chương 165 →](chuong_165.md)
+---
+layout: default
+title: Chương 164: cửu tinh linh thể hiện thân
+chapter_number: 164
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -263,6 +266,6 @@ Mà hóa thành bạch quang cửu tinh linh thể cùng Thẩm Dục cũng kéo
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-164](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-164)
 - Thời gian scrape: 2026-01-13 00:31:12
 
-
-[← Chương 163](chuong_163.md) | [📚 Mục lục](README.md) | [Chương 165 →](chuong_165.md)
-
+<div class="chapter-nav">
+    <a href="chuong_163.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_165.html" class="nav-btn">Chương sau →</a>
+</div>

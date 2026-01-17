@@ -1,6 +1,9 @@
-
-
-[← Chương 305](chuong_305.md) | [📚 Mục lục](README.md) | [Chương 307 →](chuong_307.md)
+---
+layout: default
+title: Chương 306: Tuyệt hậu mắc (1)
+chapter_number: 306
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -133,6 +136,6 @@ Tuy nói Thẩm Dục không có làm chúa cứu thế dự định.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-306](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-306)
 - Thời gian scrape: 2026-01-13 00:22:47
 
-
-[← Chương 305](chuong_305.md) | [📚 Mục lục](README.md) | [Chương 307 →](chuong_307.md)
-
+<div class="chapter-nav">
+    <a href="chuong_305.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_307.html" class="nav-btn">Chương sau →</a>
+</div>

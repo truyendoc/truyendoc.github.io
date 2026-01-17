@@ -1,6 +1,9 @@
-
-
-[← Chương 4](chuong_4.md) | [📚 Mục lục](README.md) | [Chương 6 →](chuong_6.md)
+---
+layout: default
+title: Chương 5
+chapter_number: 5
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -356,6 +359,6 @@ Hiện tại, cô ta là “Đầu lĩnh Đội Kỵ sĩ cận vệ trực thu�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-5](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-5)
 - Thời gian scrape: 2026-01-17 09:38:03
 
-
-[← Chương 4](chuong_4.md) | [📚 Mục lục](README.md) | [Chương 6 →](chuong_6.md)
-
+<div class="chapter-nav">
+    <a href="chuong_4.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_6.html" class="nav-btn">Chương sau →</a>
+</div>

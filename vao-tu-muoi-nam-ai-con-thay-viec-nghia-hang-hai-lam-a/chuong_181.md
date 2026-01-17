@@ -1,6 +1,9 @@
-
-
-[← Chương 180](chuong_180.md) | [📚 Mục lục](README.md) | [Chương 182 →](chuong_182.md)
+---
+layout: default
+title: Chương 181: Tỷ ngươi bị ta làm xong
+chapter_number: 181
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Bởi vì, mặc kệ Trình Dao Dao là cái gì trả lời chắc chắn, Tà
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-181](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-181)
 - Thời gian scrape: 2026-01-13 21:50:11
 
-
-[← Chương 180](chuong_180.md) | [📚 Mục lục](README.md) | [Chương 182 →](chuong_182.md)
-
+<div class="chapter-nav">
+    <a href="chuong_180.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_182.html" class="nav-btn">Chương sau →</a>
+</div>

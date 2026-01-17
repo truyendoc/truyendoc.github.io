@@ -1,6 +1,9 @@
-
-
-[← Chương 327](chuong_327.md) | [📚 Mục lục](README.md) | [Chương 329 →](chuong_329.md)
+---
+layout: default
+title: Chương 328: Báo ứng tới (1)
+chapter_number: 328
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -125,6 +128,6 @@ Tại không biết chỗ tối còn có bao nhiêu người dưới tình huố
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-328](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-328)
 - Thời gian scrape: 2026-01-13 00:23:39
 
-
-[← Chương 327](chuong_327.md) | [📚 Mục lục](README.md) | [Chương 329 →](chuong_329.md)
-
+<div class="chapter-nav">
+    <a href="chuong_327.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_329.html" class="nav-btn">Chương sau →</a>
+</div>

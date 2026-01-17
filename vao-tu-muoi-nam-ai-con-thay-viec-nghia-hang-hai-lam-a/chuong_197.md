@@ -1,6 +1,9 @@
-
-
-[← Chương 196](chuong_196.md) | [📚 Mục lục](README.md) | [Chương 198 →](chuong_198.md)
+---
+layout: default
+title: Chương 197: Người mất tích trở về
+chapter_number: 197
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Cho nên, Vương San San muốn hỏi một chút Tào Côn an bài.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-197](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-197)
 - Thời gian scrape: 2026-01-13 21:51:06
 
-
-[← Chương 196](chuong_196.md) | [📚 Mục lục](README.md) | [Chương 198 →](chuong_198.md)
-
+<div class="chapter-nav">
+    <a href="chuong_196.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_198.html" class="nav-btn">Chương sau →</a>
+</div>

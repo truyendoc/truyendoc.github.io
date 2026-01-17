@@ -1,6 +1,9 @@
-
-
-[← Chương 585](chuong_585.md) | [📚 Mục lục](README.md) | [Chương 587 →](chuong_587.md)
+---
+layout: default
+title: Chương 586: Vừa đúng táng gia bại sản
+chapter_number: 586
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Mà tại một bên khác, Ngốc Cẩu thì là lái một chiếc Benz, trự
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-586](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-586)
 - Thời gian scrape: 2026-01-13 22:14:19
 
-
-[← Chương 585](chuong_585.md) | [📚 Mục lục](README.md) | [Chương 587 →](chuong_587.md)
-
+<div class="chapter-nav">
+    <a href="chuong_585.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_587.html" class="nav-btn">Chương sau →</a>
+</div>

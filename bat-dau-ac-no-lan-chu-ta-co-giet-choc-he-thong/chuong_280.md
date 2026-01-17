@@ -1,6 +1,9 @@
-
-
-[← Chương 279](chuong_279.md) | [📚 Mục lục](README.md) | [Chương 281 →](chuong_281.md)
+---
+layout: default
+title: Chương 280: Nhị hoàng tử là nữ nhân (1)
+chapter_number: 280
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -101,6 +104,6 @@ Nhị hoàng tử vui vẻ nói: “Ngươi mau chóng đem hắn mang đến, b
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-280](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-280)
 - Thời gian scrape: 2026-01-13 00:21:44
 
-
-[← Chương 279](chuong_279.md) | [📚 Mục lục](README.md) | [Chương 281 →](chuong_281.md)
-
+<div class="chapter-nav">
+    <a href="chuong_279.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_281.html" class="nav-btn">Chương sau →</a>
+</div>

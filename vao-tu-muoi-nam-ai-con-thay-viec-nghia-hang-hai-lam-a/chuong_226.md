@@ -1,6 +1,9 @@
-
-
-[← Chương 225](chuong_225.md) | [📚 Mục lục](README.md) | [Chương 227 →](chuong_227.md)
+---
+layout: default
+title: Chương 226: Cứu mạng biệt thự
+chapter_number: 226
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Cho nên, Tào Côn vẫn luôn biết, mộng ảo trong khu cư xá tốt nh�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-226](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-226)
 - Thời gian scrape: 2026-01-13 21:53:19
 
-
-[← Chương 225](chuong_225.md) | [📚 Mục lục](README.md) | [Chương 227 →](chuong_227.md)
-
+<div class="chapter-nav">
+    <a href="chuong_225.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_227.html" class="nav-btn">Chương sau →</a>
+</div>

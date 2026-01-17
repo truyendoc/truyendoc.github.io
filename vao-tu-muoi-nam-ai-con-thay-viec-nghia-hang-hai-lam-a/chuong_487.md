@@ -1,6 +1,9 @@
-
-
-[← Chương 486](chuong_486.md) | [📚 Mục lục](README.md) | [Chương 488 →](chuong_488.md)
+---
+layout: default
+title: Chương 487: Là cái người sói
+chapter_number: 487
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -191,6 +194,6 @@ Là cái người sói!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-487](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-487)
 - Thời gian scrape: 2026-01-13 22:08:42
 
-
-[← Chương 486](chuong_486.md) | [📚 Mục lục](README.md) | [Chương 488 →](chuong_488.md)
-
+<div class="chapter-nav">
+    <a href="chuong_486.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_488.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 15](chuong_15.md) | [📚 Mục lục](README.md) | [Chương 17 →](chuong_17.md)
+---
+layout: default
+title: Chương 16: Về nhà, tìm giáo hoa một nhà tính sổ sách
+chapter_number: 16
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -147,6 +150,6 @@ Tại ký túc xá ở, không nói đến không tiện hắn luyện thùng c�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-16](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-16)
 - Thời gian scrape: 2026-01-13 21:40:15
 
-
-[← Chương 15](chuong_15.md) | [📚 Mục lục](README.md) | [Chương 17 →](chuong_17.md)
-
+<div class="chapter-nav">
+    <a href="chuong_15.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_17.html" class="nav-btn">Chương sau →</a>
+</div>

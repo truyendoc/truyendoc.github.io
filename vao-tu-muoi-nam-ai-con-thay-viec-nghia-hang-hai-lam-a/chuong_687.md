@@ -1,6 +1,9 @@
-
-
-[← Chương 686](chuong_686.md) | [📚 Mục lục](README.md) | [Chương 688 →](chuong_688.md)
+---
+layout: default
+title: Chương 687: Mới phản đồ Mã Vũ Thiến
+chapter_number: 687
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Okamoto ba tấc cười khổ, có chút khó khăn nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-687](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-687)
 - Thời gian scrape: 2026-01-13 22:20:14
 
-
-[← Chương 686](chuong_686.md) | [📚 Mục lục](README.md) | [Chương 688 →](chuong_688.md)
-
+<div class="chapter-nav">
+    <a href="chuong_686.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_688.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 116](chuong_116.md) | [📚 Mục lục](README.md) | [Chương 118 →](chuong_118.md)
+---
+layout: default
+title: Chương 117
+chapter_number: 117
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -370,6 +373,6 @@ Và cuối cùng, các nhóm lớn mạo hiểm giả, cuối cùng đã đến 
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-117](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-117)
 - Thời gian scrape: 2026-01-17 09:43:18
 
-
-[← Chương 116](chuong_116.md) | [📚 Mục lục](README.md) | [Chương 118 →](chuong_118.md)
-
+<div class="chapter-nav">
+    <a href="chuong_116.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_118.html" class="nav-btn">Chương sau →</a>
+</div>

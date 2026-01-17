@@ -1,6 +1,9 @@
-
-
-[← Chương 690](chuong_690.md) | [📚 Mục lục](README.md) | [Chương 692 →](chuong_692.md)
+---
+layout: default
+title: Chương 691: Cường Mỹ tập đoàn tới
+chapter_number: 691
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -187,6 +190,6 @@ Cho nên, nàng xác thực cảm thấy, hai người đã không xứng đôi,
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-691](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-691)
 - Thời gian scrape: 2026-01-13 22:20:28
 
-
-[← Chương 690](chuong_690.md) | [📚 Mục lục](README.md) | [Chương 692 →](chuong_692.md)
-
+<div class="chapter-nav">
+    <a href="chuong_690.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_692.html" class="nav-btn">Chương sau →</a>
+</div>

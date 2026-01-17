@@ -1,6 +1,9 @@
-
-
-[← Chương 288](chuong_288.md) | [📚 Mục lục](README.md) | [Chương 290 →](chuong_290.md)
+---
+layout: default
+title: Chương 289: Lý Linh nhi tấn thăng Nguyên Đan Cảnh (2)
+chapter_number: 289
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -133,6 +136,6 @@ Nhưng chỉ chốc lát sau, phái đi gọi hai người thủ hạ sau khi tr
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-289](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-289)
 - Thời gian scrape: 2026-01-13 00:22:06
 
-
-[← Chương 288](chuong_288.md) | [📚 Mục lục](README.md) | [Chương 290 →](chuong_290.md)
-
+<div class="chapter-nav">
+    <a href="chuong_288.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_290.html" class="nav-btn">Chương sau →</a>
+</div>

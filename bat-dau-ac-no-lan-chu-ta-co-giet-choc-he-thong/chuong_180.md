@@ -1,6 +1,9 @@
-
-
-[← Chương 179](chuong_179.md) | [📚 Mục lục](README.md) | [Chương 181 →](chuong_181.md)
+---
+layout: default
+title: Chương 180: trảm thảo trừ căn
+chapter_number: 180
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -255,6 +258,6 @@ Trương Dĩnh lại là vội vàng mà đến, nàng hạ giọng nói: “Li�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-180](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-180)
 - Thời gian scrape: 2026-01-13 00:31:51
 
-
-[← Chương 179](chuong_179.md) | [📚 Mục lục](README.md) | [Chương 181 →](chuong_181.md)
-
+<div class="chapter-nav">
+    <a href="chuong_179.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_181.html" class="nav-btn">Chương sau →</a>
+</div>

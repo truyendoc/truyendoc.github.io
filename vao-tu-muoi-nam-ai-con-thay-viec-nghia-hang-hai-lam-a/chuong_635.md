@@ -1,6 +1,9 @@
-
-
-[← Chương 634](chuong_634.md) | [📚 Mục lục](README.md) | [Chương 636 →](chuong_636.md)
+---
+layout: default
+title: Chương 635: Cho Đích Lý Bá rồi sáng ý
+chapter_number: 635
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Trước hết để cho Tào Côn xem qua, Tào Côn bên này hài lòng về 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-635](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-635)
 - Thời gian scrape: 2026-01-13 22:17:08
 
-
-[← Chương 634](chuong_634.md) | [📚 Mục lục](README.md) | [Chương 636 →](chuong_636.md)
-
+<div class="chapter-nav">
+    <a href="chuong_634.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_636.html" class="nav-btn">Chương sau →</a>
+</div>

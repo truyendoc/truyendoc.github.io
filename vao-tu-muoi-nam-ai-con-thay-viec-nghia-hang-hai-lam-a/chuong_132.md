@@ -1,6 +1,9 @@
-
-
-[← Chương 131](chuong_131.md) | [📚 Mục lục](README.md) | [Chương 133 →](chuong_133.md)
+---
+layout: default
+title: Chương 132: Lưu manh cùng sinh viên, không mâu thuẫn
+chapter_number: 132
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Gặp Tào Côn hướng mình đi tới, Tôn Phỉ Phỉ một chút liền lu
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-132](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-132)
 - Thời gian scrape: 2026-01-13 21:47:07
 
-
-[← Chương 131](chuong_131.md) | [📚 Mục lục](README.md) | [Chương 133 →](chuong_133.md)
-
+<div class="chapter-nav">
+    <a href="chuong_131.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_133.html" class="nav-btn">Chương sau →</a>
+</div>

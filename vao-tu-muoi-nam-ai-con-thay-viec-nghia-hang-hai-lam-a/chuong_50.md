@@ -1,6 +1,9 @@
-
-
-[← Chương 49](chuong_49.md) | [📚 Mục lục](README.md) | [Chương 51 →](chuong_51.md)
+---
+layout: default
+title: Chương 50: Liếm chó không có
+chapter_number: 50
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Nghe vậy, Vương San San muốn nói lại thôi há to miệng, nhưng là, 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-50](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-50)
 - Thời gian scrape: 2026-01-13 21:42:08
 
-
-[← Chương 49](chuong_49.md) | [📚 Mục lục](README.md) | [Chương 51 →](chuong_51.md)
-
+<div class="chapter-nav">
+    <a href="chuong_49.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_51.html" class="nav-btn">Chương sau →</a>
+</div>

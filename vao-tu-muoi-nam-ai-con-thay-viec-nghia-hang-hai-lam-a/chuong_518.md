@@ -1,6 +1,9 @@
-
-
-[← Chương 517](chuong_517.md) | [📚 Mục lục](README.md) | [Chương 519 →](chuong_519.md)
+---
+layout: default
+title: Chương 518: Hiệu quả rất tốt
+chapter_number: 518
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -151,6 +154,6 @@ Bốc Hạnh Phúc có ý tứ là, Tào Côn ngày đó không chỉ muốn tha
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-518](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-518)
 - Thời gian scrape: 2026-01-13 22:10:26
 
-
-[← Chương 517](chuong_517.md) | [📚 Mục lục](README.md) | [Chương 519 →](chuong_519.md)
-
+<div class="chapter-nav">
+    <a href="chuong_517.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_519.html" class="nav-btn">Chương sau →</a>
+</div>

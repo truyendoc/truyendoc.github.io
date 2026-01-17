@@ -1,6 +1,9 @@
-
-
-[← Chương 164](chuong_164.md) | [📚 Mục lục](README.md) | [Chương 166 →](chuong_166.md)
+---
+layout: default
+title: Chương 165: Tào Côn nan ngôn chi ẩn
+chapter_number: 165
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Nói đến đây, Tào Côn đột nhiên nghiêng đầu sang chỗ khác, nh�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-165](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-165)
 - Thời gian scrape: 2026-01-13 21:49:18
 
-
-[← Chương 164](chuong_164.md) | [📚 Mục lục](README.md) | [Chương 166 →](chuong_166.md)
-
+<div class="chapter-nav">
+    <a href="chuong_164.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_166.html" class="nav-btn">Chương sau →</a>
+</div>

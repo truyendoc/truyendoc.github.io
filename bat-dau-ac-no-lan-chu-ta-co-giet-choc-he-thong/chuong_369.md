@@ -1,6 +1,9 @@
-
-
-[← Chương 368](chuong_368.md) | [📚 Mục lục](README.md) | [Chương 370 →](chuong_370.md)
+---
+layout: default
+title: Chương 369: Cấp tiến một chút (2)
+chapter_number: 369
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -119,6 +122,6 @@ Mà hắn g·iết chóc trị còn thừa lại 121 ức ra mặt.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-369](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-369)
 - Thời gian scrape: 2026-01-13 00:25:16
 
-
-[← Chương 368](chuong_368.md) | [📚 Mục lục](README.md) | [Chương 370 →](chuong_370.md)
-
+<div class="chapter-nav">
+    <a href="chuong_368.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_370.html" class="nav-btn">Chương sau →</a>
+</div>

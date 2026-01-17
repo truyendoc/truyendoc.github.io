@@ -1,6 +1,9 @@
-
-
-[← Chương 395](chuong_395.md) | [📚 Mục lục](README.md) | [Chương 397 →](chuong_397.md)
+---
+layout: default
+title: Chương 396: Lời thật lòng đại mạo hiểm
+chapter_number: 396
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Rất nhanh, Giả Di Tĩnh thanh âm vang lên.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-396](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-396)
 - Thời gian scrape: 2026-01-13 22:03:21
 
-
-[← Chương 395](chuong_395.md) | [📚 Mục lục](README.md) | [Chương 397 →](chuong_397.md)
-
+<div class="chapter-nav">
+    <a href="chuong_395.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_397.html" class="nav-btn">Chương sau →</a>
+</div>

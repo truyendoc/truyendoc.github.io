@@ -1,6 +1,9 @@
-
-
-[← Chương 694](chuong_694.md) | [📚 Mục lục](README.md) | [Chương 696 →](chuong_696.md)
+---
+layout: default
+title: Chương 695: Có mệnh hoa trọng yếu nhất
+chapter_number: 695
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Nghe vậy, Triệu Xảo Thiến giả bộ như một bộ quan tâm bộ dán
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-695](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-695)
 - Thời gian scrape: 2026-01-13 22:20:40
 
-
-[← Chương 694](chuong_694.md) | [📚 Mục lục](README.md) | [Chương 696 →](chuong_696.md)
-
+<div class="chapter-nav">
+    <a href="chuong_694.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_696.html" class="nav-btn">Chương sau →</a>
+</div>

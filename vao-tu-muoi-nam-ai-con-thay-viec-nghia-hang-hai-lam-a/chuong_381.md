@@ -1,6 +1,9 @@
-
-
-[← Chương 380](chuong_380.md) | [📚 Mục lục](README.md) | [Chương 382 →](chuong_382.md)
+---
+layout: default
+title: Chương 381: Trò chuyện Lý Đại Lượng
+chapter_number: 381
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Sĩ tâm cẩu tràng chính là Liễu Truyền Sĩ đệ đệ Liễu Truyền
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-381](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-381)
 - Thời gian scrape: 2026-01-13 22:02:30
 
-
-[← Chương 380](chuong_380.md) | [📚 Mục lục](README.md) | [Chương 382 →](chuong_382.md)
-
+<div class="chapter-nav">
+    <a href="chuong_380.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_382.html" class="nav-btn">Chương sau →</a>
+</div>

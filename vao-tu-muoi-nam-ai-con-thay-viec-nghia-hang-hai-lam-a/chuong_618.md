@@ -1,6 +1,9 @@
-
-
-[← Chương 617](chuong_617.md) | [📚 Mục lục](README.md) | [Chương 619 →](chuong_619.md)
+---
+layout: default
+title: Chương 618: Có biết hay không ta vài phút bao nhiêu tiền
+chapter_number: 618
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Thậm chí, cái kia nhan trị bình thường đến, Tào Côn đều không
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-618](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-618)
 - Thời gian scrape: 2026-01-13 22:16:09
 
-
-[← Chương 617](chuong_617.md) | [📚 Mục lục](README.md) | [Chương 619 →](chuong_619.md)
-
+<div class="chapter-nav">
+    <a href="chuong_617.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_619.html" class="nav-btn">Chương sau →</a>
+</div>

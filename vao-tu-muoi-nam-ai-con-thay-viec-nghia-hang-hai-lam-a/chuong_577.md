@@ -1,6 +1,9 @@
-
-
-[← Chương 576](chuong_576.md) | [📚 Mục lục](README.md) | [Chương 578 →](chuong_578.md)
+---
+layout: default
+title: Chương 577: Cái này tiện nghi để ngươi chiếm
+chapter_number: 577
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Ngay sau đó, Tào Côn liền thấy phần phật mấy cái bác sĩ, vội 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-577](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-577)
 - Thời gian scrape: 2026-01-13 22:13:48
 
-
-[← Chương 576](chuong_576.md) | [📚 Mục lục](README.md) | [Chương 578 →](chuong_578.md)
-
+<div class="chapter-nav">
+    <a href="chuong_576.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_578.html" class="nav-btn">Chương sau →</a>
+</div>

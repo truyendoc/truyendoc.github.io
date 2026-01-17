@@ -1,6 +1,9 @@
-
-
-[← Chương 156](chuong_156.md) | [📚 Mục lục](README.md) | [Chương 158 →](chuong_158.md)
+---
+layout: default
+title: Chương 157: Sơ Tuyết cùng bắt đầu thấy
+chapter_number: 157
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -231,6 +234,6 @@ Nhưng cũng phân rõ đạt được, Thẩm Dục cho các nàng lấy danh t
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-157](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-157)
 - Thời gian scrape: 2026-01-13 00:30:55
 
-
-[← Chương 156](chuong_156.md) | [📚 Mục lục](README.md) | [Chương 158 →](chuong_158.md)
-
+<div class="chapter-nav">
+    <a href="chuong_156.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_158.html" class="nav-btn">Chương sau →</a>
+</div>

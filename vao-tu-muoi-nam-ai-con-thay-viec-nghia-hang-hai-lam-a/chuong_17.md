@@ -1,6 +1,9 @@
-
-
-[← Chương 16](chuong_16.md) | [📚 Mục lục](README.md) | [Chương 18 →](chuong_18.md)
+---
+layout: default
+title: Chương 17: Nghĩa địa lời nói trong đêm
+chapter_number: 17
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Sau đó, hắn ngồi tại mộ phần trước, vừa hút khói, uống rư�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-17](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-17)
 - Thời gian scrape: 2026-01-13 21:40:20
 
-
-[← Chương 16](chuong_16.md) | [📚 Mục lục](README.md) | [Chương 18 →](chuong_18.md)
-
+<div class="chapter-nav">
+    <a href="chuong_16.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_18.html" class="nav-btn">Chương sau →</a>
+</div>

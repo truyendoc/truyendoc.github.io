@@ -1,6 +1,9 @@
-
-
-[← Chương 651](chuong_651.md) | [📚 Mục lục](README.md) | [Chương 653 →](chuong_653.md)
+---
+layout: default
+title: Chương 652: Cảm tạ lão bạn tù
+chapter_number: 652
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Dù sao, hắn cũng không quản sự.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-652](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-652)
 - Thời gian scrape: 2026-01-13 22:18:06
 
-
-[← Chương 651](chuong_651.md) | [📚 Mục lục](README.md) | [Chương 653 →](chuong_653.md)
-
+<div class="chapter-nav">
+    <a href="chuong_651.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_653.html" class="nav-btn">Chương sau →</a>
+</div>

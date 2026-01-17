@@ -1,6 +1,9 @@
-
-
-[← Chương 22](chuong_22.md) | [📚 Mục lục](README.md) | [Chương 24 →](chuong_24.md)
+---
+layout: default
+title: Chương 23: Không sai, tại gian phu nhà đâu
+chapter_number: 23
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Một bên, Vương San San nhìn xem một màn này, bĩu môi, nức nỡ nó
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-23](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-23)
 - Thời gian scrape: 2026-01-13 21:40:39
 
-
-[← Chương 22](chuong_22.md) | [📚 Mục lục](README.md) | [Chương 24 →](chuong_24.md)
-
+<div class="chapter-nav">
+    <a href="chuong_22.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_24.html" class="nav-btn">Chương sau →</a>
+</div>

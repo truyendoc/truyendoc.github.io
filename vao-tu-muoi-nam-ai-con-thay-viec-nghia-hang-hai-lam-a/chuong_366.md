@@ -1,6 +1,9 @@
-
-
-[← Chương 365](chuong_365.md) | [📚 Mục lục](README.md) | [Chương 367 →](chuong_367.md)
+---
+layout: default
+title: Chương 366: Kế hoạch mới, giết chết Bốc Hạnh Phúc
+chapter_number: 366
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Mà Lý Mặc Nhiễm, đáp ứng vô cùng sảng khoái, thật giống như 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-366](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-366)
 - Thời gian scrape: 2026-01-13 22:01:41
 
-
-[← Chương 365](chuong_365.md) | [📚 Mục lục](README.md) | [Chương 367 →](chuong_367.md)
-
+<div class="chapter-nav">
+    <a href="chuong_365.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_367.html" class="nav-btn">Chương sau →</a>
+</div>

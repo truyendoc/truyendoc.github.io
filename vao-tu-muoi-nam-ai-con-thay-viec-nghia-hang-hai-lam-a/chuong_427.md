@@ -1,6 +1,9 @@
-
-
-[← Chương 426](chuong_426.md) | [📚 Mục lục](README.md) | [Chương 428 →](chuong_428.md)
+---
+layout: default
+title: Chương 427: Dương Tam Đao quá muốn vào bước
+chapter_number: 427
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Hắn không dám tin nhìn xem Tào Côn, cả kinh nói: "Liễu, Liễu gia m
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-427](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-427)
 - Thời gian scrape: 2026-01-13 22:05:05
 
-
-[← Chương 426](chuong_426.md) | [📚 Mục lục](README.md) | [Chương 428 →](chuong_428.md)
-
+<div class="chapter-nav">
+    <a href="chuong_426.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_428.html" class="nav-btn">Chương sau →</a>
+</div>

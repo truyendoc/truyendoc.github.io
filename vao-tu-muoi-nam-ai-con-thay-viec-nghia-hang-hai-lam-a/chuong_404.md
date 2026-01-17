@@ -1,6 +1,9 @@
-
-
-[← Chương 403](chuong_403.md) | [📚 Mục lục](README.md) | [Chương 405 →](chuong_405.md)
+---
+layout: default
+title: Chương 404: Liễu Truyền Sĩ tới cửa
+chapter_number: 404
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -187,6 +190,6 @@ Biết hai người loại cấp bậc này nói chuyện, khẳng định khôn
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-404](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-404)
 - Thời gian scrape: 2026-01-13 22:03:49
 
-
-[← Chương 403](chuong_403.md) | [📚 Mục lục](README.md) | [Chương 405 →](chuong_405.md)
-
+<div class="chapter-nav">
+    <a href="chuong_403.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_405.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 310](chuong_310.md) | [📚 Mục lục](README.md) | [Chương 312 →](chuong_312.md)
+---
+layout: default
+title: Chương 311: Bảy tòa Nguyên thạch mỏ (2)
+chapter_number: 311
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -127,6 +130,6 @@ Nghe vậy, Chung Diệu có chút ngượng ngùng nói: “Có thể đây kh�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-311](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-311)
 - Thời gian scrape: 2026-01-13 00:22:59
 
-
-[← Chương 310](chuong_310.md) | [📚 Mục lục](README.md) | [Chương 312 →](chuong_312.md)
-
+<div class="chapter-nav">
+    <a href="chuong_310.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_312.html" class="nav-btn">Chương sau →</a>
+</div>

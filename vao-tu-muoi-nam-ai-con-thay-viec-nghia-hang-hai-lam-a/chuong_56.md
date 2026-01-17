@@ -1,6 +1,9 @@
-
-
-[← Chương 55](chuong_55.md) | [📚 Mục lục](README.md) | [Chương 57 →](chuong_57.md)
+---
+layout: default
+title: Chương 56: Xe lửa khắc ta
+chapter_number: 56
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Xem ra, về sau muốn ít cưỡi xe lửa mới được!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-56](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-56)
 - Thời gian scrape: 2026-01-13 21:42:26
 
-
-[← Chương 55](chuong_55.md) | [📚 Mục lục](README.md) | [Chương 57 →](chuong_57.md)
-
+<div class="chapter-nav">
+    <a href="chuong_55.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_57.html" class="nav-btn">Chương sau →</a>
+</div>

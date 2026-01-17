@@ -1,6 +1,9 @@
-
-
-[← Chương 353](chuong_353.md) | [📚 Mục lục](README.md) | [Chương 355 →](chuong_355.md)
+---
+layout: default
+title: Chương 354: 2 số 828 trả phòng
+chapter_number: 354
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Cũng có đạo lý!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-354](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-354)
 - Thời gian scrape: 2026-01-13 22:00:56
 
-
-[← Chương 353](chuong_353.md) | [📚 Mục lục](README.md) | [Chương 355 →](chuong_355.md)
-
+<div class="chapter-nav">
+    <a href="chuong_353.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_355.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 417](chuong_417.md) | [📚 Mục lục](README.md) | [Chương 419 →](chuong_419.md)
+---
+layout: default
+title: Chương 418: Lão Tất Đăng, yếu phát nổ
+chapter_number: 418
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -187,6 +190,6 @@ Vương San San trợn nhìn Tào Côn một chút, nói: "Ngươi quản ta là
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-418](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-418)
 - Thời gian scrape: 2026-01-13 22:04:34
 
-
-[← Chương 417](chuong_417.md) | [📚 Mục lục](README.md) | [Chương 419 →](chuong_419.md)
-
+<div class="chapter-nav">
+    <a href="chuong_417.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_419.html" class="nav-btn">Chương sau →</a>
+</div>

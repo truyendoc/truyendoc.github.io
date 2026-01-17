@@ -1,6 +1,9 @@
-
-
-[← Chương 382](chuong_382.md) | [📚 Mục lục](README.md)
+---
+layout: default
+title: Chương 383: Trần Bình an (2)
+chapter_number: 383
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -129,6 +132,6 @@ Mà chí tôn kiếm cốt chính là mạnh nhất căn cốt một trong, nế
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-383](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-383)
 - Thời gian scrape: 2026-01-13 00:25:48
 
-
-[← Chương 382](chuong_382.md) | [📚 Mục lục](README.md)
-
+<div class="chapter-nav">
+    <a href="chuong_382.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="#" class="nav-btn disabled">Chương sau →</a>
+</div>

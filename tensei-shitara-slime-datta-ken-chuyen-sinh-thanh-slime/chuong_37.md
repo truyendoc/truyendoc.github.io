@@ -1,6 +1,9 @@
-
-
-[← Chương 36](chuong_36.md) | [📚 Mục lục](README.md) | [Chương 38 →](chuong_38.md)
+---
+layout: default
+title: Chương 37
+chapter_number: 37
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -488,6 +491,6 @@ Chú thích:
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-37](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-37)
 - Thời gian scrape: 2026-01-17 09:39:34
 
-
-[← Chương 36](chuong_36.md) | [📚 Mục lục](README.md) | [Chương 38 →](chuong_38.md)
-
+<div class="chapter-nav">
+    <a href="chuong_36.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_38.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 109](chuong_109.md) | [📚 Mục lục](README.md) | [Chương 111 →](chuong_111.md)
+---
+layout: default
+title: Chương 110
+chapter_number: 110
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -368,6 +371,6 @@ Vâng, bây giờ anh ta chắc chắn sẽ được đào tạo lại, và tôi
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-110](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-110)
 - Thời gian scrape: 2026-01-17 09:42:56
 
-
-[← Chương 109](chuong_109.md) | [📚 Mục lục](README.md) | [Chương 111 →](chuong_111.md)
-
+<div class="chapter-nav">
+    <a href="chuong_109.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_111.html" class="nav-btn">Chương sau →</a>
+</div>

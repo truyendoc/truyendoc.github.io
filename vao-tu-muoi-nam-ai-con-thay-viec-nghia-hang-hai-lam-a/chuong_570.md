@@ -1,6 +1,9 @@
-
-
-[← Chương 569](chuong_569.md) | [📚 Mục lục](README.md) | [Chương 571 →](chuong_571.md)
+---
+layout: default
+title: Chương 570: Tiếp tục làm Tào Côn tiền
+chapter_number: 570
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Thấy mình thật lớn mà vậy mà thất thần, Lý Tố Linh cười nó
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-570](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-570)
 - Thời gian scrape: 2026-01-13 22:13:26
 
-
-[← Chương 569](chuong_569.md) | [📚 Mục lục](README.md) | [Chương 571 →](chuong_571.md)
-
+<div class="chapter-nav">
+    <a href="chuong_569.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_571.html" class="nav-btn">Chương sau →</a>
+</div>

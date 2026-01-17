@@ -1,6 +1,9 @@
-
-
-[← Chương 171](chuong_171.md) | [📚 Mục lục](README.md) | [Chương 173 →](chuong_173.md)
+---
+layout: default
+title: Chương 172: từ bỏ Thẩm Dục
+chapter_number: 172
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -251,6 +254,6 @@ Những ngày này, Trấn Yêu Quân cũng phái ra đại lượng trinh sát,
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-172](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-172)
 - Thời gian scrape: 2026-01-13 00:31:31
 
-
-[← Chương 171](chuong_171.md) | [📚 Mục lục](README.md) | [Chương 173 →](chuong_173.md)
-
+<div class="chapter-nav">
+    <a href="chuong_171.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_173.html" class="nav-btn">Chương sau →</a>
+</div>

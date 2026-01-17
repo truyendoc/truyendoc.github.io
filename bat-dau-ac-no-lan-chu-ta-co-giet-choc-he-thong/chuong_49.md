@@ -1,6 +1,9 @@
-
-
-[← Chương 48](chuong_48.md) | [📚 Mục lục](README.md) | [Chương 50 →](chuong_50.md)
+---
+layout: default
+title: Chương 49: phong phú chiến lợi phẩm
+chapter_number: 49
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -299,6 +302,6 @@ Hắn quyết định chọn lựa mấy cái không có đặc thù tiêu ký t
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-49](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-49)
 - Thời gian scrape: 2026-01-13 21:15:46
 
-
-[← Chương 48](chuong_48.md) | [📚 Mục lục](README.md) | [Chương 50 →](chuong_50.md)
-
+<div class="chapter-nav">
+    <a href="chuong_48.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_50.html" class="nav-btn">Chương sau →</a>
+</div>

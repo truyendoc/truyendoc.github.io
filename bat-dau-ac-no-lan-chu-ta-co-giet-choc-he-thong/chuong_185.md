@@ -1,6 +1,9 @@
-
-
-[← Chương 184](chuong_184.md) | [📚 Mục lục](README.md) | [Chương 186 →](chuong_186.md)
+---
+layout: default
+title: Chương 185: đồ ăn có độc
+chapter_number: 185
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -265,6 +268,6 @@ Cho nên, đối phương hay là trốn không thoát.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-185](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-185)
 - Thời gian scrape: 2026-01-13 00:32:03
 
-
-[← Chương 184](chuong_184.md) | [📚 Mục lục](README.md) | [Chương 186 →](chuong_186.md)
-
+<div class="chapter-nav">
+    <a href="chuong_184.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_186.html" class="nav-btn">Chương sau →</a>
+</div>

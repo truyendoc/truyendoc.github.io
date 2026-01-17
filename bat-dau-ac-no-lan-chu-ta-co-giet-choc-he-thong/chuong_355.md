@@ -1,6 +1,9 @@
-
-
-[← Chương 354](chuong_354.md) | [📚 Mục lục](README.md) | [Chương 356 →](chuong_356.md)
+---
+layout: default
+title: Chương 355: Vu tộc bí cảnh (2)
+chapter_number: 355
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -101,6 +104,6 @@ Giá cả cũng đi theo tăng gấp mấy lần.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-355](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-355)
 - Thời gian scrape: 2026-01-13 00:24:43
 
-
-[← Chương 354](chuong_354.md) | [📚 Mục lục](README.md) | [Chương 356 →](chuong_356.md)
-
+<div class="chapter-nav">
+    <a href="chuong_354.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_356.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 69](chuong_69.md) | [📚 Mục lục](README.md) | [Chương 71 →](chuong_71.md)
+---
+layout: default
+title: Chương 70
+chapter_number: 70
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -836,6 +839,6 @@ Ngày hôm đó, 1 quỷ vương mới đã ra đời.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-70](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-70)
 - Thời gian scrape: 2026-01-17 09:41:05
 
-
-[← Chương 69](chuong_69.md) | [📚 Mục lục](README.md) | [Chương 71 →](chuong_71.md)
-
+<div class="chapter-nav">
+    <a href="chuong_69.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_71.html" class="nav-btn">Chương sau →</a>
+</div>

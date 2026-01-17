@@ -1,6 +1,9 @@
-
-
-[← Chương 97](chuong_97.md) | [📚 Mục lục](README.md) | [Chương 99 →](chuong_99.md)
+---
+layout: default
+title: Chương 98
+chapter_number: 98
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -386,6 +389,6 @@ Thế rồi, sự xung đột giữa Đất nước Monster-Tempest và Giáo h�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-98](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-98)
 - Thời gian scrape: 2026-01-17 09:42:22
 
-
-[← Chương 97](chuong_97.md) | [📚 Mục lục](README.md) | [Chương 99 →](chuong_99.md)
-
+<div class="chapter-nav">
+    <a href="chuong_97.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_99.html" class="nav-btn">Chương sau →</a>
+</div>

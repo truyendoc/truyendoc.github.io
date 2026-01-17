@@ -1,6 +1,9 @@
-
-
-[← Chương 210](chuong_210.md) | [📚 Mục lục](README.md) | [Chương 212 →](chuong_212.md)
+---
+layout: default
+title: Chương 211
+chapter_number: 211
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -488,6 +491,6 @@ Trên mảnh đất này, sự hung tàn của Chúa Quỷ Dagruel chuẩn bị 
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-211](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-211)
 - Thời gian scrape: 2026-01-17 09:47:42
 
-
-[← Chương 210](chuong_210.md) | [📚 Mục lục](README.md) | [Chương 212 →](chuong_212.md)
-
+<div class="chapter-nav">
+    <a href="chuong_210.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_212.html" class="nav-btn">Chương sau →</a>
+</div>

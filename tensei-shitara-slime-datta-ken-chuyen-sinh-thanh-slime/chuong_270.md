@@ -1,6 +1,9 @@
-
-
-[← Chương 269](chuong_269.md) | [📚 Mục lục](README.md) | [Chương 271 →](chuong_271.md)
+---
+layout: default
+title: Chương 270
+chapter_number: 270
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -460,6 +463,6 @@ Có lẽ: nụ cười tự mãn = nụ cười thần thánh.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-270](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-270)
 - Thời gian scrape: 2026-01-17 09:50:36
 
-
-[← Chương 269](chuong_269.md) | [📚 Mục lục](README.md) | [Chương 271 →](chuong_271.md)
-
+<div class="chapter-nav">
+    <a href="chuong_269.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_271.html" class="nav-btn">Chương sau →</a>
+</div>

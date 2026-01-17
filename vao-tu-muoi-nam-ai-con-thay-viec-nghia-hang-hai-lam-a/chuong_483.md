@@ -1,6 +1,9 @@
-
-
-[← Chương 482](chuong_482.md) | [📚 Mục lục](README.md) | [Chương 484 →](chuong_484.md)
+---
+layout: default
+title: Chương 483: Tinh khiết lớn ngu xuẩn
+chapter_number: 483
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Gặp Trương Bách Mộ chỉ là ô ô lớn tiếng nghẹn ngào, Tào Côn
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-483](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-483)
 - Thời gian scrape: 2026-01-13 22:08:28
 
-
-[← Chương 482](chuong_482.md) | [📚 Mục lục](README.md) | [Chương 484 →](chuong_484.md)
-
+<div class="chapter-nav">
+    <a href="chuong_482.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_484.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 304](chuong_304.md) | [📚 Mục lục](README.md) | [Chương 306 →](chuong_306.md)
+---
+layout: default
+title: Chương 305: Khí cũng thuật lại hiển lộ thần uy (2)
+chapter_number: 305
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Nhìn thấy một màn này, đang cùng Vu sư chém g·iết Giang Uyên khô
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-305](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-305)
 - Thời gian scrape: 2026-01-13 00:22:44
 
-
-[← Chương 304](chuong_304.md) | [📚 Mục lục](README.md) | [Chương 306 →](chuong_306.md)
-
+<div class="chapter-nav">
+    <a href="chuong_304.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_306.html" class="nav-btn">Chương sau →</a>
+</div>

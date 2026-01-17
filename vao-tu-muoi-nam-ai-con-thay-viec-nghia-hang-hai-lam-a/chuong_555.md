@@ -1,6 +1,9 @@
-
-
-[← Chương 554](chuong_554.md) | [📚 Mục lục](README.md) | [Chương 556 →](chuong_556.md)
+---
+layout: default
+title: Chương 555: Tranh nhau đưa nữ nhi
+chapter_number: 555
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Dù sao các nàng muốn rời chức đã là chú định, nếu có thể �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-555](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-555)
 - Thời gian scrape: 2026-01-13 22:12:33
 
-
-[← Chương 554](chuong_554.md) | [📚 Mục lục](README.md) | [Chương 556 →](chuong_556.md)
-
+<div class="chapter-nav">
+    <a href="chuong_554.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_556.html" class="nav-btn">Chương sau →</a>
+</div>

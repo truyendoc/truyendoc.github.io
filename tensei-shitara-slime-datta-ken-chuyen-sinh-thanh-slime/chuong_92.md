@@ -1,6 +1,9 @@
-
-
-[← Chương 91](chuong_91.md) | [📚 Mục lục](README.md) | [Chương 93 →](chuong_93.md)
+---
+layout: default
+title: Chương 92
+chapter_number: 92
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -440,6 +443,6 @@ Thôi thì bây giờ cứ vui vẻ đi.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-92](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-92)
 - Thời gian scrape: 2026-01-17 09:42:06
 
-
-[← Chương 91](chuong_91.md) | [📚 Mục lục](README.md) | [Chương 93 →](chuong_93.md)
-
+<div class="chapter-nav">
+    <a href="chuong_91.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_93.html" class="nav-btn">Chương sau →</a>
+</div>

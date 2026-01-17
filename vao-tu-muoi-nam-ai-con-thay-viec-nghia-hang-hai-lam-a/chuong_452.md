@@ -1,6 +1,9 @@
-
-
-[← Chương 451](chuong_451.md) | [📚 Mục lục](README.md) | [Chương 453 →](chuong_453.md)
+---
+layout: default
+title: Chương 452: Ẩn tàng Boss, Hải Đông chế dược
+chapter_number: 452
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -151,6 +154,6 @@ Bằng không, hắn không phải hảo hảo trong tù chiêu đãi chiêu đ�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-452](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-452)
 - Thời gian scrape: 2026-01-13 22:06:30
 
-
-[← Chương 451](chuong_451.md) | [📚 Mục lục](README.md) | [Chương 453 →](chuong_453.md)
-
+<div class="chapter-nav">
+    <a href="chuong_451.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_453.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 3](chuong_3.md) | [📚 Mục lục](README.md) | [Chương 5 →](chuong_5.md)
+---
+layout: default
+title: Chương 4
+chapter_number: 4
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -474,6 +477,6 @@ Tôi vừa cầu nguyện vừa chọn YES.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-4](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-4)
 - Thời gian scrape: 2026-01-17 09:38:00
 
-
-[← Chương 3](chuong_3.md) | [📚 Mục lục](README.md) | [Chương 5 →](chuong_5.md)
-
+<div class="chapter-nav">
+    <a href="chuong_3.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_5.html" class="nav-btn">Chương sau →</a>
+</div>

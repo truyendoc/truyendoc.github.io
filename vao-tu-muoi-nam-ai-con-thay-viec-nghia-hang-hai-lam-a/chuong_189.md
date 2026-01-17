@@ -1,6 +1,9 @@
-
-
-[← Chương 188](chuong_188.md) | [📚 Mục lục](README.md) | [Chương 190 →](chuong_190.md)
+---
+layout: default
+title: Chương 189: Hắn là mình đến rơi xuống
+chapter_number: 189
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -199,6 +202,6 @@ Vừa nhìn thấy Tào Côn cái b·iểu t·ình này, đầu trọc lập t�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-189](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-189)
 - Thời gian scrape: 2026-01-13 21:50:38
 
-
-[← Chương 188](chuong_188.md) | [📚 Mục lục](README.md) | [Chương 190 →](chuong_190.md)
-
+<div class="chapter-nav">
+    <a href="chuong_188.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_190.html" class="nav-btn">Chương sau →</a>
+</div>

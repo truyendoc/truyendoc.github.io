@@ -1,6 +1,9 @@
-
-
-[← Chương 235](chuong_235.md) | [📚 Mục lục](README.md) | [Chương 237 →](chuong_237.md)
+---
+layout: default
+title: Chương 236: Hư cao danh sách
+chapter_number: 236
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Bởi vì, chuyện này, có thể diệt trừ Dương Tam Đao thủ hạ l�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-236](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-236)
 - Thời gian scrape: 2026-01-13 21:53:53
 
-
-[← Chương 235](chuong_235.md) | [📚 Mục lục](README.md) | [Chương 237 →](chuong_237.md)
-
+<div class="chapter-nav">
+    <a href="chuong_235.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_237.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 303](chuong_303.md) | [📚 Mục lục](README.md) | [Chương 305 →](chuong_305.md)
+---
+layout: default
+title: Chương 304: Khí cũng thuật lại hiển lộ thần uy (1)
+chapter_number: 304
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Mắt thấy Đặng Lăng bọn người liền phải tiếp cận kia sáu v�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-304](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-304)
 - Thời gian scrape: 2026-01-13 00:22:42
 
-
-[← Chương 303](chuong_303.md) | [📚 Mục lục](README.md) | [Chương 305 →](chuong_305.md)
-
+<div class="chapter-nav">
+    <a href="chuong_303.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_305.html" class="nav-btn">Chương sau →</a>
+</div>

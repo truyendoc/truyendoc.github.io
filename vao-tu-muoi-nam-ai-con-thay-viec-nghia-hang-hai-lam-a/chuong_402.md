@@ -1,6 +1,9 @@
-
-
-[← Chương 401](chuong_401.md) | [📚 Mục lục](README.md) | [Chương 403 →](chuong_403.md)
+---
+layout: default
+title: Chương 402: Tiên phụ nữ bất hoà lại nói
+chapter_number: 402
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Không mệt không?
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-402](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-402)
 - Thời gian scrape: 2026-01-13 22:03:41
 
-
-[← Chương 401](chuong_401.md) | [📚 Mục lục](README.md) | [Chương 403 →](chuong_403.md)
-
+<div class="chapter-nav">
+    <a href="chuong_401.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_403.html" class="nav-btn">Chương sau →</a>
+</div>

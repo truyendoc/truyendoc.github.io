@@ -1,6 +1,9 @@
-
-
-[← Chương 351](chuong_351.md) | [📚 Mục lục](README.md) | [Chương 353 →](chuong_353.md)
+---
+layout: default
+title: Chương 352: pp đẹp da, hỏa lực toàn lực a
+chapter_number: 352
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Tào Côn cười ha ha, tự tin nói: "Ngươi liền tin tưởng ta tốt, m
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-352](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-352)
 - Thời gian scrape: 2026-01-13 22:00:47
 
-
-[← Chương 351](chuong_351.md) | [📚 Mục lục](README.md) | [Chương 353 →](chuong_353.md)
-
+<div class="chapter-nav">
+    <a href="chuong_351.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_353.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 45](chuong_45.md) | [📚 Mục lục](README.md) | [Chương 47 →](chuong_47.md)
+---
+layout: default
+title: Chương 46: Đến từ mẹ ruột đâm lưng
+chapter_number: 46
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -131,6 +134,6 @@ Bạch Tĩnh ha ha cười hai tiếng, nàng cầm lấy một bên nước kho
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-46](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-46)
 - Thời gian scrape: 2026-01-13 21:41:56
 
-
-[← Chương 45](chuong_45.md) | [📚 Mục lục](README.md) | [Chương 47 →](chuong_47.md)
-
+<div class="chapter-nav">
+    <a href="chuong_45.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_47.html" class="nav-btn">Chương sau →</a>
+</div>

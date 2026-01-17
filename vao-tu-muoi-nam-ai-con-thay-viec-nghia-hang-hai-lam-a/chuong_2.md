@@ -1,6 +1,9 @@
-
-
-[← Chương 1](chuong_1.md) | [📚 Mục lục](README.md) | [Chương 3 →](chuong_3.md)
+---
+layout: default
+title: Chương 2: Không ai biết đến hoàng kim bí mật
+chapter_number: 2
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -201,6 +204,6 @@ Suy tư mấy giây, Tào Côn lắc đầu.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-2](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-2)
 - Thời gian scrape: 2026-01-13 21:39:32
 
-
-[← Chương 1](chuong_1.md) | [📚 Mục lục](README.md) | [Chương 3 →](chuong_3.md)
-
+<div class="chapter-nav">
+    <a href="chuong_1.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_3.html" class="nav-btn">Chương sau →</a>
+</div>

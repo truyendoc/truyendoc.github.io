@@ -1,6 +1,9 @@
-
-
-[← Chương 344](chuong_344.md) | [📚 Mục lục](README.md) | [Chương 346 →](chuong_346.md)
+---
+layout: default
+title: Chương 345: 2 số 828 phòng tổng thống bị đặt trước đi
+chapter_number: 345
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Nàng chính là nghĩ tranh thủ thời gian biết, trận này tại 2 số 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-345](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-345)
 - Thời gian scrape: 2026-01-13 22:00:22
 
-
-[← Chương 344](chuong_344.md) | [📚 Mục lục](README.md) | [Chương 346 →](chuong_346.md)
-
+<div class="chapter-nav">
+    <a href="chuong_344.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_346.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 78](chuong_78.md) | [📚 Mục lục](README.md) | [Chương 80 →](chuong_80.md)
+---
+layout: default
+title: Chương 79: Bao thắng phục vụ
+chapter_number: 79
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Thế nhưng là trên thực tế, hắn là muốn đem hảo huynh đệ củ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-79](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-79)
 - Thời gian scrape: 2026-01-13 21:44:15
 
-
-[← Chương 78](chuong_78.md) | [📚 Mục lục](README.md) | [Chương 80 →](chuong_80.md)
-
+<div class="chapter-nav">
+    <a href="chuong_78.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_80.html" class="nav-btn">Chương sau →</a>
+</div>

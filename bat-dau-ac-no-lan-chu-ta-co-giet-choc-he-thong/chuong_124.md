@@ -1,6 +1,9 @@
-
-
-[← Chương 123](chuong_123.md) | [📚 Mục lục](README.md) | [Chương 125 →](chuong_125.md)
+---
+layout: default
+title: Chương 124: online ăn dưa
+chapter_number: 124
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -187,6 +190,6 @@ Thẩm Dục tiếp nhận ngọc bài, nói cảm tạ.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-124](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-124)
 - Thời gian scrape: 2026-01-13 00:29:22
 
-
-[← Chương 123](chuong_123.md) | [📚 Mục lục](README.md) | [Chương 125 →](chuong_125.md)
-
+<div class="chapter-nav">
+    <a href="chuong_123.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_125.html" class="nav-btn">Chương sau →</a>
+</div>

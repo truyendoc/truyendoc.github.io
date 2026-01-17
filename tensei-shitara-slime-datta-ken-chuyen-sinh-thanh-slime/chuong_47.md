@@ -1,6 +1,9 @@
-
-
-[← Chương 46](chuong_46.md) | [📚 Mục lục](README.md) | [Chương 48 →](chuong_48.md)
+---
+layout: default
+title: Chương 47
+chapter_number: 47
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -586,6 +589,6 @@ Chú thích:
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-47](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-47)
 - Thời gian scrape: 2026-01-17 09:40:02
 
-
-[← Chương 46](chuong_46.md) | [📚 Mục lục](README.md) | [Chương 48 →](chuong_48.md)
-
+<div class="chapter-nav">
+    <a href="chuong_46.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_48.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 367](chuong_367.md) | [📚 Mục lục](README.md) | [Chương 369 →](chuong_369.md)
+---
+layout: default
+title: Chương 368: Cấp tiến một chút (1)
+chapter_number: 368
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -139,6 +142,6 @@ Nhìn thấy Thẩm Dục, Ngao Thanh Sương mỉm cười nói.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-368](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-368)
 - Thời gian scrape: 2026-01-13 00:25:13
 
-
-[← Chương 367](chuong_367.md) | [📚 Mục lục](README.md) | [Chương 369 →](chuong_369.md)
-
+<div class="chapter-nav">
+    <a href="chuong_367.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_369.html" class="nav-btn">Chương sau →</a>
+</div>

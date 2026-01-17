@@ -1,6 +1,9 @@
-
-
-[📚 Mục lục](README.md) | [Chương 2 →](chuong_2.md)
+---
+layout: default
+title: Chương 1
+chapter_number: 1
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -410,6 +413,6 @@ Kháng Tê Liệt
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-1](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-1)
 - Thời gian scrape: 2026-01-17 09:37:52
 
-
-[📚 Mục lục](README.md) | [Chương 2 →](chuong_2.md)
-
+<div class="chapter-nav">
+    <a href="#" class="nav-btn disabled">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_2.html" class="nav-btn">Chương sau →</a>
+</div>

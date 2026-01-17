@@ -1,6 +1,9 @@
-
-
-[← Chương 276](chuong_276.md) | [📚 Mục lục](README.md) | [Chương 278 →](chuong_278.md)
+---
+layout: default
+title: Chương 277: Ba trăm triệu nâng lên một tỷ!
+chapter_number: 277
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Liền loại này đùi, nếu như mạo xưng 10 ức liền có thể ôm v�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-277](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-277)
 - Thời gian scrape: 2026-01-13 21:56:19
 
-
-[← Chương 276](chuong_276.md) | [📚 Mục lục](README.md) | [Chương 278 →](chuong_278.md)
-
+<div class="chapter-nav">
+    <a href="chuong_276.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_278.html" class="nav-btn">Chương sau →</a>
+</div>

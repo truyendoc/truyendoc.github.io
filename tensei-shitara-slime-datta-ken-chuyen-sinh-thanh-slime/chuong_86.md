@@ -1,6 +1,9 @@
-
-
-[← Chương 85](chuong_85.md) | [📚 Mục lục](README.md) | [Chương 87 →](chuong_87.md)
+---
+layout: default
+title: Chương 86
+chapter_number: 86
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -500,6 +503,6 @@ Nhưng với Hinata, cô sẽ giải quyết dc nó nếu suy nghĩ kĩ hơn. C�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-86](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-86)
 - Thời gian scrape: 2026-01-17 09:41:50
 
-
-[← Chương 85](chuong_85.md) | [📚 Mục lục](README.md) | [Chương 87 →](chuong_87.md)
-
+<div class="chapter-nav">
+    <a href="chuong_85.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_87.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 707](chuong_707.md) | [📚 Mục lục](README.md) | [Chương 709 →](chuong_709.md)
+---
+layout: default
+title: Chương 708: Vừa tới liền ra tai nạn xe cộ
+chapter_number: 708
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Cũng không biết có hay không làm b·ị t·hương động mạch, chính
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-708](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-708)
 - Thời gian scrape: 2026-01-13 22:21:26
 
-
-[← Chương 707](chuong_707.md) | [📚 Mục lục](README.md) | [Chương 709 →](chuong_709.md)
-
+<div class="chapter-nav">
+    <a href="chuong_707.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_709.html" class="nav-btn">Chương sau →</a>
+</div>

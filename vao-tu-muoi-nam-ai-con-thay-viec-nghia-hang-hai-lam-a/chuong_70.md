@@ -1,6 +1,9 @@
-
-
-[← Chương 69](chuong_69.md) | [📚 Mục lục](README.md) | [Chương 71 →](chuong_71.md)
+---
+layout: default
+title: Chương 70: Đại học khai giảng
+chapter_number: 70
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Hắn có còn hay không là người?
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-70](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-70)
 - Thời gian scrape: 2026-01-13 21:43:16
 
-
-[← Chương 69](chuong_69.md) | [📚 Mục lục](README.md) | [Chương 71 →](chuong_71.md)
-
+<div class="chapter-nav">
+    <a href="chuong_69.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_71.html" class="nav-btn">Chương sau →</a>
+</div>

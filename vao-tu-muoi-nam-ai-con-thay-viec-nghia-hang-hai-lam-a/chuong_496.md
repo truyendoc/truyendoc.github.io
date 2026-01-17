@@ -1,6 +1,9 @@
-
-
-[← Chương 495](chuong_495.md) | [📚 Mục lục](README.md) | [Chương 497 →](chuong_497.md)
+---
+layout: default
+title: Chương 496: Tin tức tốt, chân gãy
+chapter_number: 496
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Bị Đoàn Minh hỏi như vậy, Vương San San cười khổ, nói: "Đừng
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-496](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-496)
 - Thời gian scrape: 2026-01-13 22:09:11
 
-
-[← Chương 495](chuong_495.md) | [📚 Mục lục](README.md) | [Chương 497 →](chuong_497.md)
-
+<div class="chapter-nav">
+    <a href="chuong_495.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_497.html" class="nav-btn">Chương sau →</a>
+</div>

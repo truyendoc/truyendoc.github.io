@@ -1,6 +1,9 @@
-
-
-[← Chương 365](chuong_365.md) | [📚 Mục lục](README.md) | [Chương 367 →](chuong_367.md)
+---
+layout: default
+title: Chương 366: Ta chỉ sợ vô địch (1)
+chapter_number: 366
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Tại cái này năng lượng vật chứa thành hình sau, bên trong liền 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-366](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-366)
 - Thời gian scrape: 2026-01-13 00:25:09
 
-
-[← Chương 365](chuong_365.md) | [📚 Mục lục](README.md) | [Chương 367 →](chuong_367.md)
-
+<div class="chapter-nav">
+    <a href="chuong_365.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_367.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 47](chuong_47.md) | [📚 Mục lục](README.md) | [Chương 49 →](chuong_49.md)
+---
+layout: default
+title: Chương 48: Kiếp trước chân tướng
+chapter_number: 48
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Nhất là, nàng còn để Vương San San cho thêm mình một chút ngon ng
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-48](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-48)
 - Thời gian scrape: 2026-01-13 21:42:02
 
-
-[← Chương 47](chuong_47.md) | [📚 Mục lục](README.md) | [Chương 49 →](chuong_49.md)
-
+<div class="chapter-nav">
+    <a href="chuong_47.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_49.html" class="nav-btn">Chương sau →</a>
+</div>

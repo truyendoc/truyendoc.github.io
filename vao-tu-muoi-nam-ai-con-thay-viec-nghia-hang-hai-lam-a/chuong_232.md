@@ -1,6 +1,9 @@
-
-
-[← Chương 231](chuong_231.md) | [📚 Mục lục](README.md) | [Chương 233 →](chuong_233.md)
+---
+layout: default
+title: Chương 232: Phát hiện Lưu Giai Mẫn bí mật
+chapter_number: 232
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Thậm chí, nguyên bản vẫn rất thẳng lưng, một chút liền sập.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-232](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-232)
 - Thời gian scrape: 2026-01-13 21:53:38
 
-
-[← Chương 231](chuong_231.md) | [📚 Mục lục](README.md) | [Chương 233 →](chuong_233.md)
-
+<div class="chapter-nav">
+    <a href="chuong_231.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_233.html" class="nav-btn">Chương sau →</a>
+</div>

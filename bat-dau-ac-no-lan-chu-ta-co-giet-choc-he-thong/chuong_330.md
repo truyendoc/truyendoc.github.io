@@ -1,6 +1,9 @@
-
-
-[← Chương 329](chuong_329.md) | [📚 Mục lục](README.md) | [Chương 331 →](chuong_331.md)
+---
+layout: default
+title: Chương 330: Tam hoàng tử bị u gấp (1)
+chapter_number: 330
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -95,6 +98,6 @@ Thẩm Dục dẫn người điều tra Thần Ân Hầu hạ lạc lúc.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-330](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-330)
 - Thời gian scrape: 2026-01-13 00:23:44
 
-
-[← Chương 329](chuong_329.md) | [📚 Mục lục](README.md) | [Chương 331 →](chuong_331.md)
-
+<div class="chapter-nav">
+    <a href="chuong_329.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_331.html" class="nav-btn">Chương sau →</a>
+</div>

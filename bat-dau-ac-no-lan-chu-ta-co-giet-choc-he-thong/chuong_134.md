@@ -1,6 +1,9 @@
-
-
-[← Chương 133](chuong_133.md) | [📚 Mục lục](README.md) | [Chương 135 →](chuong_135.md)
+---
+layout: default
+title: Chương 134: gặp lại Đông Phương Lưu Ly
+chapter_number: 134
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -227,6 +230,6 @@ Xâu này mứt quả là hôm nay bồi Lý Linh Nhi bọn người dạo phố
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-134](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-134)
 - Thời gian scrape: 2026-01-13 00:29:51
 
-
-[← Chương 133](chuong_133.md) | [📚 Mục lục](README.md) | [Chương 135 →](chuong_135.md)
-
+<div class="chapter-nav">
+    <a href="chuong_133.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_135.html" class="nav-btn">Chương sau →</a>
+</div>

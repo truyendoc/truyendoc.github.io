@@ -1,6 +1,9 @@
-
-
-[← Chương 220](chuong_220.md) | [📚 Mục lục](README.md) | [Chương 222 →](chuong_222.md)
+---
+layout: default
+title: Chương 221: Kế hoạch có biến, diệt trừ Dương Tam Đao
+chapter_number: 221
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Là mình chuyển đạt có sai, vẫn là mình không có miêu tả rõ rà
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-221](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-221)
 - Thời gian scrape: 2026-01-13 21:52:58
 
-
-[← Chương 220](chuong_220.md) | [📚 Mục lục](README.md) | [Chương 222 →](chuong_222.md)
-
+<div class="chapter-nav">
+    <a href="chuong_220.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_222.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 188](chuong_188.md) | [📚 Mục lục](README.md) | [Chương 190 →](chuong_190.md)
+---
+layout: default
+title: Chương 189: Mộng Ma Vương
+chapter_number: 189
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -225,6 +228,6 @@ Lại nói, coi như bọn hắn muốn rời đi, quan phủ cũng chưa chắc
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-189](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-189)
 - Thời gian scrape: 2026-01-13 00:32:12
 
-
-[← Chương 188](chuong_188.md) | [📚 Mục lục](README.md) | [Chương 190 →](chuong_190.md)
-
+<div class="chapter-nav">
+    <a href="chuong_188.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_190.html" class="nav-btn">Chương sau →</a>
+</div>

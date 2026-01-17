@@ -1,6 +1,9 @@
-
-
-[← Chương 133](chuong_133.md) | [📚 Mục lục](README.md) | [Chương 135 →](chuong_135.md)
+---
+layout: default
+title: Chương 134: Gia hỏa này thật là có thể trang bức
+chapter_number: 134
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Sẽ chỉ cảm thấy, gia hỏa này thật là có thể trang bức!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-134](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-134)
 - Thời gian scrape: 2026-01-13 21:47:13
 
-
-[← Chương 133](chuong_133.md) | [📚 Mục lục](README.md) | [Chương 135 →](chuong_135.md)
-
+<div class="chapter-nav">
+    <a href="chuong_133.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_135.html" class="nav-btn">Chương sau →</a>
+</div>

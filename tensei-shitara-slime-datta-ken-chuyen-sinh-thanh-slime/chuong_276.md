@@ -1,6 +1,9 @@
-
-
-[← Chương 275](chuong_275.md) | [📚 Mục lục](README.md) | [Chương 277 →](chuong_277.md)
+---
+layout: default
+title: Chương 276
+chapter_number: 276
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -430,6 +433,6 @@ Sau đó, hai người giao phần còn lại cho hội Souka và hướng tới
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-276](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-276)
 - Thời gian scrape: 2026-01-17 09:50:52
 
-
-[← Chương 275](chuong_275.md) | [📚 Mục lục](README.md) | [Chương 277 →](chuong_277.md)
-
+<div class="chapter-nav">
+    <a href="chuong_275.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_277.html" class="nav-btn">Chương sau →</a>
+</div>

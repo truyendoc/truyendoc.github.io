@@ -1,6 +1,9 @@
-
-
-[← Chương 699](chuong_699.md) | [📚 Mục lục](README.md) | [Chương 701 →](chuong_701.md)
+---
+layout: default
+title: Chương 700: Ngươi vốn là bất hiếu a
+chapter_number: 700
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -191,6 +194,6 @@ Một bên cười một bên đánh Tào Côn bả vai một chút, nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-700](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-700)
 - Thời gian scrape: 2026-01-13 22:20:55
 
-
-[← Chương 699](chuong_699.md) | [📚 Mục lục](README.md) | [Chương 701 →](chuong_701.md)
-
+<div class="chapter-nav">
+    <a href="chuong_699.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_701.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 73](chuong_73.md) | [📚 Mục lục](README.md) | [Chương 75 →](chuong_75.md)
+---
+layout: default
+title: Chương 74: Đáng sợ tửu lượng
+chapter_number: 74
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Thậm chí, có thể hay không cứu giúp trở về đều là chuyện gì
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-74](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-74)
 - Thời gian scrape: 2026-01-13 21:43:40
 
-
-[← Chương 73](chuong_73.md) | [📚 Mục lục](README.md) | [Chương 75 →](chuong_75.md)
-
+<div class="chapter-nav">
+    <a href="chuong_73.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_75.html" class="nav-btn">Chương sau →</a>
+</div>

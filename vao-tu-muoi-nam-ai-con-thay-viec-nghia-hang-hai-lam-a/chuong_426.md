@@ -1,6 +1,9 @@
-
-
-[← Chương 425](chuong_425.md) | [📚 Mục lục](README.md) | [Chương 427 →](chuong_427.md)
+---
+layout: default
+title: Chương 426: Nhất tiễn song điêu
+chapter_number: 426
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -141,6 +144,6 @@ Hắn mặt mũi tràn đầy kích động nói: "Lớn, lớn, đại lão b�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-426](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-426)
 - Thời gian scrape: 2026-01-13 22:05:01
 
-
-[← Chương 425](chuong_425.md) | [📚 Mục lục](README.md) | [Chương 427 →](chuong_427.md)
-
+<div class="chapter-nav">
+    <a href="chuong_425.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_427.html" class="nav-btn">Chương sau →</a>
+</div>

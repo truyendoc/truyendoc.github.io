@@ -1,6 +1,9 @@
-
-
-[← Chương 136](chuong_136.md) | [📚 Mục lục](README.md) | [Chương 138 →](chuong_138.md)
+---
+layout: default
+title: Chương 137
+chapter_number: 137
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -370,6 +373,6 @@ Và truyền thuyết kể rằng ngày Đế Quốc bắt đầu cuộc chinh p
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-137](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-137)
 - Thời gian scrape: 2026-01-17 09:44:14
 
-
-[← Chương 136](chuong_136.md) | [📚 Mục lục](README.md) | [Chương 138 →](chuong_138.md)
-
+<div class="chapter-nav">
+    <a href="chuong_136.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_138.html" class="nav-btn">Chương sau →</a>
+</div>

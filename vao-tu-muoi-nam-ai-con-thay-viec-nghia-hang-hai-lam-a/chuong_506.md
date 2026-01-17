@@ -1,6 +1,9 @@
-
-
-[← Chương 505](chuong_505.md) | [📚 Mục lục](README.md) | [Chương 507 →](chuong_507.md)
+---
+layout: default
+title: Chương 506: Nam Sơn Thái Thanh Cung
+chapter_number: 506
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Gian phòng bên trong, Dương Bình đầu tiên là lặng lẽ cười lấy
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-506](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-506)
 - Thời gian scrape: 2026-01-13 22:09:46
 
-
-[← Chương 505](chuong_505.md) | [📚 Mục lục](README.md) | [Chương 507 →](chuong_507.md)
-
+<div class="chapter-nav">
+    <a href="chuong_505.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_507.html" class="nav-btn">Chương sau →</a>
+</div>

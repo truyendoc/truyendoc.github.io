@@ -1,6 +1,9 @@
-
-
-[← Chương 97](chuong_97.md) | [📚 Mục lục](README.md) | [Chương 99 →](chuong_99.md)
+---
+layout: default
+title: Chương 98: Thẩm Dục muốn chạy trốn
+chapter_number: 98
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -205,6 +208,6 @@ Nghĩ nghĩ, Thẩm Dục lại bổ sung: “Nếu như nghĩa quân đánh và
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-98](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-98)
 - Thời gian scrape: 2026-01-13 00:28:05
 
-
-[← Chương 97](chuong_97.md) | [📚 Mục lục](README.md) | [Chương 99 →](chuong_99.md)
-
+<div class="chapter-nav">
+    <a href="chuong_97.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_99.html" class="nav-btn">Chương sau →</a>
+</div>

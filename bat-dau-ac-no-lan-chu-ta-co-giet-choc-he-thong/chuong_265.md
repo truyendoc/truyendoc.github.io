@@ -1,6 +1,9 @@
-
-
-[← Chương 264](chuong_264.md) | [📚 Mục lục](README.md) | [Chương 266 →](chuong_266.md)
+---
+layout: default
+title: Chương 265: Hoàng đế bày nát (2)
+chapter_number: 265
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -127,6 +130,6 @@ Một khi đã mất đi cấm quân Đại tướng vị trí, không biết ba
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-265](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-265)
 - Thời gian scrape: 2026-01-13 00:35:14
 
-
-[← Chương 264](chuong_264.md) | [📚 Mục lục](README.md) | [Chương 266 →](chuong_266.md)
-
+<div class="chapter-nav">
+    <a href="chuong_264.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_266.html" class="nav-btn">Chương sau →</a>
+</div>

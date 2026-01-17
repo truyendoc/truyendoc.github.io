@@ -1,6 +1,9 @@
-
-
-[← Chương 267](chuong_267.md) | [📚 Mục lục](README.md) | [Chương 269 →](chuong_269.md)
+---
+layout: default
+title: Chương 268: Mới nhậm chức, ba không thể trêu chọc (1)
+chapter_number: 268
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -97,6 +100,6 @@ Chỉ cần không phải đem chúng ta Bách hộ đưa cho xốc, lại hoặ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-268](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-268)
 - Thời gian scrape: 2026-01-13 00:35:21
 
-
-[← Chương 267](chuong_267.md) | [📚 Mục lục](README.md) | [Chương 269 →](chuong_269.md)
-
+<div class="chapter-nav">
+    <a href="chuong_267.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_269.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 298](chuong_298.md) | [📚 Mục lục](README.md) | [Chương 300 →](chuong_300.md)
+---
+layout: default
+title: Chương 299: Quyển nhật ký bên trong chân tướng
+chapter_number: 299
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -145,6 +148,6 @@ Một thiên này nhật ký, khoảng cách bên trên một thiên chỉ cách
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-299](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-299)
 - Thời gian scrape: 2026-01-13 21:57:37
 
-
-[← Chương 298](chuong_298.md) | [📚 Mục lục](README.md) | [Chương 300 →](chuong_300.md)
-
+<div class="chapter-nav">
+    <a href="chuong_298.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_300.html" class="nav-btn">Chương sau →</a>
+</div>

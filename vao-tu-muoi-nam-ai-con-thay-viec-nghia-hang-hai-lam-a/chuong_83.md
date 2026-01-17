@@ -1,6 +1,9 @@
-
-
-[← Chương 82](chuong_82.md) | [📚 Mục lục](README.md) | [Chương 84 →](chuong_84.md)
+---
+layout: default
+title: Chương 83: Này, học tỷ, đã lâu không gặp
+chapter_number: 83
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Nếu là còn có loại kia ngây ngô khí chất, hắn liền tại trong n
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-83](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-83)
 - Thời gian scrape: 2026-01-13 21:44:30
 
-
-[← Chương 82](chuong_82.md) | [📚 Mục lục](README.md) | [Chương 84 →](chuong_84.md)
-
+<div class="chapter-nav">
+    <a href="chuong_82.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_84.html" class="nav-btn">Chương sau →</a>
+</div>

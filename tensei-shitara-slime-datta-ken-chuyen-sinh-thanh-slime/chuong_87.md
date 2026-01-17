@@ -1,6 +1,9 @@
-
-
-[← Chương 86](chuong_86.md) | [📚 Mục lục](README.md) | [Chương 88 →](chuong_88.md)
+---
+layout: default
+title: Chương 87
+chapter_number: 87
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -452,6 +455,6 @@ Thực sự may mắn là không có sự sống trong vùng lân cận gần.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-87](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-87)
 - Thời gian scrape: 2026-01-17 09:41:52
 
-
-[← Chương 86](chuong_86.md) | [📚 Mục lục](README.md) | [Chương 88 →](chuong_88.md)
-
+<div class="chapter-nav">
+    <a href="chuong_86.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_88.html" class="nav-btn">Chương sau →</a>
+</div>

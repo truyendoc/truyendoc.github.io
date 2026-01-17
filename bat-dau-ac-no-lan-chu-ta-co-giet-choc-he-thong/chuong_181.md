@@ -1,6 +1,9 @@
-
-
-[← Chương 180](chuong_180.md) | [📚 Mục lục](README.md) | [Chương 182 →](chuong_182.md)
+---
+layout: default
+title: Chương 181: mới tới thiên hộ là thiểm cẩu
+chapter_number: 181
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -253,6 +256,6 @@ Chỉ là hắn không có trách cứ Ngu Tuyết Oánh, mà là nhìn về ph�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-181](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-181)
 - Thời gian scrape: 2026-01-13 00:31:53
 
-
-[← Chương 180](chuong_180.md) | [📚 Mục lục](README.md) | [Chương 182 →](chuong_182.md)
-
+<div class="chapter-nav">
+    <a href="chuong_180.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_182.html" class="nav-btn">Chương sau →</a>
+</div>

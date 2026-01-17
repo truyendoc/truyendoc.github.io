@@ -1,6 +1,9 @@
-
-
-[← Chương 251](chuong_251.md) | [📚 Mục lục](README.md) | [Chương 253 →](chuong_253.md)
+---
+layout: default
+title: Chương 252: Sơ lộ khí binh thuật (1)
+chapter_number: 252
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -95,6 +98,6 @@ Trường cung lại xuất hiện tại Thẩm Dục trên tay.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-252](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-252)
 - Thời gian scrape: 2026-01-13 00:34:42
 
-
-[← Chương 251](chuong_251.md) | [📚 Mục lục](README.md) | [Chương 253 →](chuong_253.md)
-
+<div class="chapter-nav">
+    <a href="chuong_251.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_253.html" class="nav-btn">Chương sau →</a>
+</div>

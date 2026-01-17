@@ -1,6 +1,9 @@
-
-
-[← Chương 393](chuong_393.md) | [📚 Mục lục](README.md) | [Chương 395 →](chuong_395.md)
+---
+layout: default
+title: Chương 394: Hắn chính là người khác nuôi một con lợn
+chapter_number: 394
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Thấy thế, Liễu Truyền Sĩ khí một tay lấy điện thoại nhét tr�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-394](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-394)
 - Thời gian scrape: 2026-01-13 22:03:15
 
-
-[← Chương 393](chuong_393.md) | [📚 Mục lục](README.md) | [Chương 395 →](chuong_395.md)
-
+<div class="chapter-nav">
+    <a href="chuong_393.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_395.html" class="nav-btn">Chương sau →</a>
+</div>

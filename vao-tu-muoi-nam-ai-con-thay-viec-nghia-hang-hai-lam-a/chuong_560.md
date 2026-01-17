@@ -1,6 +1,9 @@
-
-
-[← Chương 559](chuong_559.md) | [📚 Mục lục](README.md) | [Chương 561 →](chuong_561.md)
+---
+layout: default
+title: Chương 560: Giúp Lưu Kim Thành bình sự tình
+chapter_number: 560
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Thẳng đến có ba bốn giây, Trịnh Nguyên Sinh mới cười ha ha mộ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-560](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-560)
 - Thời gian scrape: 2026-01-13 22:12:50
 
-
-[← Chương 559](chuong_559.md) | [📚 Mục lục](README.md) | [Chương 561 →](chuong_561.md)
-
+<div class="chapter-nav">
+    <a href="chuong_559.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_561.html" class="nav-btn">Chương sau →</a>
+</div>

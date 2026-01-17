@@ -1,6 +1,9 @@
-
-
-[← Chương 94](chuong_94.md) | [📚 Mục lục](README.md) | [Chương 96 →](chuong_96.md)
+---
+layout: default
+title: Chương 95: thần thức vượt qua Nguyên Thần cực hạn
+chapter_number: 95
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -253,6 +256,6 @@ Mà ba vị này khách quý rõ ràng đều là Khí Hải cảnh người tu 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-95](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-95)
 - Thời gian scrape: 2026-01-13 00:27:56
 
-
-[← Chương 94](chuong_94.md) | [📚 Mục lục](README.md) | [Chương 96 →](chuong_96.md)
-
+<div class="chapter-nav">
+    <a href="chuong_94.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_96.html" class="nav-btn">Chương sau →</a>
+</div>

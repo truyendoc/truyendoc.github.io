@@ -1,6 +1,9 @@
-
-
-[← Chương 504](chuong_504.md) | [📚 Mục lục](README.md) | [Chương 506 →](chuong_506.md)
+---
+layout: default
+title: Chương 505: Ta mẹ nó thật không có
+chapter_number: 505
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Trương Bách Mộ một bên nói thầm trong lòng, một bên miễn cưỡ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-505](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-505)
 - Thời gian scrape: 2026-01-13 22:09:42
 
-
-[← Chương 504](chuong_504.md) | [📚 Mục lục](README.md) | [Chương 506 →](chuong_506.md)
-
+<div class="chapter-nav">
+    <a href="chuong_504.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_506.html" class="nav-btn">Chương sau →</a>
+</div>

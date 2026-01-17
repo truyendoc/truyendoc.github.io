@@ -1,6 +1,9 @@
-
-
-[← Chương 206](chuong_206.md) | [📚 Mục lục](README.md) | [Chương 208 →](chuong_208.md)
+---
+layout: default
+title: Chương 207
+chapter_number: 207
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -636,6 +639,6 @@ Trận chiến ngày càng khốc kiệt hơn, ngày thứ hai của cuộc Đ�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-207](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-207)
 - Thời gian scrape: 2026-01-17 09:47:31
 
-
-[← Chương 206](chuong_206.md) | [📚 Mục lục](README.md) | [Chương 208 →](chuong_208.md)
-
+<div class="chapter-nav">
+    <a href="chuong_206.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_208.html" class="nav-btn">Chương sau →</a>
+</div>

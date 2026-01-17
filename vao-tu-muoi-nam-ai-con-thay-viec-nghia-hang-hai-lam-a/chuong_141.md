@@ -1,6 +1,9 @@
-
-
-[← Chương 140](chuong_140.md) | [📚 Mục lục](README.md) | [Chương 142 →](chuong_142.md)
+---
+layout: default
+title: Chương 141: Hảo huynh đệ điện báo
+chapter_number: 141
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Thấy là Tôn Vĩ gọi điện thoại tới, Tào Côn khóe miệng không 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-141](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-141)
 - Thời gian scrape: 2026-01-13 21:47:47
 
-
-[← Chương 140](chuong_140.md) | [📚 Mục lục](README.md) | [Chương 142 →](chuong_142.md)
-
+<div class="chapter-nav">
+    <a href="chuong_140.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_142.html" class="nav-btn">Chương sau →</a>
+</div>

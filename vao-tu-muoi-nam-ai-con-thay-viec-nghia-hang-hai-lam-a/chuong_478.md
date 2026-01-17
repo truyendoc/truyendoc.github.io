@@ -1,6 +1,9 @@
-
-
-[← Chương 477](chuong_477.md) | [📚 Mục lục](README.md) | [Chương 479 →](chuong_479.md)
+---
+layout: default
+title: Chương 478: Đem Trương gia nâng lên tang lễ nhật trình
+chapter_number: 478
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Lam Khả Tâm nói: "Trương gia cứ như vậy, mặc kệ nhi tử vẫn l�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-478](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-478)
 - Thời gian scrape: 2026-01-13 22:08:12
 
-
-[← Chương 477](chuong_477.md) | [📚 Mục lục](README.md) | [Chương 479 →](chuong_479.md)
-
+<div class="chapter-nav">
+    <a href="chuong_477.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_479.html" class="nav-btn">Chương sau →</a>
+</div>

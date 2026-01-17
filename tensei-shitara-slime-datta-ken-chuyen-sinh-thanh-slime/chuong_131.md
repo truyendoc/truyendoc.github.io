@@ -1,6 +1,9 @@
-
-
-[← Chương 130](chuong_130.md) | [📚 Mục lục](README.md) | [Chương 132 →](chuong_132.md)
+---
+layout: default
+title: Chương 131
+chapter_number: 131
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -316,6 +319,6 @@ Nhưng những gì Leon nói hoàn toàn làm tôi choáng váng.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-131](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-131)
 - Thời gian scrape: 2026-01-17 09:43:56
 
-
-[← Chương 130](chuong_130.md) | [📚 Mục lục](README.md) | [Chương 132 →](chuong_132.md)
-
+<div class="chapter-nav">
+    <a href="chuong_130.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_132.html" class="nav-btn">Chương sau →</a>
+</div>

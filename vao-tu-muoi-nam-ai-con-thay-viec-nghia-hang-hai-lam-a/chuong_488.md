@@ -1,6 +1,9 @@
-
-
-[← Chương 487](chuong_487.md) | [📚 Mục lục](README.md) | [Chương 489 →](chuong_489.md)
+---
+layout: default
+title: Chương 488: Tinh chuẩn chọn trúng nội gian
+chapter_number: 488
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -145,6 +148,6 @@ Lần nữa nhìn hai lần trên điện thoại di động tới sổ tin nh�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-488](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-488)
 - Thời gian scrape: 2026-01-13 22:08:45
 
-
-[← Chương 487](chuong_487.md) | [📚 Mục lục](README.md) | [Chương 489 →](chuong_489.md)
-
+<div class="chapter-nav">
+    <a href="chuong_487.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_489.html" class="nav-btn">Chương sau →</a>
+</div>

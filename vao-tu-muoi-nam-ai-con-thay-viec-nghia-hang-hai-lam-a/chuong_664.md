@@ -1,6 +1,9 @@
-
-
-[← Chương 663](chuong_663.md) | [📚 Mục lục](README.md) | [Chương 665 →](chuong_665.md)
+---
+layout: default
+title: Chương 664: Đến chậm điều tra
+chapter_number: 664
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Thao!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-664](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-664)
 - Thời gian scrape: 2026-01-13 22:18:50
 
-
-[← Chương 663](chuong_663.md) | [📚 Mục lục](README.md) | [Chương 665 →](chuong_665.md)
-
+<div class="chapter-nav">
+    <a href="chuong_663.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_665.html" class="nav-btn">Chương sau →</a>
+</div>

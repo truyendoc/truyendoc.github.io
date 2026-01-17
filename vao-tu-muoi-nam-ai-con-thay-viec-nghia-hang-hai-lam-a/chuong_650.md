@@ -1,6 +1,9 @@
-
-
-[← Chương 649](chuong_649.md) | [📚 Mục lục](README.md) | [Chương 651 →](chuong_651.md)
+---
+layout: default
+title: Chương 650: Để Kim Chính Xuân lão bà đến đàm
+chapter_number: 650
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Dù sao, Tiêu Văn Tĩnh cùng Lâm Thi Hàm, đều là sống sờ sờ ví d
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-650](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-650)
 - Thời gian scrape: 2026-01-13 22:18:00
 
-
-[← Chương 649](chuong_649.md) | [📚 Mục lục](README.md) | [Chương 651 →](chuong_651.md)
-
+<div class="chapter-nav">
+    <a href="chuong_649.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_651.html" class="nav-btn">Chương sau →</a>
+</div>

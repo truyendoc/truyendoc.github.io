@@ -1,6 +1,9 @@
-
-
-[← Chương 125](chuong_125.md) | [📚 Mục lục](README.md) | [Chương 127 →](chuong_127.md)
+---
+layout: default
+title: Chương 126
+chapter_number: 126
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -410,6 +413,6 @@ Sau khi việc này được thực hiện, đây sẽ gọi là "Liên minh Th�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-126](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-126)
 - Thời gian scrape: 2026-01-17 09:43:42
 
-
-[← Chương 125](chuong_125.md) | [📚 Mục lục](README.md) | [Chương 127 →](chuong_127.md)
-
+<div class="chapter-nav">
+    <a href="chuong_125.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_127.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 223](chuong_223.md) | [📚 Mục lục](README.md) | [Chương 225 →](chuong_225.md)
+---
+layout: default
+title: Chương 224: Lấy ta làm liếm chó lừa gạt đâu
+chapter_number: 224
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Hiện tại giống như đã không phải là có tiền hay không chuyện!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-224](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-224)
 - Thời gian scrape: 2026-01-13 21:53:06
 
-
-[← Chương 223](chuong_223.md) | [📚 Mục lục](README.md) | [Chương 225 →](chuong_225.md)
-
+<div class="chapter-nav">
+    <a href="chuong_223.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_225.html" class="nav-btn">Chương sau →</a>
+</div>

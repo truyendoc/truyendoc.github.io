@@ -1,6 +1,9 @@
-
-
-[← Chương 12](chuong_12.md) | [📚 Mục lục](README.md) | [Chương 14 →](chuong_14.md)
+---
+layout: default
+title: Chương 13: ra mắt
+chapter_number: 13
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -245,6 +248,6 @@ Sau đó nhìn Thẩm Dục nói: “Thẩm Gia nhị ca, ta muốn cùng ngươ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-13](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-13)
 - Thời gian scrape: 2026-01-13 21:09:44
 
-
-[← Chương 12](chuong_12.md) | [📚 Mục lục](README.md) | [Chương 14 →](chuong_14.md)
-
+<div class="chapter-nav">
+    <a href="chuong_12.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_14.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 113](chuong_113.md) | [📚 Mục lục](README.md) | [Chương 115 →](chuong_115.md)
+---
+layout: default
+title: Chương 114: Thật giả nghèo điểu ti
+chapter_number: 114
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Huống hồ, ăn người khác nhiều như vậy hải sản, còn uống m�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-114](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-114)
 - Thời gian scrape: 2026-01-13 21:46:12
 
-
-[← Chương 113](chuong_113.md) | [📚 Mục lục](README.md) | [Chương 115 →](chuong_115.md)
-
+<div class="chapter-nav">
+    <a href="chuong_113.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_115.html" class="nav-btn">Chương sau →</a>
+</div>

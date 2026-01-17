@@ -1,6 +1,9 @@
-
-
-[← Chương 128](chuong_128.md) | [📚 Mục lục](README.md) | [Chương 130 →](chuong_130.md)
+---
+layout: default
+title: Chương 129: 50 vạn thêm mười muộn
+chapter_number: 129
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Là cái 40 tuổi ra mặt, có chút có chút hói đầu trung niên nhân, 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-129](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-129)
 - Thời gian scrape: 2026-01-13 21:46:57
 
-
-[← Chương 128](chuong_128.md) | [📚 Mục lục](README.md) | [Chương 130 →](chuong_130.md)
-
+<div class="chapter-nav">
+    <a href="chuong_128.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_130.html" class="nav-btn">Chương sau →</a>
+</div>

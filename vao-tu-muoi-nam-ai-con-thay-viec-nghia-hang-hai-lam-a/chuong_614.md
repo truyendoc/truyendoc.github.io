@@ -1,6 +1,9 @@
-
-
-[← Chương 613](chuong_613.md) | [📚 Mục lục](README.md) | [Chương 615 →](chuong_615.md)
+---
+layout: default
+title: Chương 614: Dùng Dương Bình đánh ổ
+chapter_number: 614
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Rất nhanh, đợi cho hai người tới Dương Bình nhà ở về sau, Dư�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-614](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-614)
 - Thời gian scrape: 2026-01-13 22:15:55
 
-
-[← Chương 613](chuong_613.md) | [📚 Mục lục](README.md) | [Chương 615 →](chuong_615.md)
-
+<div class="chapter-nav">
+    <a href="chuong_613.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_615.html" class="nav-btn">Chương sau →</a>
+</div>

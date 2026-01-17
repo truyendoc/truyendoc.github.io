@@ -1,6 +1,9 @@
-
-
-[← Chương 249](chuong_249.md) | [📚 Mục lục](README.md) | [Chương 251 →](chuong_251.md)
+---
+layout: default
+title: Chương 250: Đến từ mẹ vợ lễ vật
+chapter_number: 250
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Tào Côn xấu hổ cười một tiếng, nói: "Sau đó thì sao?"
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-250](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-250)
 - Thời gian scrape: 2026-01-13 21:54:38
 
-
-[← Chương 249](chuong_249.md) | [📚 Mục lục](README.md) | [Chương 251 →](chuong_251.md)
-
+<div class="chapter-nav">
+    <a href="chuong_249.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_251.html" class="nav-btn">Chương sau →</a>
+</div>

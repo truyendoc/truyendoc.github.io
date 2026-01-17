@@ -1,6 +1,9 @@
-
-
-[← Chương 303](chuong_303.md) | [📚 Mục lục](README.md) | [Chương 305 →](chuong_305.md)
+---
+layout: default
+title: Chương 304: Mất tích tám năm nữ nhi
+chapter_number: 304
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Nhìn xem Tào Côn cứ như vậy đưa tới công nghiệp quốc phòng x�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-304](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-304)
 - Thời gian scrape: 2026-01-13 21:57:57
 
-
-[← Chương 303](chuong_303.md) | [📚 Mục lục](README.md) | [Chương 305 →](chuong_305.md)
-
+<div class="chapter-nav">
+    <a href="chuong_303.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_305.html" class="nav-btn">Chương sau →</a>
+</div>

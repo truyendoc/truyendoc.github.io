@@ -1,6 +1,9 @@
-
-
-[← Chương 72](chuong_72.md) | [📚 Mục lục](README.md) | [Chương 74 →](chuong_74.md)
+---
+layout: default
+title: Chương 73: Thẩm gia sâu mọt
+chapter_number: 73
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -251,6 +254,6 @@ Nói cách khác, Lưu Võ t·ham ô· Thẩm Gia một phần mười tài sả
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-73](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-73)
 - Thời gian scrape: 2026-01-13 21:17:04
 
-
-[← Chương 72](chuong_72.md) | [📚 Mục lục](README.md) | [Chương 74 →](chuong_74.md)
-
+<div class="chapter-nav">
+    <a href="chuong_72.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_74.html" class="nav-btn">Chương sau →</a>
+</div>

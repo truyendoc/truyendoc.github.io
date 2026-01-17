@@ -1,6 +1,9 @@
-
-
-[← Chương 676](chuong_676.md) | [📚 Mục lục](README.md) | [Chương 678 →](chuong_678.md)
+---
+layout: default
+title: Chương 677: Thuốc xảy ra vấn đề?
+chapter_number: 677
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Kim Chính Xuân lần nữa trầm mặc hai giây, nói: "Ngươi hoài nghi, 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-677](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-677)
 - Thời gian scrape: 2026-01-13 22:19:37
 
-
-[← Chương 676](chuong_676.md) | [📚 Mục lục](README.md) | [Chương 678 →](chuong_678.md)
-
+<div class="chapter-nav">
+    <a href="chuong_676.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_678.html" class="nav-btn">Chương sau →</a>
+</div>

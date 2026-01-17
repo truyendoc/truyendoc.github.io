@@ -1,6 +1,9 @@
-
-
-[← Chương 413](chuong_413.md) | [📚 Mục lục](README.md) | [Chương 415 →](chuong_415.md)
+---
+layout: default
+title: Chương 414: Mở chép mở chép
+chapter_number: 414
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Nhìn thấy ba người nhìn về phía mình ánh mắt, trong lúc nhất th
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-414](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-414)
 - Thời gian scrape: 2026-01-13 22:04:20
 
-
-[← Chương 413](chuong_413.md) | [📚 Mục lục](README.md) | [Chương 415 →](chuong_415.md)
-
+<div class="chapter-nav">
+    <a href="chuong_413.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_415.html" class="nav-btn">Chương sau →</a>
+</div>

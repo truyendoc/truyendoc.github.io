@@ -1,6 +1,9 @@
-
-
-[← Chương 682](chuong_682.md) | [📚 Mục lục](README.md) | [Chương 684 →](chuong_684.md)
+---
+layout: default
+title: Chương 683: Biệt thự cháy, 11 tên ngoại quốc bạn bè bất hạnh gặp nạn
+chapter_number: 683
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Cháy biệt thự, thình lình chính là Olivia đám người chỗ vào ở
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-683](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-683)
 - Thời gian scrape: 2026-01-13 22:20:01
 
-
-[← Chương 682](chuong_682.md) | [📚 Mục lục](README.md) | [Chương 684 →](chuong_684.md)
-
+<div class="chapter-nav">
+    <a href="chuong_682.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_684.html" class="nav-btn">Chương sau →</a>
+</div>

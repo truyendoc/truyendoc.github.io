@@ -1,6 +1,9 @@
-
-
-[← Chương 87](chuong_87.md) | [📚 Mục lục](README.md) | [Chương 89 →](chuong_89.md)
+---
+layout: default
+title: Chương 88: Mượn đến chính là kiếm được
+chapter_number: 88
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Tào Côn cười rạng rỡ, gật đầu nói: "Đúng, Hùng ca, bằng hữ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-88](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-88)
 - Thời gian scrape: 2026-01-13 21:44:46
 
-
-[← Chương 87](chuong_87.md) | [📚 Mục lục](README.md) | [Chương 89 →](chuong_89.md)
-
+<div class="chapter-nav">
+    <a href="chuong_87.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_89.html" class="nav-btn">Chương sau →</a>
+</div>

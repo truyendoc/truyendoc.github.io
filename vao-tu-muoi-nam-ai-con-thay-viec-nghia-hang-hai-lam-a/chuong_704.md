@@ -1,6 +1,9 @@
-
-
-[← Chương 703](chuong_703.md) | [📚 Mục lục](README.md) | [Chương 705 →](chuong_705.md)
+---
+layout: default
+title: Chương 704: Biết hay không hàm kim lượng
+chapter_number: 704
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Tào Côn trùng sinh sau khi trở về, chính là dùng hắn giấu một nh
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-704](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-704)
 - Thời gian scrape: 2026-01-13 22:21:09
 
-
-[← Chương 703](chuong_703.md) | [📚 Mục lục](README.md) | [Chương 705 →](chuong_705.md)
-
+<div class="chapter-nav">
+    <a href="chuong_703.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_705.html" class="nav-btn">Chương sau →</a>
+</div>

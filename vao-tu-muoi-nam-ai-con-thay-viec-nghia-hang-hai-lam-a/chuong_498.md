@@ -1,6 +1,9 @@
-
-
-[← Chương 497](chuong_497.md) | [📚 Mục lục](README.md) | [Chương 499 →](chuong_499.md)
+---
+layout: default
+title: Chương 498: Điều tra Tào Côn cùng Bạch Tĩnh
+chapter_number: 498
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Tào Côn vui vẻ một chút, nói: "Có thể có cái rắm ảnh hưởng, 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-498](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-498)
 - Thời gian scrape: 2026-01-13 22:09:18
 
-
-[← Chương 497](chuong_497.md) | [📚 Mục lục](README.md) | [Chương 499 →](chuong_499.md)
-
+<div class="chapter-nav">
+    <a href="chuong_497.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_499.html" class="nav-btn">Chương sau →</a>
+</div>

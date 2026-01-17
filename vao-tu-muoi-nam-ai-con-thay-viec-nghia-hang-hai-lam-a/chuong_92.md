@@ -1,6 +1,9 @@
-
-
-[← Chương 91](chuong_91.md) | [📚 Mục lục](README.md) | [Chương 93 →](chuong_93.md)
+---
+layout: default
+title: Chương 92: 4 ức tới sổ
+chapter_number: 92
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Hai khối không đáng một đồng tiền nát pha lê, cuối cùng vừa v
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-92](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-92)
 - Thời gian scrape: 2026-01-13 21:44:59
 
-
-[← Chương 91](chuong_91.md) | [📚 Mục lục](README.md) | [Chương 93 →](chuong_93.md)
-
+<div class="chapter-nav">
+    <a href="chuong_91.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_93.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 314](chuong_314.md) | [📚 Mục lục](README.md) | [Chương 316 →](chuong_316.md)
+---
+layout: default
+title: Chương 315: Quách gia, Quách Hữu Lý
+chapter_number: 315
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Cùng cái nào đó họ Quách màn ảnh nhân vật phi thường giống.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-315](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-315)
 - Thời gian scrape: 2026-01-13 21:58:34
 
-
-[← Chương 314](chuong_314.md) | [📚 Mục lục](README.md) | [Chương 316 →](chuong_316.md)
-
+<div class="chapter-nav">
+    <a href="chuong_314.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_316.html" class="nav-btn">Chương sau →</a>
+</div>

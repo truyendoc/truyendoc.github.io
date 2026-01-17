@@ -1,6 +1,9 @@
-
-
-[← Chương 332](chuong_332.md) | [📚 Mục lục](README.md) | [Chương 334 →](chuong_334.md)
+---
+layout: default
+title: Chương 333: Phòng cho thuê thay người
+chapter_number: 333
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Cho nên, nghỉ ngơi cái một hai ngày lại động thủ, cũng tình có
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-333](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-333)
 - Thời gian scrape: 2026-01-13 21:59:38
 
-
-[← Chương 332](chuong_332.md) | [📚 Mục lục](README.md) | [Chương 334 →](chuong_334.md)
-
+<div class="chapter-nav">
+    <a href="chuong_332.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_334.html" class="nav-btn">Chương sau →</a>
+</div>

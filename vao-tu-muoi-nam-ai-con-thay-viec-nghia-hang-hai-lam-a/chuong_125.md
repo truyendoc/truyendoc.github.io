@@ -1,6 +1,9 @@
-
-
-[← Chương 124](chuong_124.md) | [📚 Mục lục](README.md) | [Chương 126 →](chuong_126.md)
+---
+layout: default
+title: Chương 125: Đáng thương Lưu Hồng
+chapter_number: 125
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Sau đó, Lưu Hồng mụ mụ ngay lúc này, điểm một mồi lửa, đem 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-125](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-125)
 - Thời gian scrape: 2026-01-13 21:46:46
 
-
-[← Chương 124](chuong_124.md) | [📚 Mục lục](README.md) | [Chương 126 →](chuong_126.md)
-
+<div class="chapter-nav">
+    <a href="chuong_124.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_126.html" class="nav-btn">Chương sau →</a>
+</div>

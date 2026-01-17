@@ -1,6 +1,9 @@
-
-
-[← Chương 182](chuong_182.md) | [📚 Mục lục](README.md) | [Chương 184 →](chuong_184.md)
+---
+layout: default
+title: Chương 183: Đã bỏ lỡ tốt nhất trị liệu thời gian
+chapter_number: 183
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Vấn đề là, cuối cùng vẫn không chữa khỏi, c·hết!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-183](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-183)
 - Thời gian scrape: 2026-01-13 21:50:18
 
-
-[← Chương 182](chuong_182.md) | [📚 Mục lục](README.md) | [Chương 184 →](chuong_184.md)
-
+<div class="chapter-nav">
+    <a href="chuong_182.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_184.html" class="nav-btn">Chương sau →</a>
+</div>

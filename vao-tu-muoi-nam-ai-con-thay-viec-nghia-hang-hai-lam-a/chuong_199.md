@@ -1,6 +1,9 @@
-
-
-[← Chương 198](chuong_198.md) | [📚 Mục lục](README.md) | [Chương 200 →](chuong_200.md)
+---
+layout: default
+title: Chương 199: Phong phú một ngày
+chapter_number: 199
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -199,6 +202,6 @@ Ngay tại nàng mở ra giáp xác trùng cửa, dự định lái xe khi về 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-199](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-199)
 - Thời gian scrape: 2026-01-13 21:51:12
 
-
-[← Chương 198](chuong_198.md) | [📚 Mục lục](README.md) | [Chương 200 →](chuong_200.md)
-
+<div class="chapter-nav">
+    <a href="chuong_198.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_200.html" class="nav-btn">Chương sau →</a>
+</div>

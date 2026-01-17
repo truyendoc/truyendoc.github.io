@@ -1,6 +1,9 @@
-
-
-[← Chương 211](chuong_211.md) | [📚 Mục lục](README.md) | [Chương 213 →](chuong_213.md)
+---
+layout: default
+title: Chương 212: Đắc tội trên trời người
+chapter_number: 212
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Dương Tam Đao hít sâu một hơi, trầm giọng nói: "Đem ta phỉ thúy
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-212](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-212)
 - Thời gian scrape: 2026-01-13 21:52:26
 
-
-[← Chương 211](chuong_211.md) | [📚 Mục lục](README.md) | [Chương 213 →](chuong_213.md)
-
+<div class="chapter-nav">
+    <a href="chuong_211.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_213.html" class="nav-btn">Chương sau →</a>
+</div>

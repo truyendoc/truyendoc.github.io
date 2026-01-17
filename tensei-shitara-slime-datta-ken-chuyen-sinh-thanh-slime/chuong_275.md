@@ -1,6 +1,9 @@
-
-
-[← Chương 274](chuong_274.md) | [📚 Mục lục](README.md) | [Chương 276 →](chuong_276.md)
+---
+layout: default
+title: Chương 275
+chapter_number: 275
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -500,6 +503,6 @@ Nói rồi, Diablo thả con trùng về phía Godama với ánh nhìn thích th
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-275](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-275)
 - Thời gian scrape: 2026-01-17 09:50:50
 
-
-[← Chương 274](chuong_274.md) | [📚 Mục lục](README.md) | [Chương 276 →](chuong_276.md)
-
+<div class="chapter-nav">
+    <a href="chuong_274.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_276.html" class="nav-btn">Chương sau →</a>
+</div>

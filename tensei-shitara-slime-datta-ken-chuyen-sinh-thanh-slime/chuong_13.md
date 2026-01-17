@@ -1,6 +1,9 @@
-
-
-[← Chương 12](chuong_12.md) | [📚 Mục lục](README.md) | [Chương 14 →](chuong_14.md)
+---
+layout: default
+title: Chương 13
+chapter_number: 13
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -330,6 +333,6 @@ Chúng tôi đã đến Vương quốc Dwarf rồi.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-13](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-13)
 - Thời gian scrape: 2026-01-17 09:38:26
 
-
-[← Chương 12](chuong_12.md) | [📚 Mục lục](README.md) | [Chương 14 →](chuong_14.md)
-
+<div class="chapter-nav">
+    <a href="chuong_12.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_14.html" class="nav-btn">Chương sau →</a>
+</div>

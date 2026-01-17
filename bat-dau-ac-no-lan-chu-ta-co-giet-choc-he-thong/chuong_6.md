@@ -1,6 +1,9 @@
-
-
-[← Chương 5](chuong_5.md) | [📚 Mục lục](README.md) | [Chương 7 →](chuong_7.md)
+---
+layout: default
+title: Chương 6: bức lui sơn tặc
+chapter_number: 6
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -287,6 +290,6 @@ Năm gần mười bốn tuổi Ngưng Khí lục trọng, sợ lại là một 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-6](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-6)
 - Thời gian scrape: 2026-01-13 21:09:23
 
-
-[← Chương 5](chuong_5.md) | [📚 Mục lục](README.md) | [Chương 7 →](chuong_7.md)
-
+<div class="chapter-nav">
+    <a href="chuong_5.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_7.html" class="nav-btn">Chương sau →</a>
+</div>

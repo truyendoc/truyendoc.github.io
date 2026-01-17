@@ -1,6 +1,9 @@
-
-
-[← Chương 206](chuong_206.md) | [📚 Mục lục](README.md) | [Chương 208 →](chuong_208.md)
+---
+layout: default
+title: Chương 207: Tôn Vĩ càng thảm hơn
+chapter_number: 207
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Lưu Giai Mẫn vội vàng nói: "Chúng ta bây giờ tiếp cận 112 vạn t
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-207](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-207)
 - Thời gian scrape: 2026-01-13 21:51:37
 
-
-[← Chương 206](chuong_206.md) | [📚 Mục lục](README.md) | [Chương 208 →](chuong_208.md)
-
+<div class="chapter-nav">
+    <a href="chuong_206.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_208.html" class="nav-btn">Chương sau →</a>
+</div>

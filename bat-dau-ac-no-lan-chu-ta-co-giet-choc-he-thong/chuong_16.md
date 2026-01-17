@@ -1,6 +1,9 @@
-
-
-[← Chương 15](chuong_15.md) | [📚 Mục lục](README.md) | [Chương 17 →](chuong_17.md)
+---
+layout: default
+title: Chương 16: nửa đường gặp nhau
+chapter_number: 16
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -277,6 +280,6 @@ Chỉ cần đem Long Ưng Trại sơn tặc hủy diệt, là hắn có thể t
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-16](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-16)
 - Thời gian scrape: 2026-01-13 21:09:52
 
-
-[← Chương 15](chuong_15.md) | [📚 Mục lục](README.md) | [Chương 17 →](chuong_17.md)
-
+<div class="chapter-nav">
+    <a href="chuong_15.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_17.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 137](chuong_137.md) | [📚 Mục lục](README.md) | [Chương 139 →](chuong_139.md)
+---
+layout: default
+title: Chương 138
+chapter_number: 138
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -380,6 +383,6 @@ Tất nhiên, tại thời điểm này, lời mời vầy là tất yếu thôi
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-138](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-138)
 - Thời gian scrape: 2026-01-17 09:44:17
 
-
-[← Chương 137](chuong_137.md) | [📚 Mục lục](README.md) | [Chương 139 →](chuong_139.md)
-
+<div class="chapter-nav">
+    <a href="chuong_137.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_139.html" class="nav-btn">Chương sau →</a>
+</div>

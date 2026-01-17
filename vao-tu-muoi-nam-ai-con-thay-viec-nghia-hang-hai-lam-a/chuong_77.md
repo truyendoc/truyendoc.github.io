@@ -1,6 +1,9 @@
-
-
-[← Chương 76](chuong_76.md) | [📚 Mục lục](README.md) | [Chương 78 →](chuong_78.md)
+---
+layout: default
+title: Chương 77: Dẫn Tôn Vĩ vào bẫy
+chapter_number: 77
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Hắn vội vàng nói: "Ngọa tào, lão Tào, một đêm kiếm lời gần 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-77](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-77)
 - Thời gian scrape: 2026-01-13 21:44:09
 
-
-[← Chương 76](chuong_76.md) | [📚 Mục lục](README.md) | [Chương 78 →](chuong_78.md)
-
+<div class="chapter-nav">
+    <a href="chuong_76.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_78.html" class="nav-btn">Chương sau →</a>
+</div>

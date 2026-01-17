@@ -1,6 +1,9 @@
-
-
-[← Chương 322](chuong_322.md) | [📚 Mục lục](README.md) | [Chương 324 →](chuong_324.md)
+---
+layout: default
+title: Chương 323: Thế giới chân tướng (2)
+chapter_number: 323
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -95,6 +98,6 @@ Hơn nữa, đối phương khẳng định sẽ truy tra ta bị truyền tốn
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-323](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-323)
 - Thời gian scrape: 2026-01-13 00:23:28
 
-
-[← Chương 322](chuong_322.md) | [📚 Mục lục](README.md) | [Chương 324 →](chuong_324.md)
-
+<div class="chapter-nav">
+    <a href="chuong_322.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_324.html" class="nav-btn">Chương sau →</a>
+</div>

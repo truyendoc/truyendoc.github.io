@@ -1,6 +1,9 @@
-
-
-[← Chương 279](chuong_279.md) | [📚 Mục lục](README.md) | [Chương 281 →](chuong_281.md)
+---
+layout: default
+title: Chương 280: Lại là một trận quản lý liên hoan
+chapter_number: 280
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Lưu Hồng khẽ giật mình, trực tiếp cười cho Tào Côn một đấm
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-280](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-280)
 - Thời gian scrape: 2026-01-13 21:56:37
 
-
-[← Chương 279](chuong_279.md) | [📚 Mục lục](README.md) | [Chương 281 →](chuong_281.md)
-
+<div class="chapter-nav">
+    <a href="chuong_279.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_281.html" class="nav-btn">Chương sau →</a>
+</div>

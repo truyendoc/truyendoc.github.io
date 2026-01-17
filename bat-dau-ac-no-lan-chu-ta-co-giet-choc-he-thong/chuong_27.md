@@ -1,6 +1,9 @@
-
-
-[← Chương 26](chuong_26.md) | [📚 Mục lục](README.md) | [Chương 28 →](chuong_28.md)
+---
+layout: default
+title: Chương 27: Ma Vân Giáo
+chapter_number: 27
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -277,6 +280,6 @@ Dù sao địa phương khác không có cách nào thu hoạch điểm g·iết
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-27](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-27)
 - Thời gian scrape: 2026-01-13 21:10:21
 
-
-[← Chương 26](chuong_26.md) | [📚 Mục lục](README.md) | [Chương 28 →](chuong_28.md)
-
+<div class="chapter-nav">
+    <a href="chuong_26.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_28.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 221](chuong_221.md) | [📚 Mục lục](README.md) | [Chương 223 →](chuong_223.md)
+---
+layout: default
+title: Chương 222: Nhân Quả Phi Đao tái hiện
+chapter_number: 222
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -217,6 +220,6 @@ Thẩm Dục cũng nghiêm túc, trực tiếp phóng xuất ra một sợi Nguy
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-222](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-222)
 - Thời gian scrape: 2026-01-13 00:33:30
 
-
-[← Chương 221](chuong_221.md) | [📚 Mục lục](README.md) | [Chương 223 →](chuong_223.md)
-
+<div class="chapter-nav">
+    <a href="chuong_221.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_223.html" class="nav-btn">Chương sau →</a>
+</div>

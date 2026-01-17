@@ -1,6 +1,9 @@
-
-
-[← Chương 17](chuong_17.md) | [📚 Mục lục](README.md) | [Chương 19 →](chuong_19.md)
+---
+layout: default
+title: Chương 18: đến từ Ngu Tuyết Oánh mời chào
+chapter_number: 18
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -281,6 +284,6 @@ Thẩm Dục đi đến Thẩm Phong quan tài nhìn đằng trước một chú
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-18](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-18)
 - Thời gian scrape: 2026-01-13 21:09:57
 
-
-[← Chương 17](chuong_17.md) | [📚 Mục lục](README.md) | [Chương 19 →](chuong_19.md)
-
+<div class="chapter-nav">
+    <a href="chuong_17.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_19.html" class="nav-btn">Chương sau →</a>
+</div>

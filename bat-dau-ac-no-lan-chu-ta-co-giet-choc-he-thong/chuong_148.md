@@ -1,6 +1,9 @@
-
-
-[← Chương 147](chuong_147.md) | [📚 Mục lục](README.md) | [Chương 149 →](chuong_149.md)
+---
+layout: default
+title: Chương 148: bài trừ ở bên ngoài
+chapter_number: 148
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -241,6 +244,6 @@ Thẩm Dục nói thẳng.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-148](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-148)
 - Thời gian scrape: 2026-01-13 00:30:32
 
-
-[← Chương 147](chuong_147.md) | [📚 Mục lục](README.md) | [Chương 149 →](chuong_149.md)
-
+<div class="chapter-nav">
+    <a href="chuong_147.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_149.html" class="nav-btn">Chương sau →</a>
+</div>

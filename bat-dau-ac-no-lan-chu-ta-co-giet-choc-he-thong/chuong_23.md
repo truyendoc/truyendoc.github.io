@@ -1,6 +1,9 @@
-
-
-[← Chương 22](chuong_22.md) | [📚 Mục lục](README.md) | [Chương 24 →](chuong_24.md)
+---
+layout: default
+title: Chương 23: sau đó các phương phản ứng
+chapter_number: 23
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -237,6 +240,6 @@ Hai nhà đích nữ phân biệt tại một tháng sau, cùng hai tháng sau g
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-23](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-23)
 - Thời gian scrape: 2026-01-13 21:10:09
 
-
-[← Chương 22](chuong_22.md) | [📚 Mục lục](README.md) | [Chương 24 →](chuong_24.md)
-
+<div class="chapter-nav">
+    <a href="chuong_22.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_24.html" class="nav-btn">Chương sau →</a>
+</div>

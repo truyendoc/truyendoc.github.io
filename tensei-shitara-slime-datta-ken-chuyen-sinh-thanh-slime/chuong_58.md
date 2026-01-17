@@ -1,6 +1,9 @@
-
-
-[← Chương 57](chuong_57.md) | [📚 Mục lục](README.md) | [Chương 59 →](chuong_59.md)
+---
+layout: default
+title: Chương 58
+chapter_number: 58
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -408,6 +411,6 @@ Vì thế câu trên tôi có ‘sửa sửa’ tí chút cho ‘lạ tai’. :v
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-58](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-58)
 - Thời gian scrape: 2026-01-17 09:40:32
 
-
-[← Chương 57](chuong_57.md) | [📚 Mục lục](README.md) | [Chương 59 →](chuong_59.md)
-
+<div class="chapter-nav">
+    <a href="chuong_57.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_59.html" class="nav-btn">Chương sau →</a>
+</div>

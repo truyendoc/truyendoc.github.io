@@ -1,6 +1,9 @@
-
-
-[← Chương 88](chuong_88.md) | [📚 Mục lục](README.md) | [Chương 90 →](chuong_90.md)
+---
+layout: default
+title: Chương 89: Trấn Yêu Ti đuổi tới trong nhà
+chapter_number: 89
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -289,6 +292,6 @@ Thẩm Dục liền mang theo Lý Linh Nhi cùng ba cái nha hoàn ra khỏi ph�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-89](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-89)
 - Thời gian scrape: 2026-01-13 00:27:38
 
-
-[← Chương 88](chuong_88.md) | [📚 Mục lục](README.md) | [Chương 90 →](chuong_90.md)
-
+<div class="chapter-nav">
+    <a href="chuong_88.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_90.html" class="nav-btn">Chương sau →</a>
+</div>

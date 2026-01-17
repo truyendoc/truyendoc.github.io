@@ -1,6 +1,9 @@
-
-
-[← Chương 620](chuong_620.md) | [📚 Mục lục](README.md) | [Chương 622 →](chuong_622.md)
+---
+layout: default
+title: Chương 621: Đi ta phòng cho thuê ngồi một chút đi
+chapter_number: 621
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Vương Minh tuệ nghĩ nghĩ, cười nhìn về phía Tào Côn nói: "Ngươ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-621](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-621)
 - Thời gian scrape: 2026-01-13 22:16:18
 
-
-[← Chương 620](chuong_620.md) | [📚 Mục lục](README.md) | [Chương 622 →](chuong_622.md)
-
+<div class="chapter-nav">
+    <a href="chuong_620.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_622.html" class="nav-btn">Chương sau →</a>
+</div>

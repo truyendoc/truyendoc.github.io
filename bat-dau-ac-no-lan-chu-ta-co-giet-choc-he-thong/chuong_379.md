@@ -1,6 +1,9 @@
-
-
-[← Chương 378](chuong_378.md) | [📚 Mục lục](README.md) | [Chương 380 →](chuong_380.md)
+---
+layout: default
+title: Chương 379: Cho ngươi thu mấy cái pháp tướng cảnh thủ hạ (2)
+chapter_number: 379
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -109,6 +112,6 @@ Nghe được Thẩm Dục cho hắn làm bảy pháp tướng cảnh làm thủ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-379](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-379)
 - Thời gian scrape: 2026-01-13 00:25:39
 
-
-[← Chương 378](chuong_378.md) | [📚 Mục lục](README.md) | [Chương 380 →](chuong_380.md)
-
+<div class="chapter-nav">
+    <a href="chuong_378.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_380.html" class="nav-btn">Chương sau →</a>
+</div>

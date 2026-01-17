@@ -1,6 +1,9 @@
-
-
-[← Chương 419](chuong_419.md) | [📚 Mục lục](README.md) | [Chương 421 →](chuong_421.md)
+---
+layout: default
+title: Chương 420: Nhiều bốn cái khuê mật
+chapter_number: 420
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Trong vòng một đêm nhiều bốn cái khuê mật, Cao Đình Đình tâm t
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-420](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-420)
 - Thời gian scrape: 2026-01-13 22:04:41
 
-
-[← Chương 419](chuong_419.md) | [📚 Mục lục](README.md) | [Chương 421 →](chuong_421.md)
-
+<div class="chapter-nav">
+    <a href="chuong_419.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_421.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 698](chuong_698.md) | [📚 Mục lục](README.md) | [Chương 700 →](chuong_700.md)
+---
+layout: default
+title: Chương 699: Nhân viên chuẩn bị xong
+chapter_number: 699
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Nói, Ngốc Cẩu xuất ra mấy trương tư liệu, đưa cho Tào Côn.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-699](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-699)
 - Thời gian scrape: 2026-01-13 22:20:52
 
-
-[← Chương 698](chuong_698.md) | [📚 Mục lục](README.md) | [Chương 700 →](chuong_700.md)
-
+<div class="chapter-nav">
+    <a href="chuong_698.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_700.html" class="nav-btn">Chương sau →</a>
+</div>

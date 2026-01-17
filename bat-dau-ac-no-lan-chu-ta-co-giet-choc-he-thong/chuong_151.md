@@ -1,6 +1,9 @@
-
-
-[← Chương 150](chuong_150.md) | [📚 Mục lục](README.md) | [Chương 152 →](chuong_152.md)
+---
+layout: default
+title: Chương 151: hơn tám mươi vạn điểm giết chóc
+chapter_number: 151
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -273,6 +276,6 @@ Hay là chỉ cần tốn hao 40 vạn điểm g·iết chóc, hắn liền có 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-151](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-151)
 - Thời gian scrape: 2026-01-13 00:30:41
 
-
-[← Chương 150](chuong_150.md) | [📚 Mục lục](README.md) | [Chương 152 →](chuong_152.md)
-
+<div class="chapter-nav">
+    <a href="chuong_150.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_152.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 356](chuong_356.md) | [📚 Mục lục](README.md) | [Chương 358 →](chuong_358.md)
+---
+layout: default
+title: Chương 357: Trung vương ngả bài (2)
+chapter_number: 357
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -117,6 +120,6 @@ Mặt mũi của hắn tiến hành ngụy trang, nếu như để lộ mặt n�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-357](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-357)
 - Thời gian scrape: 2026-01-13 00:24:47
 
-
-[← Chương 356](chuong_356.md) | [📚 Mục lục](README.md) | [Chương 358 →](chuong_358.md)
-
+<div class="chapter-nav">
+    <a href="chuong_356.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_358.html" class="nav-btn">Chương sau →</a>
+</div>

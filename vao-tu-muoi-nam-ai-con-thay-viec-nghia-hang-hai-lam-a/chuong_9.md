@@ -1,6 +1,9 @@
-
-
-[← Chương 8](chuong_8.md) | [📚 Mục lục](README.md) | [Chương 10 →](chuong_10.md)
+---
+layout: default
+title: Chương 9: Thùng cơm 72 thức
+chapter_number: 9
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -197,6 +200,6 @@ Thùng cơm 72 thức!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-9](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-9)
 - Thời gian scrape: 2026-01-13 21:39:54
 
-
-[← Chương 8](chuong_8.md) | [📚 Mục lục](README.md) | [Chương 10 →](chuong_10.md)
-
+<div class="chapter-nav">
+    <a href="chuong_8.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_10.html" class="nav-btn">Chương sau →</a>
+</div>

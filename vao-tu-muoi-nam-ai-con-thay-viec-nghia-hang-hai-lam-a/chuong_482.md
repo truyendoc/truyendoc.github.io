@@ -1,6 +1,9 @@
-
-
-[← Chương 481](chuong_481.md) | [📚 Mục lục](README.md) | [Chương 483 →](chuong_483.md)
+---
+layout: default
+title: Chương 482: Trương Bách Mộ dùng sức mạnh
+chapter_number: 482
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Nàng đã giãy dụa phản kháng đủ lâu, Tào Côn không thể lại ch
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-482](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-482)
 - Thời gian scrape: 2026-01-13 22:08:25
 
-
-[← Chương 481](chuong_481.md) | [📚 Mục lục](README.md) | [Chương 483 →](chuong_483.md)
-
+<div class="chapter-nav">
+    <a href="chuong_481.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_483.html" class="nav-btn">Chương sau →</a>
+</div>

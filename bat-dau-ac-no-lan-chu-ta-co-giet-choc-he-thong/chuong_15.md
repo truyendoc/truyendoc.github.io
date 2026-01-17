@@ -1,6 +1,9 @@
-
-
-[← Chương 14](chuong_14.md) | [📚 Mục lục](README.md) | [Chương 16 →](chuong_16.md)
+---
+layout: default
+title: Chương 15: lòng tham không đáy Trần Hàn Sơn
+chapter_number: 15
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -245,6 +248,6 @@ Bất quá hắn lập tức liền lộ ra một vòng cười lạnh: “Thậ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-15](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-15)
 - Thời gian scrape: 2026-01-13 21:09:49
 
-
-[← Chương 14](chuong_14.md) | [📚 Mục lục](README.md) | [Chương 16 →](chuong_16.md)
-
+<div class="chapter-nav">
+    <a href="chuong_14.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_16.html" class="nav-btn">Chương sau →</a>
+</div>

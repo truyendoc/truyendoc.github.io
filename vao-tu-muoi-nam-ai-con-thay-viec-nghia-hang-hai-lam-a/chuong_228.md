@@ -1,6 +1,9 @@
-
-
-[← Chương 227](chuong_227.md) | [📚 Mục lục](README.md) | [Chương 229 →](chuong_229.md)
+---
+layout: default
+title: Chương 228: Ai, gian phu
+chapter_number: 228
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -149,6 +152,6 @@ Dương Tam Đao cười ha ha một tiếng, nói: "Có đúng không, vậy li
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-228](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-228)
 - Thời gian scrape: 2026-01-13 21:53:25
 
-
-[← Chương 227](chuong_227.md) | [📚 Mục lục](README.md) | [Chương 229 →](chuong_229.md)
-
+<div class="chapter-nav">
+    <a href="chuong_227.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_229.html" class="nav-btn">Chương sau →</a>
+</div>

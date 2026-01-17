@@ -1,6 +1,9 @@
-
-
-[← Chương 433](chuong_433.md) | [📚 Mục lục](README.md) | [Chương 435 →](chuong_435.md)
+---
+layout: default
+title: Chương 434: Không có cái này ưu lương phẩm chất
+chapter_number: 434
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Hắn nào có loại này ưu lương phẩm chất a!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-434](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-434)
 - Thời gian scrape: 2026-01-13 22:05:30
 
-
-[← Chương 433](chuong_433.md) | [📚 Mục lục](README.md) | [Chương 435 →](chuong_435.md)
-
+<div class="chapter-nav">
+    <a href="chuong_433.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_435.html" class="nav-btn">Chương sau →</a>
+</div>

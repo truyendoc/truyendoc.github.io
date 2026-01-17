@@ -1,6 +1,9 @@
-
-
-[← Chương 50](chuong_50.md) | [📚 Mục lục](README.md) | [Chương 52 →](chuong_52.md)
+---
+layout: default
+title: Chương 51: Một vạn khối tiền, tám giờ
+chapter_number: 51
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Cái giá tiền này, Vương San San cùng Tào Côn đều có thể miễn c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-51](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-51)
 - Thời gian scrape: 2026-01-13 21:42:11
 
-
-[← Chương 50](chuong_50.md) | [📚 Mục lục](README.md) | [Chương 52 →](chuong_52.md)
-
+<div class="chapter-nav">
+    <a href="chuong_50.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_52.html" class="nav-btn">Chương sau →</a>
+</div>

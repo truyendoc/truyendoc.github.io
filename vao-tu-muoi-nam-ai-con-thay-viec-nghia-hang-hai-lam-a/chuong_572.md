@@ -1,6 +1,9 @@
-
-
-[← Chương 571](chuong_571.md) | [📚 Mục lục](README.md) | [Chương 573 →](chuong_573.md)
+---
+layout: default
+title: Chương 572: Phụ tử liên thủ đánh gian phu
+chapter_number: 572
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -191,6 +194,6 @@ Hắn hai bước vọt tới bị cha của mình đè xuống đất Lưu Kim 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-572](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-572)
 - Thời gian scrape: 2026-01-13 22:13:32
 
-
-[← Chương 571](chuong_571.md) | [📚 Mục lục](README.md) | [Chương 573 →](chuong_573.md)
-
+<div class="chapter-nav">
+    <a href="chuong_571.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_573.html" class="nav-btn">Chương sau →</a>
+</div>

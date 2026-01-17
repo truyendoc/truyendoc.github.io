@@ -1,6 +1,9 @@
-
-
-[← Chương 140](chuong_140.md) | [📚 Mục lục](README.md) | [Chương 142 →](chuong_142.md)
+---
+layout: default
+title: Chương 141: giáo huấn Đông Phương Lưu Ly
+chapter_number: 141
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -247,6 +250,6 @@ Thế là, Thẩm Dục chuẩn bị thêm điểm tăng cao tu vi.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-141](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-141)
 - Thời gian scrape: 2026-01-13 00:30:12
 
-
-[← Chương 140](chuong_140.md) | [📚 Mục lục](README.md) | [Chương 142 →](chuong_142.md)
-
+<div class="chapter-nav">
+    <a href="chuong_140.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_142.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 181](chuong_181.md) | [📚 Mục lục](README.md) | [Chương 183 →](chuong_183.md)
+---
+layout: default
+title: Chương 182: Ngươi đã được đến ta
+chapter_number: 182
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Tào Côn nhẹ gật đầu: "Giao cho ta đi, đến Hải Thành ta tìm ngư
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-182](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-182)
 - Thời gian scrape: 2026-01-13 21:50:15
 
-
-[← Chương 181](chuong_181.md) | [📚 Mục lục](README.md) | [Chương 183 →](chuong_183.md)
-
+<div class="chapter-nav">
+    <a href="chuong_181.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_183.html" class="nav-btn">Chương sau →</a>
+</div>

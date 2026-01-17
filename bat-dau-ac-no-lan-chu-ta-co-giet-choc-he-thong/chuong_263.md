@@ -1,6 +1,9 @@
-
-
-[← Chương 262](chuong_262.md) | [📚 Mục lục](README.md) | [Chương 264 →](chuong_264.md)
+---
+layout: default
+title: Chương 263: Chiến đi về đông cái chết (2)
+chapter_number: 263
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -121,6 +124,6 @@ Cho nên, đang chờ mây Vô Nhai chém g·iết đối phương trước mộ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-263](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-263)
 - Thời gian scrape: 2026-01-13 00:35:09
 
-
-[← Chương 262](chuong_262.md) | [📚 Mục lục](README.md) | [Chương 264 →](chuong_264.md)
-
+<div class="chapter-nav">
+    <a href="chuong_262.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_264.html" class="nav-btn">Chương sau →</a>
+</div>

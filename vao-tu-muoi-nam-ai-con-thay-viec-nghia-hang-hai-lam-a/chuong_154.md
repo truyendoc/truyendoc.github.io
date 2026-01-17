@@ -1,6 +1,9 @@
-
-
-[← Chương 153](chuong_153.md) | [📚 Mục lục](README.md) | [Chương 155 →](chuong_155.md)
+---
+layout: default
+title: Chương 154: Cái gì nữ diễn viên, Bồ Tát sống!
+chapter_number: 154
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -197,6 +200,6 @@ Tào Côn thế này sao lại là cho mình đưa nữ diễn viên a, đơn gi
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-154](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-154)
 - Thời gian scrape: 2026-01-13 21:48:43
 
-
-[← Chương 153](chuong_153.md) | [📚 Mục lục](README.md) | [Chương 155 →](chuong_155.md)
-
+<div class="chapter-nav">
+    <a href="chuong_153.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_155.html" class="nav-btn">Chương sau →</a>
+</div>

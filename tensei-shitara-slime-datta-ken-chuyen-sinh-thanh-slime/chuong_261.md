@@ -1,6 +1,9 @@
-
-
-[← Chương 260](chuong_260.md) | [📚 Mục lục](README.md) | [Chương 262 →](chuong_262.md)
+---
+layout: default
+title: Chương 261
+chapter_number: 261
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -352,6 +355,6 @@ Và như vậy, cuộc sống sinh tồn trên hoang đảo của nhóm người
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-261](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-261)
 - Thời gian scrape: 2026-01-17 09:50:09
 
-
-[← Chương 260](chuong_260.md) | [📚 Mục lục](README.md) | [Chương 262 →](chuong_262.md)
-
+<div class="chapter-nav">
+    <a href="chuong_260.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_262.html" class="nav-btn">Chương sau →</a>
+</div>

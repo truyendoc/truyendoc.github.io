@@ -1,6 +1,9 @@
-
-
-[← Chương 29](chuong_29.md) | [📚 Mục lục](README.md) | [Chương 31 →](chuong_31.md)
+---
+layout: default
+title: Chương 30
+chapter_number: 30
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -370,6 +373,6 @@ Chú thích:
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-30](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-30)
 - Thời gian scrape: 2026-01-17 09:39:15
 
-
-[← Chương 29](chuong_29.md) | [📚 Mục lục](README.md) | [Chương 31 →](chuong_31.md)
-
+<div class="chapter-nav">
+    <a href="chuong_29.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_31.html" class="nav-btn">Chương sau →</a>
+</div>

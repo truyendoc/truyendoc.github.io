@@ -1,6 +1,9 @@
-
-
-[← Chương 5](chuong_5.md) | [📚 Mục lục](README.md) | [Chương 7 →](chuong_7.md)
+---
+layout: default
+title: Chương 6
+chapter_number: 6
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -394,6 +397,6 @@ Veldora tin tưởng vào điều đó và cất giọng!
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-6](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-6)
 - Thời gian scrape: 2026-01-17 09:38:06
 
-
-[← Chương 5](chuong_5.md) | [📚 Mục lục](README.md) | [Chương 7 →](chuong_7.md)
-
+<div class="chapter-nav">
+    <a href="chuong_5.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_7.html" class="nav-btn">Chương sau →</a>
+</div>

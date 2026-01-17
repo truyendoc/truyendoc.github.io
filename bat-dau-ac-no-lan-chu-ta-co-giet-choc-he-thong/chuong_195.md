@@ -1,6 +1,9 @@
-
-
-[← Chương 194](chuong_194.md) | [📚 Mục lục](README.md) | [Chương 196 →](chuong_196.md)
+---
+layout: default
+title: Chương 195: vương triều những năm cuối
+chapter_number: 195
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -219,6 +222,6 @@ Thẩm Dục lấy ra một vò rượu ném cho Ngô Minh Sơn, liền lách m�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-195](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-195)
 - Thời gian scrape: 2026-01-13 00:32:26
 
-
-[← Chương 194](chuong_194.md) | [📚 Mục lục](README.md) | [Chương 196 →](chuong_196.md)
-
+<div class="chapter-nav">
+    <a href="chuong_194.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_196.html" class="nav-btn">Chương sau →</a>
+</div>

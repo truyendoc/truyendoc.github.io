@@ -1,6 +1,9 @@
-
-
-[← Chương 104](chuong_104.md) | [📚 Mục lục](README.md) | [Chương 106 →](chuong_106.md)
+---
+layout: default
+title: Chương 105
+chapter_number: 105
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -146,6 +149,6 @@ Và do đó bữa tiệc ( chiêu trò quảng cáo ) kết thúc tốt đẹp.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-105](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-105)
 - Thời gian scrape: 2026-01-17 09:42:42
 
-
-[← Chương 104](chuong_104.md) | [📚 Mục lục](README.md) | [Chương 106 →](chuong_106.md)
-
+<div class="chapter-nav">
+    <a href="chuong_104.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_106.html" class="nav-btn">Chương sau →</a>
+</div>

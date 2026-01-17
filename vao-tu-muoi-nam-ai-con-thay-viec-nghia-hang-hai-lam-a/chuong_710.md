@@ -1,6 +1,9 @@
-
-
-[← Chương 709](chuong_709.md) | [📚 Mục lục](README.md) | [Chương 711 →](chuong_711.md)
+---
+layout: default
+title: Chương 710: Để Triệu Xảo Thiến tiến bộ
+chapter_number: 710
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ So sánh với khác khách phòng, chính là nhiều một khách sảnh cùng
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-710](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-710)
 - Thời gian scrape: 2026-01-13 22:21:31
 
-
-[← Chương 709](chuong_709.md) | [📚 Mục lục](README.md) | [Chương 711 →](chuong_711.md)
-
+<div class="chapter-nav">
+    <a href="chuong_709.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_711.html" class="nav-btn">Chương sau →</a>
+</div>

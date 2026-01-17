@@ -1,6 +1,9 @@
-
-
-[← Chương 261](chuong_261.md) | [📚 Mục lục](README.md) | [Chương 263 →](chuong_263.md)
+---
+layout: default
+title: Chương 262: Chiến đi về đông cái chết (1)
+chapter_number: 262
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -105,6 +108,6 @@ Lập tức, hắn lại nhớ lại cái kia cao cấp nữ nô tình huống, 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-262](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-262)
 - Thời gian scrape: 2026-01-13 00:35:06
 
-
-[← Chương 261](chuong_261.md) | [📚 Mục lục](README.md) | [Chương 263 →](chuong_263.md)
-
+<div class="chapter-nav">
+    <a href="chuong_261.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_263.html" class="nav-btn">Chương sau →</a>
+</div>

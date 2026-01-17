@@ -1,6 +1,9 @@
-
-
-[← Chương 701](chuong_701.md) | [📚 Mục lục](README.md) | [Chương 703 →](chuong_703.md)
+---
+layout: default
+title: Chương 702: Chó nữ nhân sinh nhật kinh hỉ
+chapter_number: 702
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Cuối cùng, Đoàn Minh lôi kéo nàng, thành công vào ở nhà kia khách
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-702](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-702)
 - Thời gian scrape: 2026-01-13 22:21:01
 
-
-[← Chương 701](chuong_701.md) | [📚 Mục lục](README.md) | [Chương 703 →](chuong_703.md)
-
+<div class="chapter-nav">
+    <a href="chuong_701.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_703.html" class="nav-btn">Chương sau →</a>
+</div>

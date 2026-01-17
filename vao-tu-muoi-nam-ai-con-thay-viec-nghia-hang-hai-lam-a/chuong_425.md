@@ -1,6 +1,9 @@
-
-
-[← Chương 424](chuong_424.md) | [📚 Mục lục](README.md) | [Chương 426 →](chuong_426.md)
+---
+layout: default
+title: Chương 425: Sợ chết Bốc Hạnh Phúc
+chapter_number: 425
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Vạn nhất hắn trong điện thoại nói, Tào Côn không có coi ra gì l
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-425](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-425)
 - Thời gian scrape: 2026-01-13 22:04:57
 
-
-[← Chương 424](chuong_424.md) | [📚 Mục lục](README.md) | [Chương 426 →](chuong_426.md)
-
+<div class="chapter-nav">
+    <a href="chuong_424.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_426.html" class="nav-btn">Chương sau →</a>
+</div>

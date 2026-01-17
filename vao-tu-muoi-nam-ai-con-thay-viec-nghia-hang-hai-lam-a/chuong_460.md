@@ -1,6 +1,9 @@
-
-
-[← Chương 459](chuong_459.md) | [📚 Mục lục](README.md) | [Chương 461 →](chuong_461.md)
+---
+layout: default
+title: Chương 460: Hải Đông chế dược công ty tới tay
+chapter_number: 460
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Trọng yếu là, đem nghiên cứu phát minh trung tâm từ trong công ty 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-460](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-460)
 - Thời gian scrape: 2026-01-13 22:07:10
 
-
-[← Chương 459](chuong_459.md) | [📚 Mục lục](README.md) | [Chương 461 →](chuong_461.md)
-
+<div class="chapter-nav">
+    <a href="chuong_459.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_461.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 141](chuong_141.md) | [📚 Mục lục](README.md) | [Chương 143 →](chuong_143.md)
+---
+layout: default
+title: Chương 142: Vay tiền lớn ngu xuẩn
+chapter_number: 142
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -201,6 +204,6 @@ Gặp xác thực không phải Tào Côn mượn, Trương Vân Vân cũng khô
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-142](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-142)
 - Thời gian scrape: 2026-01-13 21:47:50
 
-
-[← Chương 141](chuong_141.md) | [📚 Mục lục](README.md) | [Chương 143 →](chuong_143.md)
-
+<div class="chapter-nav">
+    <a href="chuong_141.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_143.html" class="nav-btn">Chương sau →</a>
+</div>

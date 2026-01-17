@@ -1,6 +1,9 @@
-
-
-[← Chương 360](chuong_360.md) | [📚 Mục lục](README.md) | [Chương 362 →](chuong_362.md)
+---
+layout: default
+title: Chương 361: Gặp lại Tiêu Lâm (2)
+chapter_number: 361
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -107,6 +110,6 @@ Nguyên bản hắn cho là mình tại ngắn ngủi mấy tháng liền tăng 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-361](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-361)
 - Thời gian scrape: 2026-01-13 00:24:57
 
-
-[← Chương 360](chuong_360.md) | [📚 Mục lục](README.md) | [Chương 362 →](chuong_362.md)
-
+<div class="chapter-nav">
+    <a href="chuong_360.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_362.html" class="nav-btn">Chương sau →</a>
+</div>

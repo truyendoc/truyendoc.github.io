@@ -1,6 +1,9 @@
-
-
-[← Chương 88](chuong_88.md) | [📚 Mục lục](README.md) | [Chương 90 →](chuong_90.md)
+---
+layout: default
+title: Chương 89: Mượn tiền 4 ức, thông qua
+chapter_number: 89
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Cho nên, Tào Côn đến mượn Hùng Bất Phàm tiền, không đơn giản
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-89](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-89)
 - Thời gian scrape: 2026-01-13 21:44:49
 
-
-[← Chương 88](chuong_88.md) | [📚 Mục lục](README.md) | [Chương 90 →](chuong_90.md)
-
+<div class="chapter-nav">
+    <a href="chuong_88.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_90.html" class="nav-btn">Chương sau →</a>
+</div>

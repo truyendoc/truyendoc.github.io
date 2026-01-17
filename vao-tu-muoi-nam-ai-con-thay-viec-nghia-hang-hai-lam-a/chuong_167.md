@@ -1,6 +1,9 @@
-
-
-[← Chương 166](chuong_166.md) | [📚 Mục lục](README.md) | [Chương 168 →](chuong_168.md)
+---
+layout: default
+title: Chương 167: Đúng, hai ngươi đều là nằm mơ
+chapter_number: 167
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Làm Hàn Bằng cười nói ra hắn cái này giấc mơ kỳ quái về sau,
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-167](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-167)
 - Thời gian scrape: 2026-01-13 21:49:24
 
-
-[← Chương 166](chuong_166.md) | [📚 Mục lục](README.md) | [Chương 168 →](chuong_168.md)
-
+<div class="chapter-nav">
+    <a href="chuong_166.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_168.html" class="nav-btn">Chương sau →</a>
+</div>

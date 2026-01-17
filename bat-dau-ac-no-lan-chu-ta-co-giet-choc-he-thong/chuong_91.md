@@ -1,6 +1,9 @@
-
-
-[← Chương 90](chuong_90.md) | [📚 Mục lục](README.md) | [Chương 92 →](chuong_92.md)
+---
+layout: default
+title: Chương 91: không thu hoạch được gì Trấn Yêu Ti
+chapter_number: 91
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -217,6 +220,6 @@ Thẩm Dục cáo tri Lý Linh Nhi hắn có việc sau, liền ra gian phòng, 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-91](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-91)
 - Thời gian scrape: 2026-01-13 00:27:44
 
-
-[← Chương 90](chuong_90.md) | [📚 Mục lục](README.md) | [Chương 92 →](chuong_92.md)
-
+<div class="chapter-nav">
+    <a href="chuong_90.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_92.html" class="nav-btn">Chương sau →</a>
+</div>

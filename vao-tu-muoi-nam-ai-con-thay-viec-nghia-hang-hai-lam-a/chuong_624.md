@@ -1,6 +1,9 @@
-
-
-[← Chương 623](chuong_623.md) | [📚 Mục lục](README.md) | [Chương 625 →](chuong_625.md)
+---
+layout: default
+title: Chương 624: Bảo bối, tết nguyên tiêu khoái hoạt
+chapter_number: 624
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -147,6 +150,6 @@ Nếu như Triệu Xảo Thiến thật sự có vấn đề, Bàng Hồng Na đ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-624](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-624)
 - Thời gian scrape: 2026-01-13 22:16:31
 
-
-[← Chương 623](chuong_623.md) | [📚 Mục lục](README.md) | [Chương 625 →](chuong_625.md)
-
+<div class="chapter-nav">
+    <a href="chuong_623.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_625.html" class="nav-btn">Chương sau →</a>
+</div>

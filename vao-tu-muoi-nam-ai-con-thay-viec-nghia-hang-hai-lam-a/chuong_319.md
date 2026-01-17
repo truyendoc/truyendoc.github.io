@@ -1,6 +1,9 @@
-
-
-[← Chương 318](chuong_318.md) | [📚 Mục lục](README.md) | [Chương 320 →](chuong_320.md)
+---
+layout: default
+title: Chương 319: Lão bà có chủ nhân Bốc Hạnh Phúc
+chapter_number: 319
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Hôm nay lên, nàng liền chính thức vào ở mộng ảo biệt thự cư 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-319](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-319)
 - Thời gian scrape: 2026-01-13 21:58:50
 
-
-[← Chương 318](chuong_318.md) | [📚 Mục lục](README.md) | [Chương 320 →](chuong_320.md)
-
+<div class="chapter-nav">
+    <a href="chuong_318.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_320.html" class="nav-btn">Chương sau →</a>
+</div>

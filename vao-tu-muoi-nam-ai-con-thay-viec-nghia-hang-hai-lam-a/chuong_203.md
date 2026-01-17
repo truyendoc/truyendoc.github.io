@@ -1,6 +1,9 @@
-
-
-[← Chương 202](chuong_202.md) | [📚 Mục lục](README.md) | [Chương 204 →](chuong_204.md)
+---
+layout: default
+title: Chương 203: Quán bar rốt cục bắt đầu nháo sự
+chapter_number: 203
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Tôn Phỉ Phỉ sát có việc nghĩ nghĩ, đột nhiên cười một tiến
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-203](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-203)
 - Thời gian scrape: 2026-01-13 21:51:24
 
-
-[← Chương 202](chuong_202.md) | [📚 Mục lục](README.md) | [Chương 204 →](chuong_204.md)
-
+<div class="chapter-nav">
+    <a href="chuong_202.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_204.html" class="nav-btn">Chương sau →</a>
+</div>

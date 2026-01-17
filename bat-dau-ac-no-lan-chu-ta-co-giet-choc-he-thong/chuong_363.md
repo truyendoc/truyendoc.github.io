@@ -1,6 +1,9 @@
-
-
-[← Chương 362](chuong_362.md) | [📚 Mục lục](README.md) | [Chương 364 →](chuong_364.md)
+---
+layout: default
+title: Chương 363: Lần nữa đánh giết khí vận chi tử (2)
+chapter_number: 363
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -117,6 +120,6 @@ Chỉ cần mẫu thân tới, an toàn của nàng liền có bảo đảm.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-363](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-363)
 - Thời gian scrape: 2026-01-13 00:25:02
 
-
-[← Chương 362](chuong_362.md) | [📚 Mục lục](README.md) | [Chương 364 →](chuong_364.md)
-
+<div class="chapter-nav">
+    <a href="chuong_362.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_364.html" class="nav-btn">Chương sau →</a>
+</div>

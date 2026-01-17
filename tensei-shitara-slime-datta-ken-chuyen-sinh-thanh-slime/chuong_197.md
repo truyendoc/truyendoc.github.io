@@ -1,6 +1,9 @@
-
-
-[← Chương 196](chuong_196.md) | [📚 Mục lục](README.md) | [Chương 198 →](chuong_198.md)
+---
+layout: default
+title: Chương 197
+chapter_number: 197
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -354,6 +357,6 @@ Velda hồ hởi, giao cho vô số lệnh cho Dagruel.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-197](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-197)
 - Thời gian scrape: 2026-01-17 09:47:03
 
-
-[← Chương 196](chuong_196.md) | [📚 Mục lục](README.md) | [Chương 198 →](chuong_198.md)
-
+<div class="chapter-nav">
+    <a href="chuong_196.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_198.html" class="nav-btn">Chương sau →</a>
+</div>

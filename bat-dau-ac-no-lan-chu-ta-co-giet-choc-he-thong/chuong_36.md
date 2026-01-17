@@ -1,6 +1,9 @@
-
-
-[← Chương 35](chuong_35.md) | [📚 Mục lục](README.md) | [Chương 37 →](chuong_37.md)
+---
+layout: default
+title: Chương 36: thiên mệnh chi tử
+chapter_number: 36
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -317,6 +320,6 @@ Bất quá có thể tăng lên « Long Tượng Đoán Thể Quyết » « Ẩn
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-36](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-36)
 - Thời gian scrape: 2026-01-13 21:10:58
 
-
-[← Chương 35](chuong_35.md) | [📚 Mục lục](README.md) | [Chương 37 →](chuong_37.md)
-
+<div class="chapter-nav">
+    <a href="chuong_35.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_37.html" class="nav-btn">Chương sau →</a>
+</div>

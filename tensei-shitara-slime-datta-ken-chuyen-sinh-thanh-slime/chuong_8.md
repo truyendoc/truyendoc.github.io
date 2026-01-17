@@ -1,6 +1,9 @@
-
-
-[← Chương 7](chuong_7.md) | [📚 Mục lục](README.md) | [Chương 9 →](chuong_9.md)
+---
+layout: default
+title: Chương 8
+chapter_number: 8
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -374,6 +377,6 @@ Thế là, tôi nói chuyện với các Goblin.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-8](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-8)
 - Thời gian scrape: 2026-01-17 09:38:12
 
-
-[← Chương 7](chuong_7.md) | [📚 Mục lục](README.md) | [Chương 9 →](chuong_9.md)
-
+<div class="chapter-nav">
+    <a href="chuong_7.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_9.html" class="nav-btn">Chương sau →</a>
+</div>

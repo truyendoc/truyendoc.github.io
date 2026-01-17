@@ -1,6 +1,9 @@
-
-
-[← Chương 187](chuong_187.md) | [📚 Mục lục](README.md) | [Chương 189 →](chuong_189.md)
+---
+layout: default
+title: Chương 188
+chapter_number: 188
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -760,6 +763,6 @@ Trận đại chiến sẽ nuốt gọn cả thế giới bùng nổ.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-188](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-188)
 - Thời gian scrape: 2026-01-17 09:46:37
 
-
-[← Chương 187](chuong_187.md) | [📚 Mục lục](README.md) | [Chương 189 →](chuong_189.md)
-
+<div class="chapter-nav">
+    <a href="chuong_187.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_189.html" class="nav-btn">Chương sau →</a>
+</div>

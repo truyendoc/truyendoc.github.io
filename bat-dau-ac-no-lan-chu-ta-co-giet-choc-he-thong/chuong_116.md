@@ -1,6 +1,9 @@
-
-
-[← Chương 115](chuong_115.md) | [📚 Mục lục](README.md) | [Chương 117 →](chuong_117.md)
+---
+layout: default
+title: Chương 116: chặt đầu cuồng ma
+chapter_number: 116
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -235,6 +238,6 @@ Sẽ đối với phản quân tạo thành đả kích rất lớn.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-116](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-116)
 - Thời gian scrape: 2026-01-13 00:28:57
 
-
-[← Chương 115](chuong_115.md) | [📚 Mục lục](README.md) | [Chương 117 →](chuong_117.md)
-
+<div class="chapter-nav">
+    <a href="chuong_115.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_117.html" class="nav-btn">Chương sau →</a>
+</div>

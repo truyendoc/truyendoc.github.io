@@ -1,6 +1,9 @@
-
-
-[← Chương 127](chuong_127.md) | [📚 Mục lục](README.md) | [Chương 129 →](chuong_129.md)
+---
+layout: default
+title: Chương 128: Thành ăn bám lưu manh
+chapter_number: 128
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Tôn Phỉ Phỉ lần nữa hít sâu hai cái, ra hiệu Tào Côn tiếp tụ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-128](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-128)
 - Thời gian scrape: 2026-01-13 21:46:55
 
-
-[← Chương 127](chuong_127.md) | [📚 Mục lục](README.md) | [Chương 129 →](chuong_129.md)
-
+<div class="chapter-nav">
+    <a href="chuong_127.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_129.html" class="nav-btn">Chương sau →</a>
+</div>

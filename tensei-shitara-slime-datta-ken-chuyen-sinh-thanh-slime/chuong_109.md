@@ -1,6 +1,9 @@
-
-
-[← Chương 108](chuong_108.md) | [📚 Mục lục](README.md) | [Chương 110 →](chuong_110.md)
+---
+layout: default
+title: Chương 109
+chapter_number: 109
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -340,6 +343,6 @@ Vậy là trận đấu thứ năm khép lại với chiến thắng thuộc v�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-109](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-109)
 - Thời gian scrape: 2026-01-17 09:42:53
 
-
-[← Chương 108](chuong_108.md) | [📚 Mục lục](README.md) | [Chương 110 →](chuong_110.md)
-
+<div class="chapter-nav">
+    <a href="chuong_108.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_110.html" class="nav-btn">Chương sau →</a>
+</div>

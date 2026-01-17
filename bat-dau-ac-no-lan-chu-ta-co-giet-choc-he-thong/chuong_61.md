@@ -1,6 +1,9 @@
-
-
-[← Chương 60](chuong_60.md) | [📚 Mục lục](README.md) | [Chương 62 →](chuong_62.md)
+---
+layout: default
+title: Chương 61: Thần Liên Đạo
+chapter_number: 61
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -269,6 +272,6 @@ Sau đó lại có hơn mười đạo thân ảnh giống như quỷ mị thân
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-61](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-61)
 - Thời gian scrape: 2026-01-13 21:16:24
 
-
-[← Chương 60](chuong_60.md) | [📚 Mục lục](README.md) | [Chương 62 →](chuong_62.md)
-
+<div class="chapter-nav">
+    <a href="chuong_60.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_62.html" class="nav-btn">Chương sau →</a>
+</div>

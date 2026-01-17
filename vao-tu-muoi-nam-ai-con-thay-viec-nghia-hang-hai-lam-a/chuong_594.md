@@ -1,6 +1,9 @@
-
-
-[← Chương 593](chuong_593.md) | [📚 Mục lục](README.md) | [Chương 595 →](chuong_595.md)
+---
+layout: default
+title: Chương 594: Đối người mới rất không hữu hảo
+chapter_number: 594
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Cho nên, ngành giải trí đối người mới tới nói, tuyệt không h�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-594](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-594)
 - Thời gian scrape: 2026-01-13 22:14:44
 
-
-[← Chương 593](chuong_593.md) | [📚 Mục lục](README.md) | [Chương 595 →](chuong_595.md)
-
+<div class="chapter-nav">
+    <a href="chuong_593.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_595.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 316](chuong_316.md) | [📚 Mục lục](README.md) | [Chương 318 →](chuong_318.md)
+---
+layout: default
+title: Chương 317: Cẩu gia phụ tử, nghiền xương thành tro
+chapter_number: 317
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Nguyên lai, Tào Côn nói Cẩu Nhất Vĩ có thể sẽ không nhập thổ 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-317](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-317)
 - Thời gian scrape: 2026-01-13 21:58:42
 
-
-[← Chương 316](chuong_316.md) | [📚 Mục lục](README.md) | [Chương 318 →](chuong_318.md)
-
+<div class="chapter-nav">
+    <a href="chuong_316.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_318.html" class="nav-btn">Chương sau →</a>
+</div>

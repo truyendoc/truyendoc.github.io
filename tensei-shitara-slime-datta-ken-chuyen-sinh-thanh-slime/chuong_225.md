@@ -1,6 +1,9 @@
-
-
-[← Chương 224](chuong_224.md) | [📚 Mục lục](README.md) | [Chương 226 →](chuong_226.md)
+---
+layout: default
+title: Chương 225
+chapter_number: 225
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -358,6 +361,6 @@ Không ai khác chính là Hinata.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-225](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-225)
 - Thời gian scrape: 2026-01-17 09:48:23
 
-
-[← Chương 224](chuong_224.md) | [📚 Mục lục](README.md) | [Chương 226 →](chuong_226.md)
-
+<div class="chapter-nav">
+    <a href="chuong_224.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_226.html" class="nav-btn">Chương sau →</a>
+</div>

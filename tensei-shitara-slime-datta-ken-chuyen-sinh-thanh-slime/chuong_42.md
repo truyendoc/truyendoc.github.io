@@ -1,6 +1,9 @@
-
-
-[← Chương 41](chuong_41.md) | [📚 Mục lục](README.md) | [Chương 43 →](chuong_43.md)
+---
+layout: default
+title: Chương 42
+chapter_number: 42
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -436,6 +439,6 @@ Sau này, lịch sử sẽ ghi lại cuộc hội đàm trọng yếu thành l�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-42](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-42)
 - Thời gian scrape: 2026-01-17 09:39:47
 
-
-[← Chương 41](chuong_41.md) | [📚 Mục lục](README.md) | [Chương 43 →](chuong_43.md)
-
+<div class="chapter-nav">
+    <a href="chuong_41.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_43.html" class="nav-btn">Chương sau →</a>
+</div>

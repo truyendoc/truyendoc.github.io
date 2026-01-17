@@ -1,6 +1,9 @@
-
-
-[← Chương 85](chuong_85.md) | [📚 Mục lục](README.md) | [Chương 87 →](chuong_87.md)
+---
+layout: default
+title: Chương 86: Nữ nhân này, ta chắc chắn phải có được
+chapter_number: 86
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Cho nên, Tào Côn ôm nàng bờ eo thon, dễ dàng liền đem nó kéo vào
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-86](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-86)
 - Thời gian scrape: 2026-01-13 21:44:40
 
-
-[← Chương 85](chuong_85.md) | [📚 Mục lục](README.md) | [Chương 87 →](chuong_87.md)
-
+<div class="chapter-nav">
+    <a href="chuong_85.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_87.html" class="nav-btn">Chương sau →</a>
+</div>

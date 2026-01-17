@@ -1,6 +1,9 @@
-
-
-[← Chương 190](chuong_190.md) | [📚 Mục lục](README.md) | [Chương 192 →](chuong_192.md)
+---
+layout: default
+title: Chương 191
+chapter_number: 191
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -482,6 +485,6 @@ Cũng chính là kẻ mạnh nhất ở chốn Mê Cung này.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-191](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-191)
 - Thời gian scrape: 2026-01-17 09:46:46
 
-
-[← Chương 190](chuong_190.md) | [📚 Mục lục](README.md) | [Chương 192 →](chuong_192.md)
-
+<div class="chapter-nav">
+    <a href="chuong_190.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_192.html" class="nav-btn">Chương sau →</a>
+</div>

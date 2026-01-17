@@ -1,6 +1,9 @@
-
-
-[← Chương 572](chuong_572.md) | [📚 Mục lục](README.md) | [Chương 574 →](chuong_574.md)
+---
+layout: default
+title: Chương 573: Đều tỷ muội, cứ việc cầm đi dùng
+chapter_number: 573
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Nói, nàng nhìn về phía Trình Dao Dao tam nữ, tiếp tục nói: "Vậy 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-573](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-573)
 - Thời gian scrape: 2026-01-13 22:13:35
 
-
-[← Chương 572](chuong_572.md) | [📚 Mục lục](README.md) | [Chương 574 →](chuong_574.md)
-
+<div class="chapter-nav">
+    <a href="chuong_572.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_574.html" class="nav-btn">Chương sau →</a>
+</div>

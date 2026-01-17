@@ -1,6 +1,9 @@
-
-
-[← Chương 294](chuong_294.md) | [📚 Mục lục](README.md) | [Chương 296 →](chuong_296.md)
+---
+layout: default
+title: Chương 295: Đại nhân cần thuộc hạ dìu ngươi sao (2)
+chapter_number: 295
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Thẩm Vũ Châu ra vẻ trấn tĩnh trầm giọng chất vấn.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-295](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-295)
 - Thời gian scrape: 2026-01-13 00:22:20
 
-
-[← Chương 294](chuong_294.md) | [📚 Mục lục](README.md) | [Chương 296 →](chuong_296.md)
-
+<div class="chapter-nav">
+    <a href="chuong_294.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_296.html" class="nav-btn">Chương sau →</a>
+</div>

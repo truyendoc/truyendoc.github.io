@@ -1,6 +1,9 @@
-
-
-[← Chương 465](chuong_465.md) | [📚 Mục lục](README.md) | [Chương 467 →](chuong_467.md)
+---
+layout: default
+title: Chương 466: Làm nữ nhân cũng không tệ
+chapter_number: 466
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -191,6 +194,6 @@ Coi là Bàng Hồng Na bên kia lại có cái gì nghiên cứu khoa học bê
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-466](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-466)
 - Thời gian scrape: 2026-01-13 22:07:28
 
-
-[← Chương 465](chuong_465.md) | [📚 Mục lục](README.md) | [Chương 467 →](chuong_467.md)
-
+<div class="chapter-nav">
+    <a href="chuong_465.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_467.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 466](chuong_466.md) | [📚 Mục lục](README.md) | [Chương 468 →](chuong_468.md)
+---
+layout: default
+title: Chương 467: Mộng!
+chapter_number: 467
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Nói xong, Bàng Hồng Na đi trở về phòng ngủ, trực tiếp liền th�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-467](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-467)
 - Thời gian scrape: 2026-01-13 22:07:32
 
-
-[← Chương 466](chuong_466.md) | [📚 Mục lục](README.md) | [Chương 468 →](chuong_468.md)
-
+<div class="chapter-nav">
+    <a href="chuong_466.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_468.html" class="nav-btn">Chương sau →</a>
+</div>

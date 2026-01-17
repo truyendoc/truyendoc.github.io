@@ -1,6 +1,9 @@
-
-
-[← Chương 396](chuong_396.md) | [📚 Mục lục](README.md) | [Chương 398 →](chuong_398.md)
+---
+layout: default
+title: Chương 397: Gặp được phiền phức Tiêu Văn Tĩnh
+chapter_number: 397
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -187,6 +190,6 @@ Hạng Nam Nguyệt nhãn tình sáng lên: "Giết Liễu Truyền Sĩ sao?"
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-397](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-397)
 - Thời gian scrape: 2026-01-13 22:03:25
 
-
-[← Chương 396](chuong_396.md) | [📚 Mục lục](README.md) | [Chương 398 →](chuong_398.md)
-
+<div class="chapter-nav">
+    <a href="chuong_396.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_398.html" class="nav-btn">Chương sau →</a>
+</div>

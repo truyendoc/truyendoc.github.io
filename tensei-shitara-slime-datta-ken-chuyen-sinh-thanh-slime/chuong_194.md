@@ -1,6 +1,9 @@
-
-
-[← Chương 193](chuong_193.md) | [📚 Mục lục](README.md) | [Chương 195 →](chuong_195.md)
+---
+layout: default
+title: Chương 194
+chapter_number: 194
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -528,6 +531,6 @@ Sau này vai trò của "Ciel" sẽ càng lớn hơn nữa, đóng vai trò làm
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-194](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-194)
 - Thời gian scrape: 2026-01-17 09:46:54
 
-
-[← Chương 193](chuong_193.md) | [📚 Mục lục](README.md) | [Chương 195 →](chuong_195.md)
-
+<div class="chapter-nav">
+    <a href="chuong_193.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_195.html" class="nav-btn">Chương sau →</a>
+</div>

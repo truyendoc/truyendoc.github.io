@@ -1,6 +1,9 @@
-
-
-[← Chương 189](chuong_189.md) | [📚 Mục lục](README.md) | [Chương 191 →](chuong_191.md)
+---
+layout: default
+title: Chương 190
+chapter_number: 190
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -352,6 +355,6 @@ Những suy nghĩ ấy trong đầu Shinji cùng trận chiến càng lúc càng
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-190](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-190)
 - Thời gian scrape: 2026-01-17 09:46:43
 
-
-[← Chương 189](chuong_189.md) | [📚 Mục lục](README.md) | [Chương 191 →](chuong_191.md)
-
+<div class="chapter-nav">
+    <a href="chuong_189.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_191.html" class="nav-btn">Chương sau →</a>
+</div>

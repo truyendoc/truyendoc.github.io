@@ -1,6 +1,9 @@
-
-
-[← Chương 308](chuong_308.md) | [📚 Mục lục](README.md) | [Chương 310 →](chuong_310.md)
+---
+layout: default
+title: Chương 309: Hủy diệt Nam Man Vu tộc (2)
+chapter_number: 309
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Nghĩ tới đây, Thẩm Dục quyết định đem bọn hắn ném đến Lin
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-309](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-309)
 - Thời gian scrape: 2026-01-13 00:22:54
 
-
-[← Chương 308](chuong_308.md) | [📚 Mục lục](README.md) | [Chương 310 →](chuong_310.md)
-
+<div class="chapter-nav">
+    <a href="chuong_308.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_310.html" class="nav-btn">Chương sau →</a>
+</div>

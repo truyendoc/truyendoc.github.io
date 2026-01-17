@@ -1,6 +1,9 @@
-
-
-[← Chương 192](chuong_192.md) | [📚 Mục lục](README.md) | [Chương 194 →](chuong_194.md)
+---
+layout: default
+title: Chương 193: luyện thi lão nhân
+chapter_number: 193
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -235,6 +238,6 @@ Nghe được vị này bách hộ giảng thuật, Thẩm Dục trong nháy m�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-193](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-193)
 - Thời gian scrape: 2026-01-13 00:32:22
 
-
-[← Chương 192](chuong_192.md) | [📚 Mục lục](README.md) | [Chương 194 →](chuong_194.md)
-
+<div class="chapter-nav">
+    <a href="chuong_192.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_194.html" class="nav-btn">Chương sau →</a>
+</div>

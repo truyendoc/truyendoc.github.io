@@ -1,6 +1,9 @@
-
-
-[← Chương 284](chuong_284.md) | [📚 Mục lục](README.md) | [Chương 286 →](chuong_286.md)
+---
+layout: default
+title: Chương 285: 30 năm hổ cốt lão tửu
+chapter_number: 285
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Nói xong, Tào Côn đem điện thoại cúp máy, nhìn về phía Lam Khả 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-285](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-285)
 - Thời gian scrape: 2026-01-13 21:56:53
 
-
-[← Chương 284](chuong_284.md) | [📚 Mục lục](README.md) | [Chương 286 →](chuong_286.md)
-
+<div class="chapter-nav">
+    <a href="chuong_284.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_286.html" class="nav-btn">Chương sau →</a>
+</div>

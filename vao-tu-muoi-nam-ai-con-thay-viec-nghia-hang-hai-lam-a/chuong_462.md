@@ -1,6 +1,9 @@
-
-
-[← Chương 461](chuong_461.md) | [📚 Mục lục](README.md) | [Chương 463 →](chuong_463.md)
+---
+layout: default
+title: Chương 462: Tốt ủy khuất, rất muốn khóc
+chapter_number: 462
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Ngay tại Bàng Hồng Na không biết nên làm sao bây giờ thời điểm
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-462](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-462)
 - Thời gian scrape: 2026-01-13 22:07:16
 
-
-[← Chương 461](chuong_461.md) | [📚 Mục lục](README.md) | [Chương 463 →](chuong_463.md)
-
+<div class="chapter-nav">
+    <a href="chuong_461.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_463.html" class="nav-btn">Chương sau →</a>
+</div>

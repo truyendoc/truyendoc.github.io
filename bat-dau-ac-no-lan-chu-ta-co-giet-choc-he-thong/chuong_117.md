@@ -1,6 +1,9 @@
-
-
-[← Chương 116](chuong_116.md) | [📚 Mục lục](README.md) | [Chương 118 →](chuong_118.md)
+---
+layout: default
+title: Chương 117: Thẩm Dục đoạt đầu người
+chapter_number: 117
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -233,6 +236,6 @@ Trương Dĩnh nói thẳng: “Thẩm Tiểu Kỳ, ngươi đi theo ta đi!”
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-117](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-117)
 - Thời gian scrape: 2026-01-13 00:29:00
 
-
-[← Chương 116](chuong_116.md) | [📚 Mục lục](README.md) | [Chương 118 →](chuong_118.md)
-
+<div class="chapter-nav">
+    <a href="chuong_116.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_118.html" class="nav-btn">Chương sau →</a>
+</div>

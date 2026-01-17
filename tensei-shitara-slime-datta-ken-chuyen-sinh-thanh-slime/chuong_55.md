@@ -1,6 +1,9 @@
-
-
-[← Chương 54](chuong_54.md) | [📚 Mục lục](README.md) | [Chương 56 →](chuong_56.md)
+---
+layout: default
+title: Chương 55
+chapter_number: 55
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -498,6 +501,6 @@ Từ đầu đến giờ, tác giả đều dùng 協力関係 nghĩa là Quan h
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-55](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-55)
 - Thời gian scrape: 2026-01-17 09:40:24
 
-
-[← Chương 54](chuong_54.md) | [📚 Mục lục](README.md) | [Chương 56 →](chuong_56.md)
-
+<div class="chapter-nav">
+    <a href="chuong_54.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_56.html" class="nav-btn">Chương sau →</a>
+</div>

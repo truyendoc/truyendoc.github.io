@@ -1,6 +1,9 @@
-
-
-[← Chương 202](chuong_202.md) | [📚 Mục lục](README.md) | [Chương 204 →](chuong_204.md)
+---
+layout: default
+title: Chương 203
+chapter_number: 203
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -678,6 +681,6 @@ Chỉ trong ngày đầu tiên của trận Đại Chiến, các phe phái trên
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-203](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-203)
 - Thời gian scrape: 2026-01-17 09:47:20
 
-
-[← Chương 202](chuong_202.md) | [📚 Mục lục](README.md) | [Chương 204 →](chuong_204.md)
-
+<div class="chapter-nav">
+    <a href="chuong_202.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_204.html" class="nav-btn">Chương sau →</a>
+</div>

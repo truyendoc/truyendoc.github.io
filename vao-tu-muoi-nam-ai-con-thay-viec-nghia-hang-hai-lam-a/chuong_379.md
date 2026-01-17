@@ -1,6 +1,9 @@
-
-
-[← Chương 378](chuong_378.md) | [📚 Mục lục](README.md) | [Chương 380 →](chuong_380.md)
+---
+layout: default
+title: Chương 379: Giả mạo lão sư
+chapter_number: 379
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Mà Tào Côn, cũng nghênh ngang rời đi lầu dạy học.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-379](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-379)
 - Thời gian scrape: 2026-01-13 22:02:23
 
-
-[← Chương 378](chuong_378.md) | [📚 Mục lục](README.md) | [Chương 380 →](chuong_380.md)
-
+<div class="chapter-nav">
+    <a href="chuong_378.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_380.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 350](chuong_350.md) | [📚 Mục lục](README.md) | [Chương 352 →](chuong_352.md)
+---
+layout: default
+title: Chương 351: Không cứu (2)
+chapter_number: 351
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -135,6 +138,6 @@ Sau đó tốt nhằm vào hắn tính cách tiến hành bố cục.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-351](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-351)
 - Thời gian scrape: 2026-01-13 00:24:33
 
-
-[← Chương 350](chuong_350.md) | [📚 Mục lục](README.md) | [Chương 352 →](chuong_352.md)
-
+<div class="chapter-nav">
+    <a href="chuong_350.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_352.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 70](chuong_70.md) | [📚 Mục lục](README.md) | [Chương 72 →](chuong_72.md)
+---
+layout: default
+title: Chương 71
+chapter_number: 71
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -456,6 +459,6 @@ Một sự kiện có thể phá hủy sự cân bằng trong hàng ngũ những
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-71](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-71)
 - Thời gian scrape: 2026-01-17 09:41:07
 
-
-[← Chương 70](chuong_70.md) | [📚 Mục lục](README.md) | [Chương 72 →](chuong_72.md)
-
+<div class="chapter-nav">
+    <a href="chuong_70.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_72.html" class="nav-btn">Chương sau →</a>
+</div>

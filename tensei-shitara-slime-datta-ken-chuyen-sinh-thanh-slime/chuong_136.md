@@ -1,6 +1,9 @@
-
-
-[← Chương 135](chuong_135.md) | [📚 Mục lục](README.md) | [Chương 137 →](chuong_137.md)
+---
+layout: default
+title: Chương 136
+chapter_number: 136
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -360,6 +363,6 @@ Một cơn bão bất an mới lại kéo tới...
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-136](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-136)
 - Thời gian scrape: 2026-01-17 09:44:11
 
-
-[← Chương 135](chuong_135.md) | [📚 Mục lục](README.md) | [Chương 137 →](chuong_137.md)
-
+<div class="chapter-nav">
+    <a href="chuong_135.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_137.html" class="nav-btn">Chương sau →</a>
+</div>

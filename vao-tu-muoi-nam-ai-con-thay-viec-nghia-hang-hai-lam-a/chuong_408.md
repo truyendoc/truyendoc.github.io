@@ -1,6 +1,9 @@
-
-
-[← Chương 407](chuong_407.md) | [📚 Mục lục](README.md) | [Chương 409 →](chuong_409.md)
+---
+layout: default
+title: Chương 408: Công phu sư tử ngoạm, 80 ức
+chapter_number: 408
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -151,6 +154,6 @@ Tào Côn cười ha ha một tiếng, nói: "Không có vấn đề, vậy ngư
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-408](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-408)
 - Thời gian scrape: 2026-01-13 22:04:02
 
-
-[← Chương 407](chuong_407.md) | [📚 Mục lục](README.md) | [Chương 409 →](chuong_409.md)
-
+<div class="chapter-nav">
+    <a href="chuong_407.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_409.html" class="nav-btn">Chương sau →</a>
+</div>

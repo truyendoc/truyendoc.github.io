@@ -1,6 +1,9 @@
-
-
-[← Chương 217](chuong_217.md) | [📚 Mục lục](README.md) | [Chương 219 →](chuong_219.md)
+---
+layout: default
+title: Chương 218
+chapter_number: 218
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -672,6 +675,6 @@ Và như thế, hỗn loạn tại lãnh địa của Leon đã đánh dấu m�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-218](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-218)
 - Thời gian scrape: 2026-01-17 09:48:03
 
-
-[← Chương 217](chuong_217.md) | [📚 Mục lục](README.md) | [Chương 219 →](chuong_219.md)
-
+<div class="chapter-nav">
+    <a href="chuong_217.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_219.html" class="nav-btn">Chương sau →</a>
+</div>

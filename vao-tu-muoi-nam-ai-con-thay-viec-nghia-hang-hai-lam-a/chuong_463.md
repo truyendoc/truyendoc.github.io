@@ -1,6 +1,9 @@
-
-
-[← Chương 462](chuong_462.md) | [📚 Mục lục](README.md) | [Chương 464 →](chuong_464.md)
+---
+layout: default
+title: Chương 463: Xong, bị ăn định
+chapter_number: 463
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Mà Tào Côn, nhìn xem Bàng Hồng Na không dám tin biểu lộ, thì là g
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-463](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-463)
 - Thời gian scrape: 2026-01-13 22:07:19
 
-
-[← Chương 462](chuong_462.md) | [📚 Mục lục](README.md) | [Chương 464 →](chuong_464.md)
-
+<div class="chapter-nav">
+    <a href="chuong_462.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_464.html" class="nav-btn">Chương sau →</a>
+</div>

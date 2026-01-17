@@ -1,6 +1,9 @@
-
-
-[← Chương 17](chuong_17.md) | [📚 Mục lục](README.md) | [Chương 19 →](chuong_19.md)
+---
+layout: default
+title: Chương 18: Biên tập video
+chapter_number: 18
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -95,6 +98,6 @@ Nhìn thấy cái tên này, Tào Côn con mắt một chút liền híp lại.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-18](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-18)
 - Thời gian scrape: 2026-01-13 21:40:23
 
-
-[← Chương 17](chuong_17.md) | [📚 Mục lục](README.md) | [Chương 19 →](chuong_19.md)
-
+<div class="chapter-nav">
+    <a href="chuong_17.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_19.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 643](chuong_643.md) | [📚 Mục lục](README.md) | [Chương 645 →](chuong_645.md)
+---
+layout: default
+title: Chương 644: Dương Bình xuống núi
+chapter_number: 644
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Ta mẹ nó. . .
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-644](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-644)
 - Thời gian scrape: 2026-01-13 22:17:37
 
-
-[← Chương 643](chuong_643.md) | [📚 Mục lục](README.md) | [Chương 645 →](chuong_645.md)
-
+<div class="chapter-nav">
+    <a href="chuong_643.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_645.html" class="nav-btn">Chương sau →</a>
+</div>

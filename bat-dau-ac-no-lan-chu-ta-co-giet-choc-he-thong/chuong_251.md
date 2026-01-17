@@ -1,6 +1,9 @@
-
-
-[← Chương 250](chuong_250.md) | [📚 Mục lục](README.md) | [Chương 252 →](chuong_252.md)
+---
+layout: default
+title: Chương 251: Thần Tiêu tông (2)
+chapter_number: 251
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -123,6 +126,6 @@ Ngu Tuyết Oánh tiếp tục hỏi.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-251](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-251)
 - Thời gian scrape: 2026-01-13 00:34:39
 
-
-[← Chương 250](chuong_250.md) | [📚 Mục lục](README.md) | [Chương 252 →](chuong_252.md)
-
+<div class="chapter-nav">
+    <a href="chuong_250.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_252.html" class="nav-btn">Chương sau →</a>
+</div>

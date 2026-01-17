@@ -1,6 +1,9 @@
-
-
-[← Chương 48](chuong_48.md) | [📚 Mục lục](README.md) | [Chương 50 →](chuong_50.md)
+---
+layout: default
+title: Chương 49: Tiên thiên tiện nhân thánh thể
+chapter_number: 49
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -149,6 +152,6 @@ Bạch Tĩnh một bên trực tiếp mắt trợn trắng, lần nữa thấp g
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-49](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-49)
 - Thời gian scrape: 2026-01-13 21:42:05
 
-
-[← Chương 48](chuong_48.md) | [📚 Mục lục](README.md) | [Chương 50 →](chuong_50.md)
-
+<div class="chapter-nav">
+    <a href="chuong_48.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_50.html" class="nav-btn">Chương sau →</a>
+</div>

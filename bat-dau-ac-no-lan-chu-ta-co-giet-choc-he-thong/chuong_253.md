@@ -1,6 +1,9 @@
-
-
-[← Chương 252](chuong_252.md) | [📚 Mục lục](README.md) | [Chương 254 →](chuong_254.md)
+---
+layout: default
+title: Chương 253: Sơ lộ khí binh thuật (2)
+chapter_number: 253
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -143,6 +146,6 @@ Trong đám người, nhìn thấy lần nữa đại triển thần uy Thẩm D
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-253](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-253)
 - Thời gian scrape: 2026-01-13 00:34:44
 
-
-[← Chương 252](chuong_252.md) | [📚 Mục lục](README.md) | [Chương 254 →](chuong_254.md)
-
+<div class="chapter-nav">
+    <a href="chuong_252.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_254.html" class="nav-btn">Chương sau →</a>
+</div>

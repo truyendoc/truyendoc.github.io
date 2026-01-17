@@ -1,6 +1,9 @@
-
-
-[← Chương 103](chuong_103.md) | [📚 Mục lục](README.md) | [Chương 105 →](chuong_105.md)
+---
+layout: default
+title: Chương 104: Mộ tổ tiên nhà ngươi khẳng định bốc lên khói xanh
+chapter_number: 104
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Nói, Tào Côn liền đem đại khái tình huống giảng thuật một l�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-104](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-104)
 - Thời gian scrape: 2026-01-13 21:45:40
 
-
-[← Chương 103](chuong_103.md) | [📚 Mục lục](README.md) | [Chương 105 →](chuong_105.md)
-
+<div class="chapter-nav">
+    <a href="chuong_103.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_105.html" class="nav-btn">Chương sau →</a>
+</div>

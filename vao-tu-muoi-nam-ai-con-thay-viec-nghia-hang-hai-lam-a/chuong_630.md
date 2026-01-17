@@ -1,6 +1,9 @@
-
-
-[← Chương 629](chuong_629.md) | [📚 Mục lục](README.md) | [Chương 631 →](chuong_631.md)
+---
+layout: default
+title: Chương 630: Khương Mẫn đi
+chapter_number: 630
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Thấy thế, Ngốc Cẩu đem cửa xe quan bế, sau đó ngồi vào ghế l
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-630](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-630)
 - Thời gian scrape: 2026-01-13 22:16:51
 
-
-[← Chương 629](chuong_629.md) | [📚 Mục lục](README.md) | [Chương 631 →](chuong_631.md)
-
+<div class="chapter-nav">
+    <a href="chuong_629.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_631.html" class="nav-btn">Chương sau →</a>
+</div>

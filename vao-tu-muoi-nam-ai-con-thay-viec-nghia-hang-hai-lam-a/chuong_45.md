@@ -1,6 +1,9 @@
-
-
-[← Chương 44](chuong_44.md) | [📚 Mục lục](README.md) | [Chương 46 →](chuong_46.md)
+---
+layout: default
+title: Chương 45: Vân Đông đặc khu thành lập, thân gia gấp bội
+chapter_number: 45
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -149,6 +152,6 @@ Cho nên, hắn rất rõ ràng nói cho Lưu Ngọc Linh, trong tay hắn nhữ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-45](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-45)
 - Thời gian scrape: 2026-01-13 21:41:52
 
-
-[← Chương 44](chuong_44.md) | [📚 Mục lục](README.md) | [Chương 46 →](chuong_46.md)
-
+<div class="chapter-nav">
+    <a href="chuong_44.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_46.html" class="nav-btn">Chương sau →</a>
+</div>

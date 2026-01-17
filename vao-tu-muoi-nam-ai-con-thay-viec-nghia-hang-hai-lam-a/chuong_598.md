@@ -1,6 +1,9 @@
-
-
-[← Chương 597](chuong_597.md) | [📚 Mục lục](README.md) | [Chương 599 →](chuong_599.md)
+---
+layout: default
+title: Chương 598: Trước cho cái táo ngọt
+chapter_number: 598
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Tào Côn cười hư đè ép một chút hai tay, để đám người an tĩn
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-598](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-598)
 - Thời gian scrape: 2026-01-13 22:14:58
 
-
-[← Chương 597](chuong_597.md) | [📚 Mục lục](README.md) | [Chương 599 →](chuong_599.md)
-
+<div class="chapter-nav">
+    <a href="chuong_597.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_599.html" class="nav-btn">Chương sau →</a>
+</div>

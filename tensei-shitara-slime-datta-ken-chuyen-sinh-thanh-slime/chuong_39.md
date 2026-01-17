@@ -1,6 +1,9 @@
-
-
-[← Chương 38](chuong_38.md) | [📚 Mục lục](README.md) | [Chương 40 →](chuong_40.md)
+---
+layout: default
+title: Chương 39
+chapter_number: 39
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -436,6 +439,6 @@ Chú thích:
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-39](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-39)
 - Thời gian scrape: 2026-01-17 09:39:39
 
-
-[← Chương 38](chuong_38.md) | [📚 Mục lục](README.md) | [Chương 40 →](chuong_40.md)
-
+<div class="chapter-nav">
+    <a href="chuong_38.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_40.html" class="nav-btn">Chương sau →</a>
+</div>

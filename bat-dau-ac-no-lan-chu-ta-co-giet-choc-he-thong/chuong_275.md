@@ -1,6 +1,9 @@
-
-
-[← Chương 274](chuong_274.md) | [📚 Mục lục](README.md) | [Chương 276 →](chuong_276.md)
+---
+layout: default
+title: Chương 275: Phế bỏ huyền cơ doanh binh lính càn quấy (2)
+chapter_number: 275
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -115,6 +118,6 @@ Nhìn thấy một màn này, vị kia bộ đầu sắc mặt đại biến, l�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-275](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-275)
 - Thời gian scrape: 2026-01-13 00:35:38
 
-
-[← Chương 274](chuong_274.md) | [📚 Mục lục](README.md) | [Chương 276 →](chuong_276.md)
-
+<div class="chapter-nav">
+    <a href="chuong_274.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_276.html" class="nav-btn">Chương sau →</a>
+</div>

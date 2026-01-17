@@ -1,6 +1,9 @@
-
-
-[← Chương 522](chuong_522.md) | [📚 Mục lục](README.md) | [Chương 524 →](chuong_524.md)
+---
+layout: default
+title: Chương 523: Bến tàu niên kỉ sẽ
+chapter_number: 523
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -147,6 +150,6 @@ Bình quân mỗi người tám, chín vạn, đem những này người đều 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-523](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-523)
 - Thời gian scrape: 2026-01-13 22:10:43
 
-
-[← Chương 522](chuong_522.md) | [📚 Mục lục](README.md) | [Chương 524 →](chuong_524.md)
-
+<div class="chapter-nav">
+    <a href="chuong_522.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_524.html" class="nav-btn">Chương sau →</a>
+</div>

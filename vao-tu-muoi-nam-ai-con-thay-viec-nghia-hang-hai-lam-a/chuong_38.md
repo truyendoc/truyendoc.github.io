@@ -1,6 +1,9 @@
-
-
-[← Chương 37](chuong_37.md) | [📚 Mục lục](README.md) | [Chương 39 →](chuong_39.md)
+---
+layout: default
+title: Chương 38: Mộng bức Vương San San
+chapter_number: 38
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Nói, Tào Côn lấy điện thoại di động ra liền cho Bạch Tĩnh đá
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-38](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-38)
 - Thời gian scrape: 2026-01-13 21:41:27
 
-
-[← Chương 37](chuong_37.md) | [📚 Mục lục](README.md) | [Chương 39 →](chuong_39.md)
-
+<div class="chapter-nav">
+    <a href="chuong_37.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_39.html" class="nav-btn">Chương sau →</a>
+</div>

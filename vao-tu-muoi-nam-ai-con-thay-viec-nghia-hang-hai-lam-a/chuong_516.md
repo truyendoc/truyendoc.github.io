@@ -1,6 +1,9 @@
-
-
-[← Chương 515](chuong_515.md) | [📚 Mục lục](README.md) | [Chương 517 →](chuong_517.md)
+---
+layout: default
+title: Chương 516: Cái thứ hai cố sự
+chapter_number: 516
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Nàng ho nhẹ một tiếng, lần nữa mở miệng nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-516](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-516)
 - Thời gian scrape: 2026-01-13 22:10:20
 
-
-[← Chương 515](chuong_515.md) | [📚 Mục lục](README.md) | [Chương 517 →](chuong_517.md)
-
+<div class="chapter-nav">
+    <a href="chuong_515.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_517.html" class="nav-btn">Chương sau →</a>
+</div>

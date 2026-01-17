@@ -1,6 +1,9 @@
-
-
-[← Chương 238](chuong_238.md) | [📚 Mục lục](README.md) | [Chương 240 →](chuong_240.md)
+---
+layout: default
+title: Chương 239: Tìm cao lầu, đem hắn ném xuống
+chapter_number: 239
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Nói xong, a Thành đem trên mặt đất ngất đi Lý Thiếu Vĩ nhét và
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-239](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-239)
 - Thời gian scrape: 2026-01-13 21:54:02
 
-
-[← Chương 238](chuong_238.md) | [📚 Mục lục](README.md) | [Chương 240 →](chuong_240.md)
-
+<div class="chapter-nav">
+    <a href="chuong_238.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_240.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 273](chuong_273.md) | [📚 Mục lục](README.md) | [Chương 275 →](chuong_275.md)
+---
+layout: default
+title: Chương 274: Nhất định phải cảm tạ Tào Côn
+chapter_number: 274
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Trương Uyển Thanh bĩu môi nói: "Cũng không nhất định, nói là đi
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-274](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-274)
 - Thời gian scrape: 2026-01-13 21:56:04
 
-
-[← Chương 273](chuong_273.md) | [📚 Mục lục](README.md) | [Chương 275 →](chuong_275.md)
-
+<div class="chapter-nav">
+    <a href="chuong_273.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_275.html" class="nav-btn">Chương sau →</a>
+</div>

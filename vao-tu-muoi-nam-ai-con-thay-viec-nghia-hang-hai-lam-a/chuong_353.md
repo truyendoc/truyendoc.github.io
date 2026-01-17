@@ -1,6 +1,9 @@
-
-
-[← Chương 352](chuong_352.md) | [📚 Mục lục](README.md) | [Chương 354 →](chuong_354.md)
+---
+layout: default
+title: Chương 353: Quả nhiên là Dương Nhật Bố
+chapter_number: 353
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Nghe được Lam Khả Tâm chỉ là từ giá·m s·át bên trong nhìn, Tà
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-353](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-353)
 - Thời gian scrape: 2026-01-13 22:00:50
 
-
-[← Chương 352](chuong_352.md) | [📚 Mục lục](README.md) | [Chương 354 →](chuong_354.md)
-
+<div class="chapter-nav">
+    <a href="chuong_352.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_354.html" class="nav-btn">Chương sau →</a>
+</div>

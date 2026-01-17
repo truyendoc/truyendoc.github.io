@@ -1,6 +1,9 @@
-
-
-[← Chương 103](chuong_103.md) | [📚 Mục lục](README.md) | [Chương 105 →](chuong_105.md)
+---
+layout: default
+title: Chương 104: bị Vân Thủy Phủ thế lực để mắt tới
+chapter_number: 104
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -207,6 +210,6 @@ Sau đó mới chui vào lều vải, cùng Lý Linh Nhi cùng một chỗ ngh�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-104](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-104)
 - Thời gian scrape: 2026-01-13 00:28:22
 
-
-[← Chương 103](chuong_103.md) | [📚 Mục lục](README.md) | [Chương 105 →](chuong_105.md)
-
+<div class="chapter-nav">
+    <a href="chuong_103.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_105.html" class="nav-btn">Chương sau →</a>
+</div>

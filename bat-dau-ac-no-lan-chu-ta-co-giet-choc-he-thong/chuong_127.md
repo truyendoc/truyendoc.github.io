@@ -1,6 +1,9 @@
-
-
-[← Chương 126](chuong_126.md) | [📚 Mục lục](README.md) | [Chương 128 →](chuong_128.md)
+---
+layout: default
+title: Chương 127: Đoán Thần Quyết tầng thứ tám
+chapter_number: 127
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -265,6 +268,6 @@ Cuối cùng, còn nhiều ra một cái năng lực mới, có thể lợi dụ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-127](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-127)
 - Thời gian scrape: 2026-01-13 00:29:31
 
-
-[← Chương 126](chuong_126.md) | [📚 Mục lục](README.md) | [Chương 128 →](chuong_128.md)
-
+<div class="chapter-nav">
+    <a href="chuong_126.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_128.html" class="nav-btn">Chương sau →</a>
+</div>

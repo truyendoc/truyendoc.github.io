@@ -1,6 +1,9 @@
-
-
-[← Chương 446](chuong_446.md) | [📚 Mục lục](README.md) | [Chương 448 →](chuong_448.md)
+---
+layout: default
+title: Chương 447: Chỉ là quan hệ hợp tác
+chapter_number: 447
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Tào Côn cười ôm ôm Tiêu Văn Tĩnh vòng eo, đem nó ôm ở trên đù
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-447](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-447)
 - Thời gian scrape: 2026-01-13 22:06:13
 
-
-[← Chương 446](chuong_446.md) | [📚 Mục lục](README.md) | [Chương 448 →](chuong_448.md)
-
+<div class="chapter-nav">
+    <a href="chuong_446.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_448.html" class="nav-btn">Chương sau →</a>
+</div>

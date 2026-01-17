@@ -1,6 +1,9 @@
-
-
-[← Chương 275](chuong_275.md) | [📚 Mục lục](README.md) | [Chương 277 →](chuong_277.md)
+---
+layout: default
+title: Chương 276: Cẩu Nhất Vĩ đến thăm
+chapter_number: 276
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Quán bar lầu ba, Tào Côn chuyên môn gian phòng bên trong, Lưu Hồng m
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-276](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-276)
 - Thời gian scrape: 2026-01-13 21:56:14
 
-
-[← Chương 275](chuong_275.md) | [📚 Mục lục](README.md) | [Chương 277 →](chuong_277.md)
-
+<div class="chapter-nav">
+    <a href="chuong_275.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_277.html" class="nav-btn">Chương sau →</a>
+</div>

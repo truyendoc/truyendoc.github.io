@@ -1,6 +1,9 @@
-
-
-[← Chương 457](chuong_457.md) | [📚 Mục lục](README.md) | [Chương 459 →](chuong_459.md)
+---
+layout: default
+title: Chương 458: Chó nữ nhân yêu đương?
+chapter_number: 458
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Vương San San không hiểu nhìn xem Tào Côn, lông mày đều nhíu lại
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-458](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-458)
 - Thời gian scrape: 2026-01-13 22:06:49
 
-
-[← Chương 457](chuong_457.md) | [📚 Mục lục](README.md) | [Chương 459 →](chuong_459.md)
-
+<div class="chapter-nav">
+    <a href="chuong_457.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_459.html" class="nav-btn">Chương sau →</a>
+</div>

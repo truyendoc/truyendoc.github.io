@@ -1,6 +1,9 @@
-
-
-[← Chương 385](chuong_385.md) | [📚 Mục lục](README.md) | [Chương 387 →](chuong_387.md)
+---
+layout: default
+title: Chương 386: Hiểu chuyện tốt nhân viên
+chapter_number: 386
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -199,6 +202,6 @@ Lầm bầm lầu bầu nói xong lời nói này, Tào Côn tại côn thành p
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-386](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-386)
 - Thời gian scrape: 2026-01-13 22:02:50
 
-
-[← Chương 385](chuong_385.md) | [📚 Mục lục](README.md) | [Chương 387 →](chuong_387.md)
-
+<div class="chapter-nav">
+    <a href="chuong_385.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_387.html" class="nav-btn">Chương sau →</a>
+</div>

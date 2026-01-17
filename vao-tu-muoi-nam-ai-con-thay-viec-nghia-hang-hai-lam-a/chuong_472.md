@@ -1,6 +1,9 @@
-
-
-[← Chương 471](chuong_471.md) | [📚 Mục lục](README.md) | [Chương 473 →](chuong_473.md)
+---
+layout: default
+title: Chương 472: Thiện lương đơn thuần cô nương tốt
+chapter_number: 472
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Vương San San trầm mặc mấy giây, nói: "Đúng là chuyện như vậy,
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-472](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-472)
 - Thời gian scrape: 2026-01-13 22:07:51
 
-
-[← Chương 471](chuong_471.md) | [📚 Mục lục](README.md) | [Chương 473 →](chuong_473.md)
-
+<div class="chapter-nav">
+    <a href="chuong_471.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_473.html" class="nav-btn">Chương sau →</a>
+</div>

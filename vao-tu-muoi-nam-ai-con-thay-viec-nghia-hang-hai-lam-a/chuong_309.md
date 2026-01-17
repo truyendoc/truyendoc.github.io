@@ -1,6 +1,9 @@
-
-
-[← Chương 308](chuong_308.md) | [📚 Mục lục](README.md) | [Chương 310 →](chuong_310.md)
+---
+layout: default
+title: Chương 309: Chúc thân thể ngươi khỏe mạnh, thê thiếp thành đàn
+chapter_number: 309
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -147,6 +150,6 @@ Mặc dù đầu đã bị người nện p·hát n·ổ, nhưng là, vẫn có 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-309](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-309)
 - Thời gian scrape: 2026-01-13 21:58:12
 
-
-[← Chương 308](chuong_308.md) | [📚 Mục lục](README.md) | [Chương 310 →](chuong_310.md)
-
+<div class="chapter-nav">
+    <a href="chuong_308.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_310.html" class="nav-btn">Chương sau →</a>
+</div>

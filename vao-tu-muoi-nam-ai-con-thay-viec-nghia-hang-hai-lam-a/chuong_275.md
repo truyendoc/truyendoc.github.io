@@ -1,6 +1,9 @@
-
-
-[← Chương 274](chuong_274.md) | [📚 Mục lục](README.md) | [Chương 276 →](chuong_276.md)
+---
+layout: default
+title: Chương 275: Đại hiếu nữ vương San San
+chapter_number: 275
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Tào Côn hút một hơi thuốc, cười gật đầu một cái nói: "Cũng 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-275](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-275)
 - Thời gian scrape: 2026-01-13 21:56:09
 
-
-[← Chương 274](chuong_274.md) | [📚 Mục lục](README.md) | [Chương 276 →](chuong_276.md)
-
+<div class="chapter-nav">
+    <a href="chuong_274.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_276.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 290](chuong_290.md) | [📚 Mục lục](README.md) | [Chương 292 →](chuong_292.md)
+---
+layout: default
+title: Chương 291: Điều (2)
+chapter_number: 291
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -97,6 +100,6 @@ Thẩm Dục đứng dậy hỏi, bởi vì theo hắn biết, vị này Thiên 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-291](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-291)
 - Thời gian scrape: 2026-01-13 00:22:11
 
-
-[← Chương 290](chuong_290.md) | [📚 Mục lục](README.md) | [Chương 292 →](chuong_292.md)
-
+<div class="chapter-nav">
+    <a href="chuong_290.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_292.html" class="nav-btn">Chương sau →</a>
+</div>

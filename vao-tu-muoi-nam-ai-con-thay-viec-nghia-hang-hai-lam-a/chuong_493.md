@@ -1,6 +1,9 @@
-
-
-[← Chương 492](chuong_492.md) | [📚 Mục lục](README.md) | [Chương 494 →](chuong_494.md)
+---
+layout: default
+title: Chương 493: Bảo tàng nữ hài Vương San San
+chapter_number: 493
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Mà cái này Vương San San, chính là hắn đau khổ truy tìm chân ái!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-493](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-493)
 - Thời gian scrape: 2026-01-13 22:09:02
 
-
-[← Chương 492](chuong_492.md) | [📚 Mục lục](README.md) | [Chương 494 →](chuong_494.md)
-
+<div class="chapter-nav">
+    <a href="chuong_492.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_494.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 640](chuong_640.md) | [📚 Mục lục](README.md) | [Chương 642 →](chuong_642.md)
+---
+layout: default
+title: Chương 641: Bị tốt ngồi cùng bàn phát hiện
+chapter_number: 641
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Không nghĩ tới Tào Côn sẽ nói ra như thế một vấn đề, Cao Đì
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-641](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-641)
 - Thời gian scrape: 2026-01-13 22:17:28
 
-
-[← Chương 640](chuong_640.md) | [📚 Mục lục](README.md) | [Chương 642 →](chuong_642.md)
-
+<div class="chapter-nav">
+    <a href="chuong_640.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_642.html" class="nav-btn">Chương sau →</a>
+</div>

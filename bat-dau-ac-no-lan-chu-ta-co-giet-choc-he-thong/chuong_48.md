@@ -1,6 +1,9 @@
-
-
-[← Chương 47](chuong_47.md) | [📚 Mục lục](README.md) | [Chương 49 →](chuong_49.md)
+---
+layout: default
+title: Chương 48: tu vi tăng vọt
+chapter_number: 48
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -263,6 +266,6 @@ Hắn còn muốn tiếp tục kiểm tra và nhận phần thưởng.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-48](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-48)
 - Thời gian scrape: 2026-01-13 21:15:43
 
-
-[← Chương 47](chuong_47.md) | [📚 Mục lục](README.md) | [Chương 49 →](chuong_49.md)
-
+<div class="chapter-nav">
+    <a href="chuong_47.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_49.html" class="nav-btn">Chương sau →</a>
+</div>

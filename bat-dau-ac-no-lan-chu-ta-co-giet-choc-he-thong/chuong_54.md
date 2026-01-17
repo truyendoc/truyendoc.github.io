@@ -1,6 +1,9 @@
-
-
-[← Chương 53](chuong_53.md) | [📚 Mục lục](README.md) | [Chương 55 →](chuong_55.md)
+---
+layout: default
+title: Chương 54: Đào Thụ Lâm
+chapter_number: 54
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -243,6 +246,6 @@ Thẩm Dục xem thường nói.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-54](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-54)
 - Thời gian scrape: 2026-01-13 21:16:00
 
-
-[← Chương 53](chuong_53.md) | [📚 Mục lục](README.md) | [Chương 55 →](chuong_55.md)
-
+<div class="chapter-nav">
+    <a href="chuong_53.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_55.html" class="nav-btn">Chương sau →</a>
+</div>

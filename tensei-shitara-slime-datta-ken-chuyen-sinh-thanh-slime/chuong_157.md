@@ -1,6 +1,9 @@
-
-
-[← Chương 156](chuong_156.md) | [📚 Mục lục](README.md) | [Chương 158 →](chuong_158.md)
+---
+layout: default
+title: Chương 157
+chapter_number: 157
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -572,6 +575,6 @@ Và rồi, trận quyết chiến với 70 vận đại quân Đế Quốc bắt
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-157](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-157)
 - Thời gian scrape: 2026-01-17 09:45:09
 
-
-[← Chương 156](chuong_156.md) | [📚 Mục lục](README.md) | [Chương 158 →](chuong_158.md)
-
+<div class="chapter-nav">
+    <a href="chuong_156.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_158.html" class="nav-btn">Chương sau →</a>
+</div>

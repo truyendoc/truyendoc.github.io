@@ -1,6 +1,9 @@
-
-
-[← Chương 429](chuong_429.md) | [📚 Mục lục](README.md) | [Chương 431 →](chuong_431.md)
+---
+layout: default
+title: Chương 430: Đáng tin nhất khâu xảy ra chuyện
+chapter_number: 430
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Dương Tam Đao cười ha ha một tiếng, nói: "Tốt, địa điểm ta đ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-430](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-430)
 - Thời gian scrape: 2026-01-13 22:05:17
 
-
-[← Chương 429](chuong_429.md) | [📚 Mục lục](README.md) | [Chương 431 →](chuong_431.md)
-
+<div class="chapter-nav">
+    <a href="chuong_429.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_431.html" class="nav-btn">Chương sau →</a>
+</div>

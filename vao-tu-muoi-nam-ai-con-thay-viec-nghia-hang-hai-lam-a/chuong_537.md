@@ -1,6 +1,9 @@
-
-
-[← Chương 536](chuong_536.md) | [📚 Mục lục](README.md) | [Chương 538 →](chuong_538.md)
+---
+layout: default
+title: Chương 537: Nguyên lai đã biết
+chapter_number: 537
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Cho nên, nàng cũng nghĩ để Tào Côn giúp mình tra thiếu bổ lậu m
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-537](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-537)
 - Thời gian scrape: 2026-01-13 22:11:33
 
-
-[← Chương 536](chuong_536.md) | [📚 Mục lục](README.md) | [Chương 538 →](chuong_538.md)
-
+<div class="chapter-nav">
+    <a href="chuong_536.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_538.html" class="nav-btn">Chương sau →</a>
+</div>

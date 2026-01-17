@@ -1,6 +1,9 @@
-
-
-[← Chương 209](chuong_209.md) | [📚 Mục lục](README.md) | [Chương 211 →](chuong_211.md)
+---
+layout: default
+title: Chương 210: ta mới sẽ không hối hận
+chapter_number: 210
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -211,6 +214,6 @@ Nghe được Tiết Linh Đồng hình như có thâm ý lời nói, Tiết Ng�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-210](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-210)
 - Thời gian scrape: 2026-01-13 00:33:02
 
-
-[← Chương 209](chuong_209.md) | [📚 Mục lục](README.md) | [Chương 211 →](chuong_211.md)
-
+<div class="chapter-nav">
+    <a href="chuong_209.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_211.html" class="nav-btn">Chương sau →</a>
+</div>

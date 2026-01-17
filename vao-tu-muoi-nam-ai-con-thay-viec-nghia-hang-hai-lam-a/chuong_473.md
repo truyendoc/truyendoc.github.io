@@ -1,6 +1,9 @@
-
-
-[← Chương 472](chuong_472.md) | [📚 Mục lục](README.md) | [Chương 474 →](chuong_474.md)
+---
+layout: default
+title: Chương 473: Thôi Minh xuất viện
+chapter_number: 473
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Hạng Nam Nguyệt cười một tiếng, nói: "Đêm nay muốn hay không ra
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-473](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-473)
 - Thời gian scrape: 2026-01-13 22:07:55
 
-
-[← Chương 472](chuong_472.md) | [📚 Mục lục](README.md) | [Chương 474 →](chuong_474.md)
-
+<div class="chapter-nav">
+    <a href="chuong_472.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_474.html" class="nav-btn">Chương sau →</a>
+</div>

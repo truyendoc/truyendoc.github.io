@@ -1,6 +1,9 @@
-
-
-[← Chương 678](chuong_678.md) | [📚 Mục lục](README.md) | [Chương 680 →](chuong_680.md)
+---
+layout: default
+title: Chương 679: Liền thích ngươi cái miệng này
+chapter_number: 679
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Cho nên, một khi điều tra ra tên phản đồ này là ai, nhất định
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-679](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-679)
 - Thời gian scrape: 2026-01-13 22:19:47
 
-
-[← Chương 678](chuong_678.md) | [📚 Mục lục](README.md) | [Chương 680 →](chuong_680.md)
-
+<div class="chapter-nav">
+    <a href="chuong_678.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_680.html" class="nav-btn">Chương sau →</a>
+</div>

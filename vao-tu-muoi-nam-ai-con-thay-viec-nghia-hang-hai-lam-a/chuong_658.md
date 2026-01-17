@@ -1,6 +1,9 @@
-
-
-[← Chương 657](chuong_657.md) | [📚 Mục lục](README.md) | [Chương 659 →](chuong_659.md)
+---
+layout: default
+title: Chương 658: Bốn năm trước vụ án bắt cóc
+chapter_number: 658
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Tào Côn khóe miệng mang theo tiếu dung, tiếp tục nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-658](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-658)
 - Thời gian scrape: 2026-01-13 22:18:28
 
-
-[← Chương 657](chuong_657.md) | [📚 Mục lục](README.md) | [Chương 659 →](chuong_659.md)
-
+<div class="chapter-nav">
+    <a href="chuong_657.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_659.html" class="nav-btn">Chương sau →</a>
+</div>

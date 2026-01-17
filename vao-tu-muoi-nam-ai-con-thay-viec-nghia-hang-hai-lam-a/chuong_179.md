@@ -1,6 +1,9 @@
-
-
-[← Chương 178](chuong_178.md) | [📚 Mục lục](README.md) | [Chương 180 →](chuong_180.md)
+---
+layout: default
+title: Chương 179: Cực phẩm lê lớn, Trình Dao Dao
+chapter_number: 179
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Dù sao, Trình Dương đầu óc quả thật có chút không quá linh quang
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-179](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-179)
 - Thời gian scrape: 2026-01-13 21:50:05
 
-
-[← Chương 178](chuong_178.md) | [📚 Mục lục](README.md) | [Chương 180 →](chuong_180.md)
-
+<div class="chapter-nav">
+    <a href="chuong_178.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_180.html" class="nav-btn">Chương sau →</a>
+</div>

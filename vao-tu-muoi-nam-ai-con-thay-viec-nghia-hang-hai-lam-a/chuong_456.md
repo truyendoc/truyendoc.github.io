@@ -1,6 +1,9 @@
-
-
-[← Chương 455](chuong_455.md) | [📚 Mục lục](README.md) | [Chương 457 →](chuong_457.md)
+---
+layout: default
+title: Chương 456: Bao tô công mộng tưởng
+chapter_number: 456
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Tiêu Văn Tĩnh sửng sốt một chút, nói: "Thôi Minh Thôi Hạo, ai nha
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-456](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-456)
 - Thời gian scrape: 2026-01-13 22:06:43
 
-
-[← Chương 455](chuong_455.md) | [📚 Mục lục](README.md) | [Chương 457 →](chuong_457.md)
-
+<div class="chapter-nav">
+    <a href="chuong_455.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_457.html" class="nav-btn">Chương sau →</a>
+</div>

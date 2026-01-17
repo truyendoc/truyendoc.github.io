@@ -1,6 +1,9 @@
-
-
-[← Chương 398](chuong_398.md) | [📚 Mục lục](README.md) | [Chương 400 →](chuong_400.md)
+---
+layout: default
+title: Chương 399: Lo lắng Liễu Truyền Sĩ
+chapter_number: 399
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Liễu Truyền Sĩ một mặt động dung, hắn đầu tiên là hít sâu h
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-399](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-399)
 - Thời gian scrape: 2026-01-13 22:03:32
 
-
-[← Chương 398](chuong_398.md) | [📚 Mục lục](README.md) | [Chương 400 →](chuong_400.md)
-
+<div class="chapter-nav">
+    <a href="chuong_398.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_400.html" class="nav-btn">Chương sau →</a>
+</div>

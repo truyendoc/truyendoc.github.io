@@ -1,6 +1,9 @@
-
-
-[← Chương 369](chuong_369.md) | [📚 Mục lục](README.md) | [Chương 371 →](chuong_371.md)
+---
+layout: default
+title: Chương 370: Huấn chó sư Cốc Thượng Minh
+chapter_number: 370
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Hắn đến cùng là thế nào biết đến?
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-370](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-370)
 - Thời gian scrape: 2026-01-13 22:01:53
 
-
-[← Chương 369](chuong_369.md) | [📚 Mục lục](README.md) | [Chương 371 →](chuong_371.md)
-
+<div class="chapter-nav">
+    <a href="chuong_369.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_371.html" class="nav-btn">Chương sau →</a>
+</div>

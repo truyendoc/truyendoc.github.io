@@ -1,6 +1,9 @@
-
-
-[← Chương 341](chuong_341.md) | [📚 Mục lục](README.md) | [Chương 343 →](chuong_343.md)
+---
+layout: default
+title: Chương 342: Liễu Truyền Sĩ tới
+chapter_number: 342
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Hắn chính là Bốc Hạnh Phúc lão bà Lý Mặc Nhiễm chủ nhân, Li�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-342](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-342)
 - Thời gian scrape: 2026-01-13 22:00:12
 
-
-[← Chương 341](chuong_341.md) | [📚 Mục lục](README.md) | [Chương 343 →](chuong_343.md)
-
+<div class="chapter-nav">
+    <a href="chuong_341.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_343.html" class="nav-btn">Chương sau →</a>
+</div>

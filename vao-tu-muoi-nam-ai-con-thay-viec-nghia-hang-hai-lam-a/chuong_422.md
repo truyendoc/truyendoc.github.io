@@ -1,6 +1,9 @@
-
-
-[← Chương 421](chuong_421.md) | [📚 Mục lục](README.md) | [Chương 423 →](chuong_423.md)
+---
+layout: default
+title: Chương 422: Liễu Truyền Tâm bị thả
+chapter_number: 422
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Còn nói cái gì, cả đời này đều muốn khi hắn nhỏ liếm chó.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-422](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-422)
 - Thời gian scrape: 2026-01-13 22:04:48
 
-
-[← Chương 421](chuong_421.md) | [📚 Mục lục](README.md) | [Chương 423 →](chuong_423.md)
-
+<div class="chapter-nav">
+    <a href="chuong_421.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_423.html" class="nav-btn">Chương sau →</a>
+</div>

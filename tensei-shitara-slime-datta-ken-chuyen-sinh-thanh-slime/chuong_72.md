@@ -1,6 +1,9 @@
-
-
-[← Chương 71](chuong_71.md) | [📚 Mục lục](README.md) | [Chương 73 →](chuong_73.md)
+---
+layout: default
+title: Chương 72
+chapter_number: 72
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -576,6 +579,6 @@ Trong bóng tối, cái tôi của kỹ năng Sự thông thái của chúa [Rap
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-72](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-72)
 - Thời gian scrape: 2026-01-17 09:41:10
 
-
-[← Chương 71](chuong_71.md) | [📚 Mục lục](README.md) | [Chương 73 →](chuong_73.md)
-
+<div class="chapter-nav">
+    <a href="chuong_71.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_73.html" class="nav-btn">Chương sau →</a>
+</div>

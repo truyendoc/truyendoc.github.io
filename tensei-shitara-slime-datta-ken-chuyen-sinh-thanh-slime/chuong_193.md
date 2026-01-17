@@ -1,6 +1,9 @@
-
-
-[← Chương 192](chuong_192.md) | [📚 Mục lục](README.md) | [Chương 194 →](chuong_194.md)
+---
+layout: default
+title: Chương 193
+chapter_number: 193
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -608,6 +611,6 @@ Cuộc chiến đã ngấp nghé ngay ngưỡng cửa rồi.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-193](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-193)
 - Thời gian scrape: 2026-01-17 09:46:52
 
-
-[← Chương 192](chuong_192.md) | [📚 Mục lục](README.md) | [Chương 194 →](chuong_194.md)
-
+<div class="chapter-nav">
+    <a href="chuong_192.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_194.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 105](chuong_105.md) | [📚 Mục lục](README.md) | [Chương 107 →](chuong_107.md)
+---
+layout: default
+title: Chương 106: toàn diệt địch đến
+chapter_number: 106
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -223,6 +226,6 @@ Tại Thẩm Dục mang theo Chung Nguyên Tình cùng Lý Linh Nhi t·ruy s·á
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-106](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-106)
 - Thời gian scrape: 2026-01-13 00:28:28
 
-
-[← Chương 105](chuong_105.md) | [📚 Mục lục](README.md) | [Chương 107 →](chuong_107.md)
-
+<div class="chapter-nav">
+    <a href="chuong_105.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_107.html" class="nav-btn">Chương sau →</a>
+</div>

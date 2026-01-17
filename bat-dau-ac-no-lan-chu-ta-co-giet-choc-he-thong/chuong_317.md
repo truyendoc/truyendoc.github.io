@@ -1,6 +1,9 @@
-
-
-[← Chương 316](chuong_316.md) | [📚 Mục lục](README.md) | [Chương 318 →](chuong_318.md)
+---
+layout: default
+title: Chương 317: Trừ phi ngươi sinh con trai (2)
+chapter_number: 317
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -95,6 +98,6 @@ Thanh di mỉm cười nói: “Trừ phi ngươi lấy chồng sinh con trai, �
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-317](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-317)
 - Thời gian scrape: 2026-01-13 00:23:13
 
-
-[← Chương 316](chuong_316.md) | [📚 Mục lục](README.md) | [Chương 318 →](chuong_318.md)
-
+<div class="chapter-nav">
+    <a href="chuong_316.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_318.html" class="nav-btn">Chương sau →</a>
+</div>

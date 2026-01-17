@@ -1,6 +1,9 @@
-
-
-[← Chương 263](chuong_263.md) | [📚 Mục lục](README.md) | [Chương 265 →](chuong_265.md)
+---
+layout: default
+title: Chương 264: Hoàng đế bày nát (1)
+chapter_number: 264
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -105,6 +108,6 @@ Nghe được Thẩm Dục nói ra ba loại suy đoán, không khỏi một h�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-264](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-264)
 - Thời gian scrape: 2026-01-13 00:35:11
 
-
-[← Chương 263](chuong_263.md) | [📚 Mục lục](README.md) | [Chương 265 →](chuong_265.md)
-
+<div class="chapter-nav">
+    <a href="chuong_263.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_265.html" class="nav-btn">Chương sau →</a>
+</div>

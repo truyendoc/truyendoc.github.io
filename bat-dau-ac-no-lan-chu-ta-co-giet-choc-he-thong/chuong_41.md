@@ -1,6 +1,9 @@
-
-
-[← Chương 40](chuong_40.md) | [📚 Mục lục](README.md) | [Chương 42 →](chuong_42.md)
+---
+layout: default
+title: Chương 41: chưa từ bỏ ý định Phong Uyển Nhi
+chapter_number: 41
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -207,6 +210,6 @@ Phong Uyển Nhi mở trừng hai mắt, có chút thất thố: “Ngươi nói
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-41](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-41)
 - Thời gian scrape: 2026-01-13 21:12:31
 
-
-[← Chương 40](chuong_40.md) | [📚 Mục lục](README.md) | [Chương 42 →](chuong_42.md)
-
+<div class="chapter-nav">
+    <a href="chuong_40.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_42.html" class="nav-btn">Chương sau →</a>
+</div>

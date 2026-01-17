@@ -1,6 +1,9 @@
-
-
-[← Chương 81](chuong_81.md) | [📚 Mục lục](README.md) | [Chương 83 →](chuong_83.md)
+---
+layout: default
+title: Chương 82: từ hôn
+chapter_number: 82
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -175,6 +178,6 @@ Bất quá, nghĩ đến Tiêu Lâm sau, nàng đột nhiên cảm thấy đây 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-82](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-82)
 - Thời gian scrape: 2026-01-13 00:27:18
 
-
-[← Chương 81](chuong_81.md) | [📚 Mục lục](README.md) | [Chương 83 →](chuong_83.md)
-
+<div class="chapter-nav">
+    <a href="chuong_81.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_83.html" class="nav-btn">Chương sau →</a>
+</div>

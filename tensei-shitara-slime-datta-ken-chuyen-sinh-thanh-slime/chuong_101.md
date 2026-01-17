@@ -1,6 +1,9 @@
-
-
-[← Chương 100](chuong_100.md) | [📚 Mục lục](README.md) | [Chương 102 →](chuong_102.md)
+---
+layout: default
+title: Chương 101
+chapter_number: 101
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -440,6 +443,6 @@ Chúng tôi nhìn nhau, rồi phá ra cười như là những nhân vật phả
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-101](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-101)
 - Thời gian scrape: 2026-01-17 09:42:31
 
-
-[← Chương 100](chuong_100.md) | [📚 Mục lục](README.md) | [Chương 102 →](chuong_102.md)
-
+<div class="chapter-nav">
+    <a href="chuong_100.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_102.html" class="nav-btn">Chương sau →</a>
+</div>

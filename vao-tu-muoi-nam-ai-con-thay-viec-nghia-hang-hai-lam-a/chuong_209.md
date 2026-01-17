@@ -1,6 +1,9 @@
-
-
-[← Chương 208](chuong_208.md) | [📚 Mục lục](README.md) | [Chương 210 →](chuong_210.md)
+---
+layout: default
+title: Chương 209: Đế Vương quán bar bị phong
+chapter_number: 209
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Trái mù lòa!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-209](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-209)
 - Thời gian scrape: 2026-01-13 21:51:44
 
-
-[← Chương 208](chuong_208.md) | [📚 Mục lục](README.md) | [Chương 210 →](chuong_210.md)
-
+<div class="chapter-nav">
+    <a href="chuong_208.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_210.html" class="nav-btn">Chương sau →</a>
+</div>

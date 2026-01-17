@@ -1,6 +1,9 @@
-
-
-[← Chương 581](chuong_581.md) | [📚 Mục lục](README.md) | [Chương 583 →](chuong_583.md)
+---
+layout: default
+title: Chương 582: Kim bài luật sư tới
+chapter_number: 582
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Lục gia hào sau khi nghe xong, đầu tiên là trầm tư mấy giây, sau �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-582](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-582)
 - Thời gian scrape: 2026-01-13 22:14:06
 
-
-[← Chương 581](chuong_581.md) | [📚 Mục lục](README.md) | [Chương 583 →](chuong_583.md)
-
+<div class="chapter-nav">
+    <a href="chuong_581.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_583.html" class="nav-btn">Chương sau →</a>
+</div>

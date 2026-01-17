@@ -1,6 +1,9 @@
-
-
-[← Chương 229](chuong_229.md) | [📚 Mục lục](README.md) | [Chương 231 →](chuong_231.md)
+---
+layout: default
+title: Chương 230: Nói là làm Tào mỗ người
+chapter_number: 230
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Thấy cảnh này, Tiêu Văn Tĩnh lộ ra một cái không lạnh không nh�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-230](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-230)
 - Thời gian scrape: 2026-01-13 21:53:32
 
-
-[← Chương 229](chuong_229.md) | [📚 Mục lục](README.md) | [Chương 231 →](chuong_231.md)
-
+<div class="chapter-nav">
+    <a href="chuong_229.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_231.html" class="nav-btn">Chương sau →</a>
+</div>

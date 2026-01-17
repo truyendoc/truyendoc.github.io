@@ -1,6 +1,9 @@
-
-
-[← Chương 151](chuong_151.md) | [📚 Mục lục](README.md) | [Chương 153 →](chuong_153.md)
+---
+layout: default
+title: Chương 152: Cao Đình Đình đến phòng chứa đồ
+chapter_number: 152
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Theo tiếng bước chân càng ngày càng gần, đột nhiên, phòng chứa
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-152](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-152)
 - Thời gian scrape: 2026-01-13 21:48:32
 
-
-[← Chương 151](chuong_151.md) | [📚 Mục lục](README.md) | [Chương 153 →](chuong_153.md)
-
+<div class="chapter-nav">
+    <a href="chuong_151.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_153.html" class="nav-btn">Chương sau →</a>
+</div>

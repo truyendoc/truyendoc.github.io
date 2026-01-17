@@ -1,6 +1,9 @@
-
-
-[← Chương 183](chuong_183.md) | [📚 Mục lục](README.md) | [Chương 185 →](chuong_185.md)
+---
+layout: default
+title: Chương 184
+chapter_number: 184
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -498,6 +501,6 @@ Cả hai thầm công nhận người kia, vận hết từng giọt sức cuố
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-184](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-184)
 - Thời gian scrape: 2026-01-17 09:46:25
 
-
-[← Chương 183](chuong_183.md) | [📚 Mục lục](README.md) | [Chương 185 →](chuong_185.md)
-
+<div class="chapter-nav">
+    <a href="chuong_183.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_185.html" class="nav-btn">Chương sau →</a>
+</div>

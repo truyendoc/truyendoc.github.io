@@ -1,6 +1,9 @@
-
-
-[← Chương 44](chuong_44.md) | [📚 Mục lục](README.md) | [Chương 46 →](chuong_46.md)
+---
+layout: default
+title: Chương 45: Ma Trận Sư Bàng Bàn
+chapter_number: 45
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -233,6 +236,6 @@ Nếu quả thật có Ma Vân Giáo, như vậy, hắn cũng có thể thuận 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-45](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-45)
 - Thời gian scrape: 2026-01-13 21:15:27
 
-
-[← Chương 44](chuong_44.md) | [📚 Mục lục](README.md) | [Chương 46 →](chuong_46.md)
-
+<div class="chapter-nav">
+    <a href="chuong_44.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_46.html" class="nav-btn">Chương sau →</a>
+</div>

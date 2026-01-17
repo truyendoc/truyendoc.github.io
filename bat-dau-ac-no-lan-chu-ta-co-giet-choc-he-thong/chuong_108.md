@@ -1,6 +1,9 @@
-
-
-[← Chương 107](chuong_107.md) | [📚 Mục lục](README.md) | [Chương 109 →](chuong_109.md)
+---
+layout: default
+title: Chương 108: đem Thẩm Dục coi như quả hồng mềm
+chapter_number: 108
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -247,6 +250,6 @@ Hàn Thượng Phong mắt nhìn ngay tại tiến lên đội xe, ngữ khí l�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-108](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-108)
 - Thời gian scrape: 2026-01-13 00:28:33
 
-
-[← Chương 107](chuong_107.md) | [📚 Mục lục](README.md) | [Chương 109 →](chuong_109.md)
-
+<div class="chapter-nav">
+    <a href="chuong_107.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_109.html" class="nav-btn">Chương sau →</a>
+</div>

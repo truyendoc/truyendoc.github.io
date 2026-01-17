@@ -1,6 +1,9 @@
-
-
-[← Chương 280](chuong_280.md) | [📚 Mục lục](README.md) | [Chương 282 →](chuong_282.md)
+---
+layout: default
+title: Chương 281: Kết hôn cuồng ma, Lam Khả Tâm
+chapter_number: 281
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Bất quá, từ thời gian tuyến đi lên coi là, lúc này Lam Khả Tâm 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-281](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-281)
 - Thời gian scrape: 2026-01-13 21:56:40
 
-
-[← Chương 280](chuong_280.md) | [📚 Mục lục](README.md) | [Chương 282 →](chuong_282.md)
-
+<div class="chapter-nav">
+    <a href="chuong_280.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_282.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 165](chuong_165.md) | [📚 Mục lục](README.md) | [Chương 167 →](chuong_167.md)
+---
+layout: default
+title: Chương 166
+chapter_number: 166
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -340,6 +343,6 @@ Thêm sức mạnh mới này thì vị trí của Zegion trong Mê Cung nó kh�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-166](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-166)
 - Thời gian scrape: 2026-01-17 09:45:36
 
-
-[← Chương 165](chuong_165.md) | [📚 Mục lục](README.md) | [Chương 167 →](chuong_167.md)
-
+<div class="chapter-nav">
+    <a href="chuong_165.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_167.html" class="nav-btn">Chương sau →</a>
+</div>

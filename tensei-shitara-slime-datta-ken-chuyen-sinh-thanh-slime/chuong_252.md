@@ -1,6 +1,9 @@
-
-
-[← Chương 251](chuong_251.md) | [📚 Mục lục](README.md) | [Chương 253 →](chuong_253.md)
+---
+layout: default
+title: Chương 252
+chapter_number: 252
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -438,6 +441,6 @@ Nói cách khác, điều này đồng nghĩa với việc nó cho phép cậu c
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-252](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-252)
 - Thời gian scrape: 2026-01-17 09:49:42
 
-
-[← Chương 251](chuong_251.md) | [📚 Mục lục](README.md) | [Chương 253 →](chuong_253.md)
-
+<div class="chapter-nav">
+    <a href="chuong_251.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_253.html" class="nav-btn">Chương sau →</a>
+</div>

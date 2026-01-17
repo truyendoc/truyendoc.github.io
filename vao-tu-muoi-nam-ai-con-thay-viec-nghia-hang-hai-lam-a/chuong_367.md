@@ -1,6 +1,9 @@
-
-
-[← Chương 366](chuong_366.md) | [📚 Mục lục](README.md) | [Chương 368 →](chuong_368.md)
+---
+layout: default
+title: Chương 367: Ngươi không uống thuốc ta không cho ngươi
+chapter_number: 367
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Bằng không thì, liền xông Bốc Hạnh Phúc cái này gân xanh thình t
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-367](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-367)
 - Thời gian scrape: 2026-01-13 22:01:44
 
-
-[← Chương 366](chuong_366.md) | [📚 Mục lục](README.md) | [Chương 368 →](chuong_368.md)
-
+<div class="chapter-nav">
+    <a href="chuong_366.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_368.html" class="nav-btn">Chương sau →</a>
+</div>

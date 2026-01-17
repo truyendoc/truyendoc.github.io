@@ -1,6 +1,9 @@
-
-
-[← Chương 567](chuong_567.md) | [📚 Mục lục](README.md) | [Chương 569 →](chuong_569.md)
+---
+layout: default
+title: Chương 568: Người ngốc nhiều tiền
+chapter_number: 568
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Nhìn xem hai người bao cái này bánh sủi cảo, cái này trừu tượn
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-568](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-568)
 - Thời gian scrape: 2026-01-13 22:13:19
 
-
-[← Chương 567](chuong_567.md) | [📚 Mục lục](README.md) | [Chương 569 →](chuong_569.md)
-
+<div class="chapter-nav">
+    <a href="chuong_567.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_569.html" class="nav-btn">Chương sau →</a>
+</div>

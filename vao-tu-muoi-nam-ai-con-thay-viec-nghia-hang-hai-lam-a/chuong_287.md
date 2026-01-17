@@ -1,6 +1,9 @@
-
-
-[← Chương 286](chuong_286.md) | [📚 Mục lục](README.md) | [Chương 288 →](chuong_288.md)
+---
+layout: default
+title: Chương 287: Ta muốn pp đẹp da công ty
+chapter_number: 287
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Nói một cách khác, Tào Côn không có ý định cùng bọn hắn làm g
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-287](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-287)
 - Thời gian scrape: 2026-01-13 21:56:59
 
-
-[← Chương 286](chuong_286.md) | [📚 Mục lục](README.md) | [Chương 288 →](chuong_288.md)
-
+<div class="chapter-nav">
+    <a href="chuong_286.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_288.html" class="nav-btn">Chương sau →</a>
+</div>

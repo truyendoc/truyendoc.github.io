@@ -1,6 +1,9 @@
-
-
-[← Chương 255](chuong_255.md) | [📚 Mục lục](README.md) | [Chương 257 →](chuong_257.md)
+---
+layout: default
+title: Chương 256: Đột phá Thông Thiên cảnh (1)
+chapter_number: 256
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -149,6 +152,6 @@ Rất nhanh, quen thuộc quán đỉnh đến lần nữa.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-256](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-256)
 - Thời gian scrape: 2026-01-13 00:34:52
 
-
-[← Chương 255](chuong_255.md) | [📚 Mục lục](README.md) | [Chương 257 →](chuong_257.md)
-
+<div class="chapter-nav">
+    <a href="chuong_255.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_257.html" class="nav-btn">Chương sau →</a>
+</div>

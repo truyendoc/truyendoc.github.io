@@ -1,6 +1,9 @@
-
-
-[← Chương 101](chuong_101.md) | [📚 Mục lục](README.md) | [Chương 103 →](chuong_103.md)
+---
+layout: default
+title: Chương 102: Hiếm thấy thể chất, ngầm trải qua
+chapter_number: 102
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Tào Côn cười một tiếng, nói: "Không có gì, ta chính là cảm th�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-102](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-102)
 - Thời gian scrape: 2026-01-13 21:45:34
 
-
-[← Chương 101](chuong_101.md) | [📚 Mục lục](README.md) | [Chương 103 →](chuong_103.md)
-
+<div class="chapter-nav">
+    <a href="chuong_101.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_103.html" class="nav-btn">Chương sau →</a>
+</div>

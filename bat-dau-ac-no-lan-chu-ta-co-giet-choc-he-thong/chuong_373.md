@@ -1,6 +1,9 @@
-
-
-[← Chương 372](chuong_372.md) | [📚 Mục lục](README.md) | [Chương 374 →](chuong_374.md)
+---
+layout: default
+title: Chương 373: Thẩm Dục ra tay (2)
+chapter_number: 373
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -103,6 +106,6 @@ Vị lão giả này là đến từ Ngô Quốc Thông Thiên cảnh cường g
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-373](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-373)
 - Thời gian scrape: 2026-01-13 00:25:25
 
-
-[← Chương 372](chuong_372.md) | [📚 Mục lục](README.md) | [Chương 374 →](chuong_374.md)
-
+<div class="chapter-nav">
+    <a href="chuong_372.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_374.html" class="nav-btn">Chương sau →</a>
+</div>

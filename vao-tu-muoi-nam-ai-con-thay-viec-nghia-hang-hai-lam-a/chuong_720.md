@@ -1,6 +1,9 @@
-
-
-[← Chương 719](chuong_719.md) | [📚 Mục lục](README.md)
+---
+layout: default
+title: Chương 720: Phía trên lãnh đạo tới
+chapter_number: 720
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Sau khi tới mới phát hiện, lại là một cái thuốc dẫn phát huy�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-720](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-720)
 - Thời gian scrape: 2026-01-13 22:22:01
 
-
-[← Chương 719](chuong_719.md) | [📚 Mục lục](README.md)
-
+<div class="chapter-nav">
+    <a href="chuong_719.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="#" class="nav-btn disabled">Chương sau →</a>
+</div>

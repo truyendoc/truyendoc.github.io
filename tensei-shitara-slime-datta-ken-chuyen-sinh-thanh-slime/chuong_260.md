@@ -1,6 +1,9 @@
-
-
-[← Chương 259](chuong_259.md) | [📚 Mục lục](README.md) | [Chương 261 →](chuong_261.md)
+---
+layout: default
+title: Chương 260
+chapter_number: 260
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -402,6 +405,6 @@ Rồi mau chóng rời đi, để lại những con người đang bối rối b
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-260](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-260)
 - Thời gian scrape: 2026-01-17 09:50:06
 
-
-[← Chương 259](chuong_259.md) | [📚 Mục lục](README.md) | [Chương 261 →](chuong_261.md)
-
+<div class="chapter-nav">
+    <a href="chuong_259.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_261.html" class="nav-btn">Chương sau →</a>
+</div>

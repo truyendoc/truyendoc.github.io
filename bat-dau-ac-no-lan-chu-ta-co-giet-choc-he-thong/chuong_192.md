@@ -1,6 +1,9 @@
-
-
-[← Chương 191](chuong_191.md) | [📚 Mục lục](README.md) | [Chương 193 →](chuong_193.md)
+---
+layout: default
+title: Chương 192: giằng co
+chapter_number: 192
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -243,6 +246,6 @@ Bốn cái bách hộ một trong niên kỉ nguyên xuyên đột nhiên nghĩ 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-192](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-192)
 - Thời gian scrape: 2026-01-13 00:32:19
 
-
-[← Chương 191](chuong_191.md) | [📚 Mục lục](README.md) | [Chương 193 →](chuong_193.md)
-
+<div class="chapter-nav">
+    <a href="chuong_191.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_193.html" class="nav-btn">Chương sau →</a>
+</div>

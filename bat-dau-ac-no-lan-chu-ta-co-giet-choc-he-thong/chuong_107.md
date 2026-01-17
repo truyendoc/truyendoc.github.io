@@ -1,6 +1,9 @@
-
-
-[← Chương 106](chuong_106.md) | [📚 Mục lục](README.md) | [Chương 108 →](chuong_108.md)
+---
+layout: default
+title: Chương 107: Ngu Tuyết Oánh hoài nghi
+chapter_number: 107
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -221,6 +224,6 @@ Nhưng Thẩm Dục lại trở thành Khí Hải cảnh, nói rõ sau lưng c�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-107](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-107)
 - Thời gian scrape: 2026-01-13 00:28:31
 
-
-[← Chương 106](chuong_106.md) | [📚 Mục lục](README.md) | [Chương 108 →](chuong_108.md)
-
+<div class="chapter-nav">
+    <a href="chuong_106.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_108.html" class="nav-btn">Chương sau →</a>
+</div>

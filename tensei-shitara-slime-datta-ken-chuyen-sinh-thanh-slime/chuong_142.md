@@ -1,6 +1,9 @@
-
-
-[← Chương 141](chuong_141.md) | [📚 Mục lục](README.md) | [Chương 143 →](chuong_143.md)
+---
+layout: default
+title: Chương 142
+chapter_number: 142
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -510,6 +513,6 @@ Tôi rời khỏi căn cứ nghiên cứu của Ramiris trong khi nghĩ về nh�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-142](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-142)
 - Thời gian scrape: 2026-01-17 09:44:28
 
-
-[← Chương 141](chuong_141.md) | [📚 Mục lục](README.md) | [Chương 143 →](chuong_143.md)
-
+<div class="chapter-nav">
+    <a href="chuong_141.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_143.html" class="nav-btn">Chương sau →</a>
+</div>

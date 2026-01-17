@@ -1,6 +1,9 @@
-
-
-[← Chương 79](chuong_79.md) | [📚 Mục lục](README.md) | [Chương 81 →](chuong_81.md)
+---
+layout: default
+title: Chương 80: 100 vạn, bao thắng 8 ngày
+chapter_number: 80
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Nghe được cơ bắp mãnh nam nói ra cuối cùng câu nói này, Tào Côn
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-80](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-80)
 - Thời gian scrape: 2026-01-13 21:44:19
 
-
-[← Chương 79](chuong_79.md) | [📚 Mục lục](README.md) | [Chương 81 →](chuong_81.md)
-
+<div class="chapter-nav">
+    <a href="chuong_79.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_81.html" class="nav-btn">Chương sau →</a>
+</div>

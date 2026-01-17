@@ -1,6 +1,9 @@
-
-
-[← Chương 474](chuong_474.md) | [📚 Mục lục](README.md) | [Chương 476 →](chuong_476.md)
+---
+layout: default
+title: Chương 475: Liễu Truyền Sĩ chết
+chapter_number: 475
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Nghe vậy, Hạng Nam Nguyệt nhìn về phía Tào Côn, nói: "Cái kia khô
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-475](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-475)
 - Thời gian scrape: 2026-01-13 22:08:02
 
-
-[← Chương 474](chuong_474.md) | [📚 Mục lục](README.md) | [Chương 476 →](chuong_476.md)
-
+<div class="chapter-nav">
+    <a href="chuong_474.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_476.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 267](chuong_267.md) | [📚 Mục lục](README.md) | [Chương 269 →](chuong_269.md)
+---
+layout: default
+title: Chương 268: Một cơ lưỡng dụng Trình Dao Dao
+chapter_number: 268
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Cẩu Nhất Vĩ nhẹ gật đầu, hơi cau mày nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-268](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-268)
 - Thời gian scrape: 2026-01-13 21:55:40
 
-
-[← Chương 267](chuong_267.md) | [📚 Mục lục](README.md) | [Chương 269 →](chuong_269.md)
-
+<div class="chapter-nav">
+    <a href="chuong_267.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_269.html" class="nav-btn">Chương sau →</a>
+</div>

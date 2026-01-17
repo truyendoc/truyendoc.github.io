@@ -1,6 +1,9 @@
-
-
-[← Chương 292](chuong_292.md) | [📚 Mục lục](README.md) | [Chương 294 →](chuong_294.md)
+---
+layout: default
+title: Chương 293: Nam Man Vu tộc (2)
+chapter_number: 293
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -111,6 +114,6 @@ Hiển nhiên, lão gia hỏa này không có hảo ý.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-293](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-293)
 - Thời gian scrape: 2026-01-13 00:22:16
 
-
-[← Chương 292](chuong_292.md) | [📚 Mục lục](README.md) | [Chương 294 →](chuong_294.md)
-
+<div class="chapter-nav">
+    <a href="chuong_292.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_294.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 283](chuong_283.md) | [📚 Mục lục](README.md) | [Chương 285 →](chuong_285.md)
+---
+layout: default
+title: Chương 284: Bưng Minh Vương phủ (1)
+chapter_number: 284
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -141,6 +144,6 @@ Thẩm Dục mỉm cười hỏi.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-284](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-284)
 - Thời gian scrape: 2026-01-13 00:21:54
 
-
-[← Chương 283](chuong_283.md) | [📚 Mục lục](README.md) | [Chương 285 →](chuong_285.md)
-
+<div class="chapter-nav">
+    <a href="chuong_283.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_285.html" class="nav-btn">Chương sau →</a>
+</div>

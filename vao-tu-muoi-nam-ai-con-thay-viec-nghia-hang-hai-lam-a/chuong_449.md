@@ -1,6 +1,9 @@
-
-
-[← Chương 448](chuong_448.md) | [📚 Mục lục](README.md) | [Chương 450 →](chuong_450.md)
+---
+layout: default
+title: Chương 449: Mặt đều không cần Liễu Truyền Sĩ
+chapter_number: 449
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -199,6 +202,6 @@ Ngươi mẹ nó so lão tử huynh đệ đều có thể khuất có thể du�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-449](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-449)
 - Thời gian scrape: 2026-01-13 22:06:20
 
-
-[← Chương 448](chuong_448.md) | [📚 Mục lục](README.md) | [Chương 450 →](chuong_450.md)
-
+<div class="chapter-nav">
+    <a href="chuong_448.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_450.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 51](chuong_51.md) | [📚 Mục lục](README.md) | [Chương 53 →](chuong_53.md)
+---
+layout: default
+title: Chương 52
+chapter_number: 52
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -436,6 +439,6 @@ Chỉ là chú thích thêm thôi, không quan trọng lắm. ブルムンド (B
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-52](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-52)
 - Thời gian scrape: 2026-01-17 09:40:16
 
-
-[← Chương 51](chuong_51.md) | [📚 Mục lục](README.md) | [Chương 53 →](chuong_53.md)
-
+<div class="chapter-nav">
+    <a href="chuong_51.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_53.html" class="nav-btn">Chương sau →</a>
+</div>

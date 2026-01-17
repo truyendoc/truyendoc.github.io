@@ -1,6 +1,9 @@
-
-
-[← Chương 72](chuong_72.md) | [📚 Mục lục](README.md) | [Chương 74 →](chuong_74.md)
+---
+layout: default
+title: Chương 73: Xuất tràng phí, 10 vạn
+chapter_number: 73
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -147,6 +150,6 @@ Thời gian cũng không dài, hàn huyên cũng liền như vậy hai mươi ph
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-73](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-73)
 - Thời gian scrape: 2026-01-13 21:43:27
 
-
-[← Chương 72](chuong_72.md) | [📚 Mục lục](README.md) | [Chương 74 →](chuong_74.md)
-
+<div class="chapter-nav">
+    <a href="chuong_72.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_74.html" class="nav-btn">Chương sau →</a>
+</div>

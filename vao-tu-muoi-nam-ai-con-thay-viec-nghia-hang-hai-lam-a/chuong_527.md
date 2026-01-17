@@ -1,6 +1,9 @@
-
-
-[← Chương 526](chuong_526.md) | [📚 Mục lục](README.md) | [Chương 528 →](chuong_528.md)
+---
+layout: default
+title: Chương 527: Tử hình lập tức chấp hành
+chapter_number: 527
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Tiêu đề nội dung là, có liên quan hắc cùng đội tính chất khuô
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-527](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-527)
 - Thời gian scrape: 2026-01-13 22:10:58
 
-
-[← Chương 526](chuong_526.md) | [📚 Mục lục](README.md) | [Chương 528 →](chuong_528.md)
-
+<div class="chapter-nav">
+    <a href="chuong_526.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_528.html" class="nav-btn">Chương sau →</a>
+</div>

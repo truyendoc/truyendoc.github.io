@@ -1,6 +1,9 @@
-
-
-[← Chương 13](chuong_13.md) | [📚 Mục lục](README.md) | [Chương 15 →](chuong_15.md)
+---
+layout: default
+title: Chương 14: Thua thiệt thảm chủ thuê nhà
+chapter_number: 14
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Cho nên, làm Lưu Ngọc Linh tối hôm qua gọi điện thoại cho hắn, 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-14](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-14)
 - Thời gian scrape: 2026-01-13 21:40:09
 
-
-[← Chương 13](chuong_13.md) | [📚 Mục lục](README.md) | [Chương 15 →](chuong_15.md)
-
+<div class="chapter-nav">
+    <a href="chuong_13.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_15.html" class="nav-btn">Chương sau →</a>
+</div>

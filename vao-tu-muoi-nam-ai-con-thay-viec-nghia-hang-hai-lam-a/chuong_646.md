@@ -1,6 +1,9 @@
-
-
-[← Chương 645](chuong_645.md) | [📚 Mục lục](README.md) | [Chương 647 →](chuong_647.md)
+---
+layout: default
+title: Chương 646: Ngành nghề long đầu tới
+chapter_number: 646
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Nói đến đây, Tưởng Trung Vân dừng lại một chút, tiếp tục n�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-646](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-646)
 - Thời gian scrape: 2026-01-13 22:17:45
 
-
-[← Chương 645](chuong_645.md) | [📚 Mục lục](README.md) | [Chương 647 →](chuong_647.md)
-
+<div class="chapter-nav">
+    <a href="chuong_645.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_647.html" class="nav-btn">Chương sau →</a>
+</div>

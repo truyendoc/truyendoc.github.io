@@ -1,6 +1,9 @@
-
-
-[← Chương 339](chuong_339.md) | [📚 Mục lục](README.md) | [Chương 341 →](chuong_341.md)
+---
+layout: default
+title: Chương 340: Ngành giải trí người muốn tới
+chapter_number: 340
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Tào Côn suy nghĩ một chút, nói: "Cái kia. . . Chồng ta đâu."
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-340](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-340)
 - Thời gian scrape: 2026-01-13 22:00:01
 
-
-[← Chương 339](chuong_339.md) | [📚 Mục lục](README.md) | [Chương 341 →](chuong_341.md)
-
+<div class="chapter-nav">
+    <a href="chuong_339.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_341.html" class="nav-btn">Chương sau →</a>
+</div>

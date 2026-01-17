@@ -1,6 +1,9 @@
-
-
-[← Chương 619](chuong_619.md) | [📚 Mục lục](README.md) | [Chương 621 →](chuong_621.md)
+---
+layout: default
+title: Chương 620: Chia tay bạn gái trước
+chapter_number: 620
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Nói xong, Tào Côn trực tiếp liền cúp điện thoại!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-620](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-620)
 - Thời gian scrape: 2026-01-13 22:16:15
 
-
-[← Chương 619](chuong_619.md) | [📚 Mục lục](README.md) | [Chương 621 →](chuong_621.md)
-
+<div class="chapter-nav">
+    <a href="chuong_619.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_621.html" class="nav-btn">Chương sau →</a>
+</div>

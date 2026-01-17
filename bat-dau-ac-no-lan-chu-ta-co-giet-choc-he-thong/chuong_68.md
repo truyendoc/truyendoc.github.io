@@ -1,6 +1,9 @@
-
-
-[← Chương 67](chuong_67.md) | [📚 Mục lục](README.md) | [Chương 69 →](chuong_69.md)
+---
+layout: default
+title: Chương 68: thúc thu làm
+chapter_number: 68
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -173,6 +176,6 @@ Sau đó Tần Chiêu lớn tiếng nói: “Chư vị, bản quan đến là ch
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-68](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-68)
 - Thời gian scrape: 2026-01-13 21:16:47
 
-
-[← Chương 67](chuong_67.md) | [📚 Mục lục](README.md) | [Chương 69 →](chuong_69.md)
-
+<div class="chapter-nav">
+    <a href="chuong_67.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_69.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 257](chuong_257.md) | [📚 Mục lục](README.md) | [Chương 259 →](chuong_259.md)
+---
+layout: default
+title: Chương 258: Đoan vương cáo ốm (1)
+chapter_number: 258
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -121,6 +124,6 @@ Một cái văn thần nhịn không được nói: “Hoài Vương bọn hắn
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-258](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-258)
 - Thời gian scrape: 2026-01-13 00:34:57
 
-
-[← Chương 257](chuong_257.md) | [📚 Mục lục](README.md) | [Chương 259 →](chuong_259.md)
-
+<div class="chapter-nav">
+    <a href="chuong_257.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_259.html" class="nav-btn">Chương sau →</a>
+</div>

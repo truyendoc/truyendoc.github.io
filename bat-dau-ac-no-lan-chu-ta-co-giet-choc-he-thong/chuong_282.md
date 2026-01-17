@@ -1,6 +1,9 @@
-
-
-[← Chương 281](chuong_281.md) | [📚 Mục lục](README.md) | [Chương 283 →](chuong_283.md)
+---
+layout: default
+title: Chương 282: Đói xong chóng mặt thiếu niên (1)
+chapter_number: 282
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -133,6 +136,6 @@ Chu Dịch dùng xe ngựa đưa Thẩm Dục về Tây khu.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-282](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-282)
 - Thời gian scrape: 2026-01-13 00:21:49
 
-
-[← Chương 281](chuong_281.md) | [📚 Mục lục](README.md) | [Chương 283 →](chuong_283.md)
-
+<div class="chapter-nav">
+    <a href="chuong_281.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_283.html" class="nav-btn">Chương sau →</a>
+</div>

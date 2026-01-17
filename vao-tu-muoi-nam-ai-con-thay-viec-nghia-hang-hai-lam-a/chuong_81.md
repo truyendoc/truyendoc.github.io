@@ -1,6 +1,9 @@
-
-
-[← Chương 80](chuong_80.md) | [📚 Mục lục](README.md) | [Chương 82 →](chuong_82.md)
+---
+layout: default
+title: Chương 81: Bành trướng Tôn Vĩ
+chapter_number: 81
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Nói, Tào Côn tùy tiện vỗ Tôn Vĩ bả vai, sau đó hai người liền
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-81](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-81)
 - Thời gian scrape: 2026-01-13 21:44:22
 
-
-[← Chương 80](chuong_80.md) | [📚 Mục lục](README.md) | [Chương 82 →](chuong_82.md)
-
+<div class="chapter-nav">
+    <a href="chuong_80.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_82.html" class="nav-btn">Chương sau →</a>
+</div>

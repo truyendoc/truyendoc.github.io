@@ -1,6 +1,9 @@
-
-
-[← Chương 317](chuong_317.md) | [📚 Mục lục](README.md) | [Chương 319 →](chuong_319.md)
+---
+layout: default
+title: Chương 318: Ngươi là nhất gia chi chủ mà
+chapter_number: 318
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -145,6 +148,6 @@ Lâm Thi Hàm hì hì cười một tiếng, nói: "Quay lại ta liền để l
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-318](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-318)
 - Thời gian scrape: 2026-01-13 21:58:47
 
-
-[← Chương 317](chuong_317.md) | [📚 Mục lục](README.md) | [Chương 319 →](chuong_319.md)
-
+<div class="chapter-nav">
+    <a href="chuong_317.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_319.html" class="nav-btn">Chương sau →</a>
+</div>

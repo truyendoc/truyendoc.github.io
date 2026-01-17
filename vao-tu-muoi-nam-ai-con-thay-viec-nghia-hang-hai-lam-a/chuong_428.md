@@ -1,6 +1,9 @@
-
-
-[← Chương 427](chuong_427.md) | [📚 Mục lục](README.md) | [Chương 429 →](chuong_429.md)
+---
+layout: default
+title: Chương 428: Hắn chính là bánh nướng ăn nhiều
+chapter_number: 428
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Nghe vậy, Tào Côn một chút liền ha ha bật cười: "Ăn cái gì thu�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-428](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-428)
 - Thời gian scrape: 2026-01-13 22:05:09
 
-
-[← Chương 427](chuong_427.md) | [📚 Mục lục](README.md) | [Chương 429 →](chuong_429.md)
-
+<div class="chapter-nav">
+    <a href="chuong_427.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_429.html" class="nav-btn">Chương sau →</a>
+</div>

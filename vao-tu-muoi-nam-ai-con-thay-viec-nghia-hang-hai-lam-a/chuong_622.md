@@ -1,6 +1,9 @@
-
-
-[← Chương 621](chuong_621.md) | [📚 Mục lục](README.md) | [Chương 623 →](chuong_623.md)
+---
+layout: default
+title: Chương 622: Mất khống chế Tào trợ thủ
+chapter_number: 622
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -211,6 +214,6 @@ Cuối cùng hàn huyên vài câu, theo điện thoại cúp máy, Đào Băng 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-622](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-622)
 - Thời gian scrape: 2026-01-13 22:16:22
 
-
-[← Chương 621](chuong_621.md) | [📚 Mục lục](README.md) | [Chương 623 →](chuong_623.md)
-
+<div class="chapter-nav">
+    <a href="chuong_621.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_623.html" class="nav-btn">Chương sau →</a>
+</div>

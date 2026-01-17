@@ -1,6 +1,9 @@
-
-
-[← Chương 229](chuong_229.md) | [📚 Mục lục](README.md) | [Chương 231 →](chuong_231.md)
+---
+layout: default
+title: Chương 230: Chiếm trần chi đình vận (1)
+chapter_number: 230
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -117,6 +120,6 @@ Nhưng nhường Thẩm Dục cảm thấy kinh ngạc là, đối phương đ�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-230](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-230)
 - Thời gian scrape: 2026-01-13 00:33:49
 
-
-[← Chương 229](chuong_229.md) | [📚 Mục lục](README.md) | [Chương 231 →](chuong_231.md)
-
+<div class="chapter-nav">
+    <a href="chuong_229.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_231.html" class="nav-btn">Chương sau →</a>
+</div>

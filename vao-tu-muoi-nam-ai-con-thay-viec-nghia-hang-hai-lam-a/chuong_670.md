@@ -1,6 +1,9 @@
-
-
-[← Chương 669](chuong_669.md) | [📚 Mục lục](README.md) | [Chương 671 →](chuong_671.md)
+---
+layout: default
+title: Chương 670: Không ngại ta giáo dục ngươi một trận a
+chapter_number: 670
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Dương Ngọc Đình sửng sốt một chút, ngẩng đầu nhìn về phía 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-670](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-670)
 - Thời gian scrape: 2026-01-13 22:19:14
 
-
-[← Chương 669](chuong_669.md) | [📚 Mục lục](README.md) | [Chương 671 →](chuong_671.md)
-
+<div class="chapter-nav">
+    <a href="chuong_669.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_671.html" class="nav-btn">Chương sau →</a>
+</div>

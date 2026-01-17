@@ -1,6 +1,9 @@
-
-
-[← Chương 464](chuong_464.md) | [📚 Mục lục](README.md) | [Chương 466 →](chuong_466.md)
+---
+layout: default
+title: Chương 465: Giết một cái, phế một cái
+chapter_number: 465
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -149,6 +152,6 @@ Nhìn thấy cái này, Hạng Nam Nguyệt mi tâm đều vặn bắt đầu, c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-465](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-465)
 - Thời gian scrape: 2026-01-13 22:07:26
 
-
-[← Chương 464](chuong_464.md) | [📚 Mục lục](README.md) | [Chương 466 →](chuong_466.md)
-
+<div class="chapter-nav">
+    <a href="chuong_464.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_466.html" class="nav-btn">Chương sau →</a>
+</div>

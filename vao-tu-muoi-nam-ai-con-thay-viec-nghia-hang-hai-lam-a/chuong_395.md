@@ -1,6 +1,9 @@
-
-
-[← Chương 394](chuong_394.md) | [📚 Mục lục](README.md) | [Chương 396 →](chuong_396.md)
+---
+layout: default
+title: Chương 395: Thích người thành thật Giả Di Tĩnh
+chapter_number: 395
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Tào Côn kinh ngạc một chút, hắn còn là lần đầu tiên nhìn thấ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-395](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-395)
 - Thời gian scrape: 2026-01-13 22:03:18
 
-
-[← Chương 394](chuong_394.md) | [📚 Mục lục](README.md) | [Chương 396 →](chuong_396.md)
-
+<div class="chapter-nav">
+    <a href="chuong_394.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_396.html" class="nav-btn">Chương sau →</a>
+</div>

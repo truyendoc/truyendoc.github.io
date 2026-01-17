@@ -1,6 +1,9 @@
-
-
-[← Chương 411](chuong_411.md) | [📚 Mục lục](README.md) | [Chương 413 →](chuong_413.md)
+---
+layout: default
+title: Chương 412: Ngọt ca thiên hậu Lý Song mà
+chapter_number: 412
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Lão bản nói cái gì chính là cái gì!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-412](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-412)
 - Thời gian scrape: 2026-01-13 22:04:14
 
-
-[← Chương 411](chuong_411.md) | [📚 Mục lục](README.md) | [Chương 413 →](chuong_413.md)
-
+<div class="chapter-nav">
+    <a href="chuong_411.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_413.html" class="nav-btn">Chương sau →</a>
+</div>

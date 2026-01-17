@@ -1,6 +1,9 @@
-
-
-[← Chương 202](chuong_202.md) | [📚 Mục lục](README.md) | [Chương 204 →](chuong_204.md)
+---
+layout: default
+title: Chương 203: pháp tướng khôi lỗi cùng nhân quả phi đao
+chapter_number: 203
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -229,6 +232,6 @@ Rất rõ ràng, trúng Thẩm Dục nhận biết độc Ngô Lão Đại, bóp
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-203](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-203)
 - Thời gian scrape: 2026-01-13 00:32:45
 
-
-[← Chương 202](chuong_202.md) | [📚 Mục lục](README.md) | [Chương 204 →](chuong_204.md)
-
+<div class="chapter-nav">
+    <a href="chuong_202.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_204.html" class="nav-btn">Chương sau →</a>
+</div>

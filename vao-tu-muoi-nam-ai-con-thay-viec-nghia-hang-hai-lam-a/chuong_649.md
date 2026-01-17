@@ -1,6 +1,9 @@
-
-
-[← Chương 648](chuong_648.md) | [📚 Mục lục](README.md) | [Chương 650 →](chuong_650.md)
+---
+layout: default
+title: Chương 649: Lại một cái lão bạn tù
+chapter_number: 649
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Về sau, bị người đánh cùng cháu trai, kém chút bị người làm c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-649](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-649)
 - Thời gian scrape: 2026-01-13 22:17:56
 
-
-[← Chương 648](chuong_648.md) | [📚 Mục lục](README.md) | [Chương 650 →](chuong_650.md)
-
+<div class="chapter-nav">
+    <a href="chuong_648.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_650.html" class="nav-btn">Chương sau →</a>
+</div>

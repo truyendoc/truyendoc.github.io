@@ -1,6 +1,9 @@
-
-
-[← Chương 134](chuong_134.md) | [📚 Mục lục](README.md) | [Chương 136 →](chuong_136.md)
+---
+layout: default
+title: Chương 135: Trở thành toàn lớp nữ sinh tiêu điểm
+chapter_number: 135
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Lấy Vương San San làm trung tâm, hướng chung quanh phóng xạ, phụ c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-135](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-135)
 - Thời gian scrape: 2026-01-13 21:47:18
 
-
-[← Chương 134](chuong_134.md) | [📚 Mục lục](README.md) | [Chương 136 →](chuong_136.md)
-
+<div class="chapter-nav">
+    <a href="chuong_134.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_136.html" class="nav-btn">Chương sau →</a>
+</div>

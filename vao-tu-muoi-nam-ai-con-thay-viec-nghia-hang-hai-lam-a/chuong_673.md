@@ -1,6 +1,9 @@
-
-
-[← Chương 672](chuong_672.md) | [📚 Mục lục](README.md) | [Chương 674 →](chuong_674.md)
+---
+layout: default
+title: Chương 673: Giúp chúng ta rút ra a
+chapter_number: 673
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Thật sự là không hiểu rõ!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-673](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-673)
 - Thời gian scrape: 2026-01-13 22:19:25
 
-
-[← Chương 672](chuong_672.md) | [📚 Mục lục](README.md) | [Chương 674 →](chuong_674.md)
-
+<div class="chapter-nav">
+    <a href="chuong_672.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_674.html" class="nav-btn">Chương sau →</a>
+</div>

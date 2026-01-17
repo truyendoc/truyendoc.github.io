@@ -1,6 +1,9 @@
-
-
-[← Chương 538](chuong_538.md) | [📚 Mục lục](README.md) | [Chương 540 →](chuong_540.md)
+---
+layout: default
+title: Chương 539: Chịu nhục Trương Bách Mộ
+chapter_number: 539
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Mà Trương Khiết nghe xong, cũng là che miệng cười khanh khách.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-539](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-539)
 - Thời gian scrape: 2026-01-13 22:11:40
 
-
-[← Chương 538](chuong_538.md) | [📚 Mục lục](README.md) | [Chương 540 →](chuong_540.md)
-
+<div class="chapter-nav">
+    <a href="chuong_538.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_540.html" class="nav-btn">Chương sau →</a>
+</div>

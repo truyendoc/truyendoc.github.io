@@ -1,6 +1,9 @@
-
-
-[← Chương 242](chuong_242.md) | [📚 Mục lục](README.md) | [Chương 244 →](chuong_244.md)
+---
+layout: default
+title: Chương 243: Khải gia, 845 bạo tạc án
+chapter_number: 243
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -209,6 +212,6 @@ Bởi vì, Ngô Khải làm cái kia định thời gian lựu đạn nội hóa
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-243](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-243)
 - Thời gian scrape: 2026-01-13 21:54:16
 
-
-[← Chương 242](chuong_242.md) | [📚 Mục lục](README.md) | [Chương 244 →](chuong_244.md)
-
+<div class="chapter-nav">
+    <a href="chuong_242.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_244.html" class="nav-btn">Chương sau →</a>
+</div>

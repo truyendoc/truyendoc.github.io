@@ -1,6 +1,9 @@
-
-
-[← Chương 120](chuong_120.md) | [📚 Mục lục](README.md) | [Chương 122 →](chuong_122.md)
+---
+layout: default
+title: Chương 121: Thuận lợi nắm Hoàng Đông Mai
+chapter_number: 121
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Lưu Hồng một chút liền cười khanh khách.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-121](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-121)
 - Thời gian scrape: 2026-01-13 21:46:33
 
-
-[← Chương 120](chuong_120.md) | [📚 Mục lục](README.md) | [Chương 122 →](chuong_122.md)
-
+<div class="chapter-nav">
+    <a href="chuong_120.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_122.html" class="nav-btn">Chương sau →</a>
+</div>

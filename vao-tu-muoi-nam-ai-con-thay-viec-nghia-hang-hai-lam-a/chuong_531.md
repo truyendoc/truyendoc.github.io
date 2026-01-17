@@ -1,6 +1,9 @@
-
-
-[← Chương 530](chuong_530.md) | [📚 Mục lục](README.md) | [Chương 532 →](chuong_532.md)
+---
+layout: default
+title: Chương 531: Nước quá sâu, nắm chắc không ở
+chapter_number: 531
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Thà rằng như vậy, còn không bằng toàn bộ bán đi, để người k
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-531](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-531)
 - Thời gian scrape: 2026-01-13 22:11:11
 
-
-[← Chương 530](chuong_530.md) | [📚 Mục lục](README.md) | [Chương 532 →](chuong_532.md)
-
+<div class="chapter-nav">
+    <a href="chuong_530.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_532.html" class="nav-btn">Chương sau →</a>
+</div>

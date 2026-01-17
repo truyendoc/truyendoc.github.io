@@ -1,6 +1,9 @@
-
-
-[← Chương 440](chuong_440.md) | [📚 Mục lục](README.md) | [Chương 442 →](chuong_442.md)
+---
+layout: default
+title: Chương 441: Đường đường chính chính nhà lành
+chapter_number: 441
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Tiêu Văn Tĩnh sửng sốt một chút, khó hiểu nói: "Giết Liễu Truy
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-441](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-441)
 - Thời gian scrape: 2026-01-13 22:05:54
 
-
-[← Chương 440](chuong_440.md) | [📚 Mục lục](README.md) | [Chương 442 →](chuong_442.md)
-
+<div class="chapter-nav">
+    <a href="chuong_440.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_442.html" class="nav-btn">Chương sau →</a>
+</div>

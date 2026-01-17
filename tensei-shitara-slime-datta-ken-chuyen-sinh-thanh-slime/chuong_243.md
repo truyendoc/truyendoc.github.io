@@ -1,6 +1,9 @@
-
-
-[← Chương 242](chuong_242.md) | [📚 Mục lục](README.md) | [Chương 244 →](chuong_244.md)
+---
+layout: default
+title: Chương 243
+chapter_number: 243
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -402,6 +405,6 @@ Và thiên giới sắp bị những cơn sóng thịnh nộ của Milim nhấn 
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-243](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-243)
 - Thời gian scrape: 2026-01-17 09:49:16
 
-
-[← Chương 242](chuong_242.md) | [📚 Mục lục](README.md) | [Chương 244 →](chuong_244.md)
-
+<div class="chapter-nav">
+    <a href="chuong_242.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_244.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 348](chuong_348.md) | [📚 Mục lục](README.md) | [Chương 350 →](chuong_350.md)
+---
+layout: default
+title: Chương 349: Phòng cho thuê muốn tới thành viên mới
+chapter_number: 349
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Nói xong, Triệu Tuyết mặc vào một kiện khinh bạc áo khoác, sau �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-349](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-349)
 - Thời gian scrape: 2026-01-13 22:00:37
 
-
-[← Chương 348](chuong_348.md) | [📚 Mục lục](README.md) | [Chương 350 →](chuong_350.md)
-
+<div class="chapter-nav">
+    <a href="chuong_348.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_350.html" class="nav-btn">Chương sau →</a>
+</div>

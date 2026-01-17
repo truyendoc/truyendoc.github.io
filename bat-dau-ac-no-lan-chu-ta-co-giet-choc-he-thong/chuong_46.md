@@ -1,6 +1,9 @@
-
-
-[← Chương 45](chuong_45.md) | [📚 Mục lục](README.md) | [Chương 47 →](chuong_47.md)
+---
+layout: default
+title: Chương 46: thu hoạch lớn
+chapter_number: 46
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -303,6 +306,6 @@ Sau đó, quanh hắn quấn cả tòa thôn vòng vo một lần, phát hiện 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-46](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-46)
 - Thời gian scrape: 2026-01-13 21:15:30
 
-
-[← Chương 45](chuong_45.md) | [📚 Mục lục](README.md) | [Chương 47 →](chuong_47.md)
-
+<div class="chapter-nav">
+    <a href="chuong_45.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_47.html" class="nav-btn">Chương sau →</a>
+</div>

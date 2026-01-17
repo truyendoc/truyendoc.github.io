@@ -1,6 +1,9 @@
-
-
-[← Chương 391](chuong_391.md) | [📚 Mục lục](README.md) | [Chương 393 →](chuong_393.md)
+---
+layout: default
+title: Chương 392: Anh em Hồ Lô cứu gia gia
+chapter_number: 392
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Tại thời gian đi vào chín giờ tối thời điểm, Lý Văn Văn đám
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-392](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-392)
 - Thời gian scrape: 2026-01-13 22:03:09
 
-
-[← Chương 391](chuong_391.md) | [📚 Mục lục](README.md) | [Chương 393 →](chuong_393.md)
-
+<div class="chapter-nav">
+    <a href="chuong_391.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_393.html" class="nav-btn">Chương sau →</a>
+</div>

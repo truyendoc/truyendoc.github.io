@@ -1,6 +1,9 @@
-
-
-[← Chương 98](chuong_98.md) | [📚 Mục lục](README.md) | [Chương 100 →](chuong_100.md)
+---
+layout: default
+title: Chương 99: Toàn bộ đội, toàn giết
+chapter_number: 99
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Nói, tam nữ vội vã liền đi biệt thự phòng bếp.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-99](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-99)
 - Thời gian scrape: 2026-01-13 21:45:24
 
-
-[← Chương 98](chuong_98.md) | [📚 Mục lục](README.md) | [Chương 100 →](chuong_100.md)
-
+<div class="chapter-nav">
+    <a href="chuong_98.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_100.html" class="nav-btn">Chương sau →</a>
+</div>

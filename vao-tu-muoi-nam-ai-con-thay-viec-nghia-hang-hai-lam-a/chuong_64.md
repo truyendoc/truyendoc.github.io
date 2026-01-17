@@ -1,6 +1,9 @@
-
-
-[← Chương 63](chuong_63.md) | [📚 Mục lục](README.md) | [Chương 65 →](chuong_65.md)
+---
+layout: default
+title: Chương 64: Xe lửa gặp bạn tù
+chapter_number: 64
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Bất quá, mặc dù là không sai biệt lắm thời gian tiến ngục giam
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-64](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-64)
 - Thời gian scrape: 2026-01-13 21:42:58
 
-
-[← Chương 63](chuong_63.md) | [📚 Mục lục](README.md) | [Chương 65 →](chuong_65.md)
-
+<div class="chapter-nav">
+    <a href="chuong_63.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_65.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 51](chuong_51.md) | [📚 Mục lục](README.md) | [Chương 53 →](chuong_53.md)
+---
+layout: default
+title: Chương 52: Cùng Vương San San cuối cùng giao dịch
+chapter_number: 52
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Thậm chí, hai mươi mấy lần cũng là có khả năng!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-52](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-52)
 - Thời gian scrape: 2026-01-13 21:42:14
 
-
-[← Chương 51](chuong_51.md) | [📚 Mục lục](README.md) | [Chương 53 →](chuong_53.md)
-
+<div class="chapter-nav">
+    <a href="chuong_51.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_53.html" class="nav-btn">Chương sau →</a>
+</div>

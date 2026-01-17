@@ -1,6 +1,9 @@
-
-
-[← Chương 266](chuong_266.md) | [📚 Mục lục](README.md) | [Chương 268 →](chuong_268.md)
+---
+layout: default
+title: Chương 267: Bạch Tĩnh cùng Lưu Ngọc Linh nguyện vọng
+chapter_number: 267
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Chủ yếu là, hắn lo lắng Trình Dao Dao nhàm chán.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-267](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-267)
 - Thời gian scrape: 2026-01-13 21:55:37
 
-
-[← Chương 266](chuong_266.md) | [📚 Mục lục](README.md) | [Chương 268 →](chuong_268.md)
-
+<div class="chapter-nav">
+    <a href="chuong_266.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_268.html" class="nav-btn">Chương sau →</a>
+</div>

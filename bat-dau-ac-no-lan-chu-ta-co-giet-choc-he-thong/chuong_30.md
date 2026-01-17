@@ -1,6 +1,9 @@
-
-
-[← Chương 29](chuong_29.md) | [📚 Mục lục](README.md) | [Chương 31 →](chuong_31.md)
+---
+layout: default
+title: Chương 30: sư tôn cầu ngươi giúp ta giết chết Thẩm Dục
+chapter_number: 30
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -251,6 +254,6 @@ Bỗng nhiên, Lý Thất trong lòng hơi động: “Sư tôn, ngươi có th�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-30](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-30)
 - Thời gian scrape: 2026-01-13 21:10:28
 
-
-[← Chương 29](chuong_29.md) | [📚 Mục lục](README.md) | [Chương 31 →](chuong_31.md)
-
+<div class="chapter-nav">
+    <a href="chuong_29.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_31.html" class="nav-btn">Chương sau →</a>
+</div>

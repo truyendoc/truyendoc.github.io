@@ -1,6 +1,9 @@
-
-
-[← Chương 5](chuong_5.md) | [📚 Mục lục](README.md) | [Chương 7 →](chuong_7.md)
+---
+layout: default
+title: Chương 6: Tới sổ 2245 vạn
+chapter_number: 6
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -213,6 +216,6 @@ Hắn vốn là nghĩ đi trước Hải Thành, thế nhưng là, nơi này kho
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-6](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-6)
 - Thời gian scrape: 2026-01-13 21:39:45
 
-
-[← Chương 5](chuong_5.md) | [📚 Mục lục](README.md) | [Chương 7 →](chuong_7.md)
-
+<div class="chapter-nav">
+    <a href="chuong_5.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_7.html" class="nav-btn">Chương sau →</a>
+</div>

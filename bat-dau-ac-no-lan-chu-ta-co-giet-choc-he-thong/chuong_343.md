@@ -1,6 +1,9 @@
-
-
-[← Chương 342](chuong_342.md) | [📚 Mục lục](README.md) | [Chương 344 →](chuong_344.md)
+---
+layout: default
+title: Chương 343: Sứ giả (2)
+chapter_number: 343
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -105,6 +108,6 @@ Vị này Thất công chúa thực lực mặc dù không bằng Tần Vũ, nh�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-343](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-343)
 - Thời gian scrape: 2026-01-13 00:24:14
 
-
-[← Chương 342](chuong_342.md) | [📚 Mục lục](README.md) | [Chương 344 →](chuong_344.md)
-
+<div class="chapter-nav">
+    <a href="chuong_342.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_344.html" class="nav-btn">Chương sau →</a>
+</div>

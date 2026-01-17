@@ -1,6 +1,9 @@
-
-
-[← Chương 329](chuong_329.md) | [📚 Mục lục](README.md) | [Chương 331 →](chuong_331.md)
+---
+layout: default
+title: Chương 330: Cho Hạng Nam Nguyệt giáo huấn
+chapter_number: 330
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Nói xong, nàng mở ra phòng trọ cửa, cất bước liền đi ra ngoài.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-330](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-330)
 - Thời gian scrape: 2026-01-13 21:59:27
 
-
-[← Chương 329](chuong_329.md) | [📚 Mục lục](README.md) | [Chương 331 →](chuong_331.md)
-
+<div class="chapter-nav">
+    <a href="chuong_329.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_331.html" class="nav-btn">Chương sau →</a>
+</div>

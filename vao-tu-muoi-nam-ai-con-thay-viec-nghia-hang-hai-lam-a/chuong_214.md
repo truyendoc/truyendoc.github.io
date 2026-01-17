@@ -1,6 +1,9 @@
-
-
-[← Chương 213](chuong_213.md) | [📚 Mục lục](README.md) | [Chương 215 →](chuong_215.md)
+---
+layout: default
+title: Chương 214: Không chọc nổi Đế Vương quán bar
+chapter_number: 214
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Trọng yếu là, từ hôm nay trở đi, tất cả mọi người sẽ biế
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-214](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-214)
 - Thời gian scrape: 2026-01-13 21:52:33
 
-
-[← Chương 213](chuong_213.md) | [📚 Mục lục](README.md) | [Chương 215 →](chuong_215.md)
-
+<div class="chapter-nav">
+    <a href="chuong_213.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_215.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 261](chuong_261.md) | [📚 Mục lục](README.md) | [Chương 263 →](chuong_263.md)
+---
+layout: default
+title: Chương 262: Thứ nhất không may hài tử
+chapter_number: 262
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -215,6 +218,6 @@ Còn lại những thứ này, đều chỉ là giữ khuôn phép làm công ng
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-262](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-262)
 - Thời gian scrape: 2026-01-13 21:55:19
 
-
-[← Chương 261](chuong_261.md) | [📚 Mục lục](README.md) | [Chương 263 →](chuong_263.md)
-
+<div class="chapter-nav">
+    <a href="chuong_261.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_263.html" class="nav-btn">Chương sau →</a>
+</div>

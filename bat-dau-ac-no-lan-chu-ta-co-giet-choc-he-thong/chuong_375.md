@@ -1,6 +1,9 @@
-
-
-[← Chương 374](chuong_374.md) | [📚 Mục lục](README.md) | [Chương 376 →](chuong_376.md)
+---
+layout: default
+title: Chương 375: Thông Thiên cảnh cũng phải quỳ (2)
+chapter_number: 375
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -103,6 +106,6 @@ Tô Dao Quang mặt mũi tràn đầy kinh ngạc nói.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-375](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-375)
 - Thời gian scrape: 2026-01-13 00:25:30
 
-
-[← Chương 374](chuong_374.md) | [📚 Mục lục](README.md) | [Chương 376 →](chuong_376.md)
-
+<div class="chapter-nav">
+    <a href="chuong_374.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_376.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 54](chuong_54.md) | [📚 Mục lục](README.md) | [Chương 56 →](chuong_56.md)
+---
+layout: default
+title: Chương 55: Mẫu nữ đối chọi gay gắt
+chapter_number: 55
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Tào Côn mặt xạm lại: "Ngươi chớ nói lung tung, Bạch di nếu là 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-55](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-55)
 - Thời gian scrape: 2026-01-13 21:42:23
 
-
-[← Chương 54](chuong_54.md) | [📚 Mục lục](README.md) | [Chương 56 →](chuong_56.md)
-
+<div class="chapter-nav">
+    <a href="chuong_54.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_56.html" class="nav-btn">Chương sau →</a>
+</div>

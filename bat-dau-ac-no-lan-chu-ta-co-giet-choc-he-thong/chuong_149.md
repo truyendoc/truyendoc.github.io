@@ -1,6 +1,9 @@
-
-
-[← Chương 148](chuong_148.md) | [📚 Mục lục](README.md) | [Chương 150 →](chuong_150.md)
+---
+layout: default
+title: Chương 149: bị hái đi Đào Tử
+chapter_number: 149
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -195,6 +198,6 @@ Liễu Tâm Xuyên cách làm này, hoàn toàn là đang đánh Ngu Tuyết Oá
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-149](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-149)
 - Thời gian scrape: 2026-01-13 00:30:35
 
-
-[← Chương 148](chuong_148.md) | [📚 Mục lục](README.md) | [Chương 150 →](chuong_150.md)
-
+<div class="chapter-nav">
+    <a href="chuong_148.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_150.html" class="nav-btn">Chương sau →</a>
+</div>

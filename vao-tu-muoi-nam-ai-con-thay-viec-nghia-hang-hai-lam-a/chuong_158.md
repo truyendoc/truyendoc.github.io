@@ -1,6 +1,9 @@
-
-
-[← Chương 157](chuong_157.md) | [📚 Mục lục](README.md) | [Chương 159 →](chuong_159.md)
+---
+layout: default
+title: Chương 158: Kiếm tiền phương pháp
+chapter_number: 158
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -211,6 +214,6 @@ Còn lại cơm Lưu Giai Mẫn cũng không đoái hoài tới ăn, bận bịu
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-158](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-158)
 - Thời gian scrape: 2026-01-13 21:48:57
 
-
-[← Chương 157](chuong_157.md) | [📚 Mục lục](README.md) | [Chương 159 →](chuong_159.md)
-
+<div class="chapter-nav">
+    <a href="chuong_157.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_159.html" class="nav-btn">Chương sau →</a>
+</div>

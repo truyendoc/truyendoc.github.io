@@ -1,6 +1,9 @@
-
-
-[← Chương 153](chuong_153.md) | [📚 Mục lục](README.md) | [Chương 155 →](chuong_155.md)
+---
+layout: default
+title: Chương 154
+chapter_number: 154
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -372,6 +375,6 @@ Những gì tôi nói thay đổi toàn bộ cục diện trận chiến.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-154](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-154)
 - Thời gian scrape: 2026-01-17 09:45:01
 
-
-[← Chương 153](chuong_153.md) | [📚 Mục lục](README.md) | [Chương 155 →](chuong_155.md)
-
+<div class="chapter-nav">
+    <a href="chuong_153.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_155.html" class="nav-btn">Chương sau →</a>
+</div>

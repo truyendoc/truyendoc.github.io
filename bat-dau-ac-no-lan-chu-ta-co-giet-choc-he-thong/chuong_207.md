@@ -1,6 +1,9 @@
-
-
-[← Chương 206](chuong_206.md) | [📚 Mục lục](README.md) | [Chương 208 →](chuong_208.md)
+---
+layout: default
+title: Chương 207: phi đao miểu sát
+chapter_number: 207
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -243,6 +246,6 @@ Dù sao Thẩm Dục phi đao thuật thực sự quá thần kỳ, nếu như t
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-207](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-207)
 - Thời gian scrape: 2026-01-13 00:32:55
 
-
-[← Chương 206](chuong_206.md) | [📚 Mục lục](README.md) | [Chương 208 →](chuong_208.md)
-
+<div class="chapter-nav">
+    <a href="chuong_206.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_208.html" class="nav-btn">Chương sau →</a>
+</div>

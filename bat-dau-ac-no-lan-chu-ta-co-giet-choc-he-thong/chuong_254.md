@@ -1,6 +1,9 @@
-
-
-[← Chương 253](chuong_253.md) | [📚 Mục lục](README.md) | [Chương 255 →](chuong_255.md)
+---
+layout: default
+title: Chương 254: Giết chóc điểm phá ức (1)
+chapter_number: 254
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -133,6 +136,6 @@ Những này đều là g·iết chóc điểm a.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-254](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-254)
 - Thời gian scrape: 2026-01-13 00:34:47
 
-
-[← Chương 253](chuong_253.md) | [📚 Mục lục](README.md) | [Chương 255 →](chuong_255.md)
-
+<div class="chapter-nav">
+    <a href="chuong_253.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_255.html" class="nav-btn">Chương sau →</a>
+</div>

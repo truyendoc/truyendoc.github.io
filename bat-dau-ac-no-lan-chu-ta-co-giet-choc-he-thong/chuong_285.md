@@ -1,6 +1,9 @@
-
-
-[← Chương 284](chuong_284.md) | [📚 Mục lục](README.md) | [Chương 286 →](chuong_286.md)
+---
+layout: default
+title: Chương 285: Bưng Minh Vương phủ (2)
+chapter_number: 285
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -123,6 +126,6 @@ Mà tu vi phía sau dấu cộng lại một lần phát sáng lên.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-285](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-285)
 - Thời gian scrape: 2026-01-13 00:21:56
 
-
-[← Chương 284](chuong_284.md) | [📚 Mục lục](README.md) | [Chương 286 →](chuong_286.md)
-
+<div class="chapter-nav">
+    <a href="chuong_284.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_286.html" class="nav-btn">Chương sau →</a>
+</div>

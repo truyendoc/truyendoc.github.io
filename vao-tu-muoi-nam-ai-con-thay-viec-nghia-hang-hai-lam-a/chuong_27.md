@@ -1,6 +1,9 @@
-
-
-[← Chương 26](chuong_26.md) | [📚 Mục lục](README.md) | [Chương 28 →](chuong_28.md)
+---
+layout: default
+title: Chương 27: Vương Nhất Phu giết người bị bắt
+chapter_number: 27
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Ngược lại là Vương San San nghẹn ngào không chỉ bộ dáng, để 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-27](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-27)
 - Thời gian scrape: 2026-01-13 21:40:51
 
-
-[← Chương 26](chuong_26.md) | [📚 Mục lục](README.md) | [Chương 28 →](chuong_28.md)
-
+<div class="chapter-nav">
+    <a href="chuong_26.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_28.html" class="nav-btn">Chương sau →</a>
+</div>

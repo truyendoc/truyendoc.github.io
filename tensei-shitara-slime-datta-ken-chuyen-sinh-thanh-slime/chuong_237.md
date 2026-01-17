@@ -1,6 +1,9 @@
-
-
-[← Chương 236](chuong_236.md) | [📚 Mục lục](README.md) | [Chương 238 →](chuong_238.md)
+---
+layout: default
+title: Chương 237
+chapter_number: 237
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -606,6 +609,6 @@ Tuy nhiên, vì tôi đã tốn rất nhiều năng lượng ma thuật để đ
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-237](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-237)
 - Thời gian scrape: 2026-01-17 09:48:59
 
-
-[← Chương 236](chuong_236.md) | [📚 Mục lục](README.md) | [Chương 238 →](chuong_238.md)
-
+<div class="chapter-nav">
+    <a href="chuong_236.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_238.html" class="nav-btn">Chương sau →</a>
+</div>

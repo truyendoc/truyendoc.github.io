@@ -1,6 +1,9 @@
-
-
-[← Chương 60](chuong_60.md) | [📚 Mục lục](README.md) | [Chương 62 →](chuong_62.md)
+---
+layout: default
+title: Chương 61: Kết hôn ý nghĩa
+chapter_number: 61
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -195,6 +198,6 @@ Lại không kiếm được tiền, phương diện kia còn lại không đư�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-61](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-61)
 - Thời gian scrape: 2026-01-13 21:42:47
 
-
-[← Chương 60](chuong_60.md) | [📚 Mục lục](README.md) | [Chương 62 →](chuong_62.md)
-
+<div class="chapter-nav">
+    <a href="chuong_60.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_62.html" class="nav-btn">Chương sau →</a>
+</div>

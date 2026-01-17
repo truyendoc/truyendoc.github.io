@@ -1,6 +1,9 @@
-
-
-[← Chương 700](chuong_700.md) | [📚 Mục lục](README.md) | [Chương 702 →](chuong_702.md)
+---
+layout: default
+title: Chương 701: Đề nghị dát rơi cha ngươi
+chapter_number: 701
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Hắn hít sâu một hơi nói: "Chó nữ nhân, ngươi thật sự là đố
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-701](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-701)
 - Thời gian scrape: 2026-01-13 22:20:58
 
-
-[← Chương 700](chuong_700.md) | [📚 Mục lục](README.md) | [Chương 702 →](chuong_702.md)
-
+<div class="chapter-nav">
+    <a href="chuong_700.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_702.html" class="nav-btn">Chương sau →</a>
+</div>

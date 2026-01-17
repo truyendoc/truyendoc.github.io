@@ -1,6 +1,9 @@
-
-
-[← Chương 186](chuong_186.md) | [📚 Mục lục](README.md) | [Chương 188 →](chuong_188.md)
+---
+layout: default
+title: Chương 187: Một cước đá bay
+chapter_number: 187
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -149,6 +152,6 @@ Thậm chí, liền ngay cả nguyên bản có như vậy hai cái muốn ra ta
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-187](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-187)
 - Thời gian scrape: 2026-01-13 21:50:31
 
-
-[← Chương 186](chuong_186.md) | [📚 Mục lục](README.md) | [Chương 188 →](chuong_188.md)
-
+<div class="chapter-nav">
+    <a href="chuong_186.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_188.html" class="nav-btn">Chương sau →</a>
+</div>

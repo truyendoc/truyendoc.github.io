@@ -1,6 +1,9 @@
-
-
-[← Chương 468](chuong_468.md) | [📚 Mục lục](README.md) | [Chương 470 →](chuong_470.md)
+---
+layout: default
+title: Chương 469: Chó nữ nhân chân mệnh thiên tử
+chapter_number: 469
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Không phải người khác, chính là chó nữ nhân Vương San San đời 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-469](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-469)
 - Thời gian scrape: 2026-01-13 22:07:40
 
-
-[← Chương 468](chuong_468.md) | [📚 Mục lục](README.md) | [Chương 470 →](chuong_470.md)
-
+<div class="chapter-nav">
+    <a href="chuong_468.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_470.html" class="nav-btn">Chương sau →</a>
+</div>

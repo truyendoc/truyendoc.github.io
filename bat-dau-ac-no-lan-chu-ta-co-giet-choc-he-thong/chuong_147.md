@@ -1,6 +1,9 @@
-
-
-[← Chương 146](chuong_146.md) | [📚 Mục lục](README.md) | [Chương 148 →](chuong_148.md)
+---
+layout: default
+title: Chương 147: không nể mặt mũi
+chapter_number: 147
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -247,6 +250,6 @@ Lúc này, Liễu Tâm Xuyên mở miệng nói: “Ngu Bách Hộ ngươi tới
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-147](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-147)
 - Thời gian scrape: 2026-01-13 00:30:29
 
-
-[← Chương 146](chuong_146.md) | [📚 Mục lục](README.md) | [Chương 148 →](chuong_148.md)
-
+<div class="chapter-nav">
+    <a href="chuong_146.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_148.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 285](chuong_285.md) | [📚 Mục lục](README.md) | [Chương 287 →](chuong_287.md)
+---
+layout: default
+title: Chương 286: Hôm nay Âu hoàng (1)
+chapter_number: 286
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -133,6 +136,6 @@ Bỗng nhiên, Thẩm Dục trong lòng hơi động.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-286](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-286)
 - Thời gian scrape: 2026-01-13 00:21:59
 
-
-[← Chương 285](chuong_285.md) | [📚 Mục lục](README.md) | [Chương 287 →](chuong_287.md)
-
+<div class="chapter-nav">
+    <a href="chuong_285.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_287.html" class="nav-btn">Chương sau →</a>
+</div>

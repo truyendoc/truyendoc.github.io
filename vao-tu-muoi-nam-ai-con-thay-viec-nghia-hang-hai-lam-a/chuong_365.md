@@ -1,6 +1,9 @@
-
-
-[← Chương 364](chuong_364.md) | [📚 Mục lục](README.md) | [Chương 366 →](chuong_366.md)
+---
+layout: default
+title: Chương 365: Hạng Nam Nguyệt chụp lén
+chapter_number: 365
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Cho nên, tự nhiên cũng liền nhìn hắn không thuận mắt.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-365](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-365)
 - Thời gian scrape: 2026-01-13 22:01:37
 
-
-[← Chương 364](chuong_364.md) | [📚 Mục lục](README.md) | [Chương 366 →](chuong_366.md)
-
+<div class="chapter-nav">
+    <a href="chuong_364.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_366.html" class="nav-btn">Chương sau →</a>
+</div>

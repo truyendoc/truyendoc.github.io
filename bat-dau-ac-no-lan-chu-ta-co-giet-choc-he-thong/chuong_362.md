@@ -1,6 +1,9 @@
-
-
-[← Chương 361](chuong_361.md) | [📚 Mục lục](README.md) | [Chương 363 →](chuong_363.md)
+---
+layout: default
+title: Chương 362: Lần nữa đánh giết khí vận chi tử (1)
+chapter_number: 362
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -123,6 +126,6 @@ Dài chừng mười trượng kiếm quang đem bạch quang theo giữa không
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-362](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-362)
 - Thời gian scrape: 2026-01-13 00:24:59
 
-
-[← Chương 361](chuong_361.md) | [📚 Mục lục](README.md) | [Chương 363 →](chuong_363.md)
-
+<div class="chapter-nav">
+    <a href="chuong_361.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_363.html" class="nav-btn">Chương sau →</a>
+</div>

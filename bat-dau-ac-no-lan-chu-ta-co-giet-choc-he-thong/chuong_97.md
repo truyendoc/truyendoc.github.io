@@ -1,6 +1,9 @@
-
-
-[← Chương 96](chuong_96.md) | [📚 Mục lục](README.md) | [Chương 98 →](chuong_98.md)
+---
+layout: default
+title: Chương 97: luyện khí
+chapter_number: 97
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -289,6 +292,6 @@ Dạng này, tại rút kiếm trước, ai cũng không biết, Lý Linh Nhi c�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-97](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-97)
 - Thời gian scrape: 2026-01-13 00:28:02
 
-
-[← Chương 96](chuong_96.md) | [📚 Mục lục](README.md) | [Chương 98 →](chuong_98.md)
-
+<div class="chapter-nav">
+    <a href="chuong_96.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_98.html" class="nav-btn">Chương sau →</a>
+</div>

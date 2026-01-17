@@ -1,6 +1,9 @@
-
-
-[← Chương 52](chuong_52.md) | [📚 Mục lục](README.md) | [Chương 54 →](chuong_54.md)
+---
+layout: default
+title: Chương 53: Đối Bạch Tĩnh an bài
+chapter_number: 53
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Nàng đã làm tốt rời đi cái này huyện thành nhỏ chuẩn bị.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-53](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-53)
 - Thời gian scrape: 2026-01-13 21:42:17
 
-
-[← Chương 52](chuong_52.md) | [📚 Mục lục](README.md) | [Chương 54 →](chuong_54.md)
-
+<div class="chapter-nav">
+    <a href="chuong_52.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_54.html" class="nav-btn">Chương sau →</a>
+</div>

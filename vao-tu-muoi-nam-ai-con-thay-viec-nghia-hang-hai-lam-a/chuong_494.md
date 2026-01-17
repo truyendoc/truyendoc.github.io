@@ -1,6 +1,9 @@
-
-
-[← Chương 493](chuong_493.md) | [📚 Mục lục](README.md) | [Chương 495 →](chuong_495.md)
+---
+layout: default
+title: Chương 494: Động tâm cảm giác
+chapter_number: 494
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Nỉ non nói xong lời nói này, Đoàn Minh lập tức liền mang theo kh�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-494](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-494)
 - Thời gian scrape: 2026-01-13 22:09:05
 
-
-[← Chương 493](chuong_493.md) | [📚 Mục lục](README.md) | [Chương 495 →](chuong_495.md)
-
+<div class="chapter-nav">
+    <a href="chuong_493.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_495.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 31](chuong_31.md) | [📚 Mục lục](README.md) | [Chương 33 →](chuong_33.md)
+---
+layout: default
+title: Chương 32: Kế hoạch tiếp theo, mẫu nữ bất hoà
+chapter_number: 32
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -145,6 +148,6 @@ Nếu như nhất định phải chọn một, nàng khẳng định tuyển kh�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-32](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-32)
 - Thời gian scrape: 2026-01-13 21:41:07
 
-
-[← Chương 31](chuong_31.md) | [📚 Mục lục](README.md) | [Chương 33 →](chuong_33.md)
-
+<div class="chapter-nav">
+    <a href="chuong_31.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_33.html" class="nav-btn">Chương sau →</a>
+</div>

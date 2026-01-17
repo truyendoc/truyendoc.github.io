@@ -1,6 +1,9 @@
-
-
-[← Chương 6](chuong_6.md) | [📚 Mục lục](README.md) | [Chương 8 →](chuong_8.md)
+---
+layout: default
+title: Chương 7: Trang bức đạo sĩ, Dương Bình
+chapter_number: 7
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -187,6 +190,6 @@ Tào Côn không nói gì, chỉ là dùng cái mũi nhàn nhạt ừ một ti�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-7](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-7)
 - Thời gian scrape: 2026-01-13 21:39:47
 
-
-[← Chương 6](chuong_6.md) | [📚 Mục lục](README.md) | [Chương 8 →](chuong_8.md)
-
+<div class="chapter-nav">
+    <a href="chuong_6.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_8.html" class="nav-btn">Chương sau →</a>
+</div>

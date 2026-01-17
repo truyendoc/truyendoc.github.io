@@ -1,6 +1,9 @@
-
-
-[← Chương 296](chuong_296.md) | [📚 Mục lục](README.md) | [Chương 298 →](chuong_298.md)
+---
+layout: default
+title: Chương 297: Đại giới, làm nữ nhân của ta
+chapter_number: 297
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Ta. . . Đơn giản mắc cỡ c·hết người ta rồi!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-297](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-297)
 - Thời gian scrape: 2026-01-13 21:57:31
 
-
-[← Chương 296](chuong_296.md) | [📚 Mục lục](README.md) | [Chương 298 →](chuong_298.md)
-
+<div class="chapter-nav">
+    <a href="chuong_296.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_298.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 164](chuong_164.md) | [📚 Mục lục](README.md) | [Chương 166 →](chuong_166.md)
+---
+layout: default
+title: Chương 165: pháp tướng cảnh tam trọng
+chapter_number: 165
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -241,6 +244,6 @@ Thẳng tới giữa trưa, Tuệ Nương đều hướng trong nồi thêm nhi�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-165](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-165)
 - Thời gian scrape: 2026-01-13 00:31:14
 
-
-[← Chương 164](chuong_164.md) | [📚 Mục lục](README.md) | [Chương 166 →](chuong_166.md)
-
+<div class="chapter-nav">
+    <a href="chuong_164.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_166.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 77](chuong_77.md) | [📚 Mục lục](README.md) | [Chương 79 →](chuong_79.md)
+---
+layout: default
+title: Chương 78
+chapter_number: 78
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -686,6 +689,6 @@ Và tôi không có ngu mà bỏ qua đâu.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-78](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-78)
 - Thời gian scrape: 2026-01-17 09:41:27
 
-
-[← Chương 77](chuong_77.md) | [📚 Mục lục](README.md) | [Chương 79 →](chuong_79.md)
-
+<div class="chapter-nav">
+    <a href="chuong_77.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_79.html" class="nav-btn">Chương sau →</a>
+</div>

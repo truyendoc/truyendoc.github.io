@@ -1,6 +1,9 @@
-
-
-[← Chương 674](chuong_674.md) | [📚 Mục lục](README.md) | [Chương 676 →](chuong_676.md)
+---
+layout: default
+title: Chương 675: Tiêu Văn Bân đã chết
+chapter_number: 675
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Kết quả, sau khi nghe ngóng mới biết được, Tiêu Văn Bân đ·ã c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-675](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-675)
 - Thời gian scrape: 2026-01-13 22:19:31
 
-
-[← Chương 674](chuong_674.md) | [📚 Mục lục](README.md) | [Chương 676 →](chuong_676.md)
-
+<div class="chapter-nav">
+    <a href="chuong_674.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_676.html" class="nav-btn">Chương sau →</a>
+</div>

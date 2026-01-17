@@ -1,6 +1,9 @@
-
-
-[← Chương 115](chuong_115.md) | [📚 Mục lục](README.md) | [Chương 117 →](chuong_117.md)
+---
+layout: default
+title: Chương 116: Đời này đều đi theo ngươi
+chapter_number: 116
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Lưu Hồng lời thề son sắt nói: "Ngươi chỉ cần giúp ta chuyện n
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-116](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-116)
 - Thời gian scrape: 2026-01-13 21:46:18
 
-
-[← Chương 115](chuong_115.md) | [📚 Mục lục](README.md) | [Chương 117 →](chuong_117.md)
-
+<div class="chapter-nav">
+    <a href="chuong_115.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_117.html" class="nav-btn">Chương sau →</a>
+</div>

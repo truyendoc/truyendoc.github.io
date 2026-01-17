@@ -1,6 +1,9 @@
-
-
-[← Chương 511](chuong_511.md) | [📚 Mục lục](README.md) | [Chương 513 →](chuong_513.md)
+---
+layout: default
+title: Chương 512: Ta muốn năm thành
+chapter_number: 512
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Tào Côn khẽ vuốt cằm, lập tức vươn năm ngón tay, nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-512](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-512)
 - Thời gian scrape: 2026-01-13 22:10:05
 
-
-[← Chương 511](chuong_511.md) | [📚 Mục lục](README.md) | [Chương 513 →](chuong_513.md)
-
+<div class="chapter-nav">
+    <a href="chuong_511.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_513.html" class="nav-btn">Chương sau →</a>
+</div>

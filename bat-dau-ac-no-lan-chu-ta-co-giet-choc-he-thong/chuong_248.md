@@ -1,6 +1,9 @@
-
-
-[← Chương 247](chuong_247.md) | [📚 Mục lục](README.md) | [Chương 249 →](chuong_249.md)
+---
+layout: default
+title: Chương 248: Người biểu diễn tú (1)
+chapter_number: 248
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -127,6 +130,6 @@ Phạm lão cùng Trần lão đều là một bộ xem trò vui bộ dáng, ho�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-248](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-248)
 - Thời gian scrape: 2026-01-13 00:34:32
 
-
-[← Chương 247](chuong_247.md) | [📚 Mục lục](README.md) | [Chương 249 →](chuong_249.md)
-
+<div class="chapter-nav">
+    <a href="chuong_247.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_249.html" class="nav-btn">Chương sau →</a>
+</div>

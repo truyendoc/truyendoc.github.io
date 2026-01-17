@@ -1,6 +1,9 @@
-
-
-[← Chương 307](chuong_307.md) | [📚 Mục lục](README.md) | [Chương 309 →](chuong_309.md)
+---
+layout: default
+title: Chương 308: Tân tân khổ khổ hai đời làm công người
+chapter_number: 308
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Tào Côn cầm lấy một bên điện thoại nhìn thoáng qua, thấy là m
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-308](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-308)
 - Thời gian scrape: 2026-01-13 21:58:09
 
-
-[← Chương 307](chuong_307.md) | [📚 Mục lục](README.md) | [Chương 309 →](chuong_309.md)
-
+<div class="chapter-nav">
+    <a href="chuong_307.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_309.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 243](chuong_243.md) | [📚 Mục lục](README.md) | [Chương 245 →](chuong_245.md)
+---
+layout: default
+title: Chương 244: Lòng dạ biết rõ (1)
+chapter_number: 244
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -113,6 +116,6 @@ Hoàng đế tu vi mặc dù ẩn giấu rất khá, nhưng lại không thể g
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-244](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-244)
 - Thời gian scrape: 2026-01-13 00:34:22
 
-
-[← Chương 243](chuong_243.md) | [📚 Mục lục](README.md) | [Chương 245 →](chuong_245.md)
-
+<div class="chapter-nav">
+    <a href="chuong_243.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_245.html" class="nav-btn">Chương sau →</a>
+</div>

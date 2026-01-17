@@ -1,6 +1,9 @@
-
-
-[← Chương 521](chuong_521.md) | [📚 Mục lục](README.md) | [Chương 523 →](chuong_523.md)
+---
+layout: default
+title: Chương 522: Mẫu nữ bốn người bị bắt
+chapter_number: 522
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Hắn suy nghĩ một trận, khổ sở nói: "Bách Mộ huynh, ngươi vấn 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-522](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-522)
 - Thời gian scrape: 2026-01-13 22:10:40
 
-
-[← Chương 521](chuong_521.md) | [📚 Mục lục](README.md) | [Chương 523 →](chuong_523.md)
-
+<div class="chapter-nav">
+    <a href="chuong_521.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_523.html" class="nav-btn">Chương sau →</a>
+</div>

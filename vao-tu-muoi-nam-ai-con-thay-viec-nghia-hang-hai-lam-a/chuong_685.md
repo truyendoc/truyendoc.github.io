@@ -1,6 +1,9 @@
-
-
-[← Chương 684](chuong_684.md) | [📚 Mục lục](README.md) | [Chương 686 →](chuong_686.md)
+---
+layout: default
+title: Chương 685: Khi còn sống bị ngược đãi qua
+chapter_number: 685
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Nữ mũ thúc thúc nói: "Tào lão bản, chính như ngài mới vừa nói,
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-685](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-685)
 - Thời gian scrape: 2026-01-13 22:20:08
 
-
-[← Chương 684](chuong_684.md) | [📚 Mục lục](README.md) | [Chương 686 →](chuong_686.md)
-
+<div class="chapter-nav">
+    <a href="chuong_684.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_686.html" class="nav-btn">Chương sau →</a>
+</div>

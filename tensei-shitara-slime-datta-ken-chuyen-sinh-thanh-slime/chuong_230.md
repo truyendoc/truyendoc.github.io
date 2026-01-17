@@ -1,6 +1,9 @@
-
-
-[← Chương 229](chuong_229.md) | [📚 Mục lục](README.md) | [Chương 231 →](chuong_231.md)
+---
+layout: default
+title: Chương 230
+chapter_number: 230
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -382,6 +385,6 @@ Khi bốn người bước chân vào Mê Cung, đó là khoảnh khắc kế ho
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-230](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-230)
 - Thời gian scrape: 2026-01-17 09:48:37
 
-
-[← Chương 229](chuong_229.md) | [📚 Mục lục](README.md) | [Chương 231 →](chuong_231.md)
-
+<div class="chapter-nav">
+    <a href="chuong_229.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_231.html" class="nav-btn">Chương sau →</a>
+</div>

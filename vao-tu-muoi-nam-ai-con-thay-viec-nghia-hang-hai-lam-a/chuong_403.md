@@ -1,6 +1,9 @@
-
-
-[← Chương 402](chuong_402.md) | [📚 Mục lục](README.md) | [Chương 404 →](chuong_404.md)
+---
+layout: default
+title: Chương 403: Lại muốn 35 ức
+chapter_number: 403
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Vì cái gì không đi tìm tìm Tào Côn đâu?
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-403](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-403)
 - Thời gian scrape: 2026-01-13 22:03:44
 
-
-[← Chương 402](chuong_402.md) | [📚 Mục lục](README.md) | [Chương 404 →](chuong_404.md)
-
+<div class="chapter-nav">
+    <a href="chuong_402.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_404.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 99](chuong_99.md) | [📚 Mục lục](README.md) | [Chương 101 →](chuong_101.md)
+---
+layout: default
+title: Chương 100: Học tỷ triệu hoán
+chapter_number: 100
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Tào Côn cười cười, đạo; "Vậy ngươi nhanh rời giường, vừa v
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-100](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-100)
 - Thời gian scrape: 2026-01-13 21:45:28
 
-
-[← Chương 99](chuong_99.md) | [📚 Mục lục](README.md) | [Chương 101 →](chuong_101.md)
-
+<div class="chapter-nav">
+    <a href="chuong_99.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_101.html" class="nav-btn">Chương sau →</a>
+</div>

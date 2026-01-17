@@ -1,6 +1,9 @@
-
-
-[← Chương 32](chuong_32.md) | [📚 Mục lục](README.md) | [Chương 34 →](chuong_34.md)
+---
+layout: default
+title: Chương 33: Muốn tìm về bản thân Bạch Tĩnh
+chapter_number: 33
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Tào Côn ha ha cười một tiếng, nói: "Không sao, coi như bữa ăn tr�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-33](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-33)
 - Thời gian scrape: 2026-01-13 21:41:10
 
-
-[← Chương 32](chuong_32.md) | [📚 Mục lục](README.md) | [Chương 34 →](chuong_34.md)
-
+<div class="chapter-nav">
+    <a href="chuong_32.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_34.html" class="nav-btn">Chương sau →</a>
+</div>

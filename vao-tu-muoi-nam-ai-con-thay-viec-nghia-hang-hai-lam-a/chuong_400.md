@@ -1,6 +1,9 @@
-
-
-[← Chương 399](chuong_399.md) | [📚 Mục lục](README.md) | [Chương 401 →](chuong_401.md)
+---
+layout: default
+title: Chương 400: Đem ngươi đệ đệ chặn ngang chặt
+chapter_number: 400
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -203,6 +206,6 @@ Hơn nửa tháng không gặp, cũng không biết thân yêu Vương thúc th�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-400](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-400)
 - Thời gian scrape: 2026-01-13 22:03:35
 
-
-[← Chương 399](chuong_399.md) | [📚 Mục lục](README.md) | [Chương 401 →](chuong_401.md)
-
+<div class="chapter-nav">
+    <a href="chuong_399.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_401.html" class="nav-btn">Chương sau →</a>
+</div>

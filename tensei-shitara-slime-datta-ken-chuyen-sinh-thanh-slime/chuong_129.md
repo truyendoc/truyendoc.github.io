@@ -1,6 +1,9 @@
-
-
-[← Chương 128](chuong_128.md) | [📚 Mục lục](README.md) | [Chương 130 →](chuong_130.md)
+---
+layout: default
+title: Chương 129
+chapter_number: 129
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -522,6 +525,6 @@ Và thế, lơ luôn Fuse, liên minh ba bên Thánh Quốc Ruberius, Thánh Gi�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-129](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-129)
 - Thời gian scrape: 2026-01-17 09:43:50
 
-
-[← Chương 128](chuong_128.md) | [📚 Mục lục](README.md) | [Chương 130 →](chuong_130.md)
-
+<div class="chapter-nav">
+    <a href="chuong_128.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_130.html" class="nav-btn">Chương sau →</a>
+</div>

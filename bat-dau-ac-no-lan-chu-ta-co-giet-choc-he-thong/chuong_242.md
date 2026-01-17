@@ -1,6 +1,9 @@
-
-
-[← Chương 241](chuong_241.md) | [📚 Mục lục](README.md) | [Chương 243 →](chuong_243.md)
+---
+layout: default
+title: Chương 242: Hoàng đế tính toán (1)
+chapter_number: 242
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -115,6 +118,6 @@ Trương Dĩnh hỏi, đã biết được Hoàng đế âm mưu, biện pháp t
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-242](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-242)
 - Thời gian scrape: 2026-01-13 00:34:18
 
-
-[← Chương 241](chuong_241.md) | [📚 Mục lục](README.md) | [Chương 243 →](chuong_243.md)
-
+<div class="chapter-nav">
+    <a href="chuong_241.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_243.html" class="nav-btn">Chương sau →</a>
+</div>

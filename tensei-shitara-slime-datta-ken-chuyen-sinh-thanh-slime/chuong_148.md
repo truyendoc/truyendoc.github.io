@@ -1,6 +1,9 @@
-
-
-[← Chương 147](chuong_147.md) | [📚 Mục lục](README.md) | [Chương 149 →](chuong_149.md)
+---
+layout: default
+title: Chương 148
+chapter_number: 148
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -628,6 +631,6 @@ Nhưng mà việc gì phải đến thì ắt sẽ đến. Với những cảm g
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-148](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-148)
 - Thời gian scrape: 2026-01-17 09:44:45
 
-
-[← Chương 147](chuong_147.md) | [📚 Mục lục](README.md) | [Chương 149 →](chuong_149.md)
-
+<div class="chapter-nav">
+    <a href="chuong_147.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_149.html" class="nav-btn">Chương sau →</a>
+</div>

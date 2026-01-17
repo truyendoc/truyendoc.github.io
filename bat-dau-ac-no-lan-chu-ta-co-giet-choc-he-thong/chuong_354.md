@@ -1,6 +1,9 @@
-
-
-[← Chương 353](chuong_353.md) | [📚 Mục lục](README.md) | [Chương 355 →](chuong_355.md)
+---
+layout: default
+title: Chương 354: Vu tộc bí cảnh (1)
+chapter_number: 354
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -117,6 +120,6 @@ Thẩm Dục nói: “Bất quá cũng là có thể sớm thu mua một nhóm g
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-354](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-354)
 - Thời gian scrape: 2026-01-13 00:24:40
 
-
-[← Chương 353](chuong_353.md) | [📚 Mục lục](README.md) | [Chương 355 →](chuong_355.md)
-
+<div class="chapter-nav">
+    <a href="chuong_353.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_355.html" class="nav-btn">Chương sau →</a>
+</div>

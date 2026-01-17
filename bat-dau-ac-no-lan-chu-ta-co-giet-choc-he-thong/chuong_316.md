@@ -1,6 +1,9 @@
-
-
-[← Chương 315](chuong_315.md) | [📚 Mục lục](README.md) | [Chương 317 →](chuong_317.md)
+---
+layout: default
+title: Chương 316: Trừ phi ngươi sinh con trai (1)
+chapter_number: 316
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -119,6 +122,6 @@ Sau đó nàng nhìn xem thanh di hỏi: “Thanh di, ta Đại Diễm Quốc qu
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-316](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-316)
 - Thời gian scrape: 2026-01-13 00:23:11
 
-
-[← Chương 315](chuong_315.md) | [📚 Mục lục](README.md) | [Chương 317 →](chuong_317.md)
-
+<div class="chapter-nav">
+    <a href="chuong_315.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_317.html" class="nav-btn">Chương sau →</a>
+</div>

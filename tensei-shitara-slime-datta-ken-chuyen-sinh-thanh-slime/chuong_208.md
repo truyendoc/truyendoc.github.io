@@ -1,6 +1,9 @@
-
-
-[← Chương 207](chuong_207.md) | [📚 Mục lục](README.md) | [Chương 209 →](chuong_209.md)
+---
+layout: default
+title: Chương 208
+chapter_number: 208
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -400,6 +403,6 @@ Thứ ấy, có nguy cơ sẽ mang cơn giông tố tới chiến trường này
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-208](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-208)
 - Thời gian scrape: 2026-01-17 09:47:34
 
-
-[← Chương 207](chuong_207.md) | [📚 Mục lục](README.md) | [Chương 209 →](chuong_209.md)
-
+<div class="chapter-nav">
+    <a href="chuong_207.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_209.html" class="nav-btn">Chương sau →</a>
+</div>

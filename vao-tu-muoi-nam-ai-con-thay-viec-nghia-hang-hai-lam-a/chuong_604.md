@@ -1,6 +1,9 @@
-
-
-[← Chương 603](chuong_603.md) | [📚 Mục lục](README.md) | [Chương 605 →](chuong_605.md)
+---
+layout: default
+title: Chương 604: Thứ tư trạm, Trương gia bốn chị em
+chapter_number: 604
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Thật giống như Bàng Hồng Na, đừng nói bốn người ở cùng nhau,
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-604](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-604)
 - Thời gian scrape: 2026-01-13 22:15:23
 
-
-[← Chương 603](chuong_603.md) | [📚 Mục lục](README.md) | [Chương 605 →](chuong_605.md)
-
+<div class="chapter-nav">
+    <a href="chuong_603.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_605.html" class="nav-btn">Chương sau →</a>
+</div>

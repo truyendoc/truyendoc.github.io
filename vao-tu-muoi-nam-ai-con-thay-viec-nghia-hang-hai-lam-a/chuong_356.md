@@ -1,6 +1,9 @@
-
-
-[← Chương 355](chuong_355.md) | [📚 Mục lục](README.md) | [Chương 357 →](chuong_357.md)
+---
+layout: default
+title: Chương 356: Nhà ta lão bản muốn gặp ngươi
+chapter_number: 356
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -213,6 +216,6 @@ Cho nên, hắn cũng không tin mình cái này hư thận, sẽ có người n
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-356](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-356)
 - Thời gian scrape: 2026-01-13 22:01:03
 
-
-[← Chương 355](chuong_355.md) | [📚 Mục lục](README.md) | [Chương 357 →](chuong_357.md)
-
+<div class="chapter-nav">
+    <a href="chuong_355.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_357.html" class="nav-btn">Chương sau →</a>
+</div>

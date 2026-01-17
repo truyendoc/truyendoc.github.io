@@ -1,6 +1,9 @@
-
-
-[← Chương 568](chuong_568.md) | [📚 Mục lục](README.md) | [Chương 570 →](chuong_570.md)
+---
+layout: default
+title: Chương 569: Ba cái nữ lưu manh
+chapter_number: 569
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Thậm chí, còn cùng Lam Khả Tâm Lý Văn Văn hai người cùng một ch
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-569](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-569)
 - Thời gian scrape: 2026-01-13 22:13:23
 
-
-[← Chương 568](chuong_568.md) | [📚 Mục lục](README.md) | [Chương 570 →](chuong_570.md)
-
+<div class="chapter-nav">
+    <a href="chuong_568.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_570.html" class="nav-btn">Chương sau →</a>
+</div>

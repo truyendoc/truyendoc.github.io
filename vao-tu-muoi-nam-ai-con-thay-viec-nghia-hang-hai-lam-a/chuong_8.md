@@ -1,6 +1,9 @@
-
-
-[← Chương 7](chuong_7.md) | [📚 Mục lục](README.md) | [Chương 9 →](chuong_9.md)
+---
+layout: default
+title: Chương 8: Gặp quỷ, lượng cơm ăn bạo tăng
+chapter_number: 8
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -191,6 +194,6 @@ Bởi vì, nửa giờ sau mới ăn ba cân thịt bò chín, đảo mắt li�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-8](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-8)
 - Thời gian scrape: 2026-01-13 21:39:50
 
-
-[← Chương 7](chuong_7.md) | [📚 Mục lục](README.md) | [Chương 9 →](chuong_9.md)
-
+<div class="chapter-nav">
+    <a href="chuong_7.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_9.html" class="nav-btn">Chương sau →</a>
+</div>

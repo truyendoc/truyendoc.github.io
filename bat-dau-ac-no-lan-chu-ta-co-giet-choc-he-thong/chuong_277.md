@@ -1,6 +1,9 @@
-
-
-[← Chương 276](chuong_276.md) | [📚 Mục lục](README.md) | [Chương 278 →](chuong_278.md)
+---
+layout: default
+title: Chương 277: Huyền cơ doanh ngựa đạp thứ bảy trăm hộ chỗ (2)
+chapter_number: 277
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -111,6 +114,6 @@ Nghe được Thẩm Dục trả lời, Lâm Phi Vũ không khỏi sững sờ, 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-277](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-277)
 - Thời gian scrape: 2026-01-13 00:35:43
 
-
-[← Chương 276](chuong_276.md) | [📚 Mục lục](README.md) | [Chương 278 →](chuong_278.md)
-
+<div class="chapter-nav">
+    <a href="chuong_276.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_278.html" class="nav-btn">Chương sau →</a>
+</div>

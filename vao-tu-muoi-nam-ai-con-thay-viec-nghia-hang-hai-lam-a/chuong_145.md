@@ -1,6 +1,9 @@
-
-
-[← Chương 144](chuong_144.md) | [📚 Mục lục](README.md) | [Chương 146 →](chuong_146.md)
+---
+layout: default
+title: Chương 145: Hùng Bất Phàm đào mệnh
+chapter_number: 145
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Chỉ bất quá, đêm nay phong cách bên ngoài lớn, sóng cũng phá lệ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-145](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-145)
 - Thời gian scrape: 2026-01-13 21:48:03
 
-
-[← Chương 144](chuong_144.md) | [📚 Mục lục](README.md) | [Chương 146 →](chuong_146.md)
-
+<div class="chapter-nav">
+    <a href="chuong_144.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_146.html" class="nav-btn">Chương sau →</a>
+</div>

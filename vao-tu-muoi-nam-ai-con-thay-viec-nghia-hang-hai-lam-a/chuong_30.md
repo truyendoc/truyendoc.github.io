@@ -1,6 +1,9 @@
-
-
-[← Chương 29](chuong_29.md) | [📚 Mục lục](README.md) | [Chương 31 →](chuong_31.md)
+---
+layout: default
+title: Chương 30: Chứng cứ vô cùng xác thực án giết người
+chapter_number: 30
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -141,6 +144,6 @@ Dạng này chứng cứ vô cùng xác thực h·ình s·ự vụ án, mời ch
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-30](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-30)
 - Thời gian scrape: 2026-01-13 21:41:00
 
-
-[← Chương 29](chuong_29.md) | [📚 Mục lục](README.md) | [Chương 31 →](chuong_31.md)
-
+<div class="chapter-nav">
+    <a href="chuong_29.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_31.html" class="nav-btn">Chương sau →</a>
+</div>

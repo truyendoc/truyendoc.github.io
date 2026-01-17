@@ -1,6 +1,9 @@
-
-
-[← Chương 178](chuong_178.md) | [📚 Mục lục](README.md) | [Chương 180 →](chuong_180.md)
+---
+layout: default
+title: Chương 179: cắt đứt
+chapter_number: 179
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -253,6 +256,6 @@ Làm sơ suy nghĩ, Thẩm Dục liền chế định một cái đơn giản k�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-179](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-179)
 - Thời gian scrape: 2026-01-13 00:31:48
 
-
-[← Chương 178](chuong_178.md) | [📚 Mục lục](README.md) | [Chương 180 →](chuong_180.md)
-
+<div class="chapter-nav">
+    <a href="chuong_178.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_180.html" class="nav-btn">Chương sau →</a>
+</div>

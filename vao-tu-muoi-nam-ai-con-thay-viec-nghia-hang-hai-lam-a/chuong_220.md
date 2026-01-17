@@ -1,6 +1,9 @@
-
-
-[← Chương 219](chuong_219.md) | [📚 Mục lục](README.md) | [Chương 221 →](chuong_221.md)
+---
+layout: default
+title: Chương 220: Đi ra ngoài bên ngoài, thân phận đều là mình cho
+chapter_number: 220
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Cái này giấu không khỏi cũng quá tốt đi!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-220](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-220)
 - Thời gian scrape: 2026-01-13 21:52:54
 
-
-[← Chương 219](chuong_219.md) | [📚 Mục lục](README.md) | [Chương 221 →](chuong_221.md)
-
+<div class="chapter-nav">
+    <a href="chuong_219.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_221.html" class="nav-btn">Chương sau →</a>
+</div>

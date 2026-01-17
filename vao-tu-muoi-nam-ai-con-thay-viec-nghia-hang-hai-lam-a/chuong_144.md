@@ -1,6 +1,9 @@
-
-
-[← Chương 143](chuong_143.md) | [📚 Mục lục](README.md) | [Chương 145 →](chuong_145.md)
+---
+layout: default
+title: Chương 144: Thiếu vay nặng lãi 60 vạn Tôn Vĩ
+chapter_number: 144
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -191,6 +194,6 @@ Hắn chỉ cần càng đi về phía trước một bước, liền sẽ mang 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-144](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-144)
 - Thời gian scrape: 2026-01-13 21:47:59
 
-
-[← Chương 143](chuong_143.md) | [📚 Mục lục](README.md) | [Chương 145 →](chuong_145.md)
-
+<div class="chapter-nav">
+    <a href="chuong_143.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_145.html" class="nav-btn">Chương sau →</a>
+</div>

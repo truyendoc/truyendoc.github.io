@@ -1,6 +1,9 @@
-
-
-[← Chương 346](chuong_346.md) | [📚 Mục lục](README.md) | [Chương 348 →](chuong_348.md)
+---
+layout: default
+title: Chương 347: Ba ba là oan uổng
+chapter_number: 347
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Vương San San: ? ? ?
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-347](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-347)
 - Thời gian scrape: 2026-01-13 22:00:28
 
-
-[← Chương 346](chuong_346.md) | [📚 Mục lục](README.md) | [Chương 348 →](chuong_348.md)
-
+<div class="chapter-nav">
+    <a href="chuong_346.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_348.html" class="nav-btn">Chương sau →</a>
+</div>

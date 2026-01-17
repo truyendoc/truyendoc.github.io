@@ -1,6 +1,9 @@
-
-
-[← Chương 105](chuong_105.md) | [📚 Mục lục](README.md) | [Chương 107 →](chuong_107.md)
+---
+layout: default
+title: Chương 106: Lưu Ngọc Linh hành hung Lưu Hồng
+chapter_number: 106
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Mà Bạch Tĩnh, nhìn xem Lưu Hồng bóng lưng rời đi, thì là nỉ non
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-106](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-106)
 - Thời gian scrape: 2026-01-13 21:45:47
 
-
-[← Chương 105](chuong_105.md) | [📚 Mục lục](README.md) | [Chương 107 →](chuong_107.md)
-
+<div class="chapter-nav">
+    <a href="chuong_105.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_107.html" class="nav-btn">Chương sau →</a>
+</div>

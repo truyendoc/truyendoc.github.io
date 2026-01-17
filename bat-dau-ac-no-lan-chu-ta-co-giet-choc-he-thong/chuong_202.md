@@ -1,6 +1,9 @@
-
-
-[← Chương 201](chuong_201.md) | [📚 Mục lục](README.md) | [Chương 203 →](chuong_203.md)
+---
+layout: default
+title: Chương 202: Mông Thị huynh đệ
+chapter_number: 202
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -211,6 +214,6 @@ Thẩm Dục như có điều suy nghĩ thầm nghĩ.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-202](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-202)
 - Thời gian scrape: 2026-01-13 00:32:43
 
-
-[← Chương 201](chuong_201.md) | [📚 Mục lục](README.md) | [Chương 203 →](chuong_203.md)
-
+<div class="chapter-nav">
+    <a href="chuong_201.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_203.html" class="nav-btn">Chương sau →</a>
+</div>

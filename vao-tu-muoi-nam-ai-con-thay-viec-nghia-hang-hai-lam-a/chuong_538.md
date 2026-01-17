@@ -1,6 +1,9 @@
-
-
-[← Chương 537](chuong_537.md) | [📚 Mục lục](README.md) | [Chương 539 →](chuong_539.md)
+---
+layout: default
+title: Chương 538: Tiêm vào tử hình
+chapter_number: 538
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Nói, Tào Côn lắc đầu thở dài, sau đó liền đến đến mình ch�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-538](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-538)
 - Thời gian scrape: 2026-01-13 22:11:36
 
-
-[← Chương 537](chuong_537.md) | [📚 Mục lục](README.md) | [Chương 539 →](chuong_539.md)
-
+<div class="chapter-nav">
+    <a href="chuong_537.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_539.html" class="nav-btn">Chương sau →</a>
+</div>

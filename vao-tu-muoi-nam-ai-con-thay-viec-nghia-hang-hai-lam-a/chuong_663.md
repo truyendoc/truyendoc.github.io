@@ -1,6 +1,9 @@
-
-
-[← Chương 662](chuong_662.md) | [📚 Mục lục](README.md) | [Chương 664 →](chuong_664.md)
+---
+layout: default
+title: Chương 663: Chứng cứ tới tay
+chapter_number: 663
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Tào Côn đầu tiên là mở ra tin.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-663](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-663)
 - Thời gian scrape: 2026-01-13 22:18:46
 
-
-[← Chương 662](chuong_662.md) | [📚 Mục lục](README.md) | [Chương 664 →](chuong_664.md)
-
+<div class="chapter-nav">
+    <a href="chuong_662.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_664.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 551](chuong_551.md) | [📚 Mục lục](README.md) | [Chương 553 →](chuong_553.md)
+---
+layout: default
+title: Chương 552: Háo sắc là một cơ hội
+chapter_number: 552
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Dù sao, Trương gia đã đến trong tay hắn, Trương Bách Mộ với h�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-552](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-552)
 - Thời gian scrape: 2026-01-13 22:12:24
 
-
-[← Chương 551](chuong_551.md) | [📚 Mục lục](README.md) | [Chương 553 →](chuong_553.md)
-
+<div class="chapter-nav">
+    <a href="chuong_551.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_553.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 518](chuong_518.md) | [📚 Mục lục](README.md) | [Chương 520 →](chuong_520.md)
+---
+layout: default
+title: Chương 519: Cha ruột mẹ ruột cũng không được
+chapter_number: 519
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Trương Bách Mộ nhìn về phía Tào Côn, nói: "Tào lão bản ngươi c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-519](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-519)
 - Thời gian scrape: 2026-01-13 22:10:29
 
-
-[← Chương 518](chuong_518.md) | [📚 Mục lục](README.md) | [Chương 520 →](chuong_520.md)
-
+<div class="chapter-nav">
+    <a href="chuong_518.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_520.html" class="nav-btn">Chương sau →</a>
+</div>

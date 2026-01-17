@@ -1,6 +1,9 @@
-
-
-[← Chương 478](chuong_478.md) | [📚 Mục lục](README.md) | [Chương 480 →](chuong_480.md)
+---
+layout: default
+title: Chương 479: Vậy cũng chớ qua cái này năm
+chapter_number: 479
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Kết quả, liền có người không phải chờ không nổi, không phải
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-479](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-479)
 - Thời gian scrape: 2026-01-13 22:08:15
 
-
-[← Chương 478](chuong_478.md) | [📚 Mục lục](README.md) | [Chương 480 →](chuong_480.md)
-
+<div class="chapter-nav">
+    <a href="chuong_478.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_480.html" class="nav-btn">Chương sau →</a>
+</div>

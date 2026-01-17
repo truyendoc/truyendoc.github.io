@@ -1,6 +1,9 @@
-
-
-[← Chương 449](chuong_449.md) | [📚 Mục lục](README.md) | [Chương 451 →](chuong_451.md)
+---
+layout: default
+title: Chương 450: Hắn tại sao không đi đoạt!
+chapter_number: 450
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Một trận trầm mặc về sau, Liễu Truyền Sĩ không có phản ứng 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-450](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-450)
 - Thời gian scrape: 2026-01-13 22:06:23
 
-
-[← Chương 449](chuong_449.md) | [📚 Mục lục](README.md) | [Chương 451 →](chuong_451.md)
-
+<div class="chapter-nav">
+    <a href="chuong_449.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_451.html" class="nav-btn">Chương sau →</a>
+</div>

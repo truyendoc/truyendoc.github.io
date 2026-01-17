@@ -1,6 +1,9 @@
-
-
-[← Chương 540](chuong_540.md) | [📚 Mục lục](README.md) | [Chương 542 →](chuong_542.md)
+---
+layout: default
+title: Chương 541: Chó so thân thích
+chapter_number: 541
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Nhìn xem Trương Bách Mộ một mặt phẫn hận biểu lộ, Tào Côn nh
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-541](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-541)
 - Thời gian scrape: 2026-01-13 22:11:48
 
-
-[← Chương 540](chuong_540.md) | [📚 Mục lục](README.md) | [Chương 542 →](chuong_542.md)
-
+<div class="chapter-nav">
+    <a href="chuong_540.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_542.html" class="nav-btn">Chương sau →</a>
+</div>

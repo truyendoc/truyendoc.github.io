@@ -1,6 +1,9 @@
-
-
-[← Chương 610](chuong_610.md) | [📚 Mục lục](README.md) | [Chương 612 →](chuong_612.md)
+---
+layout: default
+title: Chương 611: Giúp các ngươi làm thân tử giám định
+chapter_number: 611
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Tào Côn nhẹ gật đầu, nói: "Nghe thấy được, đi, đừng quỳ, �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-611](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-611)
 - Thời gian scrape: 2026-01-13 22:15:46
 
-
-[← Chương 610](chuong_610.md) | [📚 Mục lục](README.md) | [Chương 612 →](chuong_612.md)
-
+<div class="chapter-nav">
+    <a href="chuong_610.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_612.html" class="nav-btn">Chương sau →</a>
+</div>

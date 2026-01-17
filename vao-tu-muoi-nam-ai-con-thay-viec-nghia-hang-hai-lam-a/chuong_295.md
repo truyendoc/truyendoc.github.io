@@ -1,6 +1,9 @@
-
-
-[← Chương 294](chuong_294.md) | [📚 Mục lục](README.md) | [Chương 296 →](chuong_296.md)
+---
+layout: default
+title: Chương 295: Mẫu thân ngươi đầu thép tốt
+chapter_number: 295
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Tào Côn gõ gõ khói bụi, nói: "Ngươi đã bị lừa hơn 20 năm ý t�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-295](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-295)
 - Thời gian scrape: 2026-01-13 21:57:24
 
-
-[← Chương 294](chuong_294.md) | [📚 Mục lục](README.md) | [Chương 296 →](chuong_296.md)
-
+<div class="chapter-nav">
+    <a href="chuong_294.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_296.html" class="nav-btn">Chương sau →</a>
+</div>

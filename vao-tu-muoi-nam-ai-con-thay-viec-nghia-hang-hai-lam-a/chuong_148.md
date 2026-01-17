@@ -1,6 +1,9 @@
-
-
-[← Chương 147](chuong_147.md) | [📚 Mục lục](README.md) | [Chương 149 →](chuong_149.md)
+---
+layout: default
+title: Chương 148: Làm cho người cảm động hảo huynh đệ
+chapter_number: 148
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -211,6 +214,6 @@ Không hổ là hảo huynh đệ của mình!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-148](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-148)
 - Thời gian scrape: 2026-01-13 21:48:14
 
-
-[← Chương 147](chuong_147.md) | [📚 Mục lục](README.md) | [Chương 149 →](chuong_149.md)
-
+<div class="chapter-nav">
+    <a href="chuong_147.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_149.html" class="nav-btn">Chương sau →</a>
+</div>

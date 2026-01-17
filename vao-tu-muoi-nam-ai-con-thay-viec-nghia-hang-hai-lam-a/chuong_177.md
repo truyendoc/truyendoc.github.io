@@ -1,6 +1,9 @@
-
-
-[← Chương 176](chuong_176.md) | [📚 Mục lục](README.md) | [Chương 178 →](chuong_178.md)
+---
+layout: default
+title: Chương 177: Trình Dương dập đầu, Tào Côn làm ca
+chapter_number: 177
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Khí Tào Côn nghiến răng nghiến lợi.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-177](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-177)
 - Thời gian scrape: 2026-01-13 21:49:58
 
-
-[← Chương 176](chuong_176.md) | [📚 Mục lục](README.md) | [Chương 178 →](chuong_178.md)
-
+<div class="chapter-nav">
+    <a href="chuong_176.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_178.html" class="nav-btn">Chương sau →</a>
+</div>

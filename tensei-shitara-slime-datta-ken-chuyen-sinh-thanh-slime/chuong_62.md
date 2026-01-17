@@ -1,6 +1,9 @@
-
-
-[← Chương 61](chuong_61.md) | [📚 Mục lục](README.md) | [Chương 63 →](chuong_63.md)
+---
+layout: default
+title: Chương 62
+chapter_number: 62
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -476,6 +479,6 @@ Thời điểm trừng phạt đã đến.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-62](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-62)
 - Thời gian scrape: 2026-01-17 09:40:43
 
-
-[← Chương 61](chuong_61.md) | [📚 Mục lục](README.md) | [Chương 63 →](chuong_63.md)
-
+<div class="chapter-nav">
+    <a href="chuong_61.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_63.html" class="nav-btn">Chương sau →</a>
+</div>

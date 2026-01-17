@@ -1,6 +1,9 @@
-
-
-[← Chương 75](chuong_75.md) | [📚 Mục lục](README.md) | [Chương 77 →](chuong_77.md)
+---
+layout: default
+title: Chương 76: Lại là một nhà đại cẩu so
+chapter_number: 76
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Nói, Tào Côn hướng miệng bên trong miệng lớn lay một ngụm, tr�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-76](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-76)
 - Thời gian scrape: 2026-01-13 21:43:47
 
-
-[← Chương 75](chuong_75.md) | [📚 Mục lục](README.md) | [Chương 77 →](chuong_77.md)
-
+<div class="chapter-nav">
+    <a href="chuong_75.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_77.html" class="nav-btn">Chương sau →</a>
+</div>

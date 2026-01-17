@@ -1,6 +1,9 @@
-
-
-[← Chương 560](chuong_560.md) | [📚 Mục lục](README.md) | [Chương 562 →](chuong_562.md)
+---
+layout: default
+title: Chương 561: Đời thứ nhất tình nhân, Khương Mẫn
+chapter_number: 561
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Nói đến đây, Trương Cương duỗi cái lưng mệt mỏi, tiếp tục 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-561](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-561)
 - Thời gian scrape: 2026-01-13 22:12:53
 
-
-[← Chương 560](chuong_560.md) | [📚 Mục lục](README.md) | [Chương 562 →](chuong_562.md)
-
+<div class="chapter-nav">
+    <a href="chuong_560.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_562.html" class="nav-btn">Chương sau →</a>
+</div>

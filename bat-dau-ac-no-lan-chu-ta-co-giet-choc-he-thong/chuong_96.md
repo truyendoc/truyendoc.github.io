@@ -1,6 +1,9 @@
-
-
-[← Chương 95](chuong_95.md) | [📚 Mục lục](README.md) | [Chương 97 →](chuong_97.md)
+---
+layout: default
+title: Chương 96: quét ngang thủy trại
+chapter_number: 96
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -291,6 +294,6 @@ Thẩm Dục dự định tới một lần rút thưởng.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-96](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-96)
 - Thời gian scrape: 2026-01-13 00:27:59
 
-
-[← Chương 95](chuong_95.md) | [📚 Mục lục](README.md) | [Chương 97 →](chuong_97.md)
-
+<div class="chapter-nav">
+    <a href="chuong_95.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_97.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 409](chuong_409.md) | [📚 Mục lục](README.md) | [Chương 411 →](chuong_411.md)
+---
+layout: default
+title: Chương 410: Cự ngạc giấu kim khố
+chapter_number: 410
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Bị độc c·hết!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-410](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-410)
 - Thời gian scrape: 2026-01-13 22:04:08
 
-
-[← Chương 409](chuong_409.md) | [📚 Mục lục](README.md) | [Chương 411 →](chuong_411.md)
-
+<div class="chapter-nav">
+    <a href="chuong_409.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_411.html" class="nav-btn">Chương sau →</a>
+</div>

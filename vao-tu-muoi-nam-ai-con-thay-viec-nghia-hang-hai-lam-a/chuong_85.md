@@ -1,6 +1,9 @@
-
-
-[← Chương 84](chuong_84.md) | [📚 Mục lục](README.md) | [Chương 86 →](chuong_86.md)
+---
+layout: default
+title: Chương 85: Một cái không hiểu chuyện thối đệ đệ
+chapter_number: 85
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Từ Kiều Kiều sững sờ, xinh đẹp khuôn mặt đỏ lên, trực ti�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-85](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-85)
 - Thời gian scrape: 2026-01-13 21:44:37
 
-
-[← Chương 84](chuong_84.md) | [📚 Mục lục](README.md) | [Chương 86 →](chuong_86.md)
-
+<div class="chapter-nav">
+    <a href="chuong_84.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_86.html" class="nav-btn">Chương sau →</a>
+</div>

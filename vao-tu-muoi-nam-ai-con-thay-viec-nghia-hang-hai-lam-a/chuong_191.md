@@ -1,6 +1,9 @@
-
-
-[← Chương 190](chuong_190.md) | [📚 Mục lục](README.md) | [Chương 192 →](chuong_192.md)
+---
+layout: default
+title: Chương 191: Tâm ngoan thủ lạt mới là bản tính của ta
+chapter_number: 191
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Nghe Tào Côn lần này quỷ biện, Lưu Hồng triệt để nhịn không 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-191](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-191)
 - Thời gian scrape: 2026-01-13 21:50:45
 
-
-[← Chương 190](chuong_190.md) | [📚 Mục lục](README.md) | [Chương 192 →](chuong_192.md)
-
+<div class="chapter-nav">
+    <a href="chuong_190.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_192.html" class="nav-btn">Chương sau →</a>
+</div>

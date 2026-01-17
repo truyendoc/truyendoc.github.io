@@ -1,6 +1,9 @@
-
-
-[← Chương 415](chuong_415.md) | [📚 Mục lục](README.md) | [Chương 417 →](chuong_417.md)
+---
+layout: default
+title: Chương 416: Bị nắm cự ngạc
+chapter_number: 416
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Rất hiển nhiên, hắn đã ở trong lòng làm ra quyết định!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-416](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-416)
 - Thời gian scrape: 2026-01-13 22:04:26
 
-
-[← Chương 415](chuong_415.md) | [📚 Mục lục](README.md) | [Chương 417 →](chuong_417.md)
-
+<div class="chapter-nav">
+    <a href="chuong_415.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_417.html" class="nav-btn">Chương sau →</a>
+</div>

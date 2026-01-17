@@ -1,6 +1,9 @@
-
-
-[← Chương 52](chuong_52.md) | [📚 Mục lục](README.md) | [Chương 54 →](chuong_54.md)
+---
+layout: default
+title: Chương 53
+chapter_number: 53
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -352,6 +355,6 @@ Cần chú thích rõ, Tempest từ đầu đến giờ đều được gọi l�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-53](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-53)
 - Thời gian scrape: 2026-01-17 09:40:19
 
-
-[← Chương 52](chuong_52.md) | [📚 Mục lục](README.md) | [Chương 54 →](chuong_54.md)
-
+<div class="chapter-nav">
+    <a href="chuong_52.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_54.html" class="nav-btn">Chương sau →</a>
+</div>

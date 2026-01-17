@@ -1,6 +1,9 @@
-
-
-[← Chương 114](chuong_114.md) | [📚 Mục lục](README.md) | [Chương 116 →](chuong_116.md)
+---
+layout: default
+title: Chương 115: mở giết
+chapter_number: 115
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -231,6 +234,6 @@ Bất quá, thịt muỗi cũng là thịt, Thẩm Dục cũng không chê.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-115](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-115)
 - Thời gian scrape: 2026-01-13 00:28:54
 
-
-[← Chương 114](chuong_114.md) | [📚 Mục lục](README.md) | [Chương 116 →](chuong_116.md)
-
+<div class="chapter-nav">
+    <a href="chuong_114.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_116.html" class="nav-btn">Chương sau →</a>
+</div>

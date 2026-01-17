@@ -1,6 +1,9 @@
-
-
-[← Chương 183](chuong_183.md) | [📚 Mục lục](README.md) | [Chương 185 →](chuong_185.md)
+---
+layout: default
+title: Chương 184: tiến về Thang Cốc
+chapter_number: 184
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -267,6 +270,6 @@ Chỉ cần Ngu Tuyết Oánh nguyện ý, tuỳ tiện cũng có thể diệt b
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-184](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-184)
 - Thời gian scrape: 2026-01-13 00:32:00
 
-
-[← Chương 183](chuong_183.md) | [📚 Mục lục](README.md) | [Chương 185 →](chuong_185.md)
-
+<div class="chapter-nav">
+    <a href="chuong_183.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_185.html" class="nav-btn">Chương sau →</a>
+</div>

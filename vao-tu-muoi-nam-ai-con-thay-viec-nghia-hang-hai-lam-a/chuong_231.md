@@ -1,6 +1,9 @@
-
-
-[← Chương 230](chuong_230.md) | [📚 Mục lục](README.md) | [Chương 232 →](chuong_232.md)
+---
+layout: default
+title: Chương 231: Lại đồ ăn nghiện lại lớn
+chapter_number: 231
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Trước kia mình qua, gọi là thứ đồ gì!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-231](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-231)
 - Thời gian scrape: 2026-01-13 21:53:35
 
-
-[← Chương 230](chuong_230.md) | [📚 Mục lục](README.md) | [Chương 232 →](chuong_232.md)
-
+<div class="chapter-nav">
+    <a href="chuong_230.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_232.html" class="nav-btn">Chương sau →</a>
+</div>

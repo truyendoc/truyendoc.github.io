@@ -1,6 +1,9 @@
-
-
-[← Chương 136](chuong_136.md) | [📚 Mục lục](README.md) | [Chương 138 →](chuong_138.md)
+---
+layout: default
+title: Chương 137: Tam nữ một nam thực tình cơ
+chapter_number: 137
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Bởi vì, một khi truyền đi, nàng muốn gả nhập thượng lưu xã h
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-137](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-137)
 - Thời gian scrape: 2026-01-13 21:47:35
 
-
-[← Chương 136](chuong_136.md) | [📚 Mục lục](README.md) | [Chương 138 →](chuong_138.md)
-
+<div class="chapter-nav">
+    <a href="chuong_136.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_138.html" class="nav-btn">Chương sau →</a>
+</div>

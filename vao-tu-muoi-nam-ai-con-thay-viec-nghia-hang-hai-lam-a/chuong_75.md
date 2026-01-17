@@ -1,6 +1,9 @@
-
-
-[← Chương 74](chuong_74.md) | [📚 Mục lục](README.md) | [Chương 76 →](chuong_76.md)
+---
+layout: default
+title: Chương 75: Hảo huynh đệ tới
+chapter_number: 75
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Nghe được Tôn Vĩ cái tên này, Tào Côn mặc quần động tác dừn
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-75](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-75)
 - Thời gian scrape: 2026-01-13 21:43:43
 
-
-[← Chương 74](chuong_74.md) | [📚 Mục lục](README.md) | [Chương 76 →](chuong_76.md)
-
+<div class="chapter-nav">
+    <a href="chuong_74.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_76.html" class="nav-btn">Chương sau →</a>
+</div>

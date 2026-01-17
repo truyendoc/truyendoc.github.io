@@ -1,6 +1,9 @@
-
-
-[← Chương 598](chuong_598.md) | [📚 Mục lục](README.md) | [Chương 600 →](chuong_600.md)
+---
+layout: default
+title: Chương 599: Thám tử tư Đào Băng Băng
+chapter_number: 599
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Mặc dù nhìn chính là cùng một chỗ ngoài ý muốn, nhưng là Tào C
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-599](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-599)
 - Thời gian scrape: 2026-01-13 22:15:01
 
-
-[← Chương 598](chuong_598.md) | [📚 Mục lục](README.md) | [Chương 600 →](chuong_600.md)
-
+<div class="chapter-nav">
+    <a href="chuong_598.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_600.html" class="nav-btn">Chương sau →</a>
+</div>

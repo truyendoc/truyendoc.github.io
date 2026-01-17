@@ -1,6 +1,9 @@
-
-
-[← Chương 228](chuong_228.md) | [📚 Mục lục](README.md) | [Chương 230 →](chuong_230.md)
+---
+layout: default
+title: Chương 229: Dựa thế giết người
+chapter_number: 229
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Nói, Tiêu Văn Tĩnh nhìn về phía Tào Côn, nói: "Tào lão bản, nếu
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-229](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-229)
 - Thời gian scrape: 2026-01-13 21:53:28
 
-
-[← Chương 228](chuong_228.md) | [📚 Mục lục](README.md) | [Chương 230 →](chuong_230.md)
-
+<div class="chapter-nav">
+    <a href="chuong_228.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_230.html" class="nav-btn">Chương sau →</a>
+</div>

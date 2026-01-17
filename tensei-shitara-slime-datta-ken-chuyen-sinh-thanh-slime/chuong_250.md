@@ -1,6 +1,9 @@
-
-
-[← Chương 249](chuong_249.md) | [📚 Mục lục](README.md) | [Chương 251 →](chuong_251.md)
+---
+layout: default
+title: Chương 250
+chapter_number: 250
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -446,6 +449,6 @@ Yuuki nói với một nụ cười trên môi khi chĩa thanh Khởi Nguyên: V
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-250](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-250)
 - Thời gian scrape: 2026-01-17 09:49:36
 
-
-[← Chương 249](chuong_249.md) | [📚 Mục lục](README.md) | [Chương 251 →](chuong_251.md)
-
+<div class="chapter-nav">
+    <a href="chuong_249.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_251.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 338](chuong_338.md) | [📚 Mục lục](README.md) | [Chương 340 →](chuong_340.md)
+---
+layout: default
+title: Chương 339: Nếu không ngươi đi vào chờ lâu mấy năm (2)
+chapter_number: 339
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -113,6 +116,6 @@ Bỗng nhiên, Ngu Tuyết Oánh mở miệng nói: “Nếu không, ngươi đi
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-339](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-339)
 - Thời gian scrape: 2026-01-13 00:24:05
 
-
-[← Chương 338](chuong_338.md) | [📚 Mục lục](README.md) | [Chương 340 →](chuong_340.md)
-
+<div class="chapter-nav">
+    <a href="chuong_338.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_340.html" class="nav-btn">Chương sau →</a>
+</div>

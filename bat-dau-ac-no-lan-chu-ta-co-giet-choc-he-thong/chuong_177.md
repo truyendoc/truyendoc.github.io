@@ -1,6 +1,9 @@
-
-
-[← Chương 176](chuong_176.md) | [📚 Mục lục](README.md) | [Chương 178 →](chuong_178.md)
+---
+layout: default
+title: Chương 177: thần thụ cành cây
+chapter_number: 177
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -221,6 +224,6 @@ Công Tôn Sắc Vi có chút nghiền ngẫm nói “Đã ngươi không hiểu
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-177](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-177)
 - Thời gian scrape: 2026-01-13 00:31:44
 
-
-[← Chương 176](chuong_176.md) | [📚 Mục lục](README.md) | [Chương 178 →](chuong_178.md)
-
+<div class="chapter-nav">
+    <a href="chuong_176.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_178.html" class="nav-btn">Chương sau →</a>
+</div>

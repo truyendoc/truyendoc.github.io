@@ -1,6 +1,9 @@
-
-
-[← Chương 666](chuong_666.md) | [📚 Mục lục](README.md) | [Chương 668 →](chuong_668.md)
+---
+layout: default
+title: Chương 667: Ta muốn Ma Đô Kim Khoa sinh vật
+chapter_number: 667
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Trách không được vẫn cảm thấy thiếu chút gì sự tình.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-667](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-667)
 - Thời gian scrape: 2026-01-13 22:19:02
 
-
-[← Chương 666](chuong_666.md) | [📚 Mục lục](README.md) | [Chương 668 →](chuong_668.md)
-
+<div class="chapter-nav">
+    <a href="chuong_666.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_668.html" class="nav-btn">Chương sau →</a>
+</div>

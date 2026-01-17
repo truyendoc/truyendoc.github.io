@@ -1,6 +1,9 @@
-
-
-[← Chương 712](chuong_712.md) | [📚 Mục lục](README.md) | [Chương 714 →](chuong_714.md)
+---
+layout: default
+title: Chương 713: Hèn hạ Cường Mỹ tập đoàn
+chapter_number: 713
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Tráng hán da trắng lắc đầu, không cam lòng nói: "Bên này mũ thúc
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-713](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-713)
 - Thời gian scrape: 2026-01-13 22:21:41
 
-
-[← Chương 712](chuong_712.md) | [📚 Mục lục](README.md) | [Chương 714 →](chuong_714.md)
-
+<div class="chapter-nav">
+    <a href="chuong_712.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_714.html" class="nav-btn">Chương sau →</a>
+</div>

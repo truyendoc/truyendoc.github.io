@@ -1,6 +1,9 @@
-
-
-[← Chương 300](chuong_300.md) | [📚 Mục lục](README.md) | [Chương 302 →](chuong_302.md)
+---
+layout: default
+title: Chương 301: Chính thức vào ở số tám biệt thự
+chapter_number: 301
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Mà Tào Côn đám người, cũng vào hôm nay, chính thức vào ở đến
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-301](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-301)
 - Thời gian scrape: 2026-01-13 21:57:43
 
-
-[← Chương 300](chuong_300.md) | [📚 Mục lục](README.md) | [Chương 302 →](chuong_302.md)
-
+<div class="chapter-nav">
+    <a href="chuong_300.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_302.html" class="nav-btn">Chương sau →</a>
+</div>

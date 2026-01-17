@@ -1,6 +1,9 @@
-
-
-[← Chương 3](chuong_3.md) | [📚 Mục lục](README.md) | [Chương 5 →](chuong_5.md)
+---
+layout: default
+title: Chương 4: Xuân Nha cùng Đông Nhi
+chapter_number: 4
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -203,6 +206,6 @@ Thẩm Dục liền bắt đầu suy nghĩ, nên như thế nào thu hoạch cà
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-4](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-4)
 - Thời gian scrape: 2026-01-13 21:09:16
 
-
-[← Chương 3](chuong_3.md) | [📚 Mục lục](README.md) | [Chương 5 →](chuong_5.md)
-
+<div class="chapter-nav">
+    <a href="chuong_3.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_5.html" class="nav-btn">Chương sau →</a>
+</div>

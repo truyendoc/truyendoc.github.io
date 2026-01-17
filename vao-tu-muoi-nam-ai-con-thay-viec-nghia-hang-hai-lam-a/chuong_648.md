@@ -1,6 +1,9 @@
-
-
-[← Chương 647](chuong_647.md) | [📚 Mục lục](README.md) | [Chương 649 →](chuong_649.md)
+---
+layout: default
+title: Chương 648: Nhất định phải đạt được Bàng Hồng Na
+chapter_number: 648
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Tưởng Trung Vân một mặt hồ đồ, nói: "Lão bản, ngài có ý tứ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-648](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-648)
 - Thời gian scrape: 2026-01-13 22:17:53
 
-
-[← Chương 647](chuong_647.md) | [📚 Mục lục](README.md) | [Chương 649 →](chuong_649.md)
-
+<div class="chapter-nav">
+    <a href="chuong_647.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_649.html" class="nav-btn">Chương sau →</a>
+</div>

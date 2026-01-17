@@ -1,6 +1,9 @@
-
-
-[← Chương 94](chuong_94.md) | [📚 Mục lục](README.md) | [Chương 96 →](chuong_96.md)
+---
+layout: default
+title: Chương 95
+chapter_number: 95
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -440,6 +443,6 @@ Ngay lúc này đây, một ngọn lửa hận thù bùng lên bên trong tôi.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-95](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-95)
 - Thời gian scrape: 2026-01-17 09:42:14
 
-
-[← Chương 94](chuong_94.md) | [📚 Mục lục](README.md) | [Chương 96 →](chuong_96.md)
-
+<div class="chapter-nav">
+    <a href="chuong_94.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_96.html" class="nav-btn">Chương sau →</a>
+</div>

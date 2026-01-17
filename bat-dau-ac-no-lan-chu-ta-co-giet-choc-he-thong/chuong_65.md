@@ -1,6 +1,9 @@
-
-
-[← Chương 64](chuong_64.md) | [📚 Mục lục](README.md) | [Chương 66 →](chuong_66.md)
+---
+layout: default
+title: Chương 65: tạo phản hộ chuyên nghiệp Thần Liên Đạo
+chapter_number: 65
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -219,6 +222,6 @@ Thẩm Dục từ trên ghế đứng lên, cười nói: “Đại ca tới, ă
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-65](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-65)
 - Thời gian scrape: 2026-01-13 21:16:36
 
-
-[← Chương 64](chuong_64.md) | [📚 Mục lục](README.md) | [Chương 66 →](chuong_66.md)
-
+<div class="chapter-nav">
+    <a href="chuong_64.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_66.html" class="nav-btn">Chương sau →</a>
+</div>

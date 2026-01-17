@@ -1,6 +1,9 @@
-
-
-[← Chương 664](chuong_664.md) | [📚 Mục lục](README.md) | [Chương 666 →](chuong_666.md)
+---
+layout: default
+title: Chương 665: Phỉ báng, tất cả đều là phỉ báng!
+chapter_number: 665
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Hắn lại đánh một cái Dương Ngọc Đình bờ mông, nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-665](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-665)
 - Thời gian scrape: 2026-01-13 22:18:53
 
-
-[← Chương 664](chuong_664.md) | [📚 Mục lục](README.md) | [Chương 666 →](chuong_666.md)
-
+<div class="chapter-nav">
+    <a href="chuong_664.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_666.html" class="nav-btn">Chương sau →</a>
+</div>

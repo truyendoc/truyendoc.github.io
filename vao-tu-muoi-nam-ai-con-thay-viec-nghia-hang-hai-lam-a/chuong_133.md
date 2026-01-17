@@ -1,6 +1,9 @@
-
-
-[← Chương 132](chuong_132.md) | [📚 Mục lục](README.md) | [Chương 134 →](chuong_134.md)
+---
+layout: default
+title: Chương 133: Hoàn mỹ phòng chứa
+chapter_number: 133
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Nghe được Tào Côn yêu cầu này, Tô Kiến Dân trực tiếp vỗ mộ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-133](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-133)
 - Thời gian scrape: 2026-01-13 21:47:10
 
-
-[← Chương 132](chuong_132.md) | [📚 Mục lục](README.md) | [Chương 134 →](chuong_134.md)
-
+<div class="chapter-nav">
+    <a href="chuong_132.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_134.html" class="nav-btn">Chương sau →</a>
+</div>

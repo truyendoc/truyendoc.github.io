@@ -1,6 +1,9 @@
-
-
-[← Chương 265](chuong_265.md) | [📚 Mục lục](README.md) | [Chương 267 →](chuong_267.md)
+---
+layout: default
+title: Chương 266
+chapter_number: 266
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -456,6 +459,6 @@ Và thế là, ngày thứ ba đã khép lại một cách vô cùng thỏa mãn
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-266](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-266)
 - Thời gian scrape: 2026-01-17 09:50:25
 
-
-[← Chương 265](chuong_265.md) | [📚 Mục lục](README.md) | [Chương 267 →](chuong_267.md)
-
+<div class="chapter-nav">
+    <a href="chuong_265.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_267.html" class="nav-btn">Chương sau →</a>
+</div>

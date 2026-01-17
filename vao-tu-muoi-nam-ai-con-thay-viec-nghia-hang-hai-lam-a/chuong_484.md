@@ -1,6 +1,9 @@
-
-
-[← Chương 483](chuong_483.md) | [📚 Mục lục](README.md) | [Chương 485 →](chuong_485.md)
+---
+layout: default
+title: Chương 484: Hắn vẫn còn con nít a
+chapter_number: 484
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -155,6 +158,6 @@ Nàng hăng hái gật đầu, nói: "Cái kia, Tào lão bản muốn làm sao 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-484](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-484)
 - Thời gian scrape: 2026-01-13 22:08:32
 
-
-[← Chương 483](chuong_483.md) | [📚 Mục lục](README.md) | [Chương 485 →](chuong_485.md)
-
+<div class="chapter-nav">
+    <a href="chuong_483.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_485.html" class="nav-btn">Chương sau →</a>
+</div>

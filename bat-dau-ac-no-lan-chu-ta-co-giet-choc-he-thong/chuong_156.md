@@ -1,6 +1,9 @@
-
-
-[← Chương 155](chuong_155.md) | [📚 Mục lục](README.md) | [Chương 157 →](chuong_157.md)
+---
+layout: default
+title: Chương 156: có người muốn đào góc tường
+chapter_number: 156
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -255,6 +258,6 @@ Trấn Yêu Quân người phái tới đưa lên ba đầu Khí Hải cảnh y�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-156](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-156)
 - Thời gian scrape: 2026-01-13 00:30:53
 
-
-[← Chương 155](chuong_155.md) | [📚 Mục lục](README.md) | [Chương 157 →](chuong_157.md)
-
+<div class="chapter-nav">
+    <a href="chuong_155.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_157.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 217](chuong_217.md) | [📚 Mục lục](README.md) | [Chương 219 →](chuong_219.md)
+---
+layout: default
+title: Chương 218: Quả nhiên đổ vỏ
+chapter_number: 218
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Không bao lâu, ba ba tiếng bạt tai liền vang lên, kèm theo, còn có m
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-218](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-218)
 - Thời gian scrape: 2026-01-13 21:52:46
 
-
-[← Chương 217](chuong_217.md) | [📚 Mục lục](README.md) | [Chương 219 →](chuong_219.md)
-
+<div class="chapter-nav">
+    <a href="chuong_217.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_219.html" class="nav-btn">Chương sau →</a>
+</div>

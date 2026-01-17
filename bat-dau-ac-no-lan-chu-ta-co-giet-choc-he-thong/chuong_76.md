@@ -1,6 +1,9 @@
-
-
-[← Chương 75](chuong_75.md) | [📚 Mục lục](README.md) | [Chương 77 →](chuong_77.md)
+---
+layout: default
+title: Chương 76: Hàn Mộ rốt cục rời đi
+chapter_number: 76
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -191,6 +194,6 @@ Dạng này, coi như phía trên hoài nghi, cũng hoài nghi không đến Vâ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-76](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-76)
 - Thời gian scrape: 2026-01-13 21:17:15
 
-
-[← Chương 75](chuong_75.md) | [📚 Mục lục](README.md) | [Chương 77 →](chuong_77.md)
-
+<div class="chapter-nav">
+    <a href="chuong_75.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_77.html" class="nav-btn">Chương sau →</a>
+</div>

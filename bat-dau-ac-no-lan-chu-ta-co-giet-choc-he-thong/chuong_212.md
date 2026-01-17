@@ -1,6 +1,9 @@
-
-
-[← Chương 211](chuong_211.md) | [📚 Mục lục](README.md) | [Chương 213 →](chuong_213.md)
+---
+layout: default
+title: Chương 212: lòng dạ hẹp hòi khí vận chi tử
+chapter_number: 212
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -201,6 +204,6 @@ Dù sao biết rõ đối phương là bạch nhãn lang còn giúp hắn, chẳ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-212](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-212)
 - Thời gian scrape: 2026-01-13 00:33:06
 
-
-[← Chương 211](chuong_211.md) | [📚 Mục lục](README.md) | [Chương 213 →](chuong_213.md)
-
+<div class="chapter-nav">
+    <a href="chuong_211.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_213.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 622](chuong_622.md) | [📚 Mục lục](README.md) | [Chương 624 →](chuong_624.md)
+---
+layout: default
+title: Chương 623: Lão bản tự thân lên trận
+chapter_number: 623
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Cho nên, hắn hôm nay hành trình xác thực rất bận.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-623](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-623)
 - Thời gian scrape: 2026-01-13 22:16:27
 
-
-[← Chương 622](chuong_622.md) | [📚 Mục lục](README.md) | [Chương 624 →](chuong_624.md)
-
+<div class="chapter-nav">
+    <a href="chuong_622.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_624.html" class="nav-btn">Chương sau →</a>
+</div>

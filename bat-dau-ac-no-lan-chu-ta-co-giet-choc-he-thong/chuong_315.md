@@ -1,6 +1,9 @@
-
-
-[← Chương 314](chuong_314.md) | [📚 Mục lục](README.md) | [Chương 316 →](chuong_316.md)
+---
+layout: default
+title: Chương 315: Thay Nhị hoàng tử bày mưu tính kế (2)
+chapter_number: 315
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -125,6 +128,6 @@ Hắn không có được tuyển chọn, đích thật là một cái chuyện 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-315](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-315)
 - Thời gian scrape: 2026-01-13 00:23:08
 
-
-[← Chương 314](chuong_314.md) | [📚 Mục lục](README.md) | [Chương 316 →](chuong_316.md)
-
+<div class="chapter-nav">
+    <a href="chuong_314.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_316.html" class="nav-btn">Chương sau →</a>
+</div>

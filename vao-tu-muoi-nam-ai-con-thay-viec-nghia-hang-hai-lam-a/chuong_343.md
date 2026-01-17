@@ -1,6 +1,9 @@
-
-
-[← Chương 342](chuong_342.md) | [📚 Mục lục](README.md) | [Chương 344 →](chuong_344.md)
+---
+layout: default
+title: Chương 343: Biến thái anh em nhà họ Liễu
+chapter_number: 343
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Dương Tam Đao cười ha ha một tiếng, nói: "Đúng đúng đúng, chún
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-343](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-343)
 - Thời gian scrape: 2026-01-13 22:00:15
 
-
-[← Chương 342](chuong_342.md) | [📚 Mục lục](README.md) | [Chương 344 →](chuong_344.md)
-
+<div class="chapter-nav">
+    <a href="chuong_342.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_344.html" class="nav-btn">Chương sau →</a>
+</div>

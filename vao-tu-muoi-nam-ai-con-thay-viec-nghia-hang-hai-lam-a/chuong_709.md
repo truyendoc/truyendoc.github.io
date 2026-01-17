@@ -1,6 +1,9 @@
-
-
-[← Chương 708](chuong_708.md) | [📚 Mục lục](README.md) | [Chương 710 →](chuong_710.md)
+---
+layout: default
+title: Chương 709: Tiền nhiều đại soái bức
+chapter_number: 709
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -193,6 +196,6 @@ Cho nên, nếu có so nội ứng càng kiếm tiền đường tắt, nàng kh
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-709](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-709)
 - Thời gian scrape: 2026-01-13 22:21:28
 
-
-[← Chương 708](chuong_708.md) | [📚 Mục lục](README.md) | [Chương 710 →](chuong_710.md)
-
+<div class="chapter-nav">
+    <a href="chuong_708.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_710.html" class="nav-btn">Chương sau →</a>
+</div>

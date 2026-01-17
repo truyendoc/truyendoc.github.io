@@ -1,6 +1,9 @@
-
-
-[← Chương 256](chuong_256.md) | [📚 Mục lục](README.md) | [Chương 258 →](chuong_258.md)
+---
+layout: default
+title: Chương 257: Đột phá Thông Thiên cảnh (2)
+chapter_number: 257
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -139,6 +142,6 @@ Môn thần thông này quả thực chính là vì hắn chế tạo riêng.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-257](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-257)
 - Thời gian scrape: 2026-01-13 00:34:54
 
-
-[← Chương 256](chuong_256.md) | [📚 Mục lục](README.md) | [Chương 258 →](chuong_258.md)
-
+<div class="chapter-nav">
+    <a href="chuong_256.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_258.html" class="nav-btn">Chương sau →</a>
+</div>

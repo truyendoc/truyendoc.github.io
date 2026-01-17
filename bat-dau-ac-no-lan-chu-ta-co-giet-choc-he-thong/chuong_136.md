@@ -1,6 +1,9 @@
-
-
-[← Chương 135](chuong_135.md) | [📚 Mục lục](README.md) | [Chương 137 →](chuong_137.md)
+---
+layout: default
+title: Chương 136: Ma Vân Giáo bí cảnh
+chapter_number: 136
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -239,6 +242,6 @@ Nhưng Nguyên Đan Cảnh đầu người khẳng định lấy được.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-136](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-136)
 - Thời gian scrape: 2026-01-13 00:29:56
 
-
-[← Chương 135](chuong_135.md) | [📚 Mục lục](README.md) | [Chương 137 →](chuong_137.md)
-
+<div class="chapter-nav">
+    <a href="chuong_135.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_137.html" class="nav-btn">Chương sau →</a>
+</div>

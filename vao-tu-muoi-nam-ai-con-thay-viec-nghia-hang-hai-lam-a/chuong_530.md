@@ -1,6 +1,9 @@
-
-
-[← Chương 529](chuong_529.md) | [📚 Mục lục](README.md) | [Chương 531 →](chuong_531.md)
+---
+layout: default
+title: Chương 530: Tận hứng mà về
+chapter_number: 530
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -147,6 +150,6 @@ Bất quá, Tào Côn đâu thèm hắn cái này, trực tiếp liền cưỡng
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-530](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-530)
 - Thời gian scrape: 2026-01-13 22:11:08
 
-
-[← Chương 529](chuong_529.md) | [📚 Mục lục](README.md) | [Chương 531 →](chuong_531.md)
-
+<div class="chapter-nav">
+    <a href="chuong_529.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_531.html" class="nav-btn">Chương sau →</a>
+</div>

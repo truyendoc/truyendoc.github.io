@@ -1,6 +1,9 @@
-
-
-[← Chương 458](chuong_458.md) | [📚 Mục lục](README.md) | [Chương 460 →](chuong_460.md)
+---
+layout: default
+title: Chương 459: Trăm tỷ hào môn Thiếu nãi nãi
+chapter_number: 459
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Vương San San xin lỗi nói; "Học trưởng, thật xin lỗi, mấy ngày 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-459](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-459)
 - Thời gian scrape: 2026-01-13 22:07:07
 
-
-[← Chương 458](chuong_458.md) | [📚 Mục lục](README.md) | [Chương 460 →](chuong_460.md)
-
+<div class="chapter-nav">
+    <a href="chuong_458.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_460.html" class="nav-btn">Chương sau →</a>
+</div>

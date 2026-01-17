@@ -1,6 +1,9 @@
-
-
-[← Chương 333](chuong_333.md) | [📚 Mục lục](README.md) | [Chương 335 →](chuong_335.md)
+---
+layout: default
+title: Chương 334: Bốc Hạnh Phúc cái kia Ôn Nhu hiền lành truyền thống tốt lão bà
+chapter_number: 334
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Bốc Hạnh Phúc nghĩ nghĩ, nói: "Liền quét dọn việc nhà, dạo ph�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-334](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-334)
 - Thời gian scrape: 2026-01-13 21:59:41
 
-
-[← Chương 333](chuong_333.md) | [📚 Mục lục](README.md) | [Chương 335 →](chuong_335.md)
-
+<div class="chapter-nav">
+    <a href="chuong_333.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_335.html" class="nav-btn">Chương sau →</a>
+</div>

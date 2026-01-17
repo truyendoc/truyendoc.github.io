@@ -1,6 +1,9 @@
-
-
-[← Chương 3](chuong_3.md) | [📚 Mục lục](README.md) | [Chương 5 →](chuong_5.md)
+---
+layout: default
+title: Chương 4: Thật là một cái hiền lành tốt nàng dâu
+chapter_number: 4
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -215,6 +218,6 @@ Hắc. . . . . Thật là một cái hiền lành tốt nàng dâu!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-4](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-4)
 - Thời gian scrape: 2026-01-13 21:39:38
 
-
-[← Chương 3](chuong_3.md) | [📚 Mục lục](README.md) | [Chương 5 →](chuong_5.md)
-
+<div class="chapter-nav">
+    <a href="chuong_3.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_5.html" class="nav-btn">Chương sau →</a>
+</div>

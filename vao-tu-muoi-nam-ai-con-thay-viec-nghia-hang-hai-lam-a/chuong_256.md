@@ -1,6 +1,9 @@
-
-
-[← Chương 255](chuong_255.md) | [📚 Mục lục](README.md) | [Chương 257 →](chuong_257.md)
+---
+layout: default
+title: Chương 256: Liễu gia hiệu ăn, nổ
+chapter_number: 256
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -207,6 +210,6 @@ Cho nên, Trình Dương cùng Ngốc Cẩu lúc này ngay tại Tôn Phỉ Ph�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-256](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-256)
 - Thời gian scrape: 2026-01-13 21:55:01
 
-
-[← Chương 255](chuong_255.md) | [📚 Mục lục](README.md) | [Chương 257 →](chuong_257.md)
-
+<div class="chapter-nav">
+    <a href="chuong_255.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_257.html" class="nav-btn">Chương sau →</a>
+</div>

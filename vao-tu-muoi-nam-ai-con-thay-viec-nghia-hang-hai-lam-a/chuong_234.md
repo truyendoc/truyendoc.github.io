@@ -1,6 +1,9 @@
-
-
-[← Chương 233](chuong_233.md) | [📚 Mục lục](README.md) | [Chương 235 →](chuong_235.md)
+---
+layout: default
+title: Chương 234: Tôn Vĩ cả nhà chết bất đắc kỳ tử
+chapter_number: 234
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Hắn đến cùng là tới làm gì?
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-234](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-234)
 - Thời gian scrape: 2026-01-13 21:53:44
 
-
-[← Chương 233](chuong_233.md) | [📚 Mục lục](README.md) | [Chương 235 →](chuong_235.md)
-
+<div class="chapter-nav">
+    <a href="chuong_233.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_235.html" class="nav-btn">Chương sau →</a>
+</div>

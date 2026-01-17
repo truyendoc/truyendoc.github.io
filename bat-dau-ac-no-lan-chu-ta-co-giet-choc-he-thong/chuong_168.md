@@ -1,6 +1,9 @@
-
-
-[← Chương 167](chuong_167.md) | [📚 Mục lục](README.md) | [Chương 169 →](chuong_169.md)
+---
+layout: default
+title: Chương 168: một góc của băng sơn
+chapter_number: 168
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -225,6 +228,6 @@ Chuyện lần này hoàn toàn chính xác cho nàng một cái cực kỳ giá
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-168](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-168)
 - Thời gian scrape: 2026-01-13 00:31:22
 
-
-[← Chương 167](chuong_167.md) | [📚 Mục lục](README.md) | [Chương 169 →](chuong_169.md)
-
+<div class="chapter-nav">
+    <a href="chuong_167.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_169.html" class="nav-btn">Chương sau →</a>
+</div>

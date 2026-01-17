@@ -1,6 +1,9 @@
-
-
-[← Chương 470](chuong_470.md) | [📚 Mục lục](README.md) | [Chương 472 →](chuong_472.md)
+---
+layout: default
+title: Chương 471: Lần thứ nhất ngẫu nhiên gặp
+chapter_number: 471
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Chỉ là nhìn xem nàng gương mặt này, liền tâm tình vui vẻ, có m�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-471](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-471)
 - Thời gian scrape: 2026-01-13 22:07:46
 
-
-[← Chương 470](chuong_470.md) | [📚 Mục lục](README.md) | [Chương 472 →](chuong_472.md)
-
+<div class="chapter-nav">
+    <a href="chuong_470.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_472.html" class="nav-btn">Chương sau →</a>
+</div>

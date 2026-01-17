@@ -1,6 +1,9 @@
-
-
-[← Chương 150](chuong_150.md) | [📚 Mục lục](README.md) | [Chương 152 →](chuong_152.md)
+---
+layout: default
+title: Chương 151: Hiểu ngươi mẹ cái lớn quả cà
+chapter_number: 151
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Cuối cùng, bất quá gặp hắn cô nhi một cái dễ khi dễ, Y Nhiên 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-151](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-151)
 - Thời gian scrape: 2026-01-13 21:48:27
 
-
-[← Chương 150](chuong_150.md) | [📚 Mục lục](README.md) | [Chương 152 →](chuong_152.md)
-
+<div class="chapter-nav">
+    <a href="chuong_150.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_152.html" class="nav-btn">Chương sau →</a>
+</div>

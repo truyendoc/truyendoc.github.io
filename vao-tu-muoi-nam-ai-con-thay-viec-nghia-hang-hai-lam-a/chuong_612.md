@@ -1,6 +1,9 @@
-
-
-[← Chương 611](chuong_611.md) | [📚 Mục lục](README.md) | [Chương 613 →](chuong_613.md)
+---
+layout: default
+title: Chương 612: Bởi vì, hắn là cái người thành thật
+chapter_number: 612
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Sau đó liền giúp Tào Côn mở cửa xe ra.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-612](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-612)
 - Thời gian scrape: 2026-01-13 22:15:49
 
-
-[← Chương 611](chuong_611.md) | [📚 Mục lục](README.md) | [Chương 613 →](chuong_613.md)
-
+<div class="chapter-nav">
+    <a href="chuong_611.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_613.html" class="nav-btn">Chương sau →</a>
+</div>

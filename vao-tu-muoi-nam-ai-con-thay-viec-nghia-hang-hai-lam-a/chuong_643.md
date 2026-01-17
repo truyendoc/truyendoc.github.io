@@ -1,6 +1,9 @@
-
-
-[← Chương 642](chuong_642.md) | [📚 Mục lục](README.md) | [Chương 644 →](chuong_644.md)
+---
+layout: default
+title: Chương 643: Tốt Tào ca ca
+chapter_number: 643
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Nghe vậy, Tào Côn một chút liền nhếch miệng cười ha hả.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-643](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-643)
 - Thời gian scrape: 2026-01-13 22:17:34
 
-
-[← Chương 642](chuong_642.md) | [📚 Mục lục](README.md) | [Chương 644 →](chuong_644.md)
-
+<div class="chapter-nav">
+    <a href="chuong_642.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_644.html" class="nav-btn">Chương sau →</a>
+</div>

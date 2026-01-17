@@ -1,6 +1,9 @@
-
-
-[← Chương 675](chuong_675.md) | [📚 Mục lục](README.md) | [Chương 677 →](chuong_677.md)
+---
+layout: default
+title: Chương 676: Ra ngoài, đi ra ngoài cho ta!
+chapter_number: 676
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Tưởng Trung Vân muốn vì mình giải thích, thế nhưng là, lại khô
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-676](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-676)
 - Thời gian scrape: 2026-01-13 22:19:34
 
-
-[← Chương 675](chuong_675.md) | [📚 Mục lục](README.md) | [Chương 677 →](chuong_677.md)
-
+<div class="chapter-nav">
+    <a href="chuong_675.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_677.html" class="nav-btn">Chương sau →</a>
+</div>

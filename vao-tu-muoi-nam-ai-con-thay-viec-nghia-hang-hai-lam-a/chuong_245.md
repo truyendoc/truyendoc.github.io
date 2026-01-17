@@ -1,6 +1,9 @@
-
-
-[← Chương 244](chuong_244.md) | [📚 Mục lục](README.md) | [Chương 246 →](chuong_246.md)
+---
+layout: default
+title: Chương 245: Cho giường nhỏ thăng cái cấp
+chapter_number: 245
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Vạn nhất lại phát sinh đêm qua như thế đấu địa chủ đấu th
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-245](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-245)
 - Thời gian scrape: 2026-01-13 21:54:22
 
-
-[← Chương 244](chuong_244.md) | [📚 Mục lục](README.md) | [Chương 246 →](chuong_246.md)
-
+<div class="chapter-nav">
+    <a href="chuong_244.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_246.html" class="nav-btn">Chương sau →</a>
+</div>

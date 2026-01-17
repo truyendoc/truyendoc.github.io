@@ -1,6 +1,9 @@
-
-
-[← Chương 653](chuong_653.md) | [📚 Mục lục](README.md) | [Chương 655 →](chuong_655.md)
+---
+layout: default
+title: Chương 654: Chó nữ nhân xin giúp đỡ
+chapter_number: 654
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Vương San San nghĩ nghĩ, nói: "Hai chúng ta là vào tháng trước lễ 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-654](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-654)
 - Thời gian scrape: 2026-01-13 22:18:15
 
-
-[← Chương 653](chuong_653.md) | [📚 Mục lục](README.md) | [Chương 655 →](chuong_655.md)
-
+<div class="chapter-nav">
+    <a href="chuong_653.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_655.html" class="nav-btn">Chương sau →</a>
+</div>

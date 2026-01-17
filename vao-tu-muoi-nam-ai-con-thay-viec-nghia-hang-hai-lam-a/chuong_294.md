@@ -1,6 +1,9 @@
-
-
-[← Chương 293](chuong_293.md) | [📚 Mục lục](README.md) | [Chương 295 →](chuong_295.md)
+---
+layout: default
+title: Chương 294: Bật hết hỏa lực, có thể lật 90 lần
+chapter_number: 294
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Hơn nữa, còn là n·hạy c·ảm như vậy vấn đề riêng, trực ti�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-294](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-294)
 - Thời gian scrape: 2026-01-13 21:57:22
 
-
-[← Chương 293](chuong_293.md) | [📚 Mục lục](README.md) | [Chương 295 →](chuong_295.md)
-
+<div class="chapter-nav">
+    <a href="chuong_293.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_295.html" class="nav-btn">Chương sau →</a>
+</div>

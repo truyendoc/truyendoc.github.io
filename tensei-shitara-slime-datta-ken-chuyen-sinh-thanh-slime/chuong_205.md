@@ -1,6 +1,9 @@
-
-
-[← Chương 204](chuong_204.md) | [📚 Mục lục](README.md) | [Chương 206 →](chuong_206.md)
+---
+layout: default
+title: Chương 205
+chapter_number: 205
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -402,6 +405,6 @@ Trận chiến quyết định của họ sẽ sớm được bắt đầu.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-205](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-205)
 - Thời gian scrape: 2026-01-17 09:47:26
 
-
-[← Chương 204](chuong_204.md) | [📚 Mục lục](README.md) | [Chương 206 →](chuong_206.md)
-
+<div class="chapter-nav">
+    <a href="chuong_204.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_206.html" class="nav-btn">Chương sau →</a>
+</div>

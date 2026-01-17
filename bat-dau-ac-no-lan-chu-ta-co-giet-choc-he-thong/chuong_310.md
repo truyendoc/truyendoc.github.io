@@ -1,6 +1,9 @@
-
-
-[← Chương 309](chuong_309.md) | [📚 Mục lục](README.md) | [Chương 311 →](chuong_311.md)
+---
+layout: default
+title: Chương 310: Bảy tòa Nguyên thạch mỏ (1)
+chapter_number: 310
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -145,6 +148,6 @@ Hắn liền đè xuống loại ý nghĩ này.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-310](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-310)
 - Thời gian scrape: 2026-01-13 00:22:57
 
-
-[← Chương 309](chuong_309.md) | [📚 Mục lục](README.md) | [Chương 311 →](chuong_311.md)
-
+<div class="chapter-nav">
+    <a href="chuong_309.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_311.html" class="nav-btn">Chương sau →</a>
+</div>

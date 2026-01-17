@@ -1,6 +1,9 @@
-
-
-[← Chương 222](chuong_222.md) | [📚 Mục lục](README.md) | [Chương 224 →](chuong_224.md)
+---
+layout: default
+title: Chương 223: Tiêu Văn Tĩnh cùng nữ nhi ân nhân cứu mạng
+chapter_number: 223
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Tào Côn cười cười, giải thích nói: "Nữ nhân ngu ngốc, ngươi s
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-223](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-223)
 - Thời gian scrape: 2026-01-13 21:53:03
 
-
-[← Chương 222](chuong_222.md) | [📚 Mục lục](README.md) | [Chương 224 →](chuong_224.md)
-
+<div class="chapter-nav">
+    <a href="chuong_222.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_224.html" class="nav-btn">Chương sau →</a>
+</div>

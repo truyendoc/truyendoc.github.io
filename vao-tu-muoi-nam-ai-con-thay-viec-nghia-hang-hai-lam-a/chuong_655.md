@@ -1,6 +1,9 @@
-
-
-[← Chương 654](chuong_654.md) | [📚 Mục lục](README.md) | [Chương 656 →](chuong_656.md)
+---
+layout: default
+title: Chương 655: Tri kỷ Vương San San
+chapter_number: 655
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Vương San San chân thành nói: "Bởi vì, đàn ông các ngươi kiếm ti
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-655](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-655)
 - Thời gian scrape: 2026-01-13 22:18:19
 
-
-[← Chương 654](chuong_654.md) | [📚 Mục lục](README.md) | [Chương 656 →](chuong_656.md)
-
+<div class="chapter-nav">
+    <a href="chuong_654.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_656.html" class="nav-btn">Chương sau →</a>
+</div>

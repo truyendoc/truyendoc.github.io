@@ -1,6 +1,9 @@
-
-
-[← Chương 434](chuong_434.md) | [📚 Mục lục](README.md) | [Chương 436 →](chuong_436.md)
+---
+layout: default
+title: Chương 435: Cùng ta phản loạn các ngươi Trương gia a
+chapter_number: 435
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Gặp Tào Côn ôm eo của mình, đem mình lôi dậy, Trương Khiết vộ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-435](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-435)
 - Thời gian scrape: 2026-01-13 22:05:33
 
-
-[← Chương 434](chuong_434.md) | [📚 Mục lục](README.md) | [Chương 436 →](chuong_436.md)
-
+<div class="chapter-nav">
+    <a href="chuong_434.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_436.html" class="nav-btn">Chương sau →</a>
+</div>

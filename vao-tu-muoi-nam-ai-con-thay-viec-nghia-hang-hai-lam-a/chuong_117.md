@@ -1,6 +1,9 @@
-
-
-[← Chương 116](chuong_116.md) | [📚 Mục lục](README.md) | [Chương 118 →](chuong_118.md)
+---
+layout: default
+title: Chương 117: Ngươi lần này thiếu ta thiếu lớn
+chapter_number: 117
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Làm sao không có nói với mình đâu?
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-117](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-117)
 - Thời gian scrape: 2026-01-13 21:46:21
 
-
-[← Chương 116](chuong_116.md) | [📚 Mục lục](README.md) | [Chương 118 →](chuong_118.md)
-
+<div class="chapter-nav">
+    <a href="chuong_116.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_118.html" class="nav-btn">Chương sau →</a>
+</div>

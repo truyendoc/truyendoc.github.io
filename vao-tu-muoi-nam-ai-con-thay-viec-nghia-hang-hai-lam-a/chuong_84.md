@@ -1,6 +1,9 @@
-
-
-[← Chương 83](chuong_83.md) | [📚 Mục lục](README.md) | [Chương 85 →](chuong_85.md)
+---
+layout: default
+title: Chương 84: Cặn bã nữ, Từ Kiều Kiều
+chapter_number: 84
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Thấy thế, Từ Kiều Kiều thì là hướng về phía Tào Côn bóng l�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-84](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-84)
 - Thời gian scrape: 2026-01-13 21:44:34
 
-
-[← Chương 83](chuong_83.md) | [📚 Mục lục](README.md) | [Chương 85 →](chuong_85.md)
-
+<div class="chapter-nav">
+    <a href="chuong_83.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_85.html" class="nav-btn">Chương sau →</a>
+</div>

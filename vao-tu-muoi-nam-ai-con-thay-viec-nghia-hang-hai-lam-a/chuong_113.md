@@ -1,6 +1,9 @@
-
-
-[← Chương 112](chuong_112.md) | [📚 Mục lục](README.md) | [Chương 114 →](chuong_114.md)
+---
+layout: default
+title: Chương 113: Làm không lớn bụng
+chapter_number: 113
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Tóm lại, hắn có thể làm lớn người khác bụng, nhưng là không 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-113](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-113)
 - Thời gian scrape: 2026-01-13 21:46:09
 
-
-[← Chương 112](chuong_112.md) | [📚 Mục lục](README.md) | [Chương 114 →](chuong_114.md)
-
+<div class="chapter-nav">
+    <a href="chuong_112.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_114.html" class="nav-btn">Chương sau →</a>
+</div>

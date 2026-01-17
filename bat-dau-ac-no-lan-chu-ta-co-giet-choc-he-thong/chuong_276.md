@@ -1,6 +1,9 @@
-
-
-[← Chương 275](chuong_275.md) | [📚 Mục lục](README.md) | [Chương 277 →](chuong_277.md)
+---
+layout: default
+title: Chương 276: Huyền cơ doanh ngựa đạp thứ bảy trăm hộ chỗ (1)
+chapter_number: 276
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -115,6 +118,6 @@ Lâm Phi Vũ kinh hô: “Thật là lớn chó dám, đả thương lão tử b
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-276](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-276)
 - Thời gian scrape: 2026-01-13 00:35:41
 
-
-[← Chương 275](chuong_275.md) | [📚 Mục lục](README.md) | [Chương 277 →](chuong_277.md)
-
+<div class="chapter-nav">
+    <a href="chuong_275.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_277.html" class="nav-btn">Chương sau →</a>
+</div>

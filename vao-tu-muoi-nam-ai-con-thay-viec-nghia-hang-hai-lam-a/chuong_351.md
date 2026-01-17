@@ -1,6 +1,9 @@
-
-
-[← Chương 350](chuong_350.md) | [📚 Mục lục](README.md) | [Chương 352 →](chuong_352.md)
+---
+layout: default
+title: Chương 351: Rác rưởi quán bar
+chapter_number: 351
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Thấy thế, Tào Côn cười ha ha một tiếng, lúc này mới nói.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-351](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-351)
 - Thời gian scrape: 2026-01-13 22:00:44
 
-
-[← Chương 350](chuong_350.md) | [📚 Mục lục](README.md) | [Chương 352 →](chuong_352.md)
-
+<div class="chapter-nav">
+    <a href="chuong_350.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_352.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 114](chuong_114.md) | [📚 Mục lục](README.md) | [Chương 116 →](chuong_116.md)
+---
+layout: default
+title: Chương 115: Lấy thân vào cuộc, mỹ nam kế
+chapter_number: 115
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Cũng là có thể đạt tới giống nhau hiệu quả!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-115](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-115)
 - Thời gian scrape: 2026-01-13 21:46:15
 
-
-[← Chương 114](chuong_114.md) | [📚 Mục lục](README.md) | [Chương 116 →](chuong_116.md)
-
+<div class="chapter-nav">
+    <a href="chuong_114.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_116.html" class="nav-btn">Chương sau →</a>
+</div>

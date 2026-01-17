@@ -1,6 +1,9 @@
-
-
-[← Chương 299](chuong_299.md) | [📚 Mục lục](README.md) | [Chương 301 →](chuong_301.md)
+---
+layout: default
+title: Chương 300: Hoàng đế lại tìm đường chết (1)
+chapter_number: 300
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -121,6 +124,6 @@ Liền xem như Đại Diễm Quốc tại thời kì đỉnh phong Hoàng đế
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-300](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-300)
 - Thời gian scrape: 2026-01-13 00:22:32
 
-
-[← Chương 299](chuong_299.md) | [📚 Mục lục](README.md) | [Chương 301 →](chuong_301.md)
-
+<div class="chapter-nav">
+    <a href="chuong_299.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_301.html" class="nav-btn">Chương sau →</a>
+</div>

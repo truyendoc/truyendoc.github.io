@@ -1,6 +1,9 @@
-
-
-[← Chương 507](chuong_507.md) | [📚 Mục lục](README.md) | [Chương 509 →](chuong_509.md)
+---
+layout: default
+title: Chương 508: Trương Bách Mộ trời sập
+chapter_number: 508
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Nương theo lấy ý nghĩ này xuất hiện, giờ khắc này, Trương Bác
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-508](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-508)
 - Thời gian scrape: 2026-01-13 22:09:53
 
-
-[← Chương 507](chuong_507.md) | [📚 Mục lục](README.md) | [Chương 509 →](chuong_509.md)
-
+<div class="chapter-nav">
+    <a href="chuong_507.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_509.html" class="nav-btn">Chương sau →</a>
+</div>

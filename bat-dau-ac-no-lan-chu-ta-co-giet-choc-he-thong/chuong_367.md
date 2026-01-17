@@ -1,6 +1,9 @@
-
-
-[← Chương 366](chuong_366.md) | [📚 Mục lục](README.md) | [Chương 368 →](chuong_368.md)
+---
+layout: default
+title: Chương 367: Ta chỉ sợ vô địch (2)
+chapter_number: 367
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -135,6 +138,6 @@ Ba quyền bên trong, có thể đem đối phương cho đ·ánh c·hết.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-367](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-367)
 - Thời gian scrape: 2026-01-13 00:25:11
 
-
-[← Chương 366](chuong_366.md) | [📚 Mục lục](README.md) | [Chương 368 →](chuong_368.md)
-
+<div class="chapter-nav">
+    <a href="chuong_366.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_368.html" class="nav-btn">Chương sau →</a>
+</div>

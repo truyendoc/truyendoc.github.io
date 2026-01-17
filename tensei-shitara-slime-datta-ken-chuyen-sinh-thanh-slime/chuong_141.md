@@ -1,6 +1,9 @@
-
-
-[← Chương 140](chuong_140.md) | [📚 Mục lục](README.md) | [Chương 142 →](chuong_142.md)
+---
+layout: default
+title: Chương 141
+chapter_number: 141
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -400,6 +403,6 @@ Cuối cùng, một vũ khí dành riêng cho tôi đã được hoàn mãn.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-141](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-141)
 - Thời gian scrape: 2026-01-17 09:44:26
 
-
-[← Chương 140](chuong_140.md) | [📚 Mục lục](README.md) | [Chương 142 →](chuong_142.md)
-
+<div class="chapter-nav">
+    <a href="chuong_140.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_142.html" class="nav-btn">Chương sau →</a>
+</div>

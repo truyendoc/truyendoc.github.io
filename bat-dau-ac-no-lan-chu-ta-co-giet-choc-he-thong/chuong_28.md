@@ -1,6 +1,9 @@
-
-
-[← Chương 27](chuong_27.md) | [📚 Mục lục](README.md) | [Chương 29 →](chuong_29.md)
+---
+layout: default
+title: Chương 28: tầm bảo thần thông
+chapter_number: 28
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -299,6 +302,6 @@ Có được cửu thải sắc bảo quang bảo vật đẳng cấp cao nhất
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-28](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-28)
 - Thời gian scrape: 2026-01-13 21:10:23
 
-
-[← Chương 27](chuong_27.md) | [📚 Mục lục](README.md) | [Chương 29 →](chuong_29.md)
-
+<div class="chapter-nav">
+    <a href="chuong_27.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_29.html" class="nav-btn">Chương sau →</a>
+</div>

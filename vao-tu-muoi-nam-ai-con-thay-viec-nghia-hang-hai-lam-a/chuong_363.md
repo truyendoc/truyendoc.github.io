@@ -1,6 +1,9 @@
-
-
-[← Chương 362](chuong_362.md) | [📚 Mục lục](README.md) | [Chương 364 →](chuong_364.md)
+---
+layout: default
+title: Chương 363: Phục khắc kiếp trước quảng cáo
+chapter_number: 363
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Mà đã loại này quảng cáo hiệu quả tốt như vậy, cũng đã bị
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-363](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-363)
 - Thời gian scrape: 2026-01-13 22:01:31
 
-
-[← Chương 362](chuong_362.md) | [📚 Mục lục](README.md) | [Chương 364 →](chuong_364.md)
-
+<div class="chapter-nav">
+    <a href="chuong_362.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_364.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 550](chuong_550.md) | [📚 Mục lục](README.md) | [Chương 552 →](chuong_552.md)
+---
+layout: default
+title: Chương 551: Ta ăn thịt bò
+chapter_number: 551
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Nhìn xem Trương Mỹ Lâm giờ phút này cái kia cắn răng nghiến lợ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-551](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-551)
 - Thời gian scrape: 2026-01-13 22:12:21
 
-
-[← Chương 550](chuong_550.md) | [📚 Mục lục](README.md) | [Chương 552 →](chuong_552.md)
-
+<div class="chapter-nav">
+    <a href="chuong_550.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_552.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 124](chuong_124.md) | [📚 Mục lục](README.md) | [Chương 126 →](chuong_126.md)
+---
+layout: default
+title: Chương 125
+chapter_number: 125
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -502,6 +505,6 @@ Như vậy, Anh Hùng Chloe O"Bell thực sự được khai sinh.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-125](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-125)
 - Thời gian scrape: 2026-01-17 09:43:39
 
-
-[← Chương 124](chuong_124.md) | [📚 Mục lục](README.md) | [Chương 126 →](chuong_126.md)
-
+<div class="chapter-nav">
+    <a href="chuong_124.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_126.html" class="nav-btn">Chương sau →</a>
+</div>

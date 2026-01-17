@@ -1,6 +1,9 @@
-
-
-[← Chương 589](chuong_589.md) | [📚 Mục lục](README.md) | [Chương 591 →](chuong_591.md)
+---
+layout: default
+title: Chương 590: Có ít người sinh hoạt
+chapter_number: 590
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Mà có ít người sinh hoạt, là vì sống mà sinh.
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-590](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-590)
 - Thời gian scrape: 2026-01-13 22:14:32
 
-
-[← Chương 589](chuong_589.md) | [📚 Mục lục](README.md) | [Chương 591 →](chuong_591.md)
-
+<div class="chapter-nav">
+    <a href="chuong_589.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_591.html" class="nav-btn">Chương sau →</a>
+</div>

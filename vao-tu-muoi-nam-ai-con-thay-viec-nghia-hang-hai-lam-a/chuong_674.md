@@ -1,6 +1,9 @@
-
-
-[← Chương 673](chuong_673.md) | [📚 Mục lục](README.md) | [Chương 675 →](chuong_675.md)
+---
+layout: default
+title: Chương 674: Thế giới y dược cự đầu tới
+chapter_number: 674
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Có khả năng, nghiên cứu phát minh đoàn đội bên trong, vẫn luôn 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-674](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-674)
 - Thời gian scrape: 2026-01-13 22:19:28
 
-
-[← Chương 673](chuong_673.md) | [📚 Mục lục](README.md) | [Chương 675 →](chuong_675.md)
-
+<div class="chapter-nav">
+    <a href="chuong_673.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_675.html" class="nav-btn">Chương sau →</a>
+</div>

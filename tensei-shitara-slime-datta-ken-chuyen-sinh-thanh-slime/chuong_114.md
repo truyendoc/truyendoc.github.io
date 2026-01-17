@@ -1,6 +1,9 @@
-
-
-[← Chương 113](chuong_113.md) | [📚 Mục lục](README.md) | [Chương 115 →](chuong_115.md)
+---
+layout: default
+title: Chương 114
+chapter_number: 114
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -426,6 +429,6 @@ Hôm nay chắc tôi sẽ đối đãi với Shion và Gobuta tốt hơn.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-114](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-114)
 - Thời gian scrape: 2026-01-17 09:43:09
 
-
-[← Chương 113](chuong_113.md) | [📚 Mục lục](README.md) | [Chương 115 →](chuong_115.md)
-
+<div class="chapter-nav">
+    <a href="chuong_113.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_115.html" class="nav-btn">Chương sau →</a>
+</div>

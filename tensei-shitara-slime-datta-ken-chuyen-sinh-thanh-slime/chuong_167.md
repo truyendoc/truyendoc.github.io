@@ -1,6 +1,9 @@
-
-
-[← Chương 166](chuong_166.md) | [📚 Mục lục](README.md) | [Chương 168 →](chuong_168.md)
+---
+layout: default
+title: Chương 167
+chapter_number: 167
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -498,6 +501,6 @@ ________________________
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-167](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-167)
 - Thời gian scrape: 2026-01-17 09:45:38
 
-
-[← Chương 166](chuong_166.md) | [📚 Mục lục](README.md) | [Chương 168 →](chuong_168.md)
-
+<div class="chapter-nav">
+    <a href="chuong_166.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_168.html" class="nav-btn">Chương sau →</a>
+</div>

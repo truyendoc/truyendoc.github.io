@@ -1,6 +1,9 @@
-
-
-[← Chương 133](chuong_133.md) | [📚 Mục lục](README.md) | [Chương 135 →](chuong_135.md)
+---
+layout: default
+title: Chương 134
+chapter_number: 134
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -452,6 +455,6 @@ Chẳng còn gì ngoài trận chiến đã nổ ra.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-134](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-134)
 - Thời gian scrape: 2026-01-17 09:44:05
 
-
-[← Chương 133](chuong_133.md) | [📚 Mục lục](README.md) | [Chương 135 →](chuong_135.md)
-
+<div class="chapter-nav">
+    <a href="chuong_133.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_135.html" class="nav-btn">Chương sau →</a>
+</div>

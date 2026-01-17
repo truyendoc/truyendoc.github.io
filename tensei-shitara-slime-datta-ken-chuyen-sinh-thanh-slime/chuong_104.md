@@ -1,6 +1,9 @@
-
-
-[← Chương 103](chuong_103.md) | [📚 Mục lục](README.md) | [Chương 105 →](chuong_105.md)
+---
+layout: default
+title: Chương 104
+chapter_number: 104
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -724,6 +727,6 @@ Sau đó một tuần, như đã hứa, các quái vật bị bắt đã đượ
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-104](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-104)
 - Thời gian scrape: 2026-01-17 09:42:40
 
-
-[← Chương 103](chuong_103.md) | [📚 Mục lục](README.md) | [Chương 105 →](chuong_105.md)
-
+<div class="chapter-nav">
+    <a href="chuong_103.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_105.html" class="nav-btn">Chương sau →</a>
+</div>

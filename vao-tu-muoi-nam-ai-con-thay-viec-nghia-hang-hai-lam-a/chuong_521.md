@@ -1,6 +1,9 @@
-
-
-[← Chương 520](chuong_520.md) | [📚 Mục lục](README.md) | [Chương 522 →](chuong_522.md)
+---
+layout: default
+title: Chương 521: Sau cùng du lịch
+chapter_number: 521
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Khả năng này là bọn hắn một nhà năm thanh sau cùng một lần du 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-521](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-521)
 - Thời gian scrape: 2026-01-13 22:10:36
 
-
-[← Chương 520](chuong_520.md) | [📚 Mục lục](README.md) | [Chương 522 →](chuong_522.md)
-
+<div class="chapter-nav">
+    <a href="chuong_520.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_522.html" class="nav-btn">Chương sau →</a>
+</div>

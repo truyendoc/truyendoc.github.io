@@ -1,6 +1,9 @@
-
-
-[← Chương 334](chuong_334.md) | [📚 Mục lục](README.md) | [Chương 336 →](chuong_336.md)
+---
+layout: default
+title: Chương 335: Nhị hoàng tử lần nữa tới chơi (2)
+chapter_number: 335
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -149,6 +152,6 @@ Nhị hoàng tử nói.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-335](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-335)
 - Thời gian scrape: 2026-01-13 00:23:56
 
-
-[← Chương 334](chuong_334.md) | [📚 Mục lục](README.md) | [Chương 336 →](chuong_336.md)
-
+<div class="chapter-nav">
+    <a href="chuong_334.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_336.html" class="nav-btn">Chương sau →</a>
+</div>

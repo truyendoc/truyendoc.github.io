@@ -1,6 +1,9 @@
-
-
-[← Chương 171](chuong_171.md) | [📚 Mục lục](README.md) | [Chương 173 →](chuong_173.md)
+---
+layout: default
+title: Chương 172
+chapter_number: 172
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -506,6 +509,6 @@ Coi bộ tôi sẽ không được thảnh thơi sớm rồi.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-172](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-172)
 - Thời gian scrape: 2026-01-17 09:45:52
 
-
-[← Chương 171](chuong_171.md) | [📚 Mục lục](README.md) | [Chương 173 →](chuong_173.md)
-
+<div class="chapter-nav">
+    <a href="chuong_171.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_173.html" class="nav-btn">Chương sau →</a>
+</div>

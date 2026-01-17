@@ -1,6 +1,9 @@
-
-
-[← Chương 570](chuong_570.md) | [📚 Mục lục](README.md) | [Chương 572 →](chuong_572.md)
+---
+layout: default
+title: Chương 571: Nữ thần cùng lão mụ đồng thời bị cướp
+chapter_number: 571
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -201,6 +204,6 @@ Lưu Kim Thành quỳ gối ngoài cửa, tay nâng hoa tươi, ngữ khí thâm
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-571](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-571)
 - Thời gian scrape: 2026-01-13 22:13:29
 
-
-[← Chương 570](chuong_570.md) | [📚 Mục lục](README.md) | [Chương 572 →](chuong_572.md)
-
+<div class="chapter-nav">
+    <a href="chuong_570.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_572.html" class="nav-btn">Chương sau →</a>
+</div>

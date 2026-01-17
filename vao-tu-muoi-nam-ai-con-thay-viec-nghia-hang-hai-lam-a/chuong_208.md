@@ -1,6 +1,9 @@
-
-
-[← Chương 207](chuong_207.md) | [📚 Mục lục](README.md) | [Chương 209 →](chuong_209.md)
+---
+layout: default
+title: Chương 208: Nữ nhân, ngươi thắng
+chapter_number: 208
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -195,6 +198,6 @@ Tào Côn cười ha ha một tiếng, lắc đầu nói:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-208](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-208)
 - Thời gian scrape: 2026-01-13 21:51:40
 
-
-[← Chương 207](chuong_207.md) | [📚 Mục lục](README.md) | [Chương 209 →](chuong_209.md)
-
+<div class="chapter-nav">
+    <a href="chuong_207.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_209.html" class="nav-btn">Chương sau →</a>
+</div>

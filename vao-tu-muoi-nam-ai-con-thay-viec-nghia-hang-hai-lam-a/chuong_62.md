@@ -1,6 +1,9 @@
-
-
-[← Chương 61](chuong_61.md) | [📚 Mục lục](README.md) | [Chương 63 →](chuong_63.md)
+---
+layout: default
+title: Chương 62: Làm từ thiện, đưa Ôn Noãn
+chapter_number: 62
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -195,6 +198,6 @@ Lưu Ngọc Linh lại còn không nhìn ra cái kia một vùng, là tương la
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-62](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-62)
 - Thời gian scrape: 2026-01-13 21:42:51
 
-
-[← Chương 61](chuong_61.md) | [📚 Mục lục](README.md) | [Chương 63 →](chuong_63.md)
-
+<div class="chapter-nav">
+    <a href="chuong_61.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_63.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 93](chuong_93.md) | [📚 Mục lục](README.md) | [Chương 95 →](chuong_95.md)
+---
+layout: default
+title: Chương 94: Lang ca ba cái tình nhân đủ
+chapter_number: 94
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -231,6 +234,6 @@ Mình đêm nay đây là muốn dò xét cái này lũ sói con hang ổ a!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-94](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-94)
 - Thời gian scrape: 2026-01-13 21:45:09
 
-
-[← Chương 93](chuong_93.md) | [📚 Mục lục](README.md) | [Chương 95 →](chuong_95.md)
-
+<div class="chapter-nav">
+    <a href="chuong_93.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_95.html" class="nav-btn">Chương sau →</a>
+</div>

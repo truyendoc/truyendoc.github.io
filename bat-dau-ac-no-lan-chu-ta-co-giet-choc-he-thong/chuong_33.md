@@ -1,6 +1,9 @@
-
-
-[← Chương 32](chuong_32.md) | [📚 Mục lục](README.md) | [Chương 34 →](chuong_34.md)
+---
+layout: default
+title: Chương 33: Phong Uyển Nhi mời chào
+chapter_number: 33
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -259,6 +262,6 @@ Sau đó tự mình đem Thẩm Dục đưa đến Tứ Hải Thương Hành bê
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-33](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-33)
 - Thời gian scrape: 2026-01-13 21:10:46
 
-
-[← Chương 32](chuong_32.md) | [📚 Mục lục](README.md) | [Chương 34 →](chuong_34.md)
-
+<div class="chapter-nav">
+    <a href="chuong_32.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_34.html" class="nav-btn">Chương sau →</a>
+</div>

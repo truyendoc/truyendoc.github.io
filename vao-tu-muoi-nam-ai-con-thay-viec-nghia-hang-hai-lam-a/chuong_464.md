@@ -1,6 +1,9 @@
-
-
-[← Chương 463](chuong_463.md) | [📚 Mục lục](README.md) | [Chương 465 →](chuong_465.md)
+---
+layout: default
+title: Chương 464: Đêm giáng sinh cứu người
+chapter_number: 464
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Thậm chí, cứ như vậy ném xuống sông tươi sống c·hết đ·uối
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-464](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-464)
 - Thời gian scrape: 2026-01-13 22:07:22
 
-
-[← Chương 463](chuong_463.md) | [📚 Mục lục](README.md) | [Chương 465 →](chuong_465.md)
-
+<div class="chapter-nav">
+    <a href="chuong_463.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_465.html" class="nav-btn">Chương sau →</a>
+</div>

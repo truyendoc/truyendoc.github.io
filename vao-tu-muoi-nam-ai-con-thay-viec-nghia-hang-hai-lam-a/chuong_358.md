@@ -1,6 +1,9 @@
-
-
-[← Chương 357](chuong_357.md) | [📚 Mục lục](README.md) | [Chương 359 →](chuong_359.md)
+---
+layout: default
+title: Chương 358: Dương Nhật Bố lại trở về
+chapter_number: 358
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -191,6 +194,6 @@ Cho nên, sáng sớm hôm nay, nàng liền tranh thủ thời gian cưỡi s�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-358](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-358)
 - Thời gian scrape: 2026-01-13 22:01:11
 
-
-[← Chương 357](chuong_357.md) | [📚 Mục lục](README.md) | [Chương 359 →](chuong_359.md)
-
+<div class="chapter-nav">
+    <a href="chuong_357.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_359.html" class="nav-btn">Chương sau →</a>
+</div>

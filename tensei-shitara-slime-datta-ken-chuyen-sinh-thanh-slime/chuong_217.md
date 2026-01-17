@@ -1,6 +1,9 @@
-
-
-[← Chương 216](chuong_216.md) | [📚 Mục lục](README.md) | [Chương 218 →](chuong_218.md)
+---
+layout: default
+title: Chương 217
+chapter_number: 217
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -640,6 +643,6 @@ Hẵn vừa nhếch môi nở một cười chế diễu, vừa mở miệng bu�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-217](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-217)
 - Thời gian scrape: 2026-01-17 09:47:59
 
-
-[← Chương 216](chuong_216.md) | [📚 Mục lục](README.md) | [Chương 218 →](chuong_218.md)
-
+<div class="chapter-nav">
+    <a href="chuong_216.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_218.html" class="nav-btn">Chương sau →</a>
+</div>

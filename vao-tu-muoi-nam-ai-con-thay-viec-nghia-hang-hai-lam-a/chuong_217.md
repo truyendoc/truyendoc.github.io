@@ -1,6 +1,9 @@
-
-
-[← Chương 216](chuong_216.md) | [📚 Mục lục](README.md) | [Chương 218 →](chuong_218.md)
+---
+layout: default
+title: Chương 217: Tiêu Văn Tĩnh cảm tạ
+chapter_number: 217
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Nghe vậy, Tiêu Văn Tĩnh nhìn chằm chằm Tào Côn há to miệng, cuố
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-217](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-217)
 - Thời gian scrape: 2026-01-13 21:52:43
 
-
-[← Chương 216](chuong_216.md) | [📚 Mục lục](README.md) | [Chương 218 →](chuong_218.md)
-
+<div class="chapter-nav">
+    <a href="chuong_216.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_218.html" class="nav-btn">Chương sau →</a>
+</div>

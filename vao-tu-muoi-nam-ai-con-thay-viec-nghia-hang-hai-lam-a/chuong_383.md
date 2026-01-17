@@ -1,6 +1,9 @@
-
-
-[← Chương 382](chuong_382.md) | [📚 Mục lục](README.md) | [Chương 384 →](chuong_384.md)
+---
+layout: default
+title: Chương 383: Trên trời rơi xuống thần tài
+chapter_number: 383
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -185,6 +188,6 @@ Thế này sao lại là bánh từ trên trời rớt xuống a, đây quả th
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-383](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-383)
 - Thời gian scrape: 2026-01-13 22:02:37
 
-
-[← Chương 382](chuong_382.md) | [📚 Mục lục](README.md) | [Chương 384 →](chuong_384.md)
-
+<div class="chapter-nav">
+    <a href="chuong_382.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_384.html" class="nav-btn">Chương sau →</a>
+</div>

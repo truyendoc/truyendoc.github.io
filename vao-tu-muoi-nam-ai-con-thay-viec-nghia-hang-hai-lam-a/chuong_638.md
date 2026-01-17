@@ -1,6 +1,9 @@
-
-
-[← Chương 637](chuong_637.md) | [📚 Mục lục](README.md) | [Chương 639 →](chuong_639.md)
+---
+layout: default
+title: Chương 638: Song trọng bảo hiểm
+chapter_number: 638
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Trình Dao Dao hì hì cười một tiếng, tiến lên phía trước nói: "
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-638](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-638)
 - Thời gian scrape: 2026-01-13 22:17:18
 
-
-[← Chương 637](chuong_637.md) | [📚 Mục lục](README.md) | [Chương 639 →](chuong_639.md)
-
+<div class="chapter-nav">
+    <a href="chuong_637.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_639.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 139](chuong_139.md) | [📚 Mục lục](README.md) | [Chương 141 →](chuong_141.md)
+---
+layout: default
+title: Chương 140
+chapter_number: 140
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -682,6 +685,6 @@ Nhiều truyện đã xảy ra, nhưng mà kết quả thì rất tốt, Không 
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-140](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-140)
 - Thời gian scrape: 2026-01-17 09:44:22
 
-
-[← Chương 139](chuong_139.md) | [📚 Mục lục](README.md) | [Chương 141 →](chuong_141.md)
-
+<div class="chapter-nav">
+    <a href="chuong_139.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_141.html" class="nav-btn">Chương sau →</a>
+</div>

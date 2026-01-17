@@ -1,6 +1,9 @@
-
-
-[← Chương 251](chuong_251.md) | [📚 Mục lục](README.md) | [Chương 253 →](chuong_253.md)
+---
+layout: default
+title: Chương 252: Xa xỉ một ngày
+chapter_number: 252
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Từ Kiều Kiều nhìn về phía Tào Côn, hốc mắt phiếm hồng, há h
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-252](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-252)
 - Thời gian scrape: 2026-01-13 21:54:46
 
-
-[← Chương 251](chuong_251.md) | [📚 Mục lục](README.md) | [Chương 253 →](chuong_253.md)
-
+<div class="chapter-nav">
+    <a href="chuong_251.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_253.html" class="nav-btn">Chương sau →</a>
+</div>

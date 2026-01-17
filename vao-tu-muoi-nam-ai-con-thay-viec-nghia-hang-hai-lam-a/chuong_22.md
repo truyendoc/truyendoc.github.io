@@ -1,6 +1,9 @@
-
-
-[← Chương 21](chuong_21.md) | [📚 Mục lục](README.md) | [Chương 23 →](chuong_23.md)
+---
+layout: default
+title: Chương 22: Đánh người khẳng định là không được
+chapter_number: 22
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Cảnh sát nhíu nhíu mày, có chút bất đắc dĩ nói: "Vương Nhất P
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-22](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-22)
 - Thời gian scrape: 2026-01-13 21:40:36
 
-
-[← Chương 21](chuong_21.md) | [📚 Mục lục](README.md) | [Chương 23 →](chuong_23.md)
-
+<div class="chapter-nav">
+    <a href="chuong_21.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_23.html" class="nav-btn">Chương sau →</a>
+</div>

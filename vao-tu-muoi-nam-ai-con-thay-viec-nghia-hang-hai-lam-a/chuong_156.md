@@ -1,6 +1,9 @@
-
-
-[← Chương 155](chuong_155.md) | [📚 Mục lục](README.md) | [Chương 157 →](chuong_157.md)
+---
+layout: default
+title: Chương 156: Trống rỗng tạo ra nhị thúc
+chapter_number: 156
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -199,6 +202,6 @@ Nói, Tào Côn mở ra điện thoại di động của mình ngân hàng, đă
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-156](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-156)
 - Thời gian scrape: 2026-01-13 21:48:51
 
-
-[← Chương 155](chuong_155.md) | [📚 Mục lục](README.md) | [Chương 157 →](chuong_157.md)
-
+<div class="chapter-nav">
+    <a href="chuong_155.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_157.html" class="nav-btn">Chương sau →</a>
+</div>

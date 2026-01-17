@@ -1,6 +1,9 @@
-
-
-[← Chương 510](chuong_510.md) | [📚 Mục lục](README.md) | [Chương 512 →](chuong_512.md)
+---
+layout: default
+title: Chương 511: Đây rõ ràng là một ác ma
+chapter_number: 511
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Vì cái gì liền hết lần này tới lần khác muốn hủy đi mình a!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-511](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-511)
 - Thời gian scrape: 2026-01-13 22:10:02
 
-
-[← Chương 510](chuong_510.md) | [📚 Mục lục](README.md) | [Chương 512 →](chuong_512.md)
-
+<div class="chapter-nav">
+    <a href="chuong_510.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_512.html" class="nav-btn">Chương sau →</a>
+</div>

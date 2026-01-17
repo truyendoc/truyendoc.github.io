@@ -1,6 +1,9 @@
-
-
-[← Chương 340](chuong_340.md) | [📚 Mục lục](README.md) | [Chương 342 →](chuong_342.md)
+---
+layout: default
+title: Chương 341: Lại một cái tang lễ
+chapter_number: 341
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Tào Côn cười một tiếng, nói: "Xác thực không phải nói đùa."
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-341](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-341)
 - Thời gian scrape: 2026-01-13 22:00:05
 
-
-[← Chương 340](chuong_340.md) | [📚 Mục lục](README.md) | [Chương 342 →](chuong_342.md)
-
+<div class="chapter-nav">
+    <a href="chuong_340.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_342.html" class="nav-btn">Chương sau →</a>
+</div>

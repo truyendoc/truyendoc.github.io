@@ -1,6 +1,9 @@
-
-
-[← Chương 638](chuong_638.md) | [📚 Mục lục](README.md) | [Chương 640 →](chuong_640.md)
+---
+layout: default
+title: Chương 639: Thật · cặn bã nam
+chapter_number: 639
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Tina một bên giúp Tào Côn gội đầu, một bên tiếp tục nói: "Li�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-639](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-639)
 - Thời gian scrape: 2026-01-13 22:17:22
 
-
-[← Chương 638](chuong_638.md) | [📚 Mục lục](README.md) | [Chương 640 →](chuong_640.md)
-
+<div class="chapter-nav">
+    <a href="chuong_638.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_640.html" class="nav-btn">Chương sau →</a>
+</div>

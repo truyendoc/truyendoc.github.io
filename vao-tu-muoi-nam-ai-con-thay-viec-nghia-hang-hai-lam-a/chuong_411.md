@@ -1,6 +1,9 @@
-
-
-[← Chương 410](chuong_410.md) | [📚 Mục lục](README.md) | [Chương 412 →](chuong_412.md)
+---
+layout: default
+title: Chương 411: Mã Trường Ninh ký hợp đồng mầm mống tốt
+chapter_number: 411
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Bị Tào Côn hỏi như vậy, Mã Trường Ninh có chút câu nệ cười 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-411](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-411)
 - Thời gian scrape: 2026-01-13 22:04:11
 
-
-[← Chương 410](chuong_410.md) | [📚 Mục lục](README.md) | [Chương 412 →](chuong_412.md)
-
+<div class="chapter-nav">
+    <a href="chuong_410.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_412.html" class="nav-btn">Chương sau →</a>
+</div>

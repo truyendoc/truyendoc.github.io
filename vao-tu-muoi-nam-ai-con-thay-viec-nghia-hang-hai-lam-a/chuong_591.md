@@ -1,6 +1,9 @@
-
-
-[← Chương 590](chuong_590.md) | [📚 Mục lục](README.md) | [Chương 592 →](chuong_592.md)
+---
+layout: default
+title: Chương 591: Lão bản bề bộn nhiều việc
+chapter_number: 591
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Cho nên, tại bận rộn như vậy tình huống phía dưới, Tào Côn đ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-591](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-591)
 - Thời gian scrape: 2026-01-13 22:14:35
 
-
-[← Chương 590](chuong_590.md) | [📚 Mục lục](README.md) | [Chương 592 →](chuong_592.md)
-
+<div class="chapter-nav">
+    <a href="chuong_590.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_592.html" class="nav-btn">Chương sau →</a>
+</div>

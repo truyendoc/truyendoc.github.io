@@ -1,6 +1,9 @@
-
-
-[← Chương 271](chuong_271.md) | [📚 Mục lục](README.md) | [Chương 273 →](chuong_273.md)
+---
+layout: default
+title: Chương 272
+chapter_number: 272
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -478,6 +481,6 @@ Không quá bất ngờ nếu Irina, nhà nghiên cứu có vẻ là kẻ chủ 
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-272](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-272)
 - Thời gian scrape: 2026-01-17 09:50:41
 
-
-[← Chương 271](chuong_271.md) | [📚 Mục lục](README.md) | [Chương 273 →](chuong_273.md)
-
+<div class="chapter-nav">
+    <a href="chuong_271.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_273.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 201](chuong_201.md) | [📚 Mục lục](README.md) | [Chương 203 →](chuong_203.md)
+---
+layout: default
+title: Chương 202: Thời gian quản lý đại sư
+chapter_number: 202
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Nên nói không nói, Vương San San cái này chó nữ nhân, mặc dù rấ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-202](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-202)
 - Thời gian scrape: 2026-01-13 21:51:21
 
-
-[← Chương 201](chuong_201.md) | [📚 Mục lục](README.md) | [Chương 203 →](chuong_203.md)
-
+<div class="chapter-nav">
+    <a href="chuong_201.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_203.html" class="nav-btn">Chương sau →</a>
+</div>

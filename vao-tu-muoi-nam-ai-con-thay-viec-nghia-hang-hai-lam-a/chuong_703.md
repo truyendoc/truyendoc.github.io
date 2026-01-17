@@ -1,6 +1,9 @@
-
-
-[← Chương 702](chuong_702.md) | [📚 Mục lục](README.md) | [Chương 704 →](chuong_704.md)
+---
+layout: default
+title: Chương 703: Ta muốn Vương Nhất Phu chết!
+chapter_number: 703
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -201,6 +204,6 @@ Nói xong, Đoàn Minh lập tức liền cúp điện thoại, bất thiện đ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-703](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-703)
 - Thời gian scrape: 2026-01-13 22:21:07
 
-
-[← Chương 702](chuong_702.md) | [📚 Mục lục](README.md) | [Chương 704 →](chuong_704.md)
-
+<div class="chapter-nav">
+    <a href="chuong_702.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_704.html" class="nav-btn">Chương sau →</a>
+</div>

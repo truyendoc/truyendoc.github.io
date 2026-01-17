@@ -1,6 +1,9 @@
-
-
-[← Chương 616](chuong_616.md) | [📚 Mục lục](README.md) | [Chương 618 →](chuong_618.md)
+---
+layout: default
+title: Chương 617: Hảo huynh đệ có cần
+chapter_number: 617
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Cho nên, hắn một chiếc điện thoại liền đem Ngốc Cẩu kêu tớ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-617](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-617)
 - Thời gian scrape: 2026-01-13 22:16:05
 
-
-[← Chương 616](chuong_616.md) | [📚 Mục lục](README.md) | [Chương 618 →](chuong_618.md)
-
+<div class="chapter-nav">
+    <a href="chuong_616.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_618.html" class="nav-btn">Chương sau →</a>
+</div>

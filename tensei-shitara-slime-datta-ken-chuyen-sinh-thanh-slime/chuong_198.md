@@ -1,6 +1,9 @@
-
-
-[← Chương 197](chuong_197.md) | [📚 Mục lục](README.md) | [Chương 199 →](chuong_199.md)
+---
+layout: default
+title: Chương 198
+chapter_number: 198
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -612,6 +615,6 @@ Một lần nữa, thế giới lại được biết cơn cuồng nộ từ m�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-198](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-198)
 - Thời gian scrape: 2026-01-17 09:47:05
 
-
-[← Chương 197](chuong_197.md) | [📚 Mục lục](README.md) | [Chương 199 →](chuong_199.md)
-
+<div class="chapter-nav">
+    <a href="chuong_197.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_199.html" class="nav-btn">Chương sau →</a>
+</div>

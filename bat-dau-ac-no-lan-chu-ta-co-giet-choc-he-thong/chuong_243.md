@@ -1,6 +1,9 @@
-
-
-[← Chương 242](chuong_242.md) | [📚 Mục lục](README.md) | [Chương 244 →](chuong_244.md)
+---
+layout: default
+title: Chương 243: Hoàng đế tính toán (2)
+chapter_number: 243
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -107,6 +110,6 @@ Trừ phi có Thông Thiên cảnh ra tay, nếu không bằng vào pháp tướ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-243](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-243)
 - Thời gian scrape: 2026-01-13 00:34:20
 
-
-[← Chương 242](chuong_242.md) | [📚 Mục lục](README.md) | [Chương 244 →](chuong_244.md)
-
+<div class="chapter-nav">
+    <a href="chuong_242.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_244.html" class="nav-btn">Chương sau →</a>
+</div>

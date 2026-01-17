@@ -1,6 +1,9 @@
-
-
-[← Chương 193](chuong_193.md) | [📚 Mục lục](README.md) | [Chương 195 →](chuong_195.md)
+---
+layout: default
+title: Chương 194: Một phần bồi thường không có, còn lấy lại
+chapter_number: 194
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Nghe vậy, Lưu Nguyệt trong lòng cuối cùng thở dài một hơi, đón 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-194](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-194)
 - Thời gian scrape: 2026-01-13 21:50:54
 
-
-[← Chương 193](chuong_193.md) | [📚 Mục lục](README.md) | [Chương 195 →](chuong_195.md)
-
+<div class="chapter-nav">
+    <a href="chuong_193.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_195.html" class="nav-btn">Chương sau →</a>
+</div>

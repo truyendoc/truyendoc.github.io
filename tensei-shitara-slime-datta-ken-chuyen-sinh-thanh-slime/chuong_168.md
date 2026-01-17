@@ -1,6 +1,9 @@
-
-
-[← Chương 167](chuong_167.md) | [📚 Mục lục](README.md) | [Chương 169 →](chuong_169.md)
+---
+layout: default
+title: Chương 168
+chapter_number: 168
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -420,6 +423,6 @@ Tên bạo chúa đã cất cánh, hướng tới Ma Quốc Tempest.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-168](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-168)
 - Thời gian scrape: 2026-01-17 09:45:41
 
-
-[← Chương 167](chuong_167.md) | [📚 Mục lục](README.md) | [Chương 169 →](chuong_169.md)
-
+<div class="chapter-nav">
+    <a href="chuong_167.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_169.html" class="nav-btn">Chương sau →</a>
+</div>

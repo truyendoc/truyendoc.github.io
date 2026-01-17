@@ -1,6 +1,9 @@
-
-
-[← Chương 43](chuong_43.md) | [📚 Mục lục](README.md) | [Chương 45 →](chuong_45.md)
+---
+layout: default
+title: Chương 44
+chapter_number: 44
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -412,6 +415,6 @@ Nhóm của Gabil sẽ nhập hội với Rimuru khoảng 1 tháng sau đó.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-44](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-44)
 - Thời gian scrape: 2026-01-17 09:39:53
 
-
-[← Chương 43](chuong_43.md) | [📚 Mục lục](README.md) | [Chương 45 →](chuong_45.md)
-
+<div class="chapter-nav">
+    <a href="chuong_43.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_45.html" class="nav-btn">Chương sau →</a>
+</div>

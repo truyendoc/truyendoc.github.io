@@ -1,6 +1,9 @@
-
-
-[← Chương 256](chuong_256.md) | [📚 Mục lục](README.md) | [Chương 258 →](chuong_258.md)
+---
+layout: default
+title: Chương 257
+chapter_number: 257
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -386,6 +389,6 @@ Nói bằng một giọng nhỏ nhẹ để hai người kia không nghe thấy 
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-257](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-257)
 - Thời gian scrape: 2026-01-17 09:49:57
 
-
-[← Chương 256](chuong_256.md) | [📚 Mục lục](README.md) | [Chương 258 →](chuong_258.md)
-
+<div class="chapter-nav">
+    <a href="chuong_256.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_258.html" class="nav-btn">Chương sau →</a>
+</div>

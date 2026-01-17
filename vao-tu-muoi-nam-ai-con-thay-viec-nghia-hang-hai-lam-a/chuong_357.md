@@ -1,6 +1,9 @@
-
-
-[← Chương 356](chuong_356.md) | [📚 Mục lục](README.md) | [Chương 358 →](chuong_358.md)
+---
+layout: default
+title: Chương 357: Tào thị truyền thông công ty
+chapter_number: 357
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -179,6 +182,6 @@ Nghe vậy, Mã Trường Ninh ừng ực nuốt nước miếng một cái, gư
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-357](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-357)
 - Thời gian scrape: 2026-01-13 22:01:06
 
-
-[← Chương 356](chuong_356.md) | [📚 Mục lục](README.md) | [Chương 358 →](chuong_358.md)
-
+<div class="chapter-nav">
+    <a href="chuong_356.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_358.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 120](chuong_120.md) | [📚 Mục lục](README.md) | [Chương 122 →](chuong_122.md)
+---
+layout: default
+title: Chương 121: đột phá Nguyên Thần Cảnh
+chapter_number: 121
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -257,6 +260,6 @@ Mở ra một trung cấp nghề nghiệp.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-121](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-121)
 - Thời gian scrape: 2026-01-13 00:29:13
 
-
-[← Chương 120](chuong_120.md) | [📚 Mục lục](README.md) | [Chương 122 →](chuong_122.md)
-
+<div class="chapter-nav">
+    <a href="chuong_120.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_122.html" class="nav-btn">Chương sau →</a>
+</div>

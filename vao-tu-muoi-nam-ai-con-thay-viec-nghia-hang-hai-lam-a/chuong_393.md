@@ -1,6 +1,9 @@
-
-
-[← Chương 392](chuong_392.md) | [📚 Mục lục](README.md) | [Chương 394 →](chuong_394.md)
+---
+layout: default
+title: Chương 393: Lão tử không được thu chút tiền a!
+chapter_number: 393
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Nghe được Tào Côn nói như vậy, Bốc Hạnh Phúc càng thêm hồ đ�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-393](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-393)
 - Thời gian scrape: 2026-01-13 22:03:12
 
-
-[← Chương 392](chuong_392.md) | [📚 Mục lục](README.md) | [Chương 394 →](chuong_394.md)
-
+<div class="chapter-nav">
+    <a href="chuong_392.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_394.html" class="nav-btn">Chương sau →</a>
+</div>

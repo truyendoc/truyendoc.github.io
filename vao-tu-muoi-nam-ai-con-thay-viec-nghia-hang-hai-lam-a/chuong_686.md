@@ -1,6 +1,9 @@
-
-
-[← Chương 685](chuong_685.md) | [📚 Mục lục](README.md) | [Chương 687 →](chuong_687.md)
+---
+layout: default
+title: Chương 686: Nội gian đầu lĩnh Triệu Xảo Thiến
+chapter_number: 686
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Nghe xong Tào Côn lần này giảng thuật, Hạng Nam Nguyệt đều cư�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-686](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-686)
 - Thời gian scrape: 2026-01-13 22:20:11
 
-
-[← Chương 685](chuong_685.md) | [📚 Mục lục](README.md) | [Chương 687 →](chuong_687.md)
-
+<div class="chapter-nav">
+    <a href="chuong_685.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_687.html" class="nav-btn">Chương sau →</a>
+</div>

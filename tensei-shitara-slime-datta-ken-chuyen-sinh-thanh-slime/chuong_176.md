@@ -1,6 +1,9 @@
-
-
-[← Chương 175](chuong_175.md) | [📚 Mục lục](README.md) | [Chương 177 →](chuong_177.md)
+---
+layout: default
+title: Chương 176
+chapter_number: 176
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -432,6 +435,6 @@ Và trận chiến thực sự cuối cùng cũng bắt đầu.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-176](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-176)
 - Thời gian scrape: 2026-01-17 09:46:03
 
-
-[← Chương 175](chuong_175.md) | [📚 Mục lục](README.md) | [Chương 177 →](chuong_177.md)
-
+<div class="chapter-nav">
+    <a href="chuong_175.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_177.html" class="nav-btn">Chương sau →</a>
+</div>

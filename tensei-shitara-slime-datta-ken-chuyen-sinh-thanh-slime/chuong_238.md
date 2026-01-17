@@ -1,6 +1,9 @@
-
-
-[← Chương 237](chuong_237.md) | [📚 Mục lục](README.md) | [Chương 239 →](chuong_239.md)
+---
+layout: default
+title: Chương 238
+chapter_number: 238
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -446,6 +449,6 @@ Mọi chuyện sẽ diễn ra theo cách nào đó một khi tôi đánh bại V
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-238](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-238)
 - Thời gian scrape: 2026-01-17 09:49:02
 
-
-[← Chương 237](chuong_237.md) | [📚 Mục lục](README.md) | [Chương 239 →](chuong_239.md)
-
+<div class="chapter-nav">
+    <a href="chuong_237.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_239.html" class="nav-btn">Chương sau →</a>
+</div>

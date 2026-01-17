@@ -1,6 +1,9 @@
-
-
-[← Chương 269](chuong_269.md) | [📚 Mục lục](README.md) | [Chương 271 →](chuong_271.md)
+---
+layout: default
+title: Chương 270: Dưới mặt đất chỗ ăn chơi (1)
+chapter_number: 270
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -117,6 +120,6 @@ Thứ chín trăm hộ chỗ Bách hộ trên đường gặp phải một cái 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-270](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-270)
 - Thời gian scrape: 2026-01-13 00:35:26
 
-
-[← Chương 269](chuong_269.md) | [📚 Mục lục](README.md) | [Chương 271 →](chuong_271.md)
-
+<div class="chapter-nav">
+    <a href="chuong_269.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_271.html" class="nav-btn">Chương sau →</a>
+</div>

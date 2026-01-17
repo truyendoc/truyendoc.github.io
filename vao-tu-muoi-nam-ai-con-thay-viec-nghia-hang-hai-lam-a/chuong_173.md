@@ -1,6 +1,9 @@
-
-
-[← Chương 172](chuong_172.md) | [📚 Mục lục](README.md) | [Chương 174 →](chuong_174.md)
+---
+layout: default
+title: Chương 173: Kiếp trước hảo huynh đệ, trình Hàm Hàm
+chapter_number: 173
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -189,6 +192,6 @@ Chỉ có thể chờ đợi hắn gây án thời gian này, đi gây án đị
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-173](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-173)
 - Thời gian scrape: 2026-01-13 21:49:44
 
-
-[← Chương 172](chuong_172.md) | [📚 Mục lục](README.md) | [Chương 174 →](chuong_174.md)
-
+<div class="chapter-nav">
+    <a href="chuong_172.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_174.html" class="nav-btn">Chương sau →</a>
+</div>

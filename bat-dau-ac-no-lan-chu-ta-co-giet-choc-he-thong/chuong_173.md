@@ -1,6 +1,9 @@
-
-
-[← Chương 172](chuong_172.md) | [📚 Mục lục](README.md) | [Chương 174 →](chuong_174.md)
+---
+layout: default
+title: Chương 173: điều lệnh vừa đi vừa về vân thủy
+chapter_number: 173
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -235,6 +238,6 @@ Cho nên a, Đoán Thể cảnh yêu thú, hắn căn bản cũng không để v
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-173](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-173)
 - Thời gian scrape: 2026-01-13 00:31:34
 
-
-[← Chương 172](chuong_172.md) | [📚 Mục lục](README.md) | [Chương 174 →](chuong_174.md)
-
+<div class="chapter-nav">
+    <a href="chuong_172.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_174.html" class="nav-btn">Chương sau →</a>
+</div>

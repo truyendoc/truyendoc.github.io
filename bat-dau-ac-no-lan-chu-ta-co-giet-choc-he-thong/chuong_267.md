@@ -1,6 +1,9 @@
-
-
-[← Chương 266](chuong_266.md) | [📚 Mục lục](README.md) | [Chương 268 →](chuong_268.md)
+---
+layout: default
+title: Chương 267: Giao thủ Thiên hộ (2)
+chapter_number: 267
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -131,6 +134,6 @@ Dạ Minh thu hồi kim giao khải, hỏi.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-267](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-267)
 - Thời gian scrape: 2026-01-13 00:35:18
 
-
-[← Chương 266](chuong_266.md) | [📚 Mục lục](README.md) | [Chương 268 →](chuong_268.md)
-
+<div class="chapter-nav">
+    <a href="chuong_266.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_268.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 656](chuong_656.md) | [📚 Mục lục](README.md) | [Chương 658 →](chuong_658.md)
+---
+layout: default
+title: Chương 657: Dương Ngọc Đình tới
+chapter_number: 657
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Cùng Bàng Hồng Na gặp mặt, Dương Ngọc Đình biểu hiện phá lệ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-657](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-657)
 - Thời gian scrape: 2026-01-13 22:18:25
 
-
-[← Chương 656](chuong_656.md) | [📚 Mục lục](README.md) | [Chương 658 →](chuong_658.md)
-
+<div class="chapter-nav">
+    <a href="chuong_656.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_658.html" class="nav-btn">Chương sau →</a>
+</div>

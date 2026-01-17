@@ -1,6 +1,9 @@
-
-
-[← Chương 83](chuong_83.md) | [📚 Mục lục](README.md) | [Chương 85 →](chuong_85.md)
+---
+layout: default
+title: Chương 84
+chapter_number: 84
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -494,6 +497,6 @@ Guy nghĩ về tương lai, trí tưởng tượng cứ bay cao, cao mãi.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-84](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-84)
 - Thời gian scrape: 2026-01-17 09:41:44
 
-
-[← Chương 83](chuong_83.md) | [📚 Mục lục](README.md) | [Chương 85 →](chuong_85.md)
-
+<div class="chapter-nav">
+    <a href="chuong_83.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_85.html" class="nav-btn">Chương sau →</a>
+</div>

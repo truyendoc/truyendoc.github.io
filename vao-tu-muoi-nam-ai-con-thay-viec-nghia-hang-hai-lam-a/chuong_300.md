@@ -1,6 +1,9 @@
-
-
-[← Chương 299](chuong_299.md) | [📚 Mục lục](README.md) | [Chương 301 →](chuong_301.md)
+---
+layout: default
+title: Chương 300: Không muốn ly hôn, chờ một chút
+chapter_number: 300
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Còn kém nói thẳng, Cẩu Nhất Vĩ hai ngày nữa liền sẽ bị g·i�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-300](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-300)
 - Thời gian scrape: 2026-01-13 21:57:40
 
-
-[← Chương 299](chuong_299.md) | [📚 Mục lục](README.md) | [Chương 301 →](chuong_301.md)
-
+<div class="chapter-nav">
+    <a href="chuong_299.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_301.html" class="nav-btn">Chương sau →</a>
+</div>

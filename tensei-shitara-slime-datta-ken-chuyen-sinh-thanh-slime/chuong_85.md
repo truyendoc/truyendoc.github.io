@@ -1,6 +1,9 @@
-
-
-[← Chương 84](chuong_84.md) | [📚 Mục lục](README.md) | [Chương 86 →](chuong_86.md)
+---
+layout: default
+title: Chương 85
+chapter_number: 85
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -480,6 +483,6 @@ Trải qua 1 thời kỳ hỗn loạn như vậy, tiến trình lịch sử khô
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-85](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-85)
 - Thời gian scrape: 2026-01-17 09:41:47
 
-
-[← Chương 84](chuong_84.md) | [📚 Mục lục](README.md) | [Chương 86 →](chuong_86.md)
-
+<div class="chapter-nav">
+    <a href="chuong_84.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_86.html" class="nav-btn">Chương sau →</a>
+</div>

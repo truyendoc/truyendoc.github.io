@@ -1,6 +1,9 @@
-
-
-[← Chương 100](chuong_100.md) | [📚 Mục lục](README.md) | [Chương 102 →](chuong_102.md)
+---
+layout: default
+title: Chương 101: Tiểu nhân đắc chí sắc mặt
+chapter_number: 101
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Nghe được Tào Côn nói như vậy, Từ Kiều Kiều hừ một tiếng:
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-101](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-101)
 - Thời gian scrape: 2026-01-13 21:45:31
 
-
-[← Chương 100](chuong_100.md) | [📚 Mục lục](README.md) | [Chương 102 →](chuong_102.md)
-
+<div class="chapter-nav">
+    <a href="chuong_100.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_102.html" class="nav-btn">Chương sau →</a>
+</div>

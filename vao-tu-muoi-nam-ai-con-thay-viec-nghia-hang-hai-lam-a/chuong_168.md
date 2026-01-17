@@ -1,6 +1,9 @@
-
-
-[← Chương 167](chuong_167.md) | [📚 Mục lục](README.md) | [Chương 169 →](chuong_169.md)
+---
+layout: default
+title: Chương 168: Đế Vương quán bar ủng người, Tư Đồ Oánh Oánh
+chapter_number: 168
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -205,6 +208,6 @@ Rốt cục, thẳng đến có gần nửa phút, gặp Tào Côn xác thực c
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-168](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-168)
 - Thời gian scrape: 2026-01-13 21:49:27
 
-
-[← Chương 167](chuong_167.md) | [📚 Mục lục](README.md) | [Chương 169 →](chuong_169.md)
-
+<div class="chapter-nav">
+    <a href="chuong_167.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_169.html" class="nav-btn">Chương sau →</a>
+</div>

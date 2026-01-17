@@ -1,6 +1,9 @@
-
-
-[← Chương 469](chuong_469.md) | [📚 Mục lục](README.md) | [Chương 471 →](chuong_471.md)
+---
+layout: default
+title: Chương 470: Cùng chó nữ nhân mưu đồ bí mật
+chapter_number: 470
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -151,6 +154,6 @@ Nghe vậy, Vương San San cảm động nói: "Tào Côn, cám ơn ngươi, ta
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-470](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-470)
 - Thời gian scrape: 2026-01-13 22:07:43
 
-
-[← Chương 469](chuong_469.md) | [📚 Mục lục](README.md) | [Chương 471 →](chuong_471.md)
-
+<div class="chapter-nav">
+    <a href="chuong_469.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_471.html" class="nav-btn">Chương sau →</a>
+</div>

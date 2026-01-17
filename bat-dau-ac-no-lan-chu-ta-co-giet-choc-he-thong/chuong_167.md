@@ -1,6 +1,9 @@
-
-
-[← Chương 166](chuong_166.md) | [📚 Mục lục](README.md) | [Chương 168 →](chuong_168.md)
+---
+layout: default
+title: Chương 167: trung thành phù rốt cục có đất dụng võ
+chapter_number: 167
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -253,6 +256,6 @@ Bắt đầu thấy: “Công tử, người ta quá sùng bái ngươi!”
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-167](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-167)
 - Thời gian scrape: 2026-01-13 00:31:19
 
-
-[← Chương 166](chuong_166.md) | [📚 Mục lục](README.md) | [Chương 168 →](chuong_168.md)
-
+<div class="chapter-nav">
+    <a href="chuong_166.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_168.html" class="nav-btn">Chương sau →</a>
+</div>

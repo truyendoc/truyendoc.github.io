@@ -1,6 +1,9 @@
-
-
-[← Chương 436](chuong_436.md) | [📚 Mục lục](README.md) | [Chương 438 →](chuong_438.md)
+---
+layout: default
+title: Chương 437: Trợ lực một thanh
+chapter_number: 437
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Mà một mực canh giữ ở xưởng bên trong hai bảo tiêu này, cũng l
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-437](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-437)
 - Thời gian scrape: 2026-01-13 22:05:41
 
-
-[← Chương 436](chuong_436.md) | [📚 Mục lục](README.md) | [Chương 438 →](chuong_438.md)
-
+<div class="chapter-nav">
+    <a href="chuong_436.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_438.html" class="nav-btn">Chương sau →</a>
+</div>

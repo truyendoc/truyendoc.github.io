@@ -1,6 +1,9 @@
-
-
-[← Chương 108](chuong_108.md) | [📚 Mục lục](README.md) | [Chương 110 →](chuong_110.md)
+---
+layout: default
+title: Chương 109: đến Vân Thủy Phủ
+chapter_number: 109
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -225,6 +228,6 @@ E ngại hắn cũng tốt, miễn cho cậu toàn gia về sau làm yêu.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-109](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-109)
 - Thời gian scrape: 2026-01-13 00:28:36
 
-
-[← Chương 108](chuong_108.md) | [📚 Mục lục](README.md) | [Chương 110 →](chuong_110.md)
-
+<div class="chapter-nav">
+    <a href="chuong_108.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_110.html" class="nav-btn">Chương sau →</a>
+</div>

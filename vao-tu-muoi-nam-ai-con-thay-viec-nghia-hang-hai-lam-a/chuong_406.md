@@ -1,6 +1,9 @@
-
-
-[← Chương 405](chuong_405.md) | [📚 Mục lục](README.md) | [Chương 407 →](chuong_407.md)
+---
+layout: default
+title: Chương 406: Thân thể giống như xảy ra sự cố
+chapter_number: 406
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -157,6 +160,6 @@ Bởi vì, não bộ xuất hiện bệnh biến, đúng là khả năng dẫn �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-406](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-406)
 - Thời gian scrape: 2026-01-13 22:03:56
 
-
-[← Chương 405](chuong_405.md) | [📚 Mục lục](README.md) | [Chương 407 →](chuong_407.md)
-
+<div class="chapter-nav">
+    <a href="chuong_405.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_407.html" class="nav-btn">Chương sau →</a>
+</div>

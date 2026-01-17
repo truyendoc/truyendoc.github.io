@@ -1,6 +1,9 @@
-
-
-[← Chương 387](chuong_387.md) | [📚 Mục lục](README.md) | [Chương 389 →](chuong_389.md)
+---
+layout: default
+title: Chương 388: Trước rút 100 roi lại nói
+chapter_number: 388
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Nói, Tào Côn cười lắc đầu, sau đó liền đem cái này hai khối 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-388](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-388)
 - Thời gian scrape: 2026-01-13 22:02:56
 
-
-[← Chương 387](chuong_387.md) | [📚 Mục lục](README.md) | [Chương 389 →](chuong_389.md)
-
+<div class="chapter-nav">
+    <a href="chuong_387.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_389.html" class="nav-btn">Chương sau →</a>
+</div>

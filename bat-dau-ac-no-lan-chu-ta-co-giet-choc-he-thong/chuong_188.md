@@ -1,6 +1,9 @@
-
-
-[← Chương 187](chuong_187.md) | [📚 Mục lục](README.md) | [Chương 189 →](chuong_189.md)
+---
+layout: default
+title: Chương 188: quỷ quái
+chapter_number: 188
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -233,6 +236,6 @@ Rơi vào đường cùng, Thẩm Dục đành phải một chỉ điểm ra, m�
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-188](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-188)
 - Thời gian scrape: 2026-01-13 00:32:10
 
-
-[← Chương 187](chuong_187.md) | [📚 Mục lục](README.md) | [Chương 189 →](chuong_189.md)
-
+<div class="chapter-nav">
+    <a href="chuong_187.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_189.html" class="nav-btn">Chương sau →</a>
+</div>

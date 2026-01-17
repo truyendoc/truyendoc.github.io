@@ -1,6 +1,9 @@
-
-
-[← Chương 501](chuong_501.md) | [📚 Mục lục](README.md) | [Chương 503 →](chuong_503.md)
+---
+layout: default
+title: Chương 502: Mẫu nữ hoà giải
+chapter_number: 502
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -161,6 +164,6 @@ Mà Vương San San cũng chịu tâm không oán nói, bởi vì, chịu Bạch
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-502](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-502)
 - Thời gian scrape: 2026-01-13 22:09:30
 
-
-[← Chương 501](chuong_501.md) | [📚 Mục lục](README.md) | [Chương 503 →](chuong_503.md)
-
+<div class="chapter-nav">
+    <a href="chuong_501.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_503.html" class="nav-btn">Chương sau →</a>
+</div>

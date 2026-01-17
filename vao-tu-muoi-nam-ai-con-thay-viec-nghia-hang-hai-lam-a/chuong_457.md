@@ -1,6 +1,9 @@
-
-
-[← Chương 456](chuong_456.md) | [📚 Mục lục](README.md) | [Chương 458 →](chuong_458.md)
+---
+layout: default
+title: Chương 457: Cứu vớt bảo tiêu huynh đệ
+chapter_number: 457
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -169,6 +172,6 @@ Nghe vậy, Hạng Nam Nguyệt hướng về phía Tào Côn cười một ti�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-457](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-457)
 - Thời gian scrape: 2026-01-13 22:06:46
 
-
-[← Chương 456](chuong_456.md) | [📚 Mục lục](README.md) | [Chương 458 →](chuong_458.md)
-
+<div class="chapter-nav">
+    <a href="chuong_456.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_458.html" class="nav-btn">Chương sau →</a>
+</div>

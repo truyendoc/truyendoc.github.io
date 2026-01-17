@@ -1,6 +1,9 @@
-
-
-[← Chương 447](chuong_447.md) | [📚 Mục lục](README.md) | [Chương 449 →](chuong_449.md)
+---
+layout: default
+title: Chương 448: Tào Côn tới cửa
+chapter_number: 448
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Tào Côn nghĩ nghĩ, cuối cùng từ trong túi lấy ra một cái USB, đ�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-448](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-448)
 - Thời gian scrape: 2026-01-13 22:06:16
 
-
-[← Chương 447](chuong_447.md) | [📚 Mục lục](README.md) | [Chương 449 →](chuong_449.md)
-
+<div class="chapter-nav">
+    <a href="chuong_447.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_449.html" class="nav-btn">Chương sau →</a>
+</div>

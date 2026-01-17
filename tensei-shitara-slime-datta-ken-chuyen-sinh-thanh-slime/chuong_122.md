@@ -1,6 +1,9 @@
-
-
-[← Chương 121](chuong_121.md) | [📚 Mục lục](README.md) | [Chương 123 →](chuong_123.md)
+---
+layout: default
+title: Chương 122
+chapter_number: 122
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -402,6 +405,6 @@ Tôi luyện quyết tâm, cô đối đầu với Yuuki!
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-122](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-122)
 - Thời gian scrape: 2026-01-17 09:43:31
 
-
-[← Chương 121](chuong_121.md) | [📚 Mục lục](README.md) | [Chương 123 →](chuong_123.md)
-
+<div class="chapter-nav">
+    <a href="chuong_121.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_123.html" class="nav-btn">Chương sau →</a>
+</div>

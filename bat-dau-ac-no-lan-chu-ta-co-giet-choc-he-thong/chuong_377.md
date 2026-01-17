@@ -1,6 +1,9 @@
-
-
-[← Chương 376](chuong_376.md) | [📚 Mục lục](README.md) | [Chương 378 →](chuong_378.md)
+---
+layout: default
+title: Chương 377: Ta muốn khiêu chiến ngươi (2)
+chapter_number: 377
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -125,6 +128,6 @@ Về phần chứng kiến một trận chiến này tất cả mọi người, 
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-377](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-377)
 - Thời gian scrape: 2026-01-13 00:25:34
 
-
-[← Chương 376](chuong_376.md) | [📚 Mục lục](README.md) | [Chương 378 →](chuong_378.md)
-
+<div class="chapter-nav">
+    <a href="chuong_376.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_378.html" class="nav-btn">Chương sau →</a>
+</div>

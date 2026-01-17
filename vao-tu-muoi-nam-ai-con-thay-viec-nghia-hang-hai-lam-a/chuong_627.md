@@ -1,6 +1,9 @@
-
-
-[← Chương 626](chuong_626.md) | [📚 Mục lục](README.md) | [Chương 628 →](chuong_628.md)
+---
+layout: default
+title: Chương 627: Mã Tiểu Vi cùng Chu Nhã Lệ tới
+chapter_number: 627
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Rất nhanh, Mã Tiểu Vi dẫn đầu thu thập xong đồ vật của mình,
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-627](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-627)
 - Thời gian scrape: 2026-01-13 22:16:41
 
-
-[← Chương 626](chuong_626.md) | [📚 Mục lục](README.md) | [Chương 628 →](chuong_628.md)
-
+<div class="chapter-nav">
+    <a href="chuong_626.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_628.html" class="nav-btn">Chương sau →</a>
+</div>

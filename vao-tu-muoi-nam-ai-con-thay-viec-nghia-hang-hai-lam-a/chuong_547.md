@@ -1,6 +1,9 @@
-
-
-[← Chương 546](chuong_546.md) | [📚 Mục lục](README.md) | [Chương 548 →](chuong_548.md)
+---
+layout: default
+title: Chương 547: Tình cảnh hỏng bét Trương Bách Mộ
+chapter_number: 547
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -163,6 +166,6 @@ Hắn vẫn còn nghĩ có chút quá tốt đẹp, Trương Bách Mộ tình c�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-547](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-547)
 - Thời gian scrape: 2026-01-13 22:12:09
 
-
-[← Chương 546](chuong_546.md) | [📚 Mục lục](README.md) | [Chương 548 →](chuong_548.md)
-
+<div class="chapter-nav">
+    <a href="chuong_546.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_548.html" class="nav-btn">Chương sau →</a>
+</div>

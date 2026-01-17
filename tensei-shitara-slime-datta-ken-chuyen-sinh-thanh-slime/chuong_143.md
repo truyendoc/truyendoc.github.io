@@ -1,6 +1,9 @@
-
-
-[← Chương 142](chuong_142.md) | [📚 Mục lục](README.md) | [Chương 144 →](chuong_144.md)
+---
+layout: default
+title: Chương 143
+chapter_number: 143
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -282,6 +285,6 @@ ______
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-143](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-143)
 - Thời gian scrape: 2026-01-17 09:44:31
 
-
-[← Chương 142](chuong_142.md) | [📚 Mục lục](README.md) | [Chương 144 →](chuong_144.md)
-
+<div class="chapter-nav">
+    <a href="chuong_142.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_144.html" class="nav-btn">Chương sau →</a>
+</div>

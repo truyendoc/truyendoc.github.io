@@ -1,6 +1,9 @@
-
-
-[← Chương 173](chuong_173.md) | [📚 Mục lục](README.md) | [Chương 175 →](chuong_175.md)
+---
+layout: default
+title: Chương 174
+chapter_number: 174
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -392,6 +395,6 @@ Và như vậy, một trận đại chiến thế kỷ giữa 2 "Chân Long" bù
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-174](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-174)
 - Thời gian scrape: 2026-01-17 09:45:58
 
-
-[← Chương 173](chuong_173.md) | [📚 Mục lục](README.md) | [Chương 175 →](chuong_175.md)
-
+<div class="chapter-nav">
+    <a href="chuong_173.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_175.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 185](chuong_185.md) | [📚 Mục lục](README.md) | [Chương 187 →](chuong_187.md)
+---
+layout: default
+title: Chương 186
+chapter_number: 186
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -534,6 +537,6 @@ Velgrynd tan dần, trở thành sức mạnh cho tôi.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-186](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-186)
 - Thời gian scrape: 2026-01-17 09:46:31
 
-
-[← Chương 185](chuong_185.md) | [📚 Mục lục](README.md) | [Chương 187 →](chuong_187.md)
-
+<div class="chapter-nav">
+    <a href="chuong_185.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_187.html" class="nav-btn">Chương sau →</a>
+</div>

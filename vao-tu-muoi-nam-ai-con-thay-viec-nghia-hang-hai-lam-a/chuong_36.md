@@ -1,6 +1,9 @@
-
-
-[← Chương 35](chuong_35.md) | [📚 Mục lục](README.md) | [Chương 37 →](chuong_37.md)
+---
+layout: default
+title: Chương 36: Hai bên ăn sạch!
+chapter_number: 36
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -175,6 +178,6 @@ Không nghĩ tới, cái này nhìn người vật vô hại ánh nắng thiếu
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-36](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-36)
 - Thời gian scrape: 2026-01-13 21:41:20
 
-
-[← Chương 35](chuong_35.md) | [📚 Mục lục](README.md) | [Chương 37 →](chuong_37.md)
-
+<div class="chapter-nav">
+    <a href="chuong_35.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_37.html" class="nav-btn">Chương sau →</a>
+</div>

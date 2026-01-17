@@ -1,6 +1,9 @@
-
-
-[← Chương 390](chuong_390.md) | [📚 Mục lục](README.md) | [Chương 392 →](chuong_392.md)
+---
+layout: default
+title: Chương 391: Lý Văn Văn tới
+chapter_number: 391
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -207,6 +210,6 @@ Ta đôi chân dài bảo bối, rốt cuộc đã đến!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-391](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-391)
 - Thời gian scrape: 2026-01-13 22:03:06
 
-
-[← Chương 390](chuong_390.md) | [📚 Mục lục](README.md) | [Chương 392 →](chuong_392.md)
-
+<div class="chapter-nav">
+    <a href="chuong_390.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_392.html" class="nav-btn">Chương sau →</a>
+</div>

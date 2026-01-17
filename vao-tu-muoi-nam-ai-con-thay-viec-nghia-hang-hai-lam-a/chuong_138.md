@@ -1,6 +1,9 @@
-
-
-[← Chương 137](chuong_137.md) | [📚 Mục lục](README.md) | [Chương 139 →](chuong_139.md)
+---
+layout: default
+title: Chương 138: Vương San San phát hiện
+chapter_number: 138
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Nói xong, Tào Côn mang theo Vương San San liền đi hắn phụ trách ph�
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-138](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-138)
 - Thời gian scrape: 2026-01-13 21:47:38
 
-
-[← Chương 137](chuong_137.md) | [📚 Mục lục](README.md) | [Chương 139 →](chuong_139.md)
-
+<div class="chapter-nav">
+    <a href="chuong_137.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_139.html" class="nav-btn">Chương sau →</a>
+</div>

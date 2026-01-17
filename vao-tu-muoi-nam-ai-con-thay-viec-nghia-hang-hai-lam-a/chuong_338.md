@@ -1,6 +1,9 @@
-
-
-[← Chương 337](chuong_337.md) | [📚 Mục lục](README.md) | [Chương 339 →](chuong_339.md)
+---
+layout: default
+title: Chương 338: Đến đều tới
+chapter_number: 338
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Thật sự là quá chó, kéo đều kéo không ở hắn!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-338](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-338)
 - Thời gian scrape: 2026-01-13 21:59:55
 
-
-[← Chương 337](chuong_337.md) | [📚 Mục lục](README.md) | [Chương 339 →](chuong_339.md)
-
+<div class="chapter-nav">
+    <a href="chuong_337.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_339.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 139](chuong_139.md) | [📚 Mục lục](README.md) | [Chương 141 →](chuong_141.md)
+---
+layout: default
+title: Chương 140: Chó nhà giàu
+chapter_number: 140
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -213,6 +216,6 @@ Nghe xong Tào Côn lại muốn cùng tự mình tính sổ sách, Bạch Tĩnh
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-140](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-140)
 - Thời gian scrape: 2026-01-13 21:47:44
 
-
-[← Chương 139](chuong_139.md) | [📚 Mục lục](README.md) | [Chương 141 →](chuong_141.md)
-
+<div class="chapter-nav">
+    <a href="chuong_139.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_141.html" class="nav-btn">Chương sau →</a>
+</div>

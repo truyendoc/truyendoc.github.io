@@ -1,6 +1,9 @@
-
-
-[← Chương 86](chuong_86.md) | [📚 Mục lục](README.md) | [Chương 88 →](chuong_88.md)
+---
+layout: default
+title: Chương 87: Cặn bã quang minh chính đại, cặn bã lẽ thẳng khí hùng
+chapter_number: 87
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -181,6 +184,6 @@ Mà vừa nghĩ tới, như thế một cái biết đẻ trứng vàng gà mái
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-87](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-87)
 - Thời gian scrape: 2026-01-13 21:44:43
 
-
-[← Chương 86](chuong_86.md) | [📚 Mục lục](README.md) | [Chương 88 →](chuong_88.md)
-
+<div class="chapter-nav">
+    <a href="chuong_86.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_88.html" class="nav-btn">Chương sau →</a>
+</div>

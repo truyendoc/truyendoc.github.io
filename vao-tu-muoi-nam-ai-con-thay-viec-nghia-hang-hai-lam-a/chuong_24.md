@@ -1,6 +1,9 @@
-
-
-[← Chương 23](chuong_23.md) | [📚 Mục lục](README.md) | [Chương 25 →](chuong_25.md)
+---
+layout: default
+title: Chương 24: Lửa cháy đổ thêm dầu
+chapter_number: 24
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -153,6 +156,6 @@ Nhìn xem Tào Côn hai mắt chân thành, hoàn toàn không giống như là 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-24](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-24)
 - Thời gian scrape: 2026-01-13 21:40:42
 
-
-[← Chương 23](chuong_23.md) | [📚 Mục lục](README.md) | [Chương 25 →](chuong_25.md)
-
+<div class="chapter-nav">
+    <a href="chuong_23.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_25.html" class="nav-btn">Chương sau →</a>
+</div>

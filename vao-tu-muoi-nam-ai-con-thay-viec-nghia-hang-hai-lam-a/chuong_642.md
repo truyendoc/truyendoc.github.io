@@ -1,6 +1,9 @@
-
-
-[← Chương 641](chuong_641.md) | [📚 Mục lục](README.md) | [Chương 643 →](chuong_643.md)
+---
+layout: default
+title: Chương 642: Đến từ 1000 năm trước
+chapter_number: 642
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Một bên, Ngốc Cẩu gặp Tào Côn cứ như vậy lên xe, cũng liền b
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-642](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-642)
 - Thời gian scrape: 2026-01-13 22:17:31
 
-
-[← Chương 641](chuong_641.md) | [📚 Mục lục](README.md) | [Chương 643 →](chuong_643.md)
-
+<div class="chapter-nav">
+    <a href="chuong_641.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_643.html" class="nav-btn">Chương sau →</a>
+</div>

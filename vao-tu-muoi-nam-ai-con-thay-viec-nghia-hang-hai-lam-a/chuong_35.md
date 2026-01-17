@@ -1,6 +1,9 @@
-
-
-[← Chương 34](chuong_34.md) | [📚 Mục lục](README.md) | [Chương 36 →](chuong_36.md)
+---
+layout: default
+title: Chương 35: Hiện tại, ta quyết định
+chapter_number: 35
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Dù sao, Hoàng Kiến nhân phụ mẫu đều là nếm qua thấy qua ngườ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-35](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-35)
 - Thời gian scrape: 2026-01-13 21:41:17
 
-
-[← Chương 34](chuong_34.md) | [📚 Mục lục](README.md) | [Chương 36 →](chuong_36.md)
-
+<div class="chapter-nav">
+    <a href="chuong_34.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_36.html" class="nav-btn">Chương sau →</a>
+</div>

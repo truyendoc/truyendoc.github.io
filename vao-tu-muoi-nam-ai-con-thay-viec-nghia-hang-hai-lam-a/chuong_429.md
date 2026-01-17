@@ -1,6 +1,9 @@
-
-
-[← Chương 428](chuong_428.md) | [📚 Mục lục](README.md) | [Chương 430 →](chuong_430.md)
+---
+layout: default
+title: Chương 429: Trời sinh trâu ngựa mệnh
+chapter_number: 429
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -177,6 +180,6 @@ Thấy thế, Tào Côn cười lắc đầu, bất đắc dĩ nói: "Sáng sớ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-429](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-429)
 - Thời gian scrape: 2026-01-13 22:05:13
 
-
-[← Chương 428](chuong_428.md) | [📚 Mục lục](README.md) | [Chương 430 →](chuong_430.md)
-
+<div class="chapter-nav">
+    <a href="chuong_428.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_430.html" class="nav-btn">Chương sau →</a>
+</div>

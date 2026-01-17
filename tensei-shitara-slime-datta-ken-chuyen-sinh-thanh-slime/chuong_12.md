@@ -1,6 +1,9 @@
-
-
-[← Chương 11](chuong_11.md) | [📚 Mục lục](README.md) | [Chương 13 →](chuong_13.md)
+---
+layout: default
+title: Chương 12
+chapter_number: 12
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -420,6 +423,6 @@ Cũng khá lâu rồi tôi mới thấy phấn khích thế này.
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-12](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-12)
 - Thời gian scrape: 2026-01-17 09:38:23
 
-
-[← Chương 11](chuong_11.md) | [📚 Mục lục](README.md) | [Chương 13 →](chuong_13.md)
-
+<div class="chapter-nav">
+    <a href="chuong_11.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_13.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 400](chuong_400.md) | [📚 Mục lục](README.md) | [Chương 402 →](chuong_402.md)
+---
+layout: default
+title: Chương 401: Phẫn nộ Vương Nhất Phu
+chapter_number: 401
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Nghĩ đến cái này, Vương Nhất Phu nắm đấm lại cứng rắn!
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-401](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-401)
 - Thời gian scrape: 2026-01-13 22:03:38
 
-
-[← Chương 400](chuong_400.md) | [📚 Mục lục](README.md) | [Chương 402 →](chuong_402.md)
-
+<div class="chapter-nav">
+    <a href="chuong_400.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_402.html" class="nav-btn">Chương sau →</a>
+</div>

@@ -1,6 +1,9 @@
-
-
-[← Chương 377](chuong_377.md) | [📚 Mục lục](README.md) | [Chương 379 →](chuong_379.md)
+---
+layout: default
+title: Chương 378: Vô danh sách lai lịch
+chapter_number: 378
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -159,6 +162,6 @@ Hắn không hi vọng xuất hiện cái thứ hai cũng giống như mình nam
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-378](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-378)
 - Thời gian scrape: 2026-01-13 22:02:19
 
-
-[← Chương 377](chuong_377.md) | [📚 Mục lục](README.md) | [Chương 379 →](chuong_379.md)
-
+<div class="chapter-nav">
+    <a href="chuong_377.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_379.html" class="nav-btn">Chương sau →</a>
+</div>

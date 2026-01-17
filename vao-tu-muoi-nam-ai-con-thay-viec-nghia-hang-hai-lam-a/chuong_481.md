@@ -1,6 +1,9 @@
-
-
-[← Chương 480](chuong_480.md) | [📚 Mục lục](README.md) | [Chương 482 →](chuong_482.md)
+---
+layout: default
+title: Chương 481: Chỉ còn lại một gian phòng
+chapter_number: 481
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -173,6 +176,6 @@ Nói, Trương Bách Mộ đi tới sân khấu, vừa mới chuẩn bị mở m
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-481](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-481)
 - Thời gian scrape: 2026-01-13 22:08:22
 
-
-[← Chương 480](chuong_480.md) | [📚 Mục lục](README.md) | [Chương 482 →](chuong_482.md)
-
+<div class="chapter-nav">
+    <a href="chuong_480.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_482.html" class="nav-btn">Chương sau →</a>
+</div>

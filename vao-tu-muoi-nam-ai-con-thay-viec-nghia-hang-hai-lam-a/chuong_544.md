@@ -1,6 +1,9 @@
-
-
-[← Chương 543](chuong_543.md) | [📚 Mục lục](README.md) | [Chương 545 →](chuong_545.md)
+---
+layout: default
+title: Chương 544: Quán bar phát tiền
+chapter_number: 544
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Nhìn xem Tào Côn cái này phách lối dáng vẻ, còn có lời nàng nói
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-544](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-544)
 - Thời gian scrape: 2026-01-13 22:11:59
 
-
-[← Chương 543](chuong_543.md) | [📚 Mục lục](README.md) | [Chương 545 →](chuong_545.md)
-
+<div class="chapter-nav">
+    <a href="chuong_543.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_545.html" class="nav-btn">Chương sau →</a>
+</div>

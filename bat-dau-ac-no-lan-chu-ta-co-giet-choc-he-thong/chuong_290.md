@@ -1,6 +1,9 @@
-
-
-[← Chương 289](chuong_289.md) | [📚 Mục lục](README.md) | [Chương 291 →](chuong_291.md)
+---
+layout: default
+title: Chương 290: Điều (1)
+chapter_number: 290
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -101,6 +104,6 @@ Nhưng là hắn xây phủ lúc, sớm nhất đầu nhập vào với hắn, b
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-290](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-290)
 - Thời gian scrape: 2026-01-13 00:22:08
 
-
-[← Chương 289](chuong_289.md) | [📚 Mục lục](README.md) | [Chương 291 →](chuong_291.md)
-
+<div class="chapter-nav">
+    <a href="chuong_289.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_291.html" class="nav-btn">Chương sau →</a>
+</div>

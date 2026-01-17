@@ -1,6 +1,9 @@
-
-
-[← Chương 131](chuong_131.md) | [📚 Mục lục](README.md) | [Chương 133 →](chuong_133.md)
+---
+layout: default
+title: Chương 132
+chapter_number: 132
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -432,6 +435,6 @@ Và có nghĩa trận chiến giữa hai kẻ nắm giữ Kỹ năng Tối thư�
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-132](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-132)
 - Thời gian scrape: 2026-01-17 09:43:59
 
-
-[← Chương 131](chuong_131.md) | [📚 Mục lục](README.md) | [Chương 133 →](chuong_133.md)
-
+<div class="chapter-nav">
+    <a href="chuong_131.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_133.html" class="nav-btn">Chương sau →</a>
+</div>

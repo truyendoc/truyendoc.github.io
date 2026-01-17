@@ -1,6 +1,9 @@
-
-
-[← Chương 326](chuong_326.md) | [📚 Mục lục](README.md) | [Chương 328 →](chuong_328.md)
+---
+layout: default
+title: Chương 327: Thẩm Dục trừ tam hại (2)
+chapter_number: 327
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -155,6 +158,6 @@ Hoàng đế chẳng những không có toát ra quan tâm cùng vẻ lo lắng,
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-327](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-327)
 - Thời gian scrape: 2026-01-13 00:23:37
 
-
-[← Chương 326](chuong_326.md) | [📚 Mục lục](README.md) | [Chương 328 →](chuong_328.md)
-
+<div class="chapter-nav">
+    <a href="chuong_326.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_328.html" class="nav-btn">Chương sau →</a>
+</div>

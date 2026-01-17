@@ -1,6 +1,9 @@
-
-
-[← Chương 223](chuong_223.md) | [📚 Mục lục](README.md) | [Chương 225 →](chuong_225.md)
+---
+layout: default
+title: Chương 224: không xa ngàn dặm đi cứu người
+chapter_number: 224
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -251,6 +254,6 @@ Lúc này, Phạm Lão hướng trong miệng ném đi khỏa đan dược chữ
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-224](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-224)
 - Thời gian scrape: 2026-01-13 00:33:35
 
-
-[← Chương 223](chuong_223.md) | [📚 Mục lục](README.md) | [Chương 225 →](chuong_225.md)
-
+<div class="chapter-nav">
+    <a href="chuong_223.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_225.html" class="nav-btn">Chương sau →</a>
+</div>

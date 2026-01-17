@@ -1,6 +1,9 @@
-
-
-[← Chương 99](chuong_99.md) | [📚 Mục lục](README.md) | [Chương 101 →](chuong_101.md)
+---
+layout: default
+title: Chương 100: Phủ Thành mua nhà
+chapter_number: 100
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -203,6 +206,6 @@ Giao dịch cũng chính thức đạt thành.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-100](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-100)
 - Thời gian scrape: 2026-01-13 00:28:10
 
-
-[← Chương 99](chuong_99.md) | [📚 Mục lục](README.md) | [Chương 101 →](chuong_101.md)
-
+<div class="chapter-nav">
+    <a href="chuong_99.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_101.html" class="nav-btn">Chương sau →</a>
+</div>

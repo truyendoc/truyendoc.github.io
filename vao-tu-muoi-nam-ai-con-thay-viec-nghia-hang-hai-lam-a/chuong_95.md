@@ -1,6 +1,9 @@
-
-
-[← Chương 94](chuong_94.md) | [📚 Mục lục](README.md) | [Chương 96 →](chuong_96.md)
+---
+layout: default
+title: Chương 95: Lang ca lại là số không
+chapter_number: 95
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -205,6 +208,6 @@ Cái này Lý Kiến Quốc thật sự là không bằng heo chó, thật là �
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-95](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-95)
 - Thời gian scrape: 2026-01-13 21:45:12
 
-
-[← Chương 94](chuong_94.md) | [📚 Mục lục](README.md) | [Chương 96 →](chuong_96.md)
-
+<div class="chapter-nav">
+    <a href="chuong_94.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_96.html" class="nav-btn">Chương sau →</a>
+</div>

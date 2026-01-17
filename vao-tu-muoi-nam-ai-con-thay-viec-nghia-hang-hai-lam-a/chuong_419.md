@@ -1,6 +1,9 @@
-
-
-[← Chương 418](chuong_418.md) | [📚 Mục lục](README.md) | [Chương 420 →](chuong_420.md)
+---
+layout: default
+title: Chương 419: Ta có thể cho ngươi giới thiệu khuê mật
+chapter_number: 419
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -165,6 +168,6 @@ Nói, Cao Đình Đình bận bịu tăng nhanh trên tay trang điểm tốc đ
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-419](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-419)
 - Thời gian scrape: 2026-01-13 22:04:37
 
-
-[← Chương 418](chuong_418.md) | [📚 Mục lục](README.md) | [Chương 420 →](chuong_420.md)
-
+<div class="chapter-nav">
+    <a href="chuong_418.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_420.html" class="nav-btn">Chương sau →</a>
+</div>

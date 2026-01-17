@@ -1,6 +1,9 @@
-
-
-[← Chương 582](chuong_582.md) | [📚 Mục lục](README.md) | [Chương 584 →](chuong_584.md)
+---
+layout: default
+title: Chương 583: Đưa ngươi cái tru tâm
+chapter_number: 583
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -183,6 +186,6 @@ Ngươi thật sự là mẹ nó đáng c·hết a! !
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-583](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-583)
 - Thời gian scrape: 2026-01-13 22:14:09
 
-
-[← Chương 582](chuong_582.md) | [📚 Mục lục](README.md) | [Chương 584 →](chuong_584.md)
-
+<div class="chapter-nav">
+    <a href="chuong_582.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_584.html" class="nav-btn">Chương sau →</a>
+</div>

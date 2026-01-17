@@ -1,6 +1,9 @@
-
-
-[← Chương 223](chuong_223.md) | [📚 Mục lục](README.md) | [Chương 225 →](chuong_225.md)
+---
+layout: default
+title: Chương 224
+chapter_number: 224
+story_title: TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
+---
 
 # TENSEI SHITARA SLIME DATTA KEN - CHUYỂN SINH THÀNH SLIME
 
@@ -430,6 +433,6 @@ Dũng giả Masayuki!
 - URL gốc: [https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-224](https://truyenmoiz.org/tensei-shitara-slime-datta-ken-chuyen-sinh-thanh-slime/chuong-224)
 - Thời gian scrape: 2026-01-17 09:48:20
 
-
-[← Chương 223](chuong_223.md) | [📚 Mục lục](README.md) | [Chương 225 →](chuong_225.md)
-
+<div class="chapter-nav">
+    <a href="chuong_223.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_225.html" class="nav-btn">Chương sau →</a>
+</div>

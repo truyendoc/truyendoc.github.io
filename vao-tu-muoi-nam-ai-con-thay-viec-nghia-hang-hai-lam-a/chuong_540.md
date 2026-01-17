@@ -1,6 +1,9 @@
-
-
-[← Chương 539](chuong_539.md) | [📚 Mục lục](README.md) | [Chương 541 →](chuong_541.md)
+---
+layout: default
+title: Chương 540: Năm sau xuất đạo
+chapter_number: 540
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -167,6 +170,6 @@ Số liệu này, đối với một cái hiện tại cái gì danh khí cũng 
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-540](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-540)
 - Thời gian scrape: 2026-01-13 22:11:43
 
-
-[← Chương 539](chuong_539.md) | [📚 Mục lục](README.md) | [Chương 541 →](chuong_541.md)
-
+<div class="chapter-nav">
+    <a href="chuong_539.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_541.html" class="nav-btn">Chương sau →</a>
+</div>

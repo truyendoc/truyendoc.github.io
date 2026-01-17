@@ -1,6 +1,9 @@
-
-
-[← Chương 141](chuong_141.md) | [📚 Mục lục](README.md) | [Chương 143 →](chuong_143.md)
+---
+layout: default
+title: Chương 142: tỉnh lại sau giấc ngủ tu vi tăng lên
+chapter_number: 142
+story_title: BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
+---
 
 # BẮT ĐẦU ÁC NÔ LẤN CHỦ: TA CÓ GIẾT CHÓC HỆ THỐNG
 
@@ -249,6 +252,6 @@ Thẩm Dục không ngần ngại chút nào nói.
 - URL gốc: [https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-142](https://truyenmoiz.org/bat-dau-ac-no-lan-chu-ta-co-giet-choc-he-thong/chuong-142)
 - Thời gian scrape: 2026-01-13 00:30:15
 
-
-[← Chương 141](chuong_141.md) | [📚 Mục lục](README.md) | [Chương 143 →](chuong_143.md)
-
+<div class="chapter-nav">
+    <a href="chuong_141.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_143.html" class="nav-btn">Chương sau →</a>
+</div>

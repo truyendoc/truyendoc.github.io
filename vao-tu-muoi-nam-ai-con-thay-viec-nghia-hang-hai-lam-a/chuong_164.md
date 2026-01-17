@@ -1,6 +1,9 @@
-
-
-[← Chương 163](chuong_163.md) | [📚 Mục lục](README.md) | [Chương 165 →](chuong_165.md)
+---
+layout: default
+title: Chương 164: Tịnh thân cao, 153cm
+chapter_number: 164
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -171,6 +174,6 @@ Hắn vạn nhất nếu là lên đầu, đến điểm vợ ngươi thật nhu
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-164](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-164)
 - Thời gian scrape: 2026-01-13 21:49:15
 
-
-[← Chương 163](chuong_163.md) | [📚 Mục lục](README.md) | [Chương 165 →](chuong_165.md)
-
+<div class="chapter-nav">
+    <a href="chuong_163.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_165.html" class="nav-btn">Chương sau →</a>
+</div>

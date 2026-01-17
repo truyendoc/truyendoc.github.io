@@ -1,6 +1,9 @@
-
-
-[← Chương 107](chuong_107.md) | [📚 Mục lục](README.md) | [Chương 109 →](chuong_109.md)
+---
+layout: default
+title: Chương 108: Đi nhà ta, dám sao?
+chapter_number: 108
+story_title: VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
+---
 
 # VÀO TÙ MƯỜI NĂM, AI CÒN THẤY VIỆC NGHĨA HĂNG HÁI LÀM A
 
@@ -203,6 +206,6 @@ Lưu Hồng cười tủm tỉm nhìn thoáng qua ngồi ở vị trí kế bên
 - URL gốc: [https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-108](https://truyenmoiz.org/vao-tu-muoi-nam-ai-con-thay-viec-nghia-hang-hai-lam-a/chuong-108)
 - Thời gian scrape: 2026-01-13 21:45:53
 
-
-[← Chương 107](chuong_107.md) | [📚 Mục lục](README.md) | [Chương 109 →](chuong_109.md)
-
+<div class="chapter-nav">
+    <a href="chuong_107.html" class="nav-btn">← Chương trước</a> <a href="index.html" class="nav-btn">📚 Mục lục</a> <a href="chuong_109.html" class="nav-btn">Chương sau →</a>
+</div>
